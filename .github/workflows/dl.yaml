@@ -1,0 +1,33 @@
+name: Nightly HWZ download
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: # to remove
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+      - name: Install requirements
+        run: |
+          pip install beautifulsoup4
+      - name: Checkout code
+        uses: actions/checkout@v5
+      - name: Run script
+        run: |
+          python scrape.py
+      - name: Get current date
+        run: |
+          echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
+      - name: Run auto-commit action
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Nightly HWZ download $NOW"
+          commit_options: "--no-verify"
+          commit_user_name: "luarss"
+          commit_user_email: "39641663+luarss@users.noreply.github.com"
+          commit_author: "luarss <39641663+luarss@users.noreply.github.com>"
