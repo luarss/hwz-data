@@ -1,6 +1,5 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 import time
 import os
@@ -16,9 +15,9 @@ webdriver_path = "C:\\Users\\luars\\Downloads\\chrome-win64\\chrome-win64"
 random_user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 options = Options()
 options.add_argument(f"user-agent={random_user_agent}")
-options.add_argument('--disable-blink-features=AutomationControlled')
+options.add_argument("--disable-blink-features=AutomationControlled")
 options.add_argument("--disable-extensions")
-options.add_experimental_option('useAutomationExtension', False)
+options.add_experimental_option("useAutomationExtension", False)
 options.add_experimental_option("excludeSwitches", ["enable-automation"])
 driver = webdriver.Chrome(options=options)
 
@@ -39,7 +38,10 @@ try:
     password_field.send_keys(password)
 
     # Locate the login button and click it
-    login_button = driver.find_element(By.XPATH, '//*[@id="top"]/div[2]/div[2]/div/div[3]/div[2]/div/div/form/div[1]/dl/dd/div/div[2]/button')
+    login_button = driver.find_element(
+        By.XPATH,
+        '//*[@id="top"]/div[2]/div[2]/div/div[3]/div[2]/div/div/form/div[1]/dl/dd/div/div[2]/button',
+    )
     login_button.click()
 
     # Optionally, wait for the page to load and verify login success
@@ -50,7 +52,7 @@ try:
 
     # Add cookies to the session
     for cookie in cookies:
-        session.cookies.set(cookie['name'], cookie['value'])
+        session.cookies.set(cookie["name"], cookie["value"])
 
     # Download the file using the session with cookies
     url = "https://www.hardwarezone.com.sg/priceLists/download/714282.pdf"
