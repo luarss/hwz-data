@@ -28,7 +28,7 @@ jobs:
       - name: Run auto-commit action
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Nightly HWZ download $NOW"
+          commit_message: "Nightly HWZ download ${{ env.NOW }}"
           commit_options: "--no-verify"
           commit_user_name: "luarss"
           commit_user_email: "39641663+luarss@users.noreply.github.com"
