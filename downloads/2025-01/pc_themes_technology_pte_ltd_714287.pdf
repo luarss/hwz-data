@@ -611,46 +611,7 @@ window.addEvent('domready', function() {
 
 <section class="content-border list-top-padding">
 
-			
-
- <div class="hwz_trending">
- 	<div class="hwz-trending-title">Trending</div>
-	<div class="hwz_trending_content">
-		<a class="hwz_trending_article" href="/feature-2025-tech-trends-products-to-expect">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/714071/a.jpg?fa53" alt="2025 Tech Trends: Latest trends, products to expect, and more" />			</div>
-			<div class="hwz_trending_title">2025 Tech Trends: Latest trends, products to expect, and more</div>
-		</a><a class="hwz_trending_article" href="/tech-news-apple-tv-plus-free-streaming-jan-4-and-5">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/714299/a.jpg?8289" alt="Enjoy free streaming of Apple TV+ from 4 Jan to 5 Jan" />			</div>
-			<div class="hwz_trending_title">Enjoy free streaming of Apple TV+ from 4 Jan to 5 Jan</div>
-		</a><a class="hwz_trending_article" href="/tech-news-apple-iphone-se-retail-price-leak">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/714297/a.jpg?c37f" alt="This could be the retail price of Apple&#039;s next iPhone SE" />			</div>
-			<div class="hwz_trending_title">This could be the retail price of Apple's next iPhone SE</div>
-		</a>	</div>
-</div>
-
-
-<script type="text/javascript">
-(function() {
-	if (typeof(hwz_ga) == 'undefined') return;
-	$$('.hwz_trending_content .hwz_trending_article').each(function(o,i){
-		o.addEvent('click', function(e){
-			if (typeof(hwz_ga) == 'undefined') return;
-			var sTitle = $(this).getElement('.hwz_trending_title').get('text');
-			var aLabel = {
-				'SectionName': 'Top Trending',
-				'SectionTitle': 'Trending',
-				'ArticleName': sTitle,
-				'Position': i + 1
-			};
-			hwz_ga('send', 'event', 'Content-Engagement', 'Click', JSON.stringify(aLabel), { data:{ ux_element_type:'Articles Suggestion', ux_element_name:'Trending Articles' } });
-		});
-	});
-})();
-</script>
-		<section class="listing-breadcrumb-alter"></section>
+					<section class="listing-breadcrumb-alter"></section>
 
 	<section class="content-wrapper">
 		<div id="content-wide" class="col-g">
@@ -880,7 +841,7 @@ window.addEvent('domready', function() {
 </div>
 <!-- E elements/featured-retailers-panel.ctp -->
 <!-- Start: related-sidebar.ctp -->
-<!-- 714318,714316,714307,714071,714302 --><div id="related-articles-67748aada6a447358a9864ea0a4d1640" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
+<!-- 714318,714316,714307,714071,714302 --><div id="related-articles-6775dc83aed847358a980b470a4d1640" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
 
 	<div class="related-sidebar-header">
 
@@ -899,7 +860,7 @@ window.addEvent('domready', function() {
 <script type="text/javascript">
 //<![CDATA[
 (function(){
-	var relArtHref = $('related-articles-67748aada6a447358a9864ea0a4d1640').getElement('.content');
+	var relArtHref = $('related-articles-6775dc83aed847358a980b470a4d1640').getElement('.content');
 	relArtHref.getElements('li.link-clickable').each(function(o, i) {
 		$(o).addEvent('click', function(e) {
 			var oLink = $(this).getElement(".header a");
@@ -925,7 +886,7 @@ window.addEvent('domready', function() {
 		});
 	}
 
-	$('related-articles-67748aada6a447358a9864ea0a4d1640').getElements('.sidepanel-more').addEvent('click', function(e){
+	$('related-articles-6775dc83aed847358a980b470a4d1640').getElements('.sidepanel-more').addEvent('click', function(e){
 		var oLabel = {'SectionName':'Suggested Reads', 'SectionTitle':'View More'};
 		hwz_ga('send', 'event', 'Content-Engagement', 'Click', JSON.stringify(oLabel), {'data':{'ux_element_name':'View More','ux_element_type':'more articles'}});
 	});
