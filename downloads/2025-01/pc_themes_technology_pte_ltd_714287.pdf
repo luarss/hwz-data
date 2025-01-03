@@ -611,7 +611,46 @@ window.addEvent('domready', function() {
 
 <section class="content-border list-top-padding">
 
-					<section class="listing-breadcrumb-alter"></section>
+			
+
+ <div class="hwz_trending">
+ 	<div class="hwz-trending-title">Trending</div>
+	<div class="hwz_trending_content">
+		<a class="hwz_trending_article" href="/tech-news-oppo-reno13-series-sale-singapore-4-january-price-specs-buy">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/714328/a.jpg?312d" alt="OPPO&#039;s Reno13 series goes on sale in Singapore on 4 January" />			</div>
+			<div class="hwz_trending_title">OPPO's Reno13 series goes on sale in Singapore on 4 January</div>
+		</a><a class="hwz_trending_article" href="/tech-news-apple-iphone-se-possible-rebrand-iphone-16e">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/714330/a.jpg?b69c" alt="Apple might call the new iPhone SE the &quot;iPhone 16E&quot;" />			</div>
+			<div class="hwz_trending_title">Apple might call the new iPhone SE the "iPhone 16E"</div>
+		</a><a class="hwz_trending_article" href="/tech-news-poco-x7-series-x7-pro-launch-date-confirmed">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/714304/a.jpg?fe84" alt="Poco confirms launch date of its X7 series phones" />			</div>
+			<div class="hwz_trending_title">Poco confirms launch date of its X7 series phones</div>
+		</a>	</div>
+</div>
+
+
+<script type="text/javascript">
+(function() {
+	if (typeof(hwz_ga) == 'undefined') return;
+	$$('.hwz_trending_content .hwz_trending_article').each(function(o,i){
+		o.addEvent('click', function(e){
+			if (typeof(hwz_ga) == 'undefined') return;
+			var sTitle = $(this).getElement('.hwz_trending_title').get('text');
+			var aLabel = {
+				'SectionName': 'Top Trending',
+				'SectionTitle': 'Trending',
+				'ArticleName': sTitle,
+				'Position': i + 1
+			};
+			hwz_ga('send', 'event', 'Content-Engagement', 'Click', JSON.stringify(aLabel), { data:{ ux_element_type:'Articles Suggestion', ux_element_name:'Trending Articles' } });
+		});
+	});
+})();
+</script>
+		<section class="listing-breadcrumb-alter"></section>
 
 	<section class="content-wrapper">
 		<div id="content-wide" class="col-g">
@@ -841,7 +880,7 @@ window.addEvent('domready', function() {
 </div>
 <!-- E elements/featured-retailers-panel.ctp -->
 <!-- Start: related-sidebar.ctp -->
-<!-- 714318,714316,714307,714071,714302 --><div id="related-articles-6775dc83aed847358a980b470a4d1640" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
+<!-- 714338,714347,714318,714316,714307 --><div id="related-articles-67772e0f426847358a9822ee0a4d142d" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
 
 	<div class="related-sidebar-header">
 
@@ -854,13 +893,13 @@ window.addEvent('domready', function() {
 	<ul class="fancy-list content">
 
 	
-	<li class="link-clickable"><div class="header"><a href="/review-huawei-watch-gt-5-pro-harmonyos-smartwatch-ios-android-singapore-price" data-vars-event-label="Huawei Watch GT 5 Pro (46mm) review: Proving you can be serious about fitness and have fun too">Huawei Watch GT 5 Pro (46mm) review: Proving you can be serious about fitness and have fun too</a></div></li>	<li class="link-clickable"><div class="header"><a href="/review-sony-playstation-5-pro-gaming" data-vars-event-label="60 days later: The PlayStation 5 Pro review – is Sony’s upgrade worth it?">60 days later: The PlayStation 5 Pro review – is Sony’s upgrade worth it?</a></div></li>	<li class="link-clickable"><div class="header"><a href="/review-square-enix-life-strange-double-exposure-playstation-5" data-vars-event-label="Life is Strange: Double Exposure (PS5) review: Max returns but the stakes feel smaller">Life is Strange: Double Exposure (PS5) review: Max returns but the stakes feel smaller</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-2025-tech-trends-products-to-expect" data-vars-event-label="2025 Tech Trends: Latest trends, products to expect, and more">2025 Tech Trends: Latest trends, products to expect, and more</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-gigabyte-z890-aorus-xtreme-ai-top-motherboard-impressions" data-vars-event-label="Gigabyte Z890 Aorus Xtreme AI Top impressions: A beautiful motherboard with a matching price tag">Gigabyte Z890 Aorus Xtreme AI Top impressions: A beautiful motherboard with a matching price tag</a></div></li>		</ul>
+	<li class="link-clickable"><div class="header"><a href="/feature-best-lego-sets-cny-decoration" data-vars-event-label="CNY 2025: Best LEGO sets for CNY decoration">CNY 2025: Best LEGO sets for CNY decoration</a></div></li>	<li class="link-clickable"><div class="header"><a href="/review-rog-azoth-extreme-custom-gaming-mechanical-keyboard" data-vars-event-label="ROG Azoth Extreme review: A high-end gaming keyboard worth its price tag?">ROG Azoth Extreme review: A high-end gaming keyboard worth its price tag?</a></div></li>	<li class="link-clickable"><div class="header"><a href="/review-huawei-watch-gt-5-pro-harmonyos-smartwatch-ios-android-singapore-price" data-vars-event-label="Huawei Watch GT 5 Pro (46mm) review: Proving you can be serious about fitness and have fun too">Huawei Watch GT 5 Pro (46mm) review: Proving you can be serious about fitness and have fun too</a></div></li>	<li class="link-clickable"><div class="header"><a href="/review-sony-playstation-5-pro-gaming" data-vars-event-label="60 days later: The PlayStation 5 Pro review – is Sony’s upgrade worth it?">60 days later: The PlayStation 5 Pro review – is Sony’s upgrade worth it?</a></div></li>	<li class="link-clickable"><div class="header"><a href="/review-square-enix-life-strange-double-exposure-playstation-5" data-vars-event-label="Life is Strange: Double Exposure (PS5) review: Max returns but the stakes feel smaller">Life is Strange: Double Exposure (PS5) review: Max returns but the stakes feel smaller</a></div></li>		</ul>
 	</div>
 </div>
 <script type="text/javascript">
 //<![CDATA[
 (function(){
-	var relArtHref = $('related-articles-6775dc83aed847358a980b470a4d1640').getElement('.content');
+	var relArtHref = $('related-articles-67772e0f426847358a9822ee0a4d142d').getElement('.content');
 	relArtHref.getElements('li.link-clickable').each(function(o, i) {
 		$(o).addEvent('click', function(e) {
 			var oLink = $(this).getElement(".header a");
@@ -886,7 +925,7 @@ window.addEvent('domready', function() {
 		});
 	}
 
-	$('related-articles-6775dc83aed847358a980b470a4d1640').getElements('.sidepanel-more').addEvent('click', function(e){
+	$('related-articles-67772e0f426847358a9822ee0a4d142d').getElements('.sidepanel-more').addEvent('click', function(e){
 		var oLabel = {'SectionName':'Suggested Reads', 'SectionTitle':'View More'};
 		hwz_ga('send', 'event', 'Content-Engagement', 'Click', JSON.stringify(oLabel), {'data':{'ux_element_name':'View More','ux_element_type':'more articles'}});
 	});
