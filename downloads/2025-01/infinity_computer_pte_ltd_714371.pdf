@@ -592,13 +592,7 @@ window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd|
 			<div id="inner-container">
 				<div id="page" class="font-medium">
 					
-												<div id='hwz-notification-container'><div id="site-notif-1" class="site-notif site-notif-autoclose"><img src="/img/core/gradients/icon_notif_normal.png" class="icon-notif" alt="" /> <span>Please login in order to download pricelists</span></div></div> 
-<script type="text/javascript">	
-	var hwzNotification = new HwzNotification([{
-						id: "site-notif-1",
-						cookieName: ""
-					}]);
-</script>					
+																	
 
 					
 					<div id="content">
@@ -622,18 +616,18 @@ window.addEvent('domready', function() {
  <div class="hwz_trending">
  	<div class="hwz-trending-title">Trending</div>
 	<div class="hwz_trending_content">
-		<a class="hwz_trending_article" href="/tech-news-nvidia-ceo-jensen-huang-unveils-geforce-rtx-50-series-ces-2025-keynote">
+		<a class="hwz_trending_article" href="/tech-news-samsung-galaxy-s25-series-official-marketing-renders-images-leaked">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/714452/a.jpg?1030" alt="Official renders of the Samsung Galaxy S25 series have leaked" />			</div>
+			<div class="hwz_trending_title">Official renders of the Samsung Galaxy S25 series have leaked</div>
+		</a><a class="hwz_trending_article" href="/tech-news-anker-140w-gan-charger-25000-mah-power-bank-ces-2025-price-buy">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/714448/a.jpg?ff8a" alt="Anker&#039;s new charger and power bank have real-time displays showing power output" />			</div>
+			<div class="hwz_trending_title">Anker's new charger and power bank have real-time displays showing power output</div>
+		</a><a class="hwz_trending_article" href="/tech-news-nvidia-ceo-jensen-huang-unveils-geforce-rtx-50-series-ces-2025-keynote">
 			<div class="hwz_trending_image">
 				<img src="/thumbs/714425/a.jpg?7ac6" alt="NVIDIA CEO Jensen Huang officially unveils the GeForce RTX 50 series at CES 2025 keynote" />			</div>
 			<div class="hwz_trending_title">NVIDIA CEO Jensen Huang officially unveils the GeForce RTX 50 series at CES 2025 keynote</div>
-		</a><a class="hwz_trending_article" href="/tech-news-creative-aurvana-ace-sxfi-mimi-true-wireless-earbuds-singapore-price-specs">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/714391/a.jpg?4f8f" alt="Creative adds two new MEMS-based true wireless earbuds to the Aurvana Ace series" />			</div>
-			<div class="hwz_trending_title">Creative adds two new MEMS-based true wireless earbuds to the Aurvana Ace series</div>
-		</a><a class="hwz_trending_article" href="/tech-news-samsung-galaxy-unpacked-january-2025-s25-event-date">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/714415/a.jpg?e17c" alt="Samsung sets date for next Galaxy Unpacked event to reveal the Galaxy S25 series" />			</div>
-			<div class="hwz_trending_title">Samsung sets date for next Galaxy Unpacked event to reveal the Galaxy S25 series</div>
 		</a>	</div>
 </div>
 
@@ -906,7 +900,7 @@ window.addEvent('domready', function() {
 </div>
 <!-- E elements/featured-retailers-panel.ctp -->
 <!-- Start: related-sidebar.ctp -->
-<!-- 714461,714446,714442,714434,714427 --><div id="related-articles-677dc5aa4fc04b3a9cfe7f700a4d124d" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
+<!-- 714463,714461,714446,714442,714434 --><div id="related-articles-677f15f7fab047358a987fa30a4d1fb9" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
 
 	<div class="related-sidebar-header">
 
@@ -919,13 +913,13 @@ window.addEvent('domready', function() {
 	<ul class="fancy-list content">
 
 	
-	<li class="link-clickable"><div class="header"><a href="/feature-asus-ai-intel-amd-snapdragon-x-copilot-pc-laptops" data-vars-event-label="ASUS goes all in with AI with new Intel, AMD and Snapdragon X Copilot+ PC laptops">ASUS goes all in with AI with new Intel, AMD and Snapdragon X Copilot+ PC laptops</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-asus-rog-b850-b860-motherboards-intel-core-ultra-and-amd-ryzen" data-vars-event-label="ASUS reveals new B850 and B860 motherboards for Intel Core Ultra and AMD Ryzen">ASUS reveals new B850 and B860 motherboards for Intel Core Ultra and AMD Ryzen</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-jensen-huang-nvidia-ceo-ces-2025-keynote-ai-computing" data-vars-event-label="Jensen Huang&#039;s CES 2025 address: Key takeaways from NVIDIA CEO’s vision for AI computing">Jensen Huang&#039;s CES 2025 address: Key takeaways from NVIDIA CEO’s vision for AI computing</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-razer-blade-16-2025-gaming-laptop" data-vars-event-label="Razer Blade 16 (2025) hands-on impressions: A thinner, more powerful gaming laptop">Razer Blade 16 (2025) hands-on impressions: A thinner, more powerful gaming laptop</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-asus-rog-strix-zephyrus-rtx-50-series" data-vars-event-label="ROG equips Strix and Zephyrus gaming laptops with RTX 50 series GPUs, XG Mobile sees refresh">ROG equips Strix and Zephyrus gaming laptops with RTX 50 series GPUs, XG Mobile sees refresh</a></div></li>		</ul>
+	<li class="link-clickable"><div class="header"><a href="/feature-razer-gaming-chair-ai-powered-esports-coach-ces-2025" data-vars-event-label="From a gaming chair that blows hot air to an AI-powered esports coach: We got Razer&#039;s CES 2025 covered">From a gaming chair that blows hot air to an AI-powered esports coach: We got Razer&#039;s CES 2025 covered</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-asus-ai-intel-amd-snapdragon-x-copilot-pc-laptops" data-vars-event-label="ASUS goes all in with AI with new Intel, AMD and Snapdragon X Copilot+ PC laptops">ASUS goes all in with AI with new Intel, AMD and Snapdragon X Copilot+ PC laptops</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-asus-rog-b850-b860-motherboards-intel-core-ultra-and-amd-ryzen" data-vars-event-label="ASUS reveals new B850 and B860 motherboards for Intel Core Ultra and AMD Ryzen">ASUS reveals new B850 and B860 motherboards for Intel Core Ultra and AMD Ryzen</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-jensen-huang-nvidia-ceo-ces-2025-keynote-ai-computing" data-vars-event-label="Jensen Huang&#039;s CES 2025 address: Key takeaways from NVIDIA CEO’s vision for AI computing">Jensen Huang&#039;s CES 2025 address: Key takeaways from NVIDIA CEO’s vision for AI computing</a></div></li>	<li class="link-clickable"><div class="header"><a href="/feature-razer-blade-16-2025-gaming-laptop" data-vars-event-label="Razer Blade 16 (2025) hands-on impressions: A thinner, more powerful gaming laptop">Razer Blade 16 (2025) hands-on impressions: A thinner, more powerful gaming laptop</a></div></li>		</ul>
 	</div>
 </div>
 <script type="text/javascript">
 //<![CDATA[
 (function(){
-	var relArtHref = $('related-articles-677dc5aa4fc04b3a9cfe7f700a4d124d').getElement('.content');
+	var relArtHref = $('related-articles-677f15f7fab047358a987fa30a4d1fb9').getElement('.content');
 	relArtHref.getElements('li.link-clickable').each(function(o, i) {
 		$(o).addEvent('click', function(e) {
 			var oLink = $(this).getElement(".header a");
@@ -951,7 +945,7 @@ window.addEvent('domready', function() {
 		});
 	}
 
-	$('related-articles-677dc5aa4fc04b3a9cfe7f700a4d124d').getElements('.sidepanel-more').addEvent('click', function(e){
+	$('related-articles-677f15f7fab047358a987fa30a4d1fb9').getElements('.sidepanel-more').addEvent('click', function(e){
 		var oLabel = {'SectionName':'Suggested Reads', 'SectionTitle':'View More'};
 		hwz_ga('send', 'event', 'Content-Engagement', 'Click', JSON.stringify(oLabel), {'data':{'ux_element_name':'View More','ux_element_type':'more articles'}});
 	});
