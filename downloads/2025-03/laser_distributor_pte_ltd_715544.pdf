@@ -616,18 +616,18 @@ window.addEvent('domready', function() {
  <div class="hwz_trending">
  	<div class="hwz-trending-title">Trending</div>
 	<div class="hwz_trending_content">
-		<a class="hwz_trending_article" href="/feature-best-amazon-deals-today-singapore">
+		<a class="hwz_trending_article" href="/tech-news-netflix-hdr10-plus-content-using-av1-codec">
 			<div class="hwz_trending_image">
-				<img src="/thumbs/707095/a.jpg?667a" alt="Best Amazon deals today: Shopping the Hari Raya Sale and Big Spring Sale " />			</div>
+				<img src="/thumbs/715603/a.jpg?db1b" alt="Netflix now streams HDR10+ content on devices using the AV1 codec" />			</div>
+			<div class="hwz_trending_title">Netflix now streams HDR10+ content on devices using the AV1 codec</div>
+		</a><a class="hwz_trending_article" href="/tech-news-apple-wwdc-2025-june-9-developers-ios-ipados-macos">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/715600/a.jpg?fc5c" alt="Apple confirms WWDC 2025 will take place on the week of June 9" />			</div>
+			<div class="hwz_trending_title">Apple confirms WWDC 2025 will take place on the week of June 9</div>
+		</a><a class="hwz_trending_article" href="/feature-best-amazon-deals-today-singapore">
+			<div class="hwz_trending_image">
+				<img src="/thumbs/707095/a.jpg?1082" alt="Best Amazon deals today: Shopping the Hari Raya Sale and Big Spring Sale " />			</div>
 			<div class="hwz_trending_title">Best Amazon deals today: Shopping the Hari Raya Sale and Big Spring Sale </div>
-		</a><a class="hwz_trending_article" href="/feature-apple-best-ipad-buying-guide">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/710925/a.jpg?9c70" alt="iPad Buyer&#039;s Guide: Which Apple iPad to buy? (Updated)" />			</div>
-			<div class="hwz_trending_title">iPad Buyer's Guide: Which Apple iPad to buy? (Updated)</div>
-		</a><a class="hwz_trending_article" href="/tech-news-samsung-galaxy-s26-ultra-variable-aperture-lens-drop-one-camera-rumours">
-			<div class="hwz_trending_image">
-				<img src="/thumbs/715586/a.jpg?4fb6" alt="Galaxy S26 Ultra may bring back variable aperture lens and drop one camera" />			</div>
-			<div class="hwz_trending_title">Galaxy S26 Ultra may bring back variable aperture lens and drop one camera</div>
 		</a>	</div>
 </div>
 
@@ -900,7 +900,7 @@ window.addEvent('domready', function() {
 </div>
 <!-- E elements/featured-retailers-panel.ctp -->
 <!-- Start: related-sidebar.ctp -->
-<!-- 707095,715596,715538,710925,709837 --><div id="related-articles-67e348cc743847358a986b940a4d144b" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
+<!-- 707095,715596,715538,710925,709837 --><div id="related-articles-67e49a3547b84b65a62c65540a4d1717" class="panel-related-articles hwz-fancy-block side-bar-margin-bottom">
 
 	<div class="related-sidebar-header">
 
@@ -919,7 +919,7 @@ window.addEvent('domready', function() {
 <script type="text/javascript">
 //<![CDATA[
 (function(){
-	var relArtHref = $('related-articles-67e348cc743847358a986b940a4d144b').getElement('.content');
+	var relArtHref = $('related-articles-67e49a3547b84b65a62c65540a4d1717').getElement('.content');
 	relArtHref.getElements('li.link-clickable').each(function(o, i) {
 		$(o).addEvent('click', function(e) {
 			var oLink = $(this).getElement(".header a");
@@ -945,7 +945,7 @@ window.addEvent('domready', function() {
 		});
 	}
 
-	$('related-articles-67e348cc743847358a986b940a4d144b').getElements('.sidepanel-more').addEvent('click', function(e){
+	$('related-articles-67e49a3547b84b65a62c65540a4d1717').getElements('.sidepanel-more').addEvent('click', function(e){
 		var oLabel = {'SectionName':'Suggested Reads', 'SectionTitle':'View More'};
 		hwz_ga('send', 'event', 'Content-Engagement', 'Click', JSON.stringify(oLabel), {'data':{'ux_element_name':'View More','ux_element_type':'more articles'}});
 	});
