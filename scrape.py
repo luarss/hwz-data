@@ -21,62 +21,41 @@ def convert_gdrive_to_download_url(gdrive_url):
         return f"https://drive.google.com/uc?export=download&id={file_id}"
     return None
 
-def get_hrefs(url):
-    """Extract Google Drive links and convert to download URLs"""
-    hrefs = []
+def get_company_files(url):
+    """Extract company names and their corresponding Google Drive download URLs"""
+    company_files = []
     response = requests.get(url, headers=headers)
-    
+
     if response.status_code != 200:
         print(f"ERROR: Failed to fetch page. Status code: {response.status_code}")
         print(f"URL: {url}")
         sys.exit(1)
-    
+
     html_doc = response.text
     soup = bs4.BeautifulSoup(html_doc, "html.parser")
-    
+
     # Find all Google Drive links
     gdrive_links = soup.find_all("a", href=re.compile(r"drive\.google\.com"))
-    
+
     if not gdrive_links:
         print("ERROR: No Google Drive links found. Page layout may have changed.")
         sys.exit(1)
-    
+
     print(f"Found {len(gdrive_links)} Google Drive links")
-    
-    for link in gdrive_links:
-        gdrive_url = link.get("href")
-        download_url = convert_gdrive_to_download_url(gdrive_url)
-        if download_url:
-            hrefs.append(download_url)
-        else:
-            print(f"Warning: Could not convert Google Drive URL: {gdrive_url}")
-    
-    return sorted(set(hrefs))
 
-
-def get_names(url):
-    """Extract company names from Google Drive links"""
-    names = []
-    response = requests.get(url, headers=headers)
-    
-    if response.status_code != 200:
-        print(f"ERROR: Failed to fetch page. Status code: {response.status_code}")
-        print(f"URL: {url}")
-        sys.exit(1)
-    
-    html_doc = response.text
-    soup = bs4.BeautifulSoup(html_doc, "html.parser")
-    
-    # Find all Google Drive links and extract company names
-    gdrive_links = soup.find_all("a", href=re.compile(r"drive\.google\.com"))
-    
     for link in gdrive_links:
         company_name = link.get_text(strip=True)
-        # Convert to lowercase and replace spaces with underscores
-        formatted_name = company_name.lower().replace(" ", "_")
-        names.append(formatted_name)
-    
-    return names
+        gdrive_url = link.get("href")
+        download_url = convert_gdrive_to_download_url(gdrive_url)
+
+        if download_url:
+            # Convert company name to lowercase and replace spaces with underscores
+            formatted_name = company_name.lower().replace(" ", "_")
+            company_files.append((formatted_name, download_url))
+        else:
+            print(f"Warning: Could not convert Google Drive URL for {company_name}: {gdrive_url}")
+
+    return company_files
 
 
 def download_file(url, name):
@@ -105,8 +84,7 @@ if __name__ == "__main__":
     os.makedirs(download_folder, exist_ok=True)
     os.chdir(download_folder)
 
-    # Get all hrefs
-    hrefs = get_hrefs(url)
-    names = get_names(url)
-    for href, name in zip(hrefs, names):
-        download_file(href, name)
+    # Get company files with proper mapping
+    company_files = get_company_files(url)
+    for company_name, download_url in company_files:
+        download_file(download_url, company_name)
