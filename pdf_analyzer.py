@@ -83,7 +83,41 @@ def extract_company_robust(filename: str) -> str:
                     f"Add to COMPANY_PATTERNS mapping!")
 
 
-def extract_text(pdf_path: str, max_pages: int = 3, dpi: int = 150) -> str:
+def extract_text(pdf_path: str, max_pages: int = 3, dpi: int = 200) -> str:
+    # Always try OCR first with better settings for better text extraction
+    try:
+        pages = convert_from_path(pdf_path, last_page=max_pages, dpi=dpi)
+        if not pages:
+            return ""
+
+        text_parts = []
+        for i, page in enumerate(pages):
+            try:
+                # Use better OCR configuration
+                ocr_config = '--psm 6 -c tessedit_char_whitelist=ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789@.-_'
+                ocr_text = pytesseract.image_to_string(page, config=ocr_config)
+                text_parts.append(ocr_text)
+                page.close()
+            except Exception as e:
+                logging.warning(f"OCR failed for page {i+1} of {pdf_path}: {e}")
+                try:
+                    # Fallback to basic OCR
+                    fallback_text = pytesseract.image_to_string(page)
+                    text_parts.append(fallback_text)
+                except:
+                    pass
+                page.close()
+                continue
+
+        ocr_result = "\n".join(text_parts)
+        if ocr_result.strip():
+            return ocr_result
+    except MemoryError as e:
+        logging.error(f"Out of memory processing {pdf_path}: {e}")
+    except Exception as e:
+        logging.warning(f"OCR processing failed for {pdf_path}: {e}")
+
+    # Fallback to PyPDF2 extraction
     try:
         with open(pdf_path, "rb") as file:
             reader = PyPDF2.PdfReader(file)
@@ -102,38 +136,94 @@ def extract_text(pdf_path: str, max_pages: int = 3, dpi: int = 150) -> str:
         logging.warning(f"PyPDF2 extraction failed for {pdf_path}: {e}")
     except Exception as e:
         logging.error(f"Unexpected error during PDF text extraction for {pdf_path}: {e}")
-        return ""
 
-    try:
-        pages = convert_from_path(pdf_path, last_page=max_pages, dpi=dpi)
-        if not pages:
-            return ""
-
-        text_parts = []
-        for i, page in enumerate(pages):
-            try:
-                text_parts.append(pytesseract.image_to_string(page))
-                page.close()
-            except Exception as e:
-                logging.warning(f"OCR failed for page {i+1} of {pdf_path}: {e}")
-                continue
-            finally:
-                if 'page' in locals():
-                    page.close()
-
-        return "\n".join(text_parts)
-    except MemoryError as e:
-        logging.error(f"Out of memory processing {pdf_path}: {e}")
-        return ""
-    except Exception as e:
-        logging.error(f"OCR processing failed for {pdf_path}: {e}")
-        return ""
+    return ""
 
 
 def check_match(text: str, company: str) -> bool:
     if not text or not company:
         return False
-    return re.search(re.escape(company), text, re.IGNORECASE) is not None
+
+    # Normalize text for better matching
+    text_clean = re.sub(r'[^\w\s]', ' ', text.lower())
+    text_clean = re.sub(r'\s+', ' ', text_clean).strip()
+
+    company_lower = company.lower()
+
+    # Create regex patterns for flexible matching
+    patterns = []
+
+    # 1. Direct company name with word boundaries
+    patterns.append(rf'\b{re.escape(company_lower)}\b')
+
+    # 2. Company name with common business suffixes
+    business_suffixes = [
+        r'computer\s+(?:pte\s+)?ltd?',
+        r'tech(?:nology)?\s+(?:pte\s+)?ltd?',
+        r'asia\s+(?:pte\s+)?ltd?',
+        r'international\s+(?:pte\s+)?ltd?',
+        r'distributor\s+(?:pte\s+)?ltd?',
+        r'(?:pte\s+)?ltd?'
+    ]
+
+    for suffix in business_suffixes:
+        patterns.append(rf'\b{re.escape(company_lower)}\s+{suffix}\b')
+
+    # 3. For multi-word companies, handle variations
+    if " " in company_lower:
+        words = company_lower.split()
+
+        # All words present with word boundaries
+        word_pattern = r'\b' + r'.*?\b'.join(re.escape(word) for word in words) + r'\b'
+        patterns.append(word_pattern)
+
+        # With underscores instead of spaces
+        underscore_name = '_'.join(words)
+        patterns.append(rf'\b{re.escape(underscore_name)}\b')
+
+        # Each word individually (all must be present)
+        if all(re.search(rf'\b{re.escape(word)}\b', text_clean) for word in words):
+            return True
+
+    # 4. Handle common variations, abbreviations, and email patterns
+    company_variations = {
+        'pc themes': [r'\bpc\s+themes?\b', r'\bpc.*themes?\b', r'pcthemes'],
+        'tradepac': [r'\btrade\s*pac\b', r'\btradepac\b', r'tradepac'],
+        'techdeals': [r'\btech\s*deals?\b', r'\btechdeals?\b', r'techdeals'],
+        'bizgram': [r'\bbiz\s*gram\b', r'\bbizgram\b', r'bizgram'],
+        'dynacore': [r'\bdyna\s*core\b', r'\bdynacore\b', r'dynacore'],
+        'fuwell': [r'\bfu\s*well\b', r'\bfuwell\b', r'fuwell'],
+        'infinity': [
+            r'\binfinit[yi]\b',
+            r'\binfinit[yi]\s+computer\b',
+            r'infinitycomputer',  # Email domain
+            r'@infinitycomputer\.com',  # Email pattern
+            r'infinit[yi].*computer',  # Flexible matching
+            r'ate\s+computer',  # OCR mangled "INFINITY" -> "atte"
+            r'nfinity',  # Partial OCR
+            r'infinit'  # Partial match
+        ],
+        'laser': [r'\blaser\b', r'\blaser\s+distributor\b', r'laser']
+    }
+
+    if company_lower in company_variations:
+        patterns.extend(company_variations[company_lower])
+
+    # 5. Add email domain patterns for all companies
+    email_patterns = [
+        rf'{re.escape(company_lower)}\.com',
+        rf'@{re.escape(company_lower)}\.com',
+        rf'{re.escape(company_lower.replace(" ", ""))}\.com',
+        rf'@{re.escape(company_lower.replace(" ", ""))}\.',
+    ]
+    patterns.extend(email_patterns)
+
+    # Test all patterns
+    for pattern in patterns:
+        if re.search(pattern, text_clean, re.IGNORECASE):
+            return True
+
+    return False
 
 
 def extract_company(filename: str) -> Optional[str]:
