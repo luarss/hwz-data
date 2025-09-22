@@ -1,0 +1,16 @@
+[project]
+name = "hwz-data"
+version = "0.1.0"
+description = "Python-based web scraping project that automatically downloads price lists from HardwareZone.com.sg"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4",
+    "requests",
+    "selenium",
+    "python-dotenv",
+    "pypdf2",
+    "pytesseract",
+    "pdf2image",
+    "pillow",
+]

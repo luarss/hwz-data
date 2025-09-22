@@ -10,18 +10,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Setup python
-        uses: actions/setup-python@v5
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
         with:
           python-version: 3.12
-      - name: Install requirements
-        run: |
-          pip install beautifulsoup4 requests
       - name: Checkout code
         uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          make sync
       - name: Run script
         run: |
-          python scrape.py
+          uv run scrape.py
       - name: Get current date
         run: |
           echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> $GITHUB_ENV
