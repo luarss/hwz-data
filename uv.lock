@@ -120,14 +120,14 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "beautifulsoup4" },
-    { name = "pdf2image" },
-    { name = "pillow" },
-    { name = "pypdf2" },
-    { name = "pytesseract" },
-    { name = "python-dotenv" },
-    { name = "requests" },
-    { name = "selenium" },
+    { name = "beautifulsoup4", specifier = ">=4.13.5" },
+    { name = "pdf2image", specifier = ">=1.17.0" },
+    { name = "pillow", specifier = ">=11.3.0" },
+    { name = "pypdf2", specifier = ">=3.0.1" },
+    { name = "pytesseract", specifier = ">=0.3.13" },
+    { name = "python-dotenv", specifier = ">=1.1.1" },
+    { name = "requests", specifier = ">=2.32.5" },
+    { name = "selenium", specifier = ">=4.35.0" },
     { name = "tqdm", specifier = ">=4.67.1" },
 ]
 
