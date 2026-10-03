@@ -4,12 +4,29 @@ import requests
 import os
 import re
 import sys
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # This method does not require any login
 
 url = "https://www.hardwarezone.com.sg/pc/sls-weekly-price-list-downloads"
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
 headers = {"User-Agent": user_agent}
+
+# Retry transient failures (connection resets, 5xx, rate limiting) with backoff
+session = requests.Session()
+session.headers.update(headers)
+_retry = Retry(
+    total=6,
+    connect=6,
+    read=6,
+    backoff_factor=2,
+    status_forcelist=(429, 500, 502, 503, 504),
+    allowed_methods=("GET",),
+)
+session.mount("https://", HTTPAdapter(max_retries=_retry))
+session.mount("http://", HTTPAdapter(max_retries=_retry))
+TIMEOUT = 60
 
 
 def convert_gdrive_to_download_url(gdrive_url):
@@ -24,7 +41,7 @@ def convert_gdrive_to_download_url(gdrive_url):
 def get_company_files(url):
     """Extract company names and their corresponding Google Drive download URLs"""
     company_files = []
-    response = requests.get(url, headers=headers)
+    response = session.get(url, timeout=TIMEOUT)
 
     if response.status_code != 200:
         print(f"ERROR: Failed to fetch page. Status code: {response.status_code}")
@@ -60,7 +77,7 @@ def get_company_files(url):
 
 def download_file(url, name):
     """Download file from Google Drive with proper naming"""
-    response = requests.get(url, headers=headers, stream=True)
+    response = session.get(url, stream=True, timeout=TIMEOUT)
     
     # Extract file ID from the download URL for unique naming
     file_id_match = re.search(r'id=([a-zA-Z0-9_-]+)', url)
