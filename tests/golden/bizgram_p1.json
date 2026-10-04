@@ -1,0 +1,1340 @@
+{
+  "pdf": "downloads/2026-09/bizgram_14UCsN0b-blS0eHSv7kAv_RUgj3eZjd4U.pdf",
+  "page_number": 1,
+  "complete": false,
+  "notes": "Intel Z890 bundle matrix only: CPU-alone price row (14 SKUs), then first 12 Gigabyte boards; each board has one bundle_cpu=None row for the parenthesised board-alone price plus one row per CPU column. Header verified against 250dpi render.",
+  "rows": [
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U5 245K",
+      "price_sgd": 328
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U7 265K",
+      "price_sgd": 434
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U7 265KF",
+      "price_sgd": 434
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U9 285K",
+      "price_sgd": 837
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U5 225",
+      "price_sgd": 248
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U5 235",
+      "price_sgd": 393
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U7 265",
+      "price_sgd": 517
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U7 265F",
+      "price_sgd": 495
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U9 285",
+      "price_sgd": 844
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U7 270K",
+      "price_sgd": 437
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U5 200",
+      "price_sgd": 240
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U7 270K+",
+      "price_sgd": 497
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U5 225F",
+      "price_sgd": 226
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "U5 245",
+      "price_sgd": 400
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "price_sgd": 728
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 1035
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 1142
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 1139
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1535
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 959
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 1099
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 1220
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 1192
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1542
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 1206
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 949
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 1199
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 935
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 1106
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "price_sgd": 436
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 751
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 858
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 856
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1251
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 676
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 816
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 937
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 908
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1258
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 923
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 666
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 916
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 651
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELT DUO X",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 823
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "price_sgd": 420
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 735
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 842
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 839
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1235
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 659
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 799
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 921
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 892
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1242
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 906
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 649
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 899
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 635
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 A ELITE WIFI7 P",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 806
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "price_sgd": 436
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 751
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 858
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 856
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1251
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 676
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 816
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 937
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 908
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1258
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 923
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 666
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 916
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 651
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 823
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "price_sgd": 464
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 779
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 886
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 883
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1278
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 703
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 843
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 964
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 936
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1286
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 950
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 693
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 943
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 679
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 850
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "price_sgd": 375
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 691
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 799
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 796
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1191
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 616
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 756
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 877
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 848
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1198
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 863
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 606
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 856
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 591
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI7 P",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 763
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "price_sgd": 390
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 707
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 814
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 811
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1206
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 631
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 771
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 892
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 864
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1214
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 878
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 621
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 871
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 607
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 778
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "price_sgd": 357
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 674
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 781
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 778
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1174
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 598
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 738
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 860
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 831
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1181
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 845
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 588
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 838
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 574
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIFI 6E",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 745
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "price_sgd": 341
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 659
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 766
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 763
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1158
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 583
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 723
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 844
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 816
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1166
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 830
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 573
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 823
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 559
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M F D X WIFI7",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 730
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "price_sgd": 375
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 691
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 799
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 796
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1191
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 616
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 756
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 877
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 848
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1198
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 863
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 606
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 856
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 591
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 763
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "price_sgd": 323
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 641
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 748
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 746
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1141
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 566
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 706
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 827
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 798
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1148
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 813
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 556
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 805
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 541
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 713
+    },
+    {
+      "category": "Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "price_sgd": 263
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 245K",
+      "price_sgd": 582
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 265K",
+      "price_sgd": 690
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 265KF",
+      "price_sgd": 687
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U9 285K",
+      "price_sgd": 1082
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 225",
+      "price_sgd": 507
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 235",
+      "price_sgd": 647
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 265",
+      "price_sgd": 768
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 265F",
+      "price_sgd": 739
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U9 285",
+      "price_sgd": 1089
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 270K",
+      "price_sgd": 754
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 200",
+      "price_sgd": 497
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 270K+",
+      "price_sgd": 747
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 225F",
+      "price_sgd": 482
+    },
+    {
+      "category": "Motherboard + CPU Bundle",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 245",
+      "price_sgd": 654
+    }
+  ]
+}

@@ -6,8 +6,12 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "beautifulsoup4>=4.13.5",
+    "duckdb>=1.1.0",
+    "openai>=1.50.0",
     "pdf2image>=1.17.0",
+    "pdfplumber>=0.11.4",
     "pillow>=11.3.0",
+    "pydantic>=2.9.0",
     "pypdf2>=3.0.1",
     "pytesseract>=0.3.13",
     "python-dotenv>=1.1.1",
@@ -15,3 +19,17 @@ dependencies = [
     "selenium>=4.35.0",
     "tqdm>=4.67.1",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3.0",
+    "ruff>=0.7.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+markers = ["live: hits real LLM providers, needs RUN_LIVE=1"]
+
+[tool.ruff]
+line-length = 100

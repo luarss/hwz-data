@@ -1,0 +1,717 @@
+{
+  "pdf": "downloads/2026-09/fuwell_1YG84yiFPeZzEYqG9LzifoIBcNslLe9nA.pdf",
+  "page_number": 2,
+  "complete": false,
+  "notes": "Right column only (NVIDIA 5000 series and Radeon 9000 series GPUs). Colour suffixes (WHITE)/(BLACK) moved to variant; '( NEW !!!!!!!! )' markers dropped.",
+  "rows": [
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS GT730 SL 2GB (HEATSINK) (VGA / DVI / HDMI) (LowProfile)",
+      "price_sgd": 119
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS GT730 SL 2GB (HEATSINK) (4 X HDMI OUTPUT)",
+      "price_sgd": 189
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5050 DUAL OC 8GB GDDR6",
+      "price_sgd": 679
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5050 PRIME OC 8GB GDDR6",
+      "price_sgd": 799
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5060 DUAL OC 8GB GDDR7",
+      "price_sgd": 729
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5060 PRIME OC 8GB GDDR7",
+      "price_sgd": 799
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5060 TUF GAMING OC 8GB GDDR7",
+      "price_sgd": 829
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5060TI PRIME OC 8GB GDDR7",
+      "price_sgd": 949
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5060TI TUF Gaming OC 8GB GDDR7",
+      "price_sgd": 999
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070 DUAL OC 12GB GDDR7",
+      "price_sgd": 1349
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070 PRIME OC 12GB GDDR7",
+      "price_sgd": 1379
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070 PRIME OC 12GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 1399
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070 TUF GAMING OC 12GB GDDR7",
+      "price_sgd": 1579
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070 ROG STRIX GAMING OC 12GB GDDR7",
+      "price_sgd": 1649
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070TI PRIME OC 16GB GDDR7",
+      "price_sgd": 1899
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070TI TUF GAMING OC 16GB GDDR7",
+      "price_sgd": 1989
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070TI TUF GAMING OC 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 1999
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5070TI ROG STRIX GAMING OC 16GB GDDR7",
+      "price_sgd": 2099
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5080 PRIME OC 16GB GDDR7",
+      "price_sgd": 2599
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5080 TUF GAMING OC 16GB GDDR7",
+      "price_sgd": 2949
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5080 ROG STRIX ASTRAL GAMING OC 16GB GDDR7",
+      "price_sgd": 2999
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5080 ROG STRIX ASTRAL GAMING OC 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 3049
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5090 TUF GAMING OC 32GB GDDR7",
+      "price_sgd": 7399
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RTX5090 ROG STRIX ASTRAL GAMING OC 32GB GDDR7",
+      "price_sgd": 7799
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5050 VENTUS 2X OC 8GB",
+      "price_sgd": 665
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5050 GAMING OC 8GB",
+      "price_sgd": 675
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060 SHADOW 2X OC 8GB",
+      "price_sgd": 726
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060 VENTUS 2X OC 8GB",
+      "variant": "BLACK",
+      "price_sgd": 746
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060 VENTUS 2X OC 8GB",
+      "variant": "WHITE",
+      "price_sgd": 756
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060 GAMING OC 8GB",
+      "price_sgd": 796
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060TI SHADOW 2X OC 8GB",
+      "price_sgd": 926
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060TI VENTUS 2X OC 8GB",
+      "variant": "BLACK",
+      "price_sgd": 946
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060TI VENTUS 2X OC 8GB",
+      "variant": "WHITE",
+      "price_sgd": 936
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060TI VENTUS 3X OC 8GB",
+      "price_sgd": 946
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060TI INSPIRE 2X OC 8GB",
+      "price_sgd": 946
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5060TI GAMING OC 8GB",
+      "price_sgd": 966
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070 SHADOW 2X OC 12GB",
+      "price_sgd": 1397
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070 SHADOW 3X OC 12GB",
+      "price_sgd": 1417
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070 VENTUS 2X OC 12GB",
+      "price_sgd": 1437
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070 VENTUS 3X OC12GB",
+      "price_sgd": 1457
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070 GAMING TRIO OC 12GB",
+      "variant": "BLACK",
+      "price_sgd": 1487
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070 GAMING TRIO OC 12GB",
+      "variant": "WHITE",
+      "price_sgd": 1497
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070TI VENTUS 3X OC16GB",
+      "price_sgd": 1967
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070TI SHADOW 3X OC 16GB",
+      "price_sgd": 1947
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070TI GAMING TRIO OC 16GB",
+      "variant": "BLACK",
+      "price_sgd": 2067
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5070TI GAMING TRIO OC 16GB",
+      "variant": "WHITE",
+      "price_sgd": 2077
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5080 VENTUS 3X OC PLUS 16GB",
+      "price_sgd": 2918
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5080 VENTUS 3X OC16GB",
+      "variant": "BLACK",
+      "price_sgd": 2918
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5080 VENTUS 3X OC16GB",
+      "variant": "WHITE",
+      "price_sgd": 2968
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5080 SHADOW 3X OC 16GB",
+      "price_sgd": 2598
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5080 GAMING TRIO OC 16GB",
+      "variant": "BLACK",
+      "price_sgd": 2988
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5080 GAMING TRIO OC 16GB",
+      "variant": "WHITE",
+      "price_sgd": 2998
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5090 VENTUS 3X OC 32GB",
+      "price_sgd": 7699
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5090 GAMING TRIO OC 32GB",
+      "price_sgd": 7899
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5090 SUPREME SOC OC 32GB",
+      "price_sgd": 8099
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX5090 SUPREME LIQUID SOC OC 32GB",
+      "price_sgd": 8299
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5050 LOW PROFILE OC 8GB GDDR6",
+      "price_sgd": 705
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5050 GAMING OC 8GB GDDR6",
+      "price_sgd": 719
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060 WINDFORCE OC 8GB GDDR6",
+      "price_sgd": 755
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060 EAGLE OC 8GB GDDR7",
+      "price_sgd": 769
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060 EAGLE OC ICE 8GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 805
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060 GAMING OC ICE 8GB GDDR7",
+      "price_sgd": 820
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060 AERO OC 8GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 839
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060 AORUS ELITE OC 8GB GDDR7",
+      "price_sgd": 859
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI WINDFORCE OC 8GB GDDR7",
+      "price_sgd": 859
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI EAGLE OC 8GB GDDR7",
+      "price_sgd": 895
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI EAGLE OC ICE 8GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 925
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI GAMING OC 8GB GDDR7",
+      "price_sgd": 940
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI AERO OC 8GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 955
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI WINDFORCE OC 16GB GDDR7",
+      "price_sgd": 1319
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI EAGLE OC 16GB GDDR7",
+      "price_sgd": 1339
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI EAGLE OC ICE 16GB GDDR7",
+      "price_sgd": 1355
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI GAMING OC 16GB GDDR7",
+      "price_sgd": 1375
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI AERO OC 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 1385
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5060TI AORUS ELITE OC 16GB GDDR7",
+      "price_sgd": 1405
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 WINDFORCE OC 12GB GDDR7",
+      "price_sgd": 1385
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 EAGLE OC 12GB GDDR7",
+      "price_sgd": 1459
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 EAGLE ICE SFF OC 12GB GDDR7",
+      "price_sgd": 1475
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 GAMING OC 12GB GDDR7",
+      "price_sgd": 1495
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 AERO OC 12GB GDDR7",
+      "price_sgd": 1509
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 AORUS MASTER OC 12GB GDDR7",
+      "price_sgd": 1529
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070 AORUS INFINITY 12GB GDDR7",
+      "price_sgd": 1565
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI WINDFORCE OC 16GB GDDR7",
+      "price_sgd": 1919
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI EAGLE OC 16GB GDDR7",
+      "price_sgd": 1930
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI EAGLE OC ICE 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 1960
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI GAMING OC 16GB GDDR7",
+      "price_sgd": 2039
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI AERO OC 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 2055
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI AORUS MASTER 16GB GDDR7",
+      "price_sgd": 2129
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5070TI AORUS INFINITY 16GB GDDR7",
+      "price_sgd": 2180
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 WINDFORCE OC 16GB GDDR6",
+      "price_sgd": 2515
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 GAMING OC 16GB GDDR7",
+      "price_sgd": 2559
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 AERO OC 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 2609
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 AORUS MASTER 16GB GDDR7",
+      "price_sgd": 2625
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 AORUS MASTER ICE 16GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 2675
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 AORUS XTREME WATERFORCE 16GB GDDR7",
+      "price_sgd": 2780
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5080 AORUS INFINITY 16GB GDDR7",
+      "price_sgd": 2829
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5090 WINDFORCE OC 32GB GDDR7",
+      "price_sgd": 6990
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5090 GAMING OC 32GB GDDR7",
+      "price_sgd": 7180
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5090 AORUS MASTER 32GB GDDR7",
+      "price_sgd": 7375
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5090 AORUS MASTER ICE 32GB GDDR7",
+      "variant": "WHITE",
+      "price_sgd": 7409
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX5090 AORUS XTREME WATERFORCE 32GB GDDR7",
+      "price_sgd": 7480
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RADEON RX9060XT PRIME OC 8GB GDDR6",
+      "price_sgd": 749
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RADEON RX9070 PRIME OC 16GB GDDR6",
+      "price_sgd": 1349
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RADEON RX9070 TUF GAMING OC 16GB GDDR6",
+      "price_sgd": 1439
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RADEON RX9070XT PRIME OC 16GB GDDR6",
+      "price_sgd": 1469
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "ASUS",
+      "product": "ASUS RADEON RX9070XT TUF GAMING OC 16GB GDDR6",
+      "price_sgd": 1549
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RADEON RX9060XT GAMING OC 8GB GDDR6",
+      "price_sgd": 599
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RADEON RX9060XT GAMING OC 16GB GDDR6",
+      "price_sgd": 825
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RADEON RX9070 GAMING OC 16GB GDDR6",
+      "price_sgd": 1065
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RADEON RX9070XT GAMING OC 16GB GDDR6",
+      "price_sgd": 1265
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RADEON RX9070XT AORUS ELITE 16GB GDDR6",
+      "price_sgd": 1349
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RADEON RX9060XT PULSE Gaming OC 16GB GDDR6",
+      "price_sgd": 805
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RADEON RX9070XT PULSE 16GB GDDR6",
+      "price_sgd": 1275
+    },
+    {
+      "category": "Graphics Card",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RADEON RX9070XT NITRO+ 16GB GDDR6",
+      "price_sgd": 1375
+    }
+  ]
+}

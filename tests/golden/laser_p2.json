@@ -1,0 +1,556 @@
+{
+  "pdf": "downloads/2026-09/laser_16c9xLzdZ_SY2wDV_eToFcjUE0OCaNvCS.pdf",
+  "page_number": 2,
+  "complete": false,
+  "notes": "Left two of four columns only (fans, grease, UPS, speakers, mouse pad, sound card, monitors, speakerphones, headsets). Omitted: 'na' prices. Cooler Master MP 511 SF6 19.9 is listed twice in the source; kept once. Source lists EATON 5E1600UI 339 twice; kept once.",
+  "rows": [
+    {
+      "category": "Casing Fan",
+      "brand": "Aerocool",
+      "product": "Aerocool Shark 14 Cm LED",
+      "price_sgd": 15
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P8 8 cm PWM PST Fan",
+      "price_sgd": 10
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P9 Max 9cm Fan",
+      "price_sgd": 13
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P12 PRO PWM PST 4 Pin Fan",
+      "price_sgd": 13
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P12 PRO Reverse",
+      "price_sgd": 15
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P12 SLIM PWM PST 4 Pin",
+      "price_sgd": 15
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P12 Max PWM 4 Pin Fan",
+      "price_sgd": 15
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P14 PRO 4 Pin Fan",
+      "price_sgd": 17
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P14 PWM 4 Pin Fan pst",
+      "price_sgd": 15
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Arctic",
+      "product": "Artic P14 Slim PWM 4 Pin Pst",
+      "price_sgd": 16
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX XF 120 120MM FAN",
+      "price_sgd": 32
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Cooler Master",
+      "product": "CM SickleFlow 12 cm ARGB Fan",
+      "price_sgd": 15
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Corsair",
+      "product": "CORSAIR SP120 RGB Elite",
+      "price_sgd": 70
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Corsair",
+      "product": "CORSAIR LL120rgb CO-9050072-WW",
+      "price_sgd": 129
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "NZXT",
+      "product": "NZXT F120RGB 3 pack W/RGB Controller",
+      "price_sgd": 65
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Thermaltake",
+      "product": "Thermaltake TT Ring Quad RGB with Controller and 3 RGB FAN",
+      "price_sgd": 49
+    },
+    {
+      "category": "Casing Fan",
+      "brand": "Thermalright",
+      "product": "Thermalright C12C ARGB 3 Fan Pack",
+      "price_sgd": 25
+    },
+    {
+      "category": "Thermal Grease",
+      "brand": "Arctic",
+      "product": "Arctic Cooling MX 4",
+      "variant": "4G",
+      "price_sgd": 8
+    },
+    {
+      "category": "Thermal Grease",
+      "brand": "Arctic",
+      "product": "Arctic Cooling MX 4",
+      "variant": "8G",
+      "price_sgd": 12
+    },
+    {
+      "category": "Thermal Grease",
+      "brand": "Arctic",
+      "product": "Arctic Cooling MX 6 thermal",
+      "variant": "2g",
+      "price_sgd": 7
+    },
+    {
+      "category": "Thermal Grease",
+      "brand": "Arctic",
+      "product": "Arctic Cooling MX 6 thermal",
+      "variant": "4g",
+      "price_sgd": 9
+    },
+    {
+      "category": "Thermal Grease",
+      "brand": "Arctic",
+      "product": "Arctic Cooling MX 6 thermal",
+      "variant": "8G",
+      "price_sgd": 13
+    },
+    {
+      "category": "Thermal Grease",
+      "product": "Grizly Kryonaut Extreme",
+      "price_sgd": 25
+    },
+    {
+      "category": "Thermal Grease",
+      "product": "Polar Term X8 2G",
+      "price_sgd": 6
+    },
+    {
+      "category": "Thermal Grease",
+      "brand": "Arctic",
+      "product": "Arctic TP4 100x100mm 1.5mm pad",
+      "price_sgd": 15
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BVG 700i-MSX 700VA",
+      "price_sgd": 95
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BVX900Li-MS",
+      "price_sgd": 145
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BK650AS BACK UPS CS650VA",
+      "price_sgd": 215
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BV1000i",
+      "price_sgd": 130
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BVG1200i",
+      "price_sgd": 190
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BVG1600i",
+      "price_sgd": 239
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BVG2200I-MSX",
+      "price_sgd": 319
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BX625Ci- 625VA",
+      "price_sgd": 118
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BVX1200 Li-MS",
+      "price_sgd": 215
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BX 1200 MI-MS",
+      "price_sgd": 319
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BX 1600 MI-LS",
+      "price_sgd": 375
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC SMC1500IC",
+      "price_sgd": 945
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC SRV1KI Easy UPS SRV 1000VA",
+      "price_sgd": 479
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC SRV2KI Easy UPS SRV 2000VA",
+      "price_sgd": 899
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC SMT 2200 ic",
+      "price_sgd": 1900
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC SMT 1500 ic",
+      "price_sgd": 1375
+    },
+    {
+      "category": "UPS",
+      "brand": "APC",
+      "product": "APC BATTERY RBC17",
+      "price_sgd": 59
+    },
+    {
+      "category": "UPS",
+      "brand": "Eaton",
+      "product": "EATON 5E700UI 700VA/360W",
+      "price_sgd": 129
+    },
+    {
+      "category": "UPS",
+      "brand": "Eaton",
+      "product": "EATON 5E900UI",
+      "price_sgd": 175
+    },
+    {
+      "category": "UPS",
+      "brand": "Eaton",
+      "product": "EATON 5E1600UI",
+      "price_sgd": 339
+    },
+    {
+      "category": "UPS",
+      "brand": "Eaton",
+      "product": "EATON 5E2200UI",
+      "price_sgd": 388
+    },
+    {
+      "category": "Speakers",
+      "brand": "Edifier",
+      "product": "Edifier R19BT USB Powered Speakers",
+      "price_sgd": 39
+    },
+    {
+      "category": "Speakers",
+      "brand": "Edifier",
+      "product": "Edifier Studio R1280DBS",
+      "price_sgd": 129
+    },
+    {
+      "category": "Speakers",
+      "brand": "Edifier",
+      "product": "Edifier BOOKSHELF R1700 BT",
+      "price_sgd": 149
+    },
+    {
+      "category": "Mouse Pad",
+      "brand": "HP",
+      "product": "HP mouse pad 700x350x3 mm",
+      "price_sgd": 12
+    },
+    {
+      "category": "Mouse Pad",
+      "brand": "Cooler Master",
+      "product": "Cooler Master MP 511 SF6",
+      "price_sgd": 19.9
+    },
+    {
+      "category": "Mouse Pad",
+      "brand": "Elgato",
+      "product": "Elgato XL Green Screen Key Pad",
+      "price_sgd": 19
+    },
+    {
+      "category": "Sound Card",
+      "brand": "Orico",
+      "product": "ORICO USB Sound Card",
+      "price_sgd": 15
+    },
+    {
+      "category": "Monitor",
+      "brand": "MSI",
+      "product": "MSI PRO MP25",
+      "variant": "24\"",
+      "price_sgd": 119
+    },
+    {
+      "category": "Monitor",
+      "brand": "MSI",
+      "product": "MSI PRO MP275E14L",
+      "variant": "27\"",
+      "price_sgd": 139
+    },
+    {
+      "category": "Monitor",
+      "brand": "AOC",
+      "product": "AOC 24B36H",
+      "variant": "23.8\"",
+      "price_sgd": 117
+    },
+    {
+      "category": "Monitor",
+      "brand": "AOC",
+      "product": "AOC 27B36H 100Hz/4Ms/VGA/HDMI",
+      "variant": "27\"",
+      "price_sgd": 145
+    },
+    {
+      "category": "Monitor",
+      "brand": "AOC",
+      "product": "AOC 25G3Z 24.5\" IPS/280Hz",
+      "variant": "24.5\"",
+      "price_sgd": 279
+    },
+    {
+      "category": "Monitor",
+      "brand": "AOC",
+      "product": "AOC 27G11ZE2 240Hz IPS",
+      "variant": "27\"",
+      "price_sgd": 195
+    },
+    {
+      "category": "Monitor",
+      "brand": "AOC",
+      "product": "AOC AM420",
+      "price_sgd": 109
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ MA270U",
+      "price_sgd": 695
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ MA270UP Glossy",
+      "price_sgd": 799
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ MA320U",
+      "price_sgd": 839
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ MA320UP Glossy",
+      "price_sgd": 929
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ RD280U",
+      "price_sgd": 829
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ RD320U",
+      "price_sgd": 1019
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ GW2790QT 2K",
+      "variant": "27\"",
+      "price_sgd": 449
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ PD2706U",
+      "variant": "27\"",
+      "price_sgd": 709
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "BENQ 270S",
+      "variant": "27\"",
+      "price_sgd": 1459
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "Benq Screen Bar PRO",
+      "price_sgd": 195
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "Benq Screen Bar Halo 2",
+      "price_sgd": 230
+    },
+    {
+      "category": "Monitor",
+      "brand": "BenQ",
+      "product": "Benq WIT Desk Lamp",
+      "price_sgd": 270
+    },
+    {
+      "category": "Monitor",
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A",
+      "variant": "23.8\"",
+      "price_sgd": 135
+    },
+    {
+      "category": "Monitor",
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A",
+      "variant": "27\"",
+      "price_sgd": 155
+    },
+    {
+      "category": "Monitor",
+      "brand": "AOC",
+      "product": "AOC E1659FWU (demo)",
+      "price_sgd": 50
+    },
+    {
+      "category": "Speaker Phone",
+      "brand": "Lenovo",
+      "product": "Lenovo Wireless VoiP Speakerphone",
+      "price_sgd": 219
+    },
+    {
+      "category": "Speaker Phone",
+      "brand": "Jabra",
+      "product": "Jabra SPEAK 510+ 7510-409",
+      "price_sgd": 223
+    },
+    {
+      "category": "Speaker Phone",
+      "brand": "Jabra",
+      "product": "Jabra SPEAK 710 USB/BT",
+      "price_sgd": 339
+    },
+    {
+      "category": "Speaker Phone",
+      "brand": "Jabra",
+      "product": "Jabra SPEAK 750 USB/BT 7700-309",
+      "price_sgd": 429
+    },
+    {
+      "category": "Headset",
+      "brand": "Jabra",
+      "product": "Jabra Evlv 20 Stereo UC Hd Audio",
+      "price_sgd": 55
+    },
+    {
+      "category": "Headset",
+      "brand": "Jabra",
+      "product": "Jabra Evolve 20 SE Stereo",
+      "price_sgd": 55
+    },
+    {
+      "category": "Headset",
+      "brand": "Jabra",
+      "product": "Jabra Evolve 30 II UC Stereo 5399829",
+      "price_sgd": 85
+    },
+    {
+      "category": "Headset",
+      "brand": "Jabra",
+      "product": "Jabra Evolve 30 II MS Stereo 5399823",
+      "price_sgd": 85
+    },
+    {
+      "category": "Headset",
+      "brand": "Jabra",
+      "product": "Jabra Evolve2 75 Wireless Headset",
+      "price_sgd": 289
+    },
+    {
+      "category": "Headset",
+      "brand": "Lenovo",
+      "product": "Lenovo USB-A Wired Stereo Headset",
+      "price_sgd": 27
+    },
+    {
+      "category": "Headset",
+      "brand": "Logitech",
+      "product": "Logitech H570E",
+      "price_sgd": 60
+    },
+    {
+      "category": "Headset",
+      "brand": "Logitech",
+      "product": "Logitech H150",
+      "price_sgd": 19
+    },
+    {
+      "category": "Headset",
+      "brand": "Sennheiser",
+      "product": "Sennheiser Adapt 165II",
+      "price_sgd": 45
+    },
+    {
+      "category": "Headset",
+      "brand": "Tecware",
+      "product": "Tecware Q1 Wireless Gaming Headset",
+      "price_sgd": 36
+    }
+  ]
+}
