@@ -5,8 +5,8 @@ import json
 import logging
 import os
 import re
-from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
 from typing import Dict, Optional
 
 import PyPDF2
@@ -104,7 +104,7 @@ def extract_text(pdf_path: str, max_pages: int = 3, dpi: int = 200) -> str:
                     # Fallback to basic OCR
                     fallback_text = pytesseract.image_to_string(page)
                     text_parts.append(fallback_text)
-                except:
+                except Exception:
                     pass
                 page.close()
                 continue

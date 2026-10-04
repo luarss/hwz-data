@@ -1,9 +1,10 @@
-import bs4
 import datetime
-import requests
 import os
 import re
 import sys
+
+import bs4
+import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
