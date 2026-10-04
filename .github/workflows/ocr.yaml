@@ -1,0 +1,95 @@
+name: OCR price extraction
+on:
+  workflow_run:
+    workflows:
+      - Nightly HWZ download
+    types:
+      - completed
+  workflow_dispatch:
+    inputs:
+      vendor:
+        description: Restrict processing to one vendor
+        type: string
+        required: false
+        default: ''
+      max_pages:
+        description: Maximum pages to process in this run
+        type: number
+        required: false
+        default: 60
+      backfill:
+        description: Re-dispatch until no pages are pending
+        type: boolean
+        required: false
+        default: false
+
+concurrency:
+  group: hwz-commits
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  extract:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+      NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+      ZAI_API_KEY: ${{ secrets.ZAI_API_KEY }}
+      OLLAMA_API_KEY: ${{ secrets.OLLAMA_API_KEY }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      INPUT_VENDOR: ${{ inputs.vendor }}
+      INPUT_MAX_PAGES: ${{ inputs.max_pages || 60 }}
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: master
+          fetch-depth: 0
+      - name: Install uv
+        uses: astral-sh/setup-uv@c18668ad3cf93ea998bef934396af7bb5c839dc7 # v10.2.0
+      - name: Install system dependencies
+        run: make install-deps
+      - name: Sync Python dependencies
+        run: uv sync
+      - name: Scan downloads
+        run: uv run python -m hwz_ocr scan
+      - name: Process pages
+        run: |
+          args=(--max-pages "$INPUT_MAX_PAGES")
+          if [ -n "$INPUT_VENDOR" ]; then
+            args+=(--vendor "$INPUT_VENDOR")
+          fi
+          uv run python -m hwz_ocr process "${args[@]}"
+      - name: Roll up prices
+        run: uv run python -m hwz_ocr rollup
+      - name: Report stats
+        run: uv run python -m hwz_ocr stats | tee "$RUNNER_TEMP/stats.txt"
+      - name: Get current date
+        run: echo "NOW=$(date +'%Y-%m-%dT%H:%M:%S')" >> "$GITHUB_ENV"
+      - name: Run auto-commit action
+        uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
+        with:
+          commit_message: "chore(ocr): extract prices ${{ env.NOW }}"
+          file_pattern: "data/**"
+          commit_options: "--no-verify"
+          commit_user_name: "luarss"
+          commit_user_email: "39641663+luarss@users.noreply.github.com"
+          commit_author: "luarss <39641663+luarss@users.noreply.github.com>"
+      - name: Continue backfill
+        if: github.event_name == 'workflow_dispatch' && inputs.backfill
+        run: |
+          if grep -Eq '^total_pending=0$' "$RUNNER_TEMP/stats.txt"; then
+            echo "Backfill complete"
+            exit 0
+          fi
+          args=(-f backfill=true -f max_pages="$INPUT_MAX_PAGES")
+          if [ -n "$INPUT_VENDOR" ]; then
+            args+=(-f vendor="$INPUT_VENDOR")
+          fi
+          gh workflow run ocr.yaml --repo "$GITHUB_REPOSITORY" --ref master "${args[@]}"
