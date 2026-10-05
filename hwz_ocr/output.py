@@ -188,11 +188,13 @@ def create_prices_table(connection: duckdb.DuckDBPyConnection, csv_paths: list[P
     connection.execute(f"CREATE TABLE prices ({column_definitions})")
     if not csv_paths:
         return
-    columns_struct = ", ".join(
-        f"'{column}': '{column_type}'" for column, column_type in ROLLUP_COLUMN_TYPES.items()
+    select_list = ", ".join(
+        f"CAST(NULLIF({column}, '') AS {column_type}) AS {column}"
+        for column, column_type in ROLLUP_COLUMN_TYPES.items()
     )
     connection.execute(
-        f"INSERT INTO prices SELECT * FROM read_csv(?, header = true, columns = {{{columns_struct}}})",
+        f"INSERT INTO prices SELECT {select_list} "
+        "FROM read_csv(?, header = true, all_varchar = true, union_by_name = true)",
         [[str(path) for path in csv_paths]],
     )
 
