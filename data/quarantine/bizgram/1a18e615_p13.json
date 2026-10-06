@@ -1,0 +1,3074 @@
+{
+  "sha256": "1a18e615ac27ba8ab07ae024d4749d3da7dd33d2a4d721c34248aafa84c04f25",
+  "vendor": "bizgram",
+  "page_number": 13,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI Serial Card RS232 9 pin",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI Parallel card LPT1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI 56K Modem Dial-Up",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI IDE Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI Sound Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI Firewire Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus HG100 Smart Home Gateway",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus MS101 Smart Home Motion Sensor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus WS101 Smart Home Open/Close Sensor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus MW250 Smart Home Meter Plug",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus AS101 Smart Home Siren",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus TS101 Temperature/Humidity Sensor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "Asus Smart Home Products - Backorder",
+      "brand": "Asus",
+      "product": "Asus DL101 Smart Home Door Lock",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer DeathAdder Elite - Ergonomic",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Deathadder V2 - Ergonomic Wir",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Basilisk - Multi-color FPS Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Basilisk V2 - Ergonomic Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Naga Trinity - Multi-color Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Viper - Ambidextrous Wired Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Viper Mini - Wired Gaming Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Mamba Elite - Right-Handed Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Atheris - Mobile Mouse - AP P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Basilisk X HyperSpeed - Wirel",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Basilisk Ultimate -Wireless G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Viper Ultimate - Wireless Gam",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Mamba Wireless - Right-Handed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Mamba HyperFlux & Razer Firef",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Vespula V2 Mouse Mat",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Firefly V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Firefly - Hard Gaming Mouse Mat",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Firelfy Cloth Edition - Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Goliathus Chroma Soft Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Goliathus Chroma Extended - S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Gigantus Elite Soft Gaming Mo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Goliathus Mobile Stealth Edit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Sphex V2 - Gaming Mouse Mat -",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Sphex V2 Mini - Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Huntsman Elite – Opto-Mechani",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Huntsman Elite – Optical Gami",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Huntsman – Opto-Mechanical Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Huntsman Tournament Edition –",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer BlackWidow Elite - Mechanical",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer BlackWidow Elite - Mechanical",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer BlackWidow Elite - Mechanical",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer BlackWidow - Mechanical Gamin",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Ornata Chroma – Multi-color M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Cynosa Chroma Multicolor MEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Orbweaver Chroma - Elite RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Tartarus Pro – Analog Optical",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Tartarus V2 Mecha-Membrane Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nari Ultimate - Wireless Gami",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nari - Wireless Gaming Headse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nari Essential - Essential Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken Kitty - Chroma USB Gam",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 221.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken Kitty - Chroma USB Gam",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 221.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken Ultimate",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 211.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken Tournament Edition - W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken Tournament Edition - W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken - Multi-Platform Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken - Multi-Platform Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken X – Multi-Platform Wir",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken X USB – Digital Surrou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead True Wireless - Ea",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead BT - Wireless In-E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead Lightning – Digita",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead for iOS Mercury Ed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead USB-C ANC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead USB-C - Digital Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead Duo - FRML Packagi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead V2 – Analog Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Hammerhead Pro V2 – Analog Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nommo Pro - 2.1 Gaming Speake",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nommo Chroma 2.0 Gaming Speak",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nommo 2.0 Gaming Speakers",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Leviathan - Elite Gaming & Mu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Raiju Ultimate - Wireless and",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Raiju Tournament Edition - Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Raiju Mobile Gaming Controlle",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Raion Fightpad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Panthera Evo Arcade Stick for",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Thresher Ultimate for PlaySta",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Thresher Designed for PS4 – W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Ripsaw HD - Game Capture Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Sila – Mesh Gaming Router - E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Portal Smart WiFi Dual-Band (AC2400",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Basilisk - Multi-color FPS Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Huntsman – Opto-Mechanical Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken - Multi-Platform Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Goliathus Extended Chroma - S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Raiju Tournament Edition - Qu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Seiren X Quartz Edition - FRM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Base Station Chroma - Chroma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Atheris - Mobile Mouse - Merc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Basilisk - Multi-color FPS Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Huntsman – Opto-Mechanical Ga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer BlackWidow Lite – Silent Mech",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Kraken - Multi-Platform Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Goliathus Extended Chroma - S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Raiju Tournament Edition - Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Seiren X - Condenser Streamin",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Base Station Chroma - Chroma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Base Station Chroma - Chroma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Mouse Bungee - Mouse Cord Man",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Ergonomic Wrist Rest Pro For",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Ergonomic Wrist Rest For Full",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Protective Sleeve for 13” Not",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Nylon Sleeve (17”)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Razer Blade Nylon Stealth Bag",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Tactical Backpack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.9
+    },
+    {
+      "category": "Razer Gaming Products - Backorder",
+      "brand": "Razer",
+      "product": "Razer Rogue Backpack (15.6”)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.9
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair 4-IN-1 GAMING BUNDLE, 2022 Edition (K55 RGB Pro, Harpoon RGB Pro, HS55 Stereo, MM100 Mouse Pad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – Black – Hot Swappable - Cherry MX Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – Black – Hot Swappable - Cherry MX Speed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – White – Hot Swappable - Cherry MX Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – White – Hot Swappable - Cherry MX Speed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard - White - Cherry MX Speed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "CORSAIR K65 PRO MINI RGB 65% Optical-Mechanical Gaming Keyboard, CORSAIR OPX Switches, Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB TKL Champion Optical-Mechanical Gaming Keyboard - Corsair OPX Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K60 RGB PRO TKL Tenkeyless Optical-Mechanical Gaming Keyboard - Corsair OPX Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K60 RGB PRO TKL Tenkeyless Optical-Mechanical Gaming Keyboard - Corsair OPX Switch - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 CORE RGB Mechanical Gaming Keyboard - CORSAIR Red Linear Switch - Rotary Dial",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "CORSAIR K65 PLUS WIRELESS RGB 75% Gaming Keyboard - Hot Swappable Linear Mechanical Keyswitches (Tri-Mode)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard - Corsair MGX Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB PRO Optical-Mechanical Gaming Keyboard - Corsair OPX Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB PRO Optical-Mechanical Gaming Keyboard - White - Corsair OPX Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - Cherry MX Blue",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - Cherry MX Brown",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - Cherry MX Speed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K60 RGB PRO SE Mechanical Gaming Keyboard - Cherry VIOLA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K60 PRO Mechanical Gaming Keyboard (Red LED) - Cherry VIOLA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 140.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K55 RGB PRO LITE Gaming Keyboard (IP42 Protection, Spill Resistance)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "CORSAIR K55 CORE RGB Gaming Keyboard (Dedicated Media Controls, 300ml SPILL RESISTANCE)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair K100 RGB Mechanical Gaming Keyboard - Cherry MX Speed",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 375.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair iCUE NEXUS Companion Touch Screen, 5” TFT LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Onyx Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Mint Green",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Origin Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair VIRTUOSO PRO Wired Open Back Streaming/Gaming Headset, Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair VIRTUOSO PRO Wired Open Back Streaming/Gaming Headset, White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair Gaming™ Virtuoso RGB Wireless SE High Fidelity Gaming Headset - Espresso",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 335.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair Gaming™ Virtuoso RGB Wireless SE High Fidelity Gaming Headset - Gunmetal",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 335.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair Gaming™ Virtuoso RGB Wireless High Fidelity Gaming Headset - Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 285.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair Gaming™ Virtuoso RGB Wireless High Fidelity Gaming Headset - Pearl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 285.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair Gaming™ Virtuoso RGB Wireless High Fidelity Gaming Headset - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 285.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS80 MAX Wireless Premium Gaming Headset with Spatial Audio - Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS80 MAX Wireless Premium Gaming Headset with Spatial Audio - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS80 RGB Wireless Premium Gaming Headset with Spatial Audio - Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS80 RGB Wireless Premium Gaming Headset with Spatial Audio - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS80 RGB USB Premium Gaming Headset with 7.1 Surround Sound, Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS80 RGB USB Premium Gaming Headset with 7.1 Surround Sound, White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS65 Wireless Gaming Headset with DOLBY AUDIO 7.1 SURROUND, Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS65 Wireless Gaming Headset with DOLBY AUDIO 7.1 SURROUND, White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS55 Wireless CORE Gaming Headset, Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS70 Bluetooth Multi-Platform Wired Gaming Headset",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS50 Pro Gaming Headset - Green",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS50 Pro Gaming Headset - Blue",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS55 Surround Gaming Headset, Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS55 Surround Gaming Headset, White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS60 Pro Gaming Headset - Yellow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS65 Surround Gaming Headset, Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS65 Surround Gaming Headset, White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS70 Pro Wireless SE Gaming Headset - Cream",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HS70 Pro Wireless Gaming Headset - Carbon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair ST50 Premium Headset Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair ST100 RGB Premium Headset Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "CORSAIR M75 RGB Lightweight Wired Gaming Mouse - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair M75 AIR WIRELESS Ultra-Lightweight Gaming Mouse - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair M75 RGB Lightweight Wireless Gaming Mouse - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair M75 RGB Lightweight Wireless Gaming Mouse - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair DARKSTAR Wireless MMO/MOBA Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair NIGHTSABRE Wireless RGB Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair SCIMITAR ELITE Wirelesss MMO/MOBA Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair SABRE RGB PRO CHAMPION Optical Gaming Mouse, Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair SABRE RGB PRO Wireless Champion Optical Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair KATAR PRO Wired Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair KATAR ELITE Wireless Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "Corsair Keyboard Headsets Mouse Gaming",
+      "brand": "Corsair",
+      "product": "Corsair HARPOON RGB Wireless Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Corsair MM500 Premium Ant-Fray Cloth Gaming Mouse Pad - Extended 3XL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Corsair MM150 Ultra-Thin Gaming Mouse Pad - Medium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Medium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Extended",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Corsair MM350 PRO Premium Spill-Proof Gaming Mouse Pad - Extended XL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Corsair MM700 RGB Extended Mouse Pad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": "ANKER Accessories and Product",
+      "brand": "Anker",
+      "product": "Anker PowerCam Webcam PowerConf C300 A3361011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.9
+    },
+    {
+      "category": "ANKER Accessories and Product",
+      "brand": "Anker",
+      "product": "Anker PowerConf S500 speakerphone A3305011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "ANKER Accessories and Product",
+      "brand": "Anker",
+      "product": "Anker PowerConf Bluetooth Speakerphone with 6 Microphones A3301011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.9
+    },
+    {
+      "category": "ANKER Accessories and Product",
+      "brand": "Anker",
+      "product": "Anker PowerConf+ Bluetooth Speakerphone with 6 Microphones A3306011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": "ANKER Accessories and Product",
+      "brand": "Anker",
+      "product": "Anker PowerConf H500 Headset with Mic A3511011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore III Sense 10K Wireless Powerbank A1617H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore 10000mah Redux 25W PD A1246H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore III 10000mah A1247H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore III Sense 10000mah 20W PD A1248H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 533 PowerCore 10000mAh 30W PD PowerBank PPS Charging Black A1256H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 321 Magnetic Battery (MagGo 5000mah) Black A1616H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 321 Magnetic Battery (MagGo 5000mah) White A1616H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore Magnetic 5K with Bracket Black A1611H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore Magnetic 5K with Bracket White A1611H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore Magnetic 5K with Bracket Blue A1611H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 633 Magnetic Battery (MagGo) 10000mah Black A1641H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 633 Magnetic Battery (MagGo) 10000mah White A1641H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 633 Magnetic Battery (MagGo) 10000mah Blue A1641H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 334 MagGo Magnetic Powerbank 10000mAh Black A1642H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 334 MagGo Magnetic Powerbank 10000mAh White A1642H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "ANKER POWERCORE ESSENTIAL 20000 BLACK A1268H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 325 PowerBank (PowerCore 20K II) Black A1286H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 325 PowerBank (PowerCore 20K II) White A1286H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "ANKER POWERCORE ESSENTIAL 20000 PD 20W Black A1287H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "ANKER POWERCORE 26800MAH POWERBANK BLACK A1277H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker PowerCore III Elite 19200mah 60W A1284H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 537 PowerBank PowerCore 24000mah 65W Gray A1379H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.9
+    },
+    {
+      "category": "Powerbank",
+      "brand": "Anker",
+      "product": "Anker 737 Power Bank 140W (PowerCore 24000mah) GanPrime A1289011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.9
+    },
+    {
+      "category": "PowerHouse / Power Station",
+      "brand": "Anker",
+      "product": "ANKER POWERHOUSE II 400 A1730211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": "PowerHouse / Power Station",
+      "brand": "Anker",
+      "product": "Anker 521 Portable Power Station (PowerHouse 256Wh) A1720213",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "PowerHouse / Power Station",
+      "brand": "Anker",
+      "product": "Anker 535 Portable Power Station (PowerHouse 512Wh) A1751211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "PowerHouse / Power Station",
+      "brand": "Anker",
+      "product": "Anker 757 Portable Power Station A1770211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerExtend USB 4 strip White A9141K21 (4 Plug + 2 USB)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerExtend PD 3 with 1 PD 2 USB Strip (3 Plug + 2 USB + 1 USB C) A9136K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerPort Mini 2 USB Port 12W Total White A2620222",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER 24W 4.8A 2-PORT USB CHARGER SG PLUG A2021K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER POWERPORT 6 60W 12A 6-PORT DESKTOP CHARGER SG PLUG (BLACK) A2123K12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker Nano Pro Charger Dual USB C 40W SG Plug Black A2038K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker Nano Pro Charger Dual USB C 40W SG Plug White A2038K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerPort III Nano-20W version-High voltage black (PD) A2633K12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerPort III Nano-20W version-High voltage white (PD) A2633K22",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 511 Charger (Nano 3, 30W) Black A2147K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 511 Charger (Nano 3, 30W) White A2147K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 511 Charger (Nano 3, 30W) Blue A2147K31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 737 Charger (GaNPrime 120W) Black A2148211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerPort III 20W Cube Black A2149K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerPort III 20W Cube White A2149K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 313 Charger 45W Black (Samsung Super Fast Charge) A2643K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 313 Charger 45W Black (Samsung Super Fast Charge) A2643K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker PowerPort III 3-Port 65W Pod 2C+1A A2667K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 735 Charger (GaNPrime 65W) 2C+1A Black A2668211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 735 Charger (GaNPrime 65W) 2C+1A Golden A26682B1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER POWERPORT I WITH 1 USB C POWER DELIVERY & 4 PowerIQ SG PLUG BLACK A2056K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER POWERPORT ATOM III SLIM 4 Ports 65W (USB C 45W) A2045K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 725 Charger (65W) 1A + 1C Black A2325K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 323 Charger (33W) 1A + 1C Black A2331K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 323 Charger (33W) 1A + 1C White A2331K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 323 Charger (33W) 1A + 1C White A2331K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 563 USB-C Hub (11-in-1) A83850A3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.95
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "Anker 323 Charger (33W) 1A + 1C White A2331K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB USB Black A2046212",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III LIGHTNING CABLE 3FT BLACK A8812H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB BLACK A8812H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": "Charger",
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III LIGHTNING CABLE 3FT BLACK A7516012",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA BY ANKER MARS II PRO PORTABLE PROJECTOR - BLACK D2323211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA COSMOS MAX 4K HOME ENTERTAINMENT PROJECTOR D2150211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1999.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NUBULA COSMOS 1080P HOME ENTERTAINMENT PROJECTOR D2140211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Nebula Cosmos Laser 4K Projector B2C - UK Black+Gray Iteration 1 Nebula Polaris Pro D23502F1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3099.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA BY ANKER CAPSULE II PORTABLE PROJECTOR BLACK D2421V11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA BY ANKER APOLLO UK BLACK D2410V11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Nebula Capsule II/Capsule Max Travel Case B2C - US Black Iteration 2 Capsule II/Capsule Max Trav D0708112",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Nebula Apollo Carry Case B2C - US Black Iteration 1 Apollo Carry Case D0709111",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.95
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Air - Black FB203BK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Air - White FB203WT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Charge 5, Black/Graphite FB421BKBK-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Charge 5, Lunar White/Soft Gold FB421GLWT-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Charge 5, Steel Blue/Platinum FB421SRBU-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Luxe Black/Black FB422BKBK-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Luxe Soft Gold/White FB422GLWT-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Luxe Platinum/Orchid FB422SRMG-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "FITBIT ACE 3 BLACK/RACER RED-FRCJK FB419BKRD-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "FITBIT ACE 3 COSMIC BLUE/GREEN-FRCJK FB419BKBU-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Inspire 3 Black/Midnight Zen FB424BKBK-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Inspire 3 Black/Morning Glow FB424BKYW-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Inspire 3 Black/Lilac Bliss FB424BKLV-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 3 Black FB511BKBK-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 3 Midnight/Soft Gold FB511GLNV-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 3 Pink Clay/Soft Gold FB511GLPK-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Sense 2 Graphite/Graphite FB521BKGB-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 428.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Sense 2 Lunar White/Platinum FB521SRWT-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 428.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Sense 2 Blue Mist/Pale Gold FB521GLBM-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 428.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 4 Black/Graphite FB523BKBK-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 358.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 4 Pink Sand/Copper Rose FB523RGRW-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 358.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 4 Waterfall Blue/Platinum FB523SRAG-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 358.0
+    },
+    {
+      "category": "Fitbit Smartwear SmartWatch Health Product",
+      "brand": "Fitbit",
+      "product": "Fitbit Versa 4 Beet/Copper Rose FB523RGRD-FRCJK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 358.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP AMP300 Hybrid Gaming Mo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP AMP500 Hybrid Gaming Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AMP 900 MICRO FABRIC SPILL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS P7 RGB Mouse Pad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte M6880X USB 1600 DPI LASER T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS M2 USB 6200 DPI OPTIC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS M5 USB 16000 DPI OPTI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS H1 USB GAMING STEREO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS H5 USB GAMING STEREO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte KM6300 LOW PROFILE MULTIMED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM FORCE M9 ICE Performance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM XM300 Gaming Optical Sen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM KRYPTON Aivia Krypton Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM URANIUM AIVIA URANIUM WI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM NEON Dynamic Wireless Pr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GK FORCE K81 BLUE GIGABYTE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GK AORUS K1 Cherry MX Mecha",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GK AORUS K7 Cherry MX Mecha",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT102464BD160B 1600 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT102464BF160B 1600 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT4G4DFS824A 2400 DESKTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT4G4DFS8266 2666 DESKTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT4G4SFS824A 2400 LAPTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT4G4SFS8266 2666 LAPTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT16G4DFD8266 2666 DESKTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT16G4DFD832A 3200 DESKTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFD824A 2400 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFD8266 2666 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFD832A 3200 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFS8266 2666 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT32G4DFD8266 2666 DESKTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT32G4SFD8266 2666 LAPTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT51264BD160B 1600 DESKTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT51264BF160B 1600 LAPTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFRA266 2666 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFS824A 2400 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFS8266 2666 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS6266 2666 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS824A 2400 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS8266 2666 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS832A 3200 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFS832A 3200 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT32G4DFD832A 3200 DESKTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial CT32G4SFD832A 3200 LAPTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial Ballistix BL8G32C16U4B 3200Mhz",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial Ballistix BL8G32C16U4R 3200Mhz",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Crucial Ram Part Numbers",
+      "brand": "Crucial",
+      "product": "Crucial Ballistix BL8G32C16U4W 3200Mhz",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD220Q 50 TS500GSSD220Q",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD220Q 1T TS1TSSD220Q",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD220Q 2T TS2TSSD220Q",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 12 TS128GSSD230S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 25 TS256GSSD230S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 51 TS512GSSD230S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 1T TS1TSSD230S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 2T TS2TSSD230S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD220 120 TS120GSSD220S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD220 240 TS240GSSD220S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend SSD220 480 TS480GSSD220S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend MTS820S 12 TS120GMTS820S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": "Transcend Ram / SSD / Cards / Apple Solution",
+      "brand": "Transcend",
+      "product": "Transcend MTS820S 24 TS240GMTS820S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    }
+  ],
+  "numeric_tokens_in_source": 153,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 340 rows, limit 311",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": null, \"product\": \"PCI Serial Card RS232 9 pin\", \"price_sgd\": 45},\n  {\"category\": null, \"brand\": null, \"product\": \"PCI Parallel card LPT1\", \"price_sgd\": 45},\n  {\"category\": null, \"brand\": null, \"product\": \"PCI 56K Modem Dial-Up\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": null, \"product\": \"PCI IDE Card\", \"price_sgd\": 45},\n  {\"category\": null, \"brand\": null, \"product\": \"PCI Sound Card\", \"price_sgd\": 35},\n  {\"category\": null, \"brand\": null, \"product\": \"PCI Firewire Card\", \"price_sgd\": 75},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus HG100 Smart Home Gateway\", \"price_sgd\": 339},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus MS101 Smart Home Motion Sensor\", \"price_sgd\": 109},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus WS101 Smart Home Open/Close Sensor\", \"price_sgd\": 69},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus MW250 Smart Home Meter Plug\", \"price_sgd\": 99},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus AS101 Smart Home Siren\", \"price_sgd\": 99},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus TS101 Temperature/Humidity Sensor\", \"price_sgd\": 69},\n  {\"category\": \"Asus Smart Home Products - Backorder\", \"brand\": \"Asus\", \"product\": \"Asus DL101 Smart Home Door Lock\", \"price_sgd\": 599},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer DeathAdder Elite - Ergonomic\", \"price_sgd\": 109.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Deathadder V2 - Ergonomic Wir\", \"price_sgd\": 109.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Basilisk - Multi-color FPS Ga\", \"price_sgd\": 109.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Basilisk V2 - Ergonomic Wired\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Naga Trinity - Multi-color Wi\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Viper - Ambidextrous Wired Ga\", \"price_sgd\": 124.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Viper Mini - Wired Gaming Mou\", \"price_sgd\": 69.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Mamba Elite - Right-Handed Ga\", \"price_sgd\": 149.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Atheris - Mobile Mouse - AP P\", \"price_sgd\": 84.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Basilisk X HyperSpeed - Wirel\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Basilisk Ultimate -Wireless G\", \"price_sgd\": 259.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Viper Ultimate - Wireless Gam\", \"price_sgd\": 230.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Mamba Wireless - Right-Handed\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Mamba HyperFlux & Razer Firef\", \"price_sgd\": 399.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Vespula V2 Mouse Mat\", \"price_sgd\": 59.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Firefly V2\", \"price_sgd\": 79.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Firefly - Hard Gaming Mouse Mat\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Firelfy Cloth Edition - Gaming\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Chroma Soft Gaming\", \"price_sgd\": 59.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Chroma Extended - S\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Gigantus Elite Soft Gaming Mo\", \"price_sgd\": 49.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Mobile Stealth Edit\", \"price_sgd\": 13.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Sphex V2 - Gaming Mouse Mat -\", \"price_sgd\": 24.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Sphex V2 Mini - Gaming Mouse\", \"price_sgd\": 13.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Huntsman Elite – Opto-Mechani\", \"price_sgd\": 339.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Huntsman Elite – Optical Gami\", \"price_sgd\": 339.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Huntsman – Opto-Mechanical Ga\", \"price_sgd\": 229.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Huntsman Tournament Edition –\", \"price_sgd\": 199.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer BlackWidow Elite - Mechanical\", \"price_sgd\": 279.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer BlackWidow Elite - Mechanical\", \"price_sgd\": 279.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer BlackWidow Elite - Mechanical\", \"price_sgd\": 279.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer BlackWidow - Mechanical Gamin\", \"price_sgd\": 199.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Ornata Chroma – Multi-color M\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Cynosa Chroma Multicolor MEM\", \"price_sgd\": 99.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Orbweaver Chroma - Elite RGB\", \"price_sgd\": 239.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Tartarus Pro – Analog Optical\", \"price_sgd\": 206.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Tartarus V2 Mecha-Membrane Ga\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nari Ultimate - Wireless Gami\", \"price_sgd\": 309.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nari - Wireless Gaming Headse\", \"price_sgd\": 229.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nari Essential - Essential Wi\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken Kitty - Chroma USB Gam\", \"price_sgd\": 221.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken Kitty - Chroma USB Gam\", \"price_sgd\": 221.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken Ultimate\", \"price_sgd\": 211.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken Tournament Edition - W\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken Tournament Edition - W\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken - Multi-Platform Wired\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken - Multi-Platform Wired\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken X – Multi-Platform Wir\", \"price_sgd\": 79.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken X USB – Digital Surrou\", \"price_sgd\": 92.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead True Wireless - Ea\", \"price_sgd\": 158.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead BT - Wireless In-E\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead Lightning – Digita\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead for iOS Mercury Ed\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead USB-C ANC\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead USB-C - Digital Ga\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead Duo - FRML Packagi\", \"price_sgd\": 99.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead V2 – Analog Gaming\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Hammerhead Pro V2 – Analog Ga\", \"price_sgd\": 124.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nommo Pro - 2.1 Gaming Speake\", \"price_sgd\": 799.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nommo Chroma 2.0 Gaming Speak\", \"price_sgd\": 229.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nommo 2.0 Gaming Speakers\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Leviathan - Elite Gaming & Mu\", \"price_sgd\": 329.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Raiju Ultimate - Wireless and\", \"price_sgd\": 359.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Raiju Tournament Edition - Wi\", \"price_sgd\": 239.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Raiju Mobile Gaming Controlle\", \"price_sgd\": 239.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Raion Fightpad\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Panthera Evo Arcade Stick for\", \"price_sgd\": 329.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Thresher Ultimate for PlaySta\", \"price_sgd\": 419.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Thresher Designed for PS4 – W\", \"price_sgd\": 209.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Ripsaw HD - Game Capture Card\", \"price_sgd\": 269.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Sila – Mesh Gaming Router - E\", \"price_sgd\": 409.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Portal Smart WiFi Dual-Band (AC2400\", \"price_sgd\": 249.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Basilisk - Multi-color FPS Ga\", \"price_sgd\": 109.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Huntsman – Opto-Mechanical Ga\", \"price_sgd\": 229.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken - Multi-Platform Wired\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Extended Chroma - S\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Raiju Tournament Edition - Qu\", \"price_sgd\": 239.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Seiren X Quartz Edition - FRM\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Base Station Chroma - Chroma\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Atheris - Mobile Mouse - Merc\", \"price_sgd\": 84.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Basilisk - Multi-color FPS Ga\", \"price_sgd\": 109.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Huntsman – Opto-Mechanical Ga\", \"price_sgd\": 229.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer BlackWidow Lite – Silent Mech\", \"price_sgd\": 149.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Kraken - Multi-Platform Wired\", \"price_sgd\": 129.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Extended Chroma - S\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Raiju Tournament Edition - Wi\", \"price_sgd\": 239.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Seiren X - Condenser Streamin\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Base Station Chroma - Chroma\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Base Station Chroma - Chroma\", \"price_sgd\": 89.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Mouse Bungee - Mouse Cord Man\", \"price_sgd\": 29.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Ergonomic Wrist Rest Pro For\", \"price_sgd\": 56.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Ergonomic Wrist Rest For Full\", \"price_sgd\": 32.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Protective Sleeve for 13” Not\", \"price_sgd\": 59.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Nylon Sleeve (17”)\", \"price_sgd\": 59.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Razer Blade Nylon Stealth Bag\", \"price_sgd\": 159.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Tactical Backpack\", \"price_sgd\": 249.9},\n  {\"category\": \"Razer Gaming Products - Backorder\", \"brand\": \"Razer\", \"product\": \"Razer Rogue Backpack (15.6”)\", \"price_sgd\": 149.9},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair 4-IN-1 GAMING BUNDLE, 2022 Edition (K55 RGB Pro, Harpoon RGB Pro, HS55 Stereo, MM100 Mouse Pad\", \"price_sgd\": 192},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – Black – Hot Swappable - Cherry MX Red\", \"price_sgd\": 305},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – Black – Hot Swappable - Cherry MX Speed\", \"price_sgd\": 305},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – White – Hot Swappable - Cherry MX Red\", \"price_sgd\": 305},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 PRO MINI WIRELESS RGB 60% Mechanical Gaming Keyboard – White – Hot Swappable - Cherry MX Speed\", \"price_sgd\": 305},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard - White - Cherry MX Speed\", \"price_sgd\": 182},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"CORSAIR K65 PRO MINI RGB 65% Optical-Mechanical Gaming Keyboard, CORSAIR OPX Switches, Black\", \"price_sgd\": 185},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 RGB TKL Champion Optical-Mechanical Gaming Keyboard - Corsair OPX Switch\", \"price_sgd\": 235},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K60 RGB PRO TKL Tenkeyless Optical-Mechanical Gaming Keyboard - Corsair OPX Switch\", \"price_sgd\": 159},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K60 RGB PRO TKL Tenkeyless Optical-Mechanical Gaming Keyboard - Corsair OPX Switch - White\", \"price_sgd\": 159},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 CORE RGB Mechanical Gaming Keyboard - CORSAIR Red Linear Switch - Rotary Dial\", \"price_sgd\": 159},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"CORSAIR K65 PLUS WIRELESS RGB 75% Gaming Keyboard - Hot Swappable Linear Mechanical Keyswitches (Tri-Mode)\", \"price_sgd\": 239},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 MAX RGB Magnetic-Mechanical Gaming Keyboard - Corsair MGX Switch\", \"price_sgd\": 379},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 RGB PRO Optical-Mechanical Gaming Keyboard - Corsair OPX Switch\", \"price_sgd\": 275},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 RGB PRO Optical-Mechanical Gaming Keyboard - White - Corsair OPX Switch\", \"price_sgd\": 275},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - Cherry MX Blue\", \"price_sgd\": 255},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - Cherry MX Brown\", \"price_sgd\": 255},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K70 RGB PRO Mechanical Gaming Keyboard with PBT DOUBLE SHOT PRO Keycaps - Cherry MX Speed\", \"price_sgd\": 265},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K60 RGB PRO SE Mechanical Gaming Keyboard - Cherry VIOLA\", \"price_sgd\": 172},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K60 PRO Mechanical Gaming Keyboard (Red LED) - Cherry VIOLA\", \"price_sgd\": 140},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K55 RGB PRO LITE Gaming Keyboard (IP42 Protection, Spill Resistance)\", \"price_sgd\": 79},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"CORSAIR K55 CORE RGB Gaming Keyboard (Dedicated Media Controls, 300ml SPILL RESISTANCE)\", \"price_sgd\": 49},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair K100 RGB Mechanical Gaming Keyboard - Cherry MX Speed\", \"price_sgd\": 375},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair iCUE NEXUS Companion Touch Screen, 5” TFT LCD\", \"price_sgd\": 162},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Onyx Black\", \"price_sgd\": 49},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Mint Green\", \"price_sgd\": 49},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Origin Red\", \"price_sgd\": 49},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair VIRTUOSO PRO Wired Open Back Streaming/Gaming Headset, Carbon\", \"price_sgd\": 329},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair VIRTUOSO PRO Wired Open Back Streaming/Gaming Headset, White\", \"price_sgd\": 329},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair Gaming™ Virtuoso RGB Wireless SE High Fidelity Gaming Headset - Espresso\", \"price_sgd\": 335},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair Gaming™ Virtuoso RGB Wireless SE High Fidelity Gaming Headset - Gunmetal\", \"price_sgd\": 335},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair Gaming™ Virtuoso RGB Wireless High Fidelity Gaming Headset - Carbon\", \"price_sgd\": 285},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair Gaming™ Virtuoso RGB Wireless High Fidelity Gaming Headset - Pearl\", \"price_sgd\": 285},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair Gaming™ Virtuoso RGB Wireless High Fidelity Gaming Headset - White\", \"price_sgd\": 285},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - Carbon\", \"price_sgd\": 192},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - White\", \"price_sgd\": 192},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS80 MAX Wireless Premium Gaming Headset with Spatial Audio - Carbon\", \"price_sgd\": 255},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS80 MAX Wireless Premium Gaming Headset with Spatial Audio - White\", \"price_sgd\": 255},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS80 RGB Wireless Premium Gaming Headset with Spatial Audio - Carbon\", \"price_sgd\": 235},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS80 RGB Wireless Premium Gaming Headset with Spatial Audio - White\", \"price_sgd\": 235},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS80 RGB USB Premium Gaming Headset with 7.1 Surround Sound, Carbon\", \"price_sgd\": 172},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS80 RGB USB Premium Gaming Headset with 7.1 Surround Sound, White\", \"price_sgd\": 172},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS65 Wireless Gaming Headset with DOLBY AUDIO 7.1 SURROUND, Carbon\", \"price_sgd\": 199},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS65 Wireless Gaming Headset with DOLBY AUDIO 7.1 SURROUND, White\", \"price_sgd\": 199},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS55 Wireless CORE Gaming Headset, Carbon\", \"price_sgd\": 119},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS70 Bluetooth Multi-Platform Wired Gaming Headset\", \"price_sgd\": 182},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS50 Pro Gaming Headset - Green\", \"price_sgd\": 99},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS50 Pro Gaming Headset - Blue\", \"price_sgd\": 99},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS55 Surround Gaming Headset, Carbon\", \"price_sgd\": 79},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS55 Surround Gaming Headset, White\", \"price_sgd\": 79},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS60 Pro Gaming Headset - Yellow\", \"price_sgd\": 129},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS65 Surround Gaming Headset, Carbon\", \"price_sgd\": 99},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS65 Surround Gaming Headset, White\", \"price_sgd\": 99},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS70 Pro Wireless SE Gaming Headset - Cream\", \"price_sgd\": 182},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HS70 Pro Wireless Gaming Headset - Carbon\", \"price_sgd\": 182},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair ST50 Premium Headset Stand\", \"price_sgd\": 69},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair ST100 RGB Premium Headset Stand\", \"price_sgd\": 129},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"CORSAIR M75 RGB Lightweight Wired Gaming Mouse - Black\", \"price_sgd\": 119},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair M75 AIR WIRELESS Ultra-Lightweight Gaming Mouse - Black\", \"price_sgd\": 149},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair M75 RGB Lightweight Wireless Gaming Mouse - Black\", \"price_sgd\": 199},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair M75 RGB Lightweight Wireless Gaming Mouse - White\", \"price_sgd\": 199},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair DARKSTAR Wireless MMO/MOBA Gaming Mouse\", \"price_sgd\": 249},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair NIGHTSABRE Wireless RGB Gaming Mouse\", \"price_sgd\": 249},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair SCIMITAR ELITE Wirelesss MMO/MOBA Gaming Mouse\", \"price_sgd\": 209},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair SABRE RGB PRO CHAMPION Optical Gaming Mouse, Black\", \"price_sgd\": 75},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair SABRE RGB PRO Wireless Champion Optical Gaming Mouse\", \"price_sgd\": 119},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair KATAR PRO Wired Gaming Mouse\", \"price_sgd\": 27},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair KATAR ELITE Wireless Gaming Mouse\", \"price_sgd\": 89},\n  {\"category\": \"Corsair Keyboard Headsets Mouse Gaming\", \"brand\": \"Corsair\", \"product\": \"Corsair HARPOON RGB Wireless Gaming Mouse\", \"price_sgd\": 89},\n  {\"category\": null, \"brand\": null, \"product\": \"Corsair MM500 Premium Ant-Fray Cloth Gaming Mouse Pad - Extended 3XL\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": null, \"product\": \"Corsair MM150 Ultra-Thin Gaming Mouse Pad - Medium\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": null, \"product\": \"Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Medium\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": null, \"product\": \"Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Extended\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": null, \"product\": \"Corsair MM350 PRO Premium Spill-Proof Gaming Mouse Pad - Extended XL\", \"price_sgd\": 50},\n  {\"category\": null, \"brand\": null, \"product\": \"Corsair MM700 RGB Extended Mouse Pad\", \"price_sgd\": 100},\n  {\"category\": \"ANKER Accessories and Product\", \"brand\": \"Anker\", \"product\": \"Anker PowerCam Webcam PowerConf C300 A3361011\", \"price_sgd\": 189.9},\n  {\"category\": \"ANKER Accessories and Product\", \"brand\": \"Anker\", \"product\": \"Anker PowerConf S500 speakerphone A3305011\", \"price_sgd\": 299},\n  {\"category\": \"ANKER Accessories and Product\", \"brand\": \"Anker\", \"product\": \"Anker PowerConf Bluetooth Speakerphone with 6 Microphones A3301011\", \"price_sgd\": 189.9},\n  {\"category\": \"ANKER Accessories and Product\", \"brand\": \"Anker\", \"product\": \"Anker PowerConf+ Bluetooth Speakerphone with 6 Microphones A3306011\", \"price_sgd\": 229.9},\n  {\"category\": \"ANKER Accessories and Product\", \"brand\": \"Anker\", \"product\": \"Anker PowerConf H500 Headset with Mic A3511011\", \"price_sgd\": 199.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore III Sense 10K Wireless Powerbank A1617H11\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore 10000mah Redux 25W PD A1246H11\", \"price_sgd\": 69.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore III 10000mah A1247H11\", \"price_sgd\": 59.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore III Sense 10000mah 20W PD A1248H11\", \"price_sgd\": 69.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 533 PowerCore 10000mAh 30W PD PowerBank PPS Charging Black A1256H11\", \"price_sgd\": 69.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 321 Magnetic Battery (MagGo 5000mah) Black A1616H11\", \"price_sgd\": 59.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 321 Magnetic Battery (MagGo 5000mah) White A1616H21\", \"price_sgd\": 59.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore Magnetic 5K with Bracket Black A1611H11\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore Magnetic 5K with Bracket White A1611H21\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore Magnetic 5K with Bracket Blue A1611H31\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 633 Magnetic Battery (MagGo) 10000mah Black A1641H11\", \"price_sgd\": 109.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 633 Magnetic Battery (MagGo) 10000mah White A1641H21\", \"price_sgd\": 109.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 633 Magnetic Battery (MagGo) 10000mah Blue A1641H31\", \"price_sgd\": 109.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 334 MagGo Magnetic Powerbank 10000mAh Black A1642H11\", \"price_sgd\": 89.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 334 MagGo Magnetic Powerbank 10000mAh White A1642H21\", \"price_sgd\": 89.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"ANKER POWERCORE ESSENTIAL 20000 BLACK A1268H11\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 325 PowerBank (PowerCore 20K II) Black A1286H11\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 325 PowerBank (PowerCore 20K II) White A1286H21\", \"price_sgd\": 79.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"ANKER POWERCORE ESSENTIAL 20000 PD 20W Black A1287H11\", \"price_sgd\": 99.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"ANKER POWERCORE 26800MAH POWERBANK BLACK A1277H11\", \"price_sgd\": 99.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker PowerCore III Elite 19200mah 60W A1284H11\", \"price_sgd\": 119.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 537 PowerBank PowerCore 24000mah 65W Gray A1379H11\", \"price_sgd\": 139.9},\n  {\"category\": \"Powerbank\", \"brand\": \"Anker\", \"product\": \"Anker 737 Power Bank 140W (PowerCore 24000mah) GanPrime A1289011\", \"price_sgd\": 249.9},\n  {\"category\": \"PowerHouse / Power Station\", \"brand\": \"Anker\", \"product\": \"ANKER POWERHOUSE II 400 A1730211\", \"price_sgd\": 799},\n  {\"category\": \"PowerHouse / Power Station\", \"brand\": \"Anker\", \"product\": \"Anker 521 Portable Power Station (PowerHouse 256Wh) A1720213\", \"price_sgd\": 699},\n  {\"category\": \"PowerHouse / Power Station\", \"brand\": \"Anker\", \"product\": \"Anker 535 Portable Power Station (PowerHouse 512Wh) A1751211\", \"price_sgd\": 999},\n  {\"category\": \"PowerHouse / Power Station\", \"brand\": \"Anker\", \"product\": \"Anker 757 Portable Power Station A1770211\", \"price_sgd\": 2199},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerExtend USB 4 strip White A9141K21 (4 Plug + 2 USB)\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerExtend PD 3 with 1 PD 2 USB Strip (3 Plug + 2 USB + 1 USB C) A9136K21\", \"price_sgd\": 49.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerPort Mini 2 USB Port 12W Total White A2620222\", \"price_sgd\": 23.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER 24W 4.8A 2-PORT USB CHARGER SG PLUG A2021K11\", \"price_sgd\": 29.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER POWERPORT 6 60W 12A 6-PORT DESKTOP CHARGER SG PLUG (BLACK) A2123K12\", \"price_sgd\": 59.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker Nano Pro Charger Dual USB C 40W SG Plug Black A2038K11\", \"price_sgd\": 59.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker Nano Pro Charger Dual USB C 40W SG Plug White A2038K21\", \"price_sgd\": 59.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerPort III Nano-20W version-High voltage black (PD) A2633K12\", \"price_sgd\": 24.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerPort III Nano-20W version-High voltage white (PD) A2633K22\", \"price_sgd\": 24.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 511 Charger (Nano 3, 30W) Black A2147K11\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 511 Charger (Nano 3, 30W) White A2147K21\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 511 Charger (Nano 3, 30W) Blue A2147K31\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 737 Charger (GaNPrime 120W) Black A2148211\", \"price_sgd\": 129.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerPort III 20W Cube Black A2149K11\", \"price_sgd\": 24.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerPort III 20W Cube White A2149K21\", \"price_sgd\": 24.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 313 Charger 45W Black (Samsung Super Fast Charge) A2643K11\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 313 Charger 45W Black (Samsung Super Fast Charge) A2643K21\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker PowerPort III 3-Port 65W Pod 2C+1A A2667K11\", \"price_sgd\": 69.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 735 Charger (GaNPrime 65W) 2C+1A Black A2668211\", \"price_sgd\": 79.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 735 Charger (GaNPrime 65W) 2C+1A Golden A26682B1\", \"price_sgd\": 79.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER POWERPORT I WITH 1 USB C POWER DELIVERY & 4 PowerIQ SG PLUG BLACK A2056K11\", \"price_sgd\": 69.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER POWERPORT ATOM III SLIM 4 Ports 65W (USB C 45W) A2045K11\", \"price_sgd\": 65.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 725 Charger (65W) 1A + 1C Black A2325K11\", \"price_sgd\": 55.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 323 Charger (33W) 1A + 1C Black A2331K11\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 323 Charger (33W) 1A + 1C White A2331K21\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 323 Charger (33W) 1A + 1C White A2331K11\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 563 USB-C Hub (11-in-1) A83850A3\", \"price_sgd\": 139.95},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"Anker 323 Charger (33W) 1A + 1C White A2331K21\", \"price_sgd\": 39.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB USB Black A2046212\", \"price_sgd\": 69.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III LIGHTNING CABLE 3FT BLACK A8812H11\", \"price_sgd\": 29.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB BLACK A8812H21\", \"price_sgd\": 29.9},\n  {\"category\": \"Charger\", \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III LIGHTNING CABLE 3FT BLACK A7516012\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA BY ANKER MARS II PRO PORTABLE PROJECTOR - BLACK D2323211\", \"price_sgd\": 899},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA COSMOS MAX 4K HOME ENTERTAINMENT PROJECTOR D2150211\", \"price_sgd\": 1999},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NUBULA COSMOS 1080P HOME ENTERTAINMENT PROJECTOR D2140211\", \"price_sgd\": 1099},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Nebula Cosmos Laser 4K Projector B2C - UK Black+Gray Iteration 1 Nebula Polaris Pro D23502F1\", \"price_sgd\": 3099},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA BY ANKER CAPSULE II PORTABLE PROJECTOR BLACK D2421V11\", \"price_sgd\": 999},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA BY ANKER APOLLO UK BLACK D2410V11\", \"price_sgd\": 699},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Nebula Capsule II/Capsule Max Travel Case B2C - US Black Iteration 2 Capsule II/Capsule Max Trav D0708112\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Nebula Apollo Carry Case B2C - US Black Iteration 1 Apollo Carry Case D0709111\", \"price_sgd\": 49.95},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Air - Black FB203BK\", \"price_sgd\": 78},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Air - White FB203WT\", \"price_sgd\": 78},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Charge 5, Black/Graphite FB421BKBK-FRCJK\", \"price_sgd\": 238},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Charge 5, Lunar White/Soft Gold FB421GLWT-FRCJK\", \"price_sgd\": 238},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Charge 5, Steel Blue/Platinum FB421SRBU-FRCJK\", \"price_sgd\": 238},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Luxe Black/Black FB422BKBK-FRCJK\", \"price_sgd\": 198},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Luxe Soft Gold/White FB422GLWT-FRCJK\", \"price_sgd\": 198},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Luxe Platinum/Orchid FB422SRMG-FRCJK\", \"price_sgd\": 198},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"FITBIT ACE 3 BLACK/RACER RED-FRCJK FB419BKRD-FRCJK\", \"price_sgd\": 118},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"FITBIT ACE 3 COSMIC BLUE/GREEN-FRCJK FB419BKBU-FRCJK\", \"price_sgd\": 118},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Inspire 3 Black/Midnight Zen FB424BKBK-FRCJK\", \"price_sgd\": 148},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Inspire 3 Black/Morning Glow FB424BKYW-FRCJK\", \"price_sgd\": 148},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Inspire 3 Black/Lilac Bliss FB424BKLV-FRCJK\", \"price_sgd\": 148},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 3 Black FB511BKBK-FRCJK\", \"price_sgd\": 298},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 3 Midnight/Soft Gold FB511GLNV-FRCJK\", \"price_sgd\": 298},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 3 Pink Clay/Soft Gold FB511GLPK-FRCJK\", \"price_sgd\": 298},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Sense 2 Graphite/Graphite FB521BKGB-FRCJK\", \"price_sgd\": 428},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Sense 2 Lunar White/Platinum FB521SRWT-FRCJK\", \"price_sgd\": 428},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Sense 2 Blue Mist/Pale Gold FB521GLBM-FRCJK\", \"price_sgd\": 428},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 4 Black/Graphite FB523BKBK-FRCJK\", \"price_sgd\": 358},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 4 Pink Sand/Copper Rose FB523RGRW-FRCJK\", \"price_sgd\": 358},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 4 Waterfall Blue/Platinum FB523SRAG-FRCJK\", \"price_sgd\": 358},\n  {\"category\": \"Fitbit Smartwear SmartWatch Health Product\", \"brand\": \"Fitbit\", \"product\": \"Fitbit Versa 4 Beet/Copper Rose FB523RGRD-FRCJK\", \"price_sgd\": 358},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GP AMP300 Hybrid Gaming Mo\", \"price_sgd\": 39},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GP AMP500 Hybrid Gaming Mou\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AMP 900 MICRO FABRIC SPILL\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS P7 RGB Mouse Pad\", \"price_sgd\": 80},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte M6880X USB 1600 DPI LASER T\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS M2 USB 6200 DPI OPTIC\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS M5 USB 16000 DPI OPTI\", \"price_sgd\": 93},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS H1 USB GAMING STEREO\", \"price_sgd\": 93},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS H5 USB GAMING STEREO\", \"price_sgd\": 101},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte KM6300 LOW PROFILE MULTIMED\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM FORCE M9 ICE Performance\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM XM300 Gaming Optical Sen\", \"price_sgd\": 74},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM KRYPTON Aivia Krypton Du\", \"price_sgd\": 101},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM URANIUM AIVIA URANIUM WI\", \"price_sgd\": 169},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM NEON Dynamic Wireless Pr\", \"price_sgd\": 53},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GK FORCE K81 BLUE GIGABYTE\", \"price_sgd\": 104},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GK AORUS K1 Cherry MX Mecha\", \"price_sgd\": 147},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GK AORUS K7 Cherry MX Mecha\", \"price_sgd\": 182},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT102464BD160B 1600 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT102464BF160B 1600 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4DFS824A 2400 DESKTOP\", \"variant\": \"4GB\", \"price_sgd\": 4},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4DFS8266 2666 DESKTOP\", \"variant\": \"4GB\", \"price_sgd\": 4},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4SFS824A 2400 LAPTOP\", \"variant\": \"4GB\", \"price_sgd\": 4},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4SFS8266 2666 LAPTOP\", \"variant\": \"4GB\", \"price_sgd\": 4},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4DFD8266 2666 DESKTOP\", \"variant\": \"16GB\", \"price_sgd\": 16},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4DFD832A 3200 DESKTOP\", \"variant\": \"16GB\", \"price_sgd\": 16},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFD824A 2400 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 16},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFD8266 2666 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 16},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFD832A 3200 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 16},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFS8266 2666 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 16},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4DFD8266 2666 DESKTOP\", \"variant\": \"32GB\", \"price_sgd\": 32},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4SFD8266 2666 LAPTOP\", \"variant\": \"32GB\", \"price_sgd\": 32},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT51264BD160B 1600 DESKTOP\", \"variant\": \"4GB\", \"price_sgd\": 4},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT51264BF160B 1600 LAPTOP\", \"variant\": \"4GB\", \"price_sgd\": 4},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFRA266 2666 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFS824A 2400 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFS8266 2666 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS6266 2666 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS824A 2400 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS8266 2666 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS832A 3200 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFS832A 3200 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4DFD832A 3200 DESKTOP\", \"variant\": \"32GB\", \"price_sgd\": 32},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4SFD832A 3200 LAPTOP\", \"variant\": \"32GB\", \"price_sgd\": 32},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial Ballistix BL8G32C16U4B 3200Mhz\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial Ballistix BL8G32C16U4R 3200Mhz\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Crucial Ram Part Numbers\", \"brand\": \"Crucial\", \"product\": \"Crucial Ballistix BL8G32C16U4W 3200Mhz\", \"variant\": \"8GB\", \"price_sgd\": 8},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD220Q 50 TS500GSSD220Q\", \"price_sgd\": 89},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD220Q 1T TS1TSSD220Q\", \"price_sgd\": 155},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD220Q 2T TS2TSSD220Q\", \"price_sgd\": 299},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 12 TS128GSSD230S\", \"price_sgd\": 42},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 25 TS256GSSD230S\", \"price_sgd\": 65},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 51 TS512GSSD230S\", \"price_sgd\": 109},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 1T TS1TSSD230S\", \"price_sgd\": 199},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 2T TS2TSSD230S\", \"price_sgd\": 399},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD220 120 TS120GSSD220S\", \"price_sgd\": 34},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD220 240 TS240GSSD220S\", \"price_sgd\": 55},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend SSD220 480 TS480GSSD220S\", \"price_sgd\": 95},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend MTS820S 12 TS120GMTS820S\", \"price_sgd\": 34},\n  {\"category\": \"Transcend Ram / SSD / Cards / Apple Solution\", \"brand\": \"Transcend\", \"product\": \"Transcend MTS820S 24 TS240GMTS820S\", \"price_sgd\": 55}\n]}"
+}

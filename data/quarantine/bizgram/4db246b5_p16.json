@@ -1,0 +1,1823 @@
+{
+  "sha256": "4db246b50b24d8ce6a834e26405da5873071916e8246aada8cb8a383dda655cc",
+  "vendor": "bizgram",
+  "page_number": 16,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-PWR300AC 300W hot-swappable modular AC PSU with front-to-back airflow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 637.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-FAN100 Hot-swappable fan module with front-to-back airflow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": "L3 10 Gigabit Stackable Managed Switches",
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-16S/EEI 8 fixed SFP+ 10G ports with one expansion module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7662.0
+    },
+    {
+      "category": "L3 10 Gigabit Stackable Managed Switches",
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-16S/ESI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6772.0
+    },
+    {
+      "category": "L3 10 Gigabit Stackable Managed Switches",
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-16S-SE-LIC DXS-3600-16S DLMS License Pack from Standard to Enhanced Features",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 802.0
+    },
+    {
+      "category": "L3 10 Gigabit Stackable Managed Switches",
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-32S/EEI 24 fixed SFP+ 10G ports with one expansion module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13542.0
+    },
+    {
+      "category": "L3 10 Gigabit Stackable Managed Switches",
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-32S/ESI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12294.0
+    },
+    {
+      "category": "L3 10 Gigabit Stackable Managed Switches",
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-32S-SE-LIC DXS-3600-32S DLMS License Pack from Standard to Enhanced Features",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1426.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-EM-4QXS 4 x 40Gbps QSFP+ module for DXS-3600",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3208.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-EM-4XT 4-Port 10GBASE-T Module for DXS-3600",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1727.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-EM-8T 8-Port UTP 10/100/1000Mbps Module for DXS-3600",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 480.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-EM-8XS 8-Port 10G SFP+ Module for DXS-3600",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1623.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-EM-Stack 2-Port 120G CXP Stacking Module for DXS-3600-32S only",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 437.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB100QXS 1M 40G QSFP+ to QSFP+ Direct Attach Cable for DXS-3600-EM-4QXS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB100QXS-4XS 1M 40G QSFP+ to 4-port 10G SFP+ Direct Attach Cable for DXS-3600-EM-4QXS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB300QXS 3M 40G QSFP+ to QSFP+ Direct Attach Cable for DXS-3600-EM-4QXS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-QX01Q-SR4 40GBASE-SR4 Multi-mode QSFP+ Transceiver, OM3:100m, OM4:150m (For use on DXS-3600-EM-4QXS module)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1047.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-QX10Q-LR4 40GBASE-LR4 Single-mode QSFP+ Transceiver, 10km (For use on DXS-3600-EM-4QXS module)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5583.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB50CXP 120G CXP to CXP 50cm Direct Attach Cable (For use on DXS-3600-EM-Stack module)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 200.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DXS-3600-FAN-BF A fan tray with back-to-front airflow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 500.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB100S 10-GbE SFP+ 1m Direct Attach Cable for all D-Link 10GbE switches",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB300S 10-GbE SFP+ 3m Direct Attach Cable for all D-Link 10GbE switches",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DEM-CB700S 10-GbE SFP+ 7m Direct Attach Cable for all D-Link 10GbE switches",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-311GT 1-port 1000Base-SX (LC) Multi-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 550m, Support 3.3V Power)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-312GT2 1-port 1000Base-LX (LC) Multi-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 2km, Support 3.3V Power)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-314GT 1-port 1000Base-LHX (LC) Single-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 50km, Support 3.3V Power)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 333.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-315GT 1-port 1000Base-TX (LC) Single-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 80km, Support 3.3V Power)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 370.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-330R 1000Base-BX-U (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 10Km, Support 3.3V Power) (TX-1310/RX-1550 nm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-330T 1000Base-BX-D (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 10Km, Support 3.3V Power) (TX-1550/RX-1310 nm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-331R 1000Base-BX-U (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 40Km, Support 3.3V Power) (TX-1310/RX-1550 nm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 333.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DEM-331T 1000Base-BX-D (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 40Km, Support 3.3V Power) (TX-1550/RX-1310 nm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 370.0
+    },
+    {
+      "category": "D-Link SFP (Mini-GBIC) Modules",
+      "brand": "D-Link",
+      "product": "D-Link DGS-712 10/100/1000Base-T (UTP) SFP (Mini-GBIC) Transceiver (Up to 100m, Support 3.3V Power)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "D-Link 100Mbps SFP (Mini-GBIC) Transceivers",
+      "brand": "D-Link",
+      "product": "D-Link DEM-210 100BASE-FX (Duplex LC) Single-Mode 15km SFP (Mini-GBIC) Transceiver",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": "D-Link 100Mbps SFP (Mini-GBIC) Transceivers",
+      "brand": "D-Link",
+      "product": "D-Link DEM-211 100BASE-FX (Duplex LC) Multi-Mode 2KM SFP (Mini-GBIC) Transceiver",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": "D-Link 100Mbps SFP (Mini-GBIC) Transceivers",
+      "brand": "D-Link",
+      "product": "D-Link DEM-220R 100BASE-BX-U (Simplex LC) Single-Mode 20KM SFP (Mini-GBIC) Transceiver (TX-1310/RX-1550 nm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "D-Link 100Mbps SFP (Mini-GBIC) Transceivers",
+      "brand": "D-Link",
+      "product": "D-Link DEM-220T 100BASE-BX-D (Simplex LC) Single-Mode 20KM SFP (Mini-GBIC) Transceiver (TX-1550/RX-1310 nm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": "D-Link Redundant Power Supplies (RPS)",
+      "brand": "D-Link",
+      "product": "D-Link DPS-200A Redundant Power Supply for DGS-3000 , DGS-3120-24TC, DGS-3120-24SC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 224.0
+    },
+    {
+      "category": "D-Link Redundant Power Supplies (RPS)",
+      "brand": "D-Link",
+      "product": "D-Link DPS-500A Redundant Power Supply for DGS-3000 , DGS-3120-48TC, DGS-3420-26SC/28TC/28SC/52T, DGS-3620-28TC/28SC/52T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "D-Link Redundant Power Supplies (RPS)",
+      "brand": "D-Link",
+      "product": "D-Link DPS-700 Redundant Power Supply for DGS-3120/3420/3620 PoE switches",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 821.0
+    },
+    {
+      "category": "D-Link Redundant Power Supplies (RPS)",
+      "brand": "D-Link",
+      "product": "D-Link DPS-800 Chassis of Redundant Power Supply Unit (DPS-200A, DPS-500A)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": "D-Link Redundant Power Supplies (RPS)",
+      "brand": "D-Link",
+      "product": "D-Link DPS-CB150-2PS 150CM RPS cable for connecting DGS-3000 and DPS-200A/500A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-250V2 Nuclias Connect Dual-WAN Unified Service VPN Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 314.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-250V2-WCF-12-LIC License for DSR-250v2 supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500 4-port Gigabit LAN, 2-port Gigabit WAN, 1-port USB, Wired Dual-Wan VPN Service Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500-WCF-12-LIC License for DSR-500 supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC 4-port Gigabit LAN, 2-port Gigabit WAN, 1-port USB 2.0, Wireless AC Dual-band Selectable Dual-Wan VPN Service Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 485.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DEM-431XT 10GBASE-SR (Duplex LC) Single-mode SFP+ Transceiver, 10Km (w/o DDM)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "D-Link VPN Service Router (with Firewall Support)",
+      "brand": "D-Link",
+      "product": "D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    }
+  ],
+  "numeric_tokens_in_source": 119,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 153 extra rows (76%): [('D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year', None, None, 141)]",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-PWR300AC 300W hot-swappable modular AC PSU with front-to-back airflow\", \"price_sgd\": 637},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-FAN100 Hot-swappable fan module with front-to-back airflow\", \"price_sgd\": 73},\n  {\"category\": \"L3 10 Gigabit Stackable Managed Switches\", \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-16S/EEI 8 fixed SFP+ 10G ports with one expansion module\", \"price_sgd\": 7662},\n  {\"category\": \"L3 10 Gigabit Stackable Managed Switches\", \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-16S/ESI\", \"price_sgd\": 6772},\n  {\"category\": \"L3 10 Gigabit Stackable Managed Switches\", \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-16S-SE-LIC DXS-3600-16S DLMS License Pack from Standard to Enhanced Features\", \"price_sgd\": 802},\n  {\"category\": \"L3 10 Gigabit Stackable Managed Switches\", \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-32S/EEI 24 fixed SFP+ 10G ports with one expansion module\", \"price_sgd\": 13542},\n  {\"category\": \"L3 10 Gigabit Stackable Managed Switches\", \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-32S/ESI\", \"price_sgd\": 12294},\n  {\"category\": \"L3 10 Gigabit Stackable Managed Switches\", \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-32S-SE-LIC DXS-3600-32S DLMS License Pack from Standard to Enhanced Features\", \"price_sgd\": 1426},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-EM-4QXS 4 x 40Gbps QSFP+ module for DXS-3600\", \"price_sgd\": 3208},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-EM-4XT 4-Port 10GBASE-T Module for DXS-3600\", \"price_sgd\": 1727},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-EM-8T 8-Port UTP 10/100/1000Mbps Module for DXS-3600\", \"price_sgd\": 480},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-EM-8XS 8-Port 10G SFP+ Module for DXS-3600\", \"price_sgd\": 1623},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-EM-Stack 2-Port 120G CXP Stacking Module for DXS-3600-32S only\", \"price_sgd\": 437},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB100QXS 1M 40G QSFP+ to QSFP+ Direct Attach Cable for DXS-3600-EM-4QXS\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB100QXS-4XS 1M 40G QSFP+ to 4-port 10G SFP+ Direct Attach Cable for DXS-3600-EM-4QXS\", \"price_sgd\": 196},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB300QXS 3M 40G QSFP+ to QSFP+ Direct Attach Cable for DXS-3600-EM-4QXS\", \"price_sgd\": 125},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-QX01Q-SR4 40GBASE-SR4 Multi-mode QSFP+ Transceiver, OM3:100m, OM4:150m (For use on DXS-3600-EM-4QXS module)\", \"price_sgd\": 1047},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-QX10Q-LR4 40GBASE-LR4 Single-mode QSFP+ Transceiver, 10km (For use on DXS-3600-EM-4QXS module)\", \"price_sgd\": 5583},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB50CXP 120G CXP to CXP 50cm Direct Attach Cable (For use on DXS-3600-EM-Stack module)\", \"price_sgd\": 200},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DXS-3600-FAN-BF A fan tray with back-to-front airflow\", \"price_sgd\": 500},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB100S 10-GbE SFP+ 1m Direct Attach Cable for all D-Link 10GbE switches\", \"price_sgd\": 84},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB300S 10-GbE SFP+ 3m Direct Attach Cable for all D-Link 10GbE switches\", \"price_sgd\": 157},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DEM-CB700S 10-GbE SFP+ 7m Direct Attach Cable for all D-Link 10GbE switches\", \"price_sgd\": 230},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-311GT 1-port 1000Base-SX (LC) Multi-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 550m, Support 3.3V Power)\", \"price_sgd\": 73},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-312GT2 1-port 1000Base-LX (LC) Multi-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 2km, Support 3.3V Power)\", \"price_sgd\": 277},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-314GT 1-port 1000Base-LHX (LC) Single-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 50km, Support 3.3V Power)\", \"price_sgd\": 333},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-315GT 1-port 1000Base-TX (LC) Single-mode Fiber SFP (Mini-GBIC) Transceiver (Up to 80km, Support 3.3V Power)\", \"price_sgd\": 370},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-330R 1000Base-BX-U (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 10Km, Support 3.3V Power) (TX-1310/RX-1550 nm)\", \"price_sgd\": 80},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-330T 1000Base-BX-D (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 10Km, Support 3.3V Power) (TX-1550/RX-1310 nm)\", \"price_sgd\": 94},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-331R 1000Base-BX-U (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 40Km, Support 3.3V Power) (TX-1310/RX-1550 nm)\", \"price_sgd\": 333},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-331T 1000Base-BX-D (Simplex LC) Single-mode SFP (Mini-GBIC) Transceiver (Up to 40Km, Support 3.3V Power) (TX-1550/RX-1310 nm)\", \"price_sgd\": 370},\n  {\"category\": \"D-Link SFP (Mini-GBIC) Modules\", \"brand\": \"D-Link\", \"product\": \"D-Link DGS-712 10/100/1000Base-T (UTP) SFP (Mini-GBIC) Transceiver (Up to 100m, Support 3.3V Power)\", \"price_sgd\": 110},\n  {\"category\": \"D-Link 100Mbps SFP (Mini-GBIC) Transceivers\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-210 100BASE-FX (Duplex LC) Single-Mode 15km SFP (Mini-GBIC) Transceiver\", \"price_sgd\": 92},\n  {\"category\": \"D-Link 100Mbps SFP (Mini-GBIC) Transceivers\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-211 100BASE-FX (Duplex LC) Multi-Mode 2KM SFP (Mini-GBIC) Transceiver\", \"price_sgd\": 84},\n  {\"category\": \"D-Link 100Mbps SFP (Mini-GBIC) Transceivers\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-220R 100BASE-BX-U (Simplex LC) Single-Mode 20KM SFP (Mini-GBIC) Transceiver (TX-1310/RX-1550 nm)\", \"price_sgd\": 99},\n  {\"category\": \"D-Link 100Mbps SFP (Mini-GBIC) Transceivers\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-220T 100BASE-BX-D (Simplex LC) Single-Mode 20KM SFP (Mini-GBIC) Transceiver (TX-1550/RX-1310 nm)\", \"price_sgd\": 106},\n  {\"category\": \"D-Link Redundant Power Supplies (RPS)\", \"brand\": \"D-Link\", \"product\": \"D-Link DPS-200A Redundant Power Supply for DGS-3000 , DGS-3120-24TC, DGS-3120-24SC\", \"price_sgd\": 224},\n  {\"category\": \"D-Link Redundant Power Supplies (RPS)\", \"brand\": \"D-Link\", \"product\": \"D-Link DPS-500A Redundant Power Supply for DGS-3000 , DGS-3120-48TC, DGS-3420-26SC/28TC/28SC/52T, DGS-3620-28TC/28SC/52T\", \"price_sgd\": 280},\n  {\"category\": \"D-Link Redundant Power Supplies (RPS)\", \"brand\": \"D-Link\", \"product\": \"D-Link DPS-700 Redundant Power Supply for DGS-3120/3420/3620 PoE switches\", \"price_sgd\": 821},\n  {\"category\": \"D-Link Redundant Power Supplies (RPS)\", \"brand\": \"D-Link\", \"product\": \"D-Link DPS-800 Chassis of Redundant Power Supply Unit (DPS-200A, DPS-500A)\", \"price_sgd\": 112},\n  {\"category\": \"D-Link Redundant Power Supplies (RPS)\", \"brand\": \"D-Link\", \"product\": \"D-Link DPS-CB150-2PS 150CM RPS cable for connecting DGS-3000 and DPS-200A/500A\", \"price_sgd\": 37},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-250V2 Nuclias Connect Dual-WAN Unified Service VPN Router\", \"price_sgd\": 314},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-250V2-WCF-12-LIC License for DSR-250v2 supporting Web Content Filtering for one year\", \"price_sgd\": 114},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500 4-port Gigabit LAN, 2-port Gigabit WAN, 1-port USB, Wired Dual-Wan VPN Service Router\", \"price_sgd\": 398},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500-WCF-12-LIC License for DSR-500 supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC 4-port Gigabit LAN, 2-port Gigabit WAN, 1-port USB 2.0, Wireless AC Dual-band Selectable Dual-Wan VPN Service Router\", \"price_sgd\": 485},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DEM-431XT 10GBASE-SR (Duplex LC) Single-mode SFP+ Transceiver, 10Km (w/o DDM)\", \"price_sgd\": 277},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141},\n  {\"category\": \"D-Link VPN Service Router (with Firewall Support)\", \"brand\": \"D-Link\", \"product\": \"D-Link DSR-500AC-WCF-12-LIC License for DSR-500AC supporting Web Content Filtering for one year\", \"price_sgd\": 141}\n]}"
+}

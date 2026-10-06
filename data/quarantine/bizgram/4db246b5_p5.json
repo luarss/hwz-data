@@ -1,0 +1,2534 @@
+{
+  "sha256": "4db246b50b24d8ce6a834e26405da5873071916e8246aada8cb8a383dda655cc",
+  "vendor": "bizgram",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Intel",
+      "product": "U5 245K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 471.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Intel",
+      "product": "U5 245KF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 447.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Intel",
+      "product": "U7 265K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 614.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Intel",
+      "product": "U7 265KF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 591.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Intel",
+      "product": "U9 285K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 942.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1358.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1336.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1485.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1470.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS MASTER WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1754.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS EUTE WIFI 7 ICE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS EUTE WIFI 7 ICE",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS EUTE WIFI 7 ICE",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 878.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS EUTE WIFI 7 ICE",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1027.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS EUTE WIFI 7 ICE",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1012.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS EUTE WIFI 7 ICE",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1296.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 487.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 889.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 867.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1016.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1001.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1285.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 406.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 815.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 793.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 942.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 927.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 EAGLE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1211.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIF16E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 383.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIF16E",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 794.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIF16E",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIF16E",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 920.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIF16E",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 906.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890 UD WIF16E",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1189.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 404.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 813.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 791.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 940.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 925.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1209.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 982.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 960.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1109.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1094.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1378.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 971.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1332.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1310.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1459.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1444.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1728.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 466.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 870.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 847.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 997.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 982.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1266.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 411.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 820.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 797.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 947.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 932.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1215.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO RS WIFI WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 391.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO RS WIFI WHITE",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 801.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO RS WIFI WHITE",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 779.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO RS WIFI WHITE",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 928.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO RS WIFI WHITE",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 913.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO RS WIFI WHITE",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1197.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO-A WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO-A WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 751.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO-A WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO-A WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 878.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO-A WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 863.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 PRO-A WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1147.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 783.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1160.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1137.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1287.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1272.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1555.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 451.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 856.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 833.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 983.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 968.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1251.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 733.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1114.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1092.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1241.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1226.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1510.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME E-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1707.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME E-",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 2007.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME E-",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1984.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME E-",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 2134.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME E-",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 2119.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME E-",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 2402.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 862.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1233.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1210.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1360.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1345.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1628.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 hero",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1204.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 hero",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1546.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 hero",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1523.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 hero",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1673.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 hero",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1658.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 hero",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1941.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Asus",
+      "product": "Asus ROG STRIX Z890-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 903.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Asus",
+      "product": "Asus ROG STRIX Z890-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1270.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Asus",
+      "product": "Asus ROG STRIX Z890-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1247.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Asus",
+      "product": "Asus ROG STRIX Z890-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1397.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Asus",
+      "product": "Asus ROG STRIX Z890-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1382.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "Asus",
+      "product": "Asus ROG STRIX Z890-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1666.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1185.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1506.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1655.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1640.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1924.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-Plus WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 561.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-Plus WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 957.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-Plus WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 935.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-Plus WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1084.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-Plus WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1069.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-Plus WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1353.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-PRO WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 581.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-PRO WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 976.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-PRO WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 953.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-PRO WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1102.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-PRO WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1088.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming Z890-PRO WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1371.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 421.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 828.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 806.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 955.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 940.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1224.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ProArt Z890-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 903.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ProArt Z890-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245K",
+      "warranty": null,
+      "price_sgd": 1270.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ProArt Z890-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": "U5 245KF",
+      "warranty": null,
+      "price_sgd": 1247.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ProArt Z890-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265K",
+      "warranty": null,
+      "price_sgd": 1397.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ProArt Z890-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": "U7 265KF",
+      "warranty": null,
+      "price_sgd": 1382.0
+    },
+    {
+      "category": "Intel Z890 Motherboard",
+      "brand": "ASUS",
+      "product": "ASUS ProArt Z890-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": "U9 285K",
+      "warranty": null,
+      "price_sgd": 1666.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ASRock",
+      "product": "ASRock Intel Arc B580 Challenger 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus TUF-RTX4080S-O16G-GAMING16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1808.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4080S-O16G-GAMIN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2030.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4080S-O16G-WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2050.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus PROART-RTX4080S-O16G16GB GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1728.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus RTX4080S-O16G-NOCTUA16GB GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1929.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4070S-O12G-GAMIN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1195.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus TUF-RTX4070S-O12G-GAMING12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4070S-O12G-WHITE12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1039.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4070S-O12G12GB GDDR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1020.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4070S-12G12GB GDDR6X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4070TIS-16G16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1293.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4070TIS-O16G16GB GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1321.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus PROART-RTX4070TIS-O16G16GB GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1389.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4070TIS-16G-GAMi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1483.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4070TIS-O16G-GAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1521.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus TUF-RTX4070TIS-O16G-WHITE-GAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1444.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus TUF-RTX4070TIS-O16G-GAMING16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1389.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus TUF-RTX4070TIS-16G-GAMING16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1349.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4060Ti-O8G-GAMIN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 826.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus TUF-RTX4060TI-O8G-GAMING8GB G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 826.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4060Ti-O8G-White8GB G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4060Ti-O8G8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 637.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus ROG-STRIX-RTX4060-O8G-GAMING8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 641.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4060-O8G-WHITE8GB GDD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 526.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus DUAL-RTX4060-O8G8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 488.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus PROART-RTX4060-O8G8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 562.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus GT1030-SL-2G-BRK2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus GT730-SL-2GD5-BRK2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Asus",
+      "product": "Asus GT730-4H-SL-2GD52GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 Ti 8GB N406TEAGLEOC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 615.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 Ti 8GB N406TGAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 676.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 Ti 8GB N406TAORUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 733.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 12GB N407SWF3OC-12G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 940.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 S 12GB N407SEAGLE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 931.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 S 12GB N407SGAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 955.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 S 12GB N407SAERO O",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 971.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 S 12GB N407SAORUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1049.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 Ti S 16GB N407TSEA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1231.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 Ti S 16GB N407TSGA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1277.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 Ti S 16GB N407TSAE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1298.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 Ti S 16GB N407TSAO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1364.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4070 Ti S 16GB N407TSAI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1331.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4080 S 16GB N408SGAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1582.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4080 S 16GB N408SAERO O",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1619.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4080 S 16GB N408SAORUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1686.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4090 24GB GAMING BOX EGPU-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3950.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4060 1-Click OC 2X V2 8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4060 EX 1-Click OC 8GB G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4060 EX White 1-Click OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4060 Ti 8GB EX 1-Click O",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 609.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4060 Ti 8GB EX White 1-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 629.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4070 SUPER 1-Click OC 2X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 989.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4070 Ti EX Gamer 1-Click",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4070 Ti EX Gamer White 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4070 Ti SUPER EX Gamer 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1339.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4070 Ti SUPER EX Gamer W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1359.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Galax",
+      "product": "Galax RTX 4080 SUPER SG 1-Click OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1659.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "Msi RTX4070 Supreme X 12gb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX A4000 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2050.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX A2000 12GB (Ampere)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1125.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX A2000 6GB (Ampere)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 982.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA A1000 8GB (Ampere)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 845.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA A400 4GB (Ampere)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 349.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA T1000 4GB (Turing)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 620.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA T1000 8GB (Turing)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA A400 4GB (Ampere)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "NVIDIA",
+      "product": "NVIDIA T400 4GB (Turing)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Nvidia",
+      "product": "Nvidia Quadro 600 1GB PCIE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Nvidia",
+      "product": "Nvidia Quadro P1000 4GB PCIE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 769.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Nvidia",
+      "product": "Nvidia Quadro A5000 24GB PCIE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3920.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Nvidia",
+      "product": "Nvidia Quadro A6000 48gb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7750.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ATI",
+      "product": "ATI PCI 128MB Graphic Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX4080 SUPER 16G EXPERT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1677.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX4080 SUPER 16G GAMING X SLIM1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX4080 SUPER 16G VENTUS 3X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1537.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX4070 Ti SUPER 16G EXPERT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1380.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 Ti SUPER 16G GAMING X SLIM W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1310.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 Ti SUPER 16G GAMING X SLIM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1323.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4070 Ti SUP 16G VENTUS 3X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1274.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 Ti SUPER 16G VENTUS 2X WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1245.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4070 Ti Super 16G Ventus 2X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1285.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 SUPER 12G GAMING X SLIM MLG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1003.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 SUPER 12G GAMING X SLIM Whi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 989.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 SUPER 12G GAMING SLIM Wuk",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4070 SUPER 12G GAMING X SLIM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 981.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4070 SUPER 12G VENTUS 3X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 924.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI 4070 SUPER 12G VENTUS 2X WHITE OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 922.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4070 SUPER 12G VENTUS 2X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 911.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti GAMING X SLIM WHITE 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti GAMING X SLIM 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 818.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti GAMING X 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 793.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti VENTUS 3X 16G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 727.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti VENTUS 2X BLACK 16G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 683.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti GAMING X TRIO 8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 727.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti GAMING X 8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti VENTUS 3X 8G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 653.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI MSI RTX 4060 Ti VENTUS 3X E 8G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 Ti VENTUS 2X BLACK 8G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 GAMING X 8G MLG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 506.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 GAMING X 8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 501.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 VENTUS 2X WHITE 8G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 473.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 VENTUS 2X BLACK 8G OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC GT 730 ZONE Edition 2GB DDR3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC GT 710 LP 2GB DDR3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 3050 ECO SOLO 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 3050 SOLO 6GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 3050 6GB LP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4060 SOLO 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4060 TWIN EDGE OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4060 TWIN EDGE OC WHITE 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 465.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4060 Ti 8GB TWIN EDGE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 545.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4060 Ti 8GB TWIN EDGE OC (W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 556.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4070 SUPER TRINITY BLACK 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 956.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4070 SUPER TWIN EDGE OC 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 934.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4070 SUPER TwE White OC 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 945.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4070 Ti SUPER TRINITY BK 16",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1230.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC 4070 Ti SUPER AMP HOLO 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1276.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 4070 Ti SUPTRINITY OC 16G wt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1253.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC 4080 SUPER AMP EXTR AIRO 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1663.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC 4080 SUPER TRINITY BLACK 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1549.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC 4080 SUPER TRINITY OC WHITE 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1606.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "ZOTAC",
+      "product": "ZOTAC GT 1030 LP 2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GT 710 2GB N710D5-2GIL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GT1030 2GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 8GB N4060WF2OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 443.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 8GB N4060EAGLE OC-8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 461.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 8GB N4060EAGLEOC ICE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 476.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 8GB N4060AORUS E-8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 Ti 8GB N406TWF2OC-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 583.0
+    },
+    {
+      "category": "Nvidia Graphics Card",
+      "brand": "Gigabyte",
+      "product": "Gigabyte 4060 Ti 8GB N406TEAGLE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 609.0
+    }
+  ],
+  "numeric_tokens_in_source": 1056,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 280/1056 = 0.27",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Intel\", \"product\": \"U5 245K\", \"price_sgd\": 471},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Intel\", \"product\": \"U5 245KF\", \"price_sgd\": 447},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Intel\", \"product\": \"U7 265K\", \"price_sgd\": 614},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Intel\", \"product\": \"U7 265KF\", \"price_sgd\": 591},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Intel\", \"product\": \"U9 285K\", \"price_sgd\": 942},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS MASTER WIFI\", \"price_sgd\": 999},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS MASTER WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1358},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS MASTER WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1336},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS MASTER WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1485},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS MASTER WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1470},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS MASTER WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1754},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS EUTE WIFI 7 ICE\", \"price_sgd\": 499},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS EUTE WIFI 7 ICE\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 900},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS EUTE WIFI 7 ICE\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 878},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS EUTE WIFI 7 ICE\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1027},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS EUTE WIFI 7 ICE\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1012},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS EUTE WIFI 7 ICE\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1296},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS ELITE WIFI 7\", \"price_sgd\": 487},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 889},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 867},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1016},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1001},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1285},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 EAGLE WIFI 7\", \"price_sgd\": 406},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 EAGLE WIFI 7\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 815},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 EAGLE WIFI 7\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 793},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 EAGLE WIFI 7\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 942},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 EAGLE WIFI 7\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 927},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 EAGLE WIFI 7\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1211},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 UD WIF16E\", \"price_sgd\": 383},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 UD WIF16E\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 794},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 UD WIF16E\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 771},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 UD WIF16E\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 920},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 UD WIF16E\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 906},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890 UD WIF16E\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1189},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890M AORUS ELITE WIFI 7\", \"price_sgd\": 404},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890M AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 813},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890M AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 791},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890M AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 940},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890M AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 925},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z890M AORUS ELITE WIFI 7\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1209},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"price_sgd\": 589},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 982},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 960},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1109},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1094},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1378},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"price_sgd\": 971},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1332},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1310},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1459},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1444},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1728},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"price_sgd\": 466},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 870},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 847},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 997},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 982},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1266},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI PRO Z890-P WIFI\", \"price_sgd\": 411},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI PRO Z890-P WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 820},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI PRO Z890-P WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 797},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI PRO Z890-P WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 947},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI PRO Z890-P WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 932},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"MSI\", \"product\": \"MSI PRO Z890-P WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1215},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO RS WIFI WHITE\", \"price_sgd\": 391},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO RS WIFI WHITE\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 801},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO RS WIFI WHITE\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 779},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO RS WIFI WHITE\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 928},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO RS WIFI WHITE\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 913},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO RS WIFI WHITE\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1197},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO-A WIFI\", \"price_sgd\": 336},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO-A WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 751},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO-A WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 729},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO-A WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 878},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO-A WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 863},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK Z890 PRO-A WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1147},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"price_sgd\": 783},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1160},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1137},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1287},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1272},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1555},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890-P WIFI-CSM\", \"price_sgd\": 451},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890-P WIFI-CSM\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 856},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890-P WIFI-CSM\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 833},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890-P WIFI-CSM\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 983},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890-P WIFI-CSM\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 968},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890-P WIFI-CSM\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1251},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIFI\", \"price_sgd\": 733},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1114},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1092},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1241},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1226},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1510},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 EXTREME E-\", \"price_sgd\": 1707},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 EXTREME E-\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 2007},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 EXTREME E-\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1984},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 EXTREME E-\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 2134},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 EXTREME E-\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 2119},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 EXTREME E-\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 2402},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI\", \"price_sgd\": 862},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1233},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1210},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1360},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1345},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1628},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 hero\", \"price_sgd\": 1204},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 hero\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1546},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 hero\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1523},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 hero\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1673},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 hero\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1658},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 hero\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1941},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus ROG STRIX Z890-E GAMING WIFI\", \"price_sgd\": 903},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus ROG STRIX Z890-E GAMING WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1270},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus ROG STRIX Z890-E GAMING WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1247},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus ROG STRIX Z890-E GAMING WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1397},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus ROG STRIX Z890-E GAMING WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1382},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus ROG STRIX Z890-E GAMING WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1666},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 APEX\", \"price_sgd\": 1185},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 APEX\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1528},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 APEX\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1506},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 APEX\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1655},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 APEX\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1640},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 APEX\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1924},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-Plus WIFI\", \"price_sgd\": 561},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-Plus WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 957},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-Plus WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 935},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-Plus WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1084},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-Plus WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1069},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-Plus WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1353},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-PRO WIFI\", \"price_sgd\": 581},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-PRO WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 976},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-PRO WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 953},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-PRO WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1102},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-PRO WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1088},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming Z890-PRO WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1371},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"price_sgd\": 421},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 828},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 806},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 955},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 940},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1224},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ProArt Z890-CREATOR WIFI\", \"price_sgd\": 903},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ProArt Z890-CREATOR WIFI\", \"bundle_cpu\": \"U5 245K\", \"price_sgd\": 1270},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ProArt Z890-CREATOR WIFI\", \"bundle_cpu\": \"U5 245KF\", \"price_sgd\": 1247},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ProArt Z890-CREATOR WIFI\", \"bundle_cpu\": \"U7 265K\", \"price_sgd\": 1397},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ProArt Z890-CREATOR WIFI\", \"bundle_cpu\": \"U7 265KF\", \"price_sgd\": 1382},\n  {\"category\": \"Intel Z890 Motherboard\", \"brand\": \"ASUS\", \"product\": \"ASUS ProArt Z890-CREATOR WIFI\", \"bundle_cpu\": \"U9 285K\", \"price_sgd\": 1666},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ASRock\", \"product\": \"ASRock Intel Arc B580 Challenger 12GB OC\", \"price_sgd\": 429},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus TUF-RTX4080S-O16G-GAMING16GB\", \"price_sgd\": 1808},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4080S-O16G-GAMIN\", \"price_sgd\": 2030},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4080S-O16G-WHITE\", \"price_sgd\": 2050},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus PROART-RTX4080S-O16G16GB GD\", \"price_sgd\": 1728},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus RTX4080S-O16G-NOCTUA16GB GD\", \"price_sgd\": 1929},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4070S-O12G-GAMIN\", \"price_sgd\": 1195},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus TUF-RTX4070S-O12G-GAMING12GB\", \"price_sgd\": 1075},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4070S-O12G-WHITE12GB\", \"price_sgd\": 1039},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4070S-O12G12GB GDDR\", \"price_sgd\": 1020},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4070S-12G12GB GDDR6X\", \"price_sgd\": 999},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4070TIS-16G16GB GDDR6\", \"price_sgd\": 1293},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4070TIS-O16G16GB GD\", \"price_sgd\": 1321},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus PROART-RTX4070TIS-O16G16GB GD\", \"price_sgd\": 1389},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4070TIS-16G-GAMi\", \"price_sgd\": 1483},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4070TIS-O16G-GAM\", \"price_sgd\": 1521},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus TUF-RTX4070TIS-O16G-WHITE-GAM\", \"price_sgd\": 1444},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus TUF-RTX4070TIS-O16G-GAMING16G\", \"price_sgd\": 1389},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus TUF-RTX4070TIS-16G-GAMING16GB\", \"price_sgd\": 1349},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4060Ti-O8G-GAMIN\", \"price_sgd\": 826},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus TUF-RTX4060TI-O8G-GAMING8GB G\", \"price_sgd\": 826},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4060Ti-O8G-White8GB G\", \"price_sgd\": 669},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4060Ti-O8G8GB GDDR6\", \"price_sgd\": 637},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus ROG-STRIX-RTX4060-O8G-GAMING8\", \"price_sgd\": 641},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4060-O8G-WHITE8GB GDD\", \"price_sgd\": 526},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus DUAL-RTX4060-O8G8GB GDDR6\", \"price_sgd\": 488},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus PROART-RTX4060-O8G8GB GDDR6\", \"price_sgd\": 562},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus GT1030-SL-2G-BRK2GB GDDR5\", \"price_sgd\": 159},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus GT730-SL-2GD5-BRK2GB GDDR5\", \"price_sgd\": 119},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Asus\", \"product\": \"Asus GT730-4H-SL-2GD52GB GDDR5\", \"price_sgd\": 189},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 Ti 8GB N406TEAGLEOC\", \"price_sgd\": 615},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 Ti 8GB N406TGAMING\", \"price_sgd\": 676},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 Ti 8GB N406TAORUS\", \"price_sgd\": 733},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 12GB N407SWF3OC-12G\", \"price_sgd\": 940},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 S 12GB N407SEAGLE\", \"price_sgd\": 931},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 S 12GB N407SGAMING\", \"price_sgd\": 955},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 S 12GB N407SAERO O\", \"price_sgd\": 971},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 S 12GB N407SAORUS\", \"price_sgd\": 1049},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 Ti S 16GB N407TSEA\", \"price_sgd\": 1231},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 Ti S 16GB N407TSGA\", \"price_sgd\": 1277},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 Ti S 16GB N407TSAE\", \"price_sgd\": 1298},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 Ti S 16GB N407TSAO\", \"price_sgd\": 1364},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4070 Ti S 16GB N407TSAI\", \"price_sgd\": 1331},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4080 S 16GB N408SGAMING\", \"price_sgd\": 1582},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4080 S 16GB N408SAERO O\", \"price_sgd\": 1619},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4080 S 16GB N408SAORUS\", \"price_sgd\": 1686},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4090 24GB GAMING BOX EGPU-\", \"price_sgd\": 3950},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4060 1-Click OC 2X V2 8G\", \"price_sgd\": 429},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4060 EX 1-Click OC 8GB G\", \"price_sgd\": 469},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4060 EX White 1-Click OC\", \"price_sgd\": 499},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4060 Ti 8GB EX 1-Click O\", \"price_sgd\": 609},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4060 Ti 8GB EX White 1-C\", \"price_sgd\": 629},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4070 SUPER 1-Click OC 2X\", \"price_sgd\": 989},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4070 Ti EX Gamer 1-Click\", \"price_sgd\": 1099},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4070 Ti EX Gamer White 1\", \"price_sgd\": 1099},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4070 Ti SUPER EX Gamer 1\", \"price_sgd\": 1339},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4070 Ti SUPER EX Gamer W\", \"price_sgd\": 1359},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Galax\", \"product\": \"Galax RTX 4080 SUPER SG 1-Click OC\", \"price_sgd\": 1659},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"Msi RTX4070 Supreme X 12gb\", \"price_sgd\": 1299},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA RTX A4000 16GB\", \"price_sgd\": 2050},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA RTX A2000 12GB (Ampere)\", \"price_sgd\": 1125},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA RTX A2000 6GB (Ampere)\", \"price_sgd\": 982},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA A1000 8GB (Ampere)\", \"price_sgd\": 845},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA A400 4GB (Ampere)\", \"price_sgd\": 349},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA T1000 4GB (Turing)\", \"price_sgd\": 620},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA T1000 8GB (Turing)\", \"price_sgd\": 789},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA A400 4GB (Ampere)\", \"price_sgd\": 369},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA T400 4GB (Turing)\", \"price_sgd\": 369},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Nvidia\", \"product\": \"Nvidia Quadro 600 1GB PCIE\", \"price_sgd\": 459},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Nvidia\", \"product\": \"Nvidia Quadro P1000 4GB PCIE\", \"price_sgd\": 769},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Nvidia\", \"product\": \"Nvidia Quadro A5000 24GB PCIE\", \"price_sgd\": 3920},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Nvidia\", \"product\": \"Nvidia Quadro A6000 48gb\", \"price_sgd\": 7750},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ATI\", \"product\": \"ATI PCI 128MB Graphic Card\", \"price_sgd\": 59},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX4080 SUPER 16G EXPERT\", \"price_sgd\": 1677},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX4080 SUPER 16G GAMING X SLIM1\", \"price_sgd\": 608},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX4080 SUPER 16G VENTUS 3X OC\", \"price_sgd\": 1537},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX4070 Ti SUPER 16G EXPERT\", \"price_sgd\": 1380},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 Ti SUPER 16G GAMING X SLIM W\", \"price_sgd\": 1310},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 Ti SUPER 16G GAMING X SLIM\", \"price_sgd\": 1323},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4070 Ti SUP 16G VENTUS 3X OC\", \"price_sgd\": 1274},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 Ti SUPER 16G VENTUS 2X WHITE\", \"price_sgd\": 1245},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4070 Ti Super 16G Ventus 2X OC\", \"price_sgd\": 1285},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 SUPER 12G GAMING X SLIM MLG\", \"price_sgd\": 1003},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 SUPER 12G GAMING X SLIM Whi\", \"price_sgd\": 989},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 SUPER 12G GAMING SLIM Wuk\", \"price_sgd\": 1089},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4070 SUPER 12G GAMING X SLIM\", \"price_sgd\": 981},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4070 SUPER 12G VENTUS 3X OC\", \"price_sgd\": 924},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI 4070 SUPER 12G VENTUS 2X WHITE OC\", \"price_sgd\": 922},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4070 SUPER 12G VENTUS 2X OC\", \"price_sgd\": 911},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti GAMING X SLIM WHITE 16G\", \"price_sgd\": 837},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti GAMING X SLIM 16G\", \"price_sgd\": 818},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti GAMING X 16G\", \"price_sgd\": 793},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti VENTUS 3X 16G OC\", \"price_sgd\": 727},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti VENTUS 2X BLACK 16G OC\", \"price_sgd\": 683},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti GAMING X TRIO 8G\", \"price_sgd\": 727},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti GAMING X 8G\", \"price_sgd\": 689},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti VENTUS 3X 8G OC\", \"price_sgd\": 653},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI MSI RTX 4060 Ti VENTUS 3X E 8G OC\", \"price_sgd\": 628},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 Ti VENTUS 2X BLACK 8G OC\", \"price_sgd\": 605},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 GAMING X 8G MLG\", \"price_sgd\": 506},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 GAMING X 8G\", \"price_sgd\": 501},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 VENTUS 2X WHITE 8G OC\", \"price_sgd\": 473},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 VENTUS 2X BLACK 8G OC\", \"price_sgd\": 449},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GT 730 ZONE Edition 2GB DDR3\", \"price_sgd\": 99},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GT 710 LP 2GB DDR3\", \"price_sgd\": 89},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 3050 ECO SOLO 8GB\", \"price_sgd\": 325},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 3050 SOLO 6GB\", \"price_sgd\": 279},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 3050 6GB LP\", \"price_sgd\": 279},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4060 SOLO 8GB\", \"price_sgd\": 449},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4060 TWIN EDGE OC 8GB\", \"price_sgd\": 448},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4060 TWIN EDGE OC WHITE 8GB\", \"price_sgd\": 465},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4060 Ti 8GB TWIN EDGE\", \"price_sgd\": 545},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4060 Ti 8GB TWIN EDGE OC (W\", \"price_sgd\": 556},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4070 SUPER TRINITY BLACK 12\", \"price_sgd\": 956},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4070 SUPER TWIN EDGE OC 12\", \"price_sgd\": 934},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4070 SUPER TwE White OC 12\", \"price_sgd\": 945},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4070 Ti SUPER TRINITY BK 16\", \"price_sgd\": 1230},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC 4070 Ti SUPER AMP HOLO 16GB\", \"price_sgd\": 1276},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 4070 Ti SUPTRINITY OC 16G wt\", \"price_sgd\": 1253},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC 4080 SUPER AMP EXTR AIRO 16G\", \"price_sgd\": 1663},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC 4080 SUPER TRINITY BLACK 16G\", \"price_sgd\": 1549},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC 4080 SUPER TRINITY OC WHITE 16G\", \"price_sgd\": 1606},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GT 1030 LP 2GB GDDR5\", \"price_sgd\": 125},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GT 710 2GB N710D5-2GIL\", \"price_sgd\": 99},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GT1030 2GB\", \"price_sgd\": 189},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 8GB N4060WF2OC-8GD\", \"price_sgd\": 443},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 8GB N4060EAGLE OC-8G\", \"price_sgd\": 461},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 8GB N4060EAGLEOC ICE\", \"price_sgd\": 476},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 8GB N4060AORUS E-8G\", \"price_sgd\": 549},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 Ti 8GB N406TWF2OC-\", \"price_sgd\": 583},\n  {\"category\": \"Nvidia Graphics Card\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 4060 Ti 8GB N406TEAGLE\", \"price_sgd\": 609}\n]}"
+}

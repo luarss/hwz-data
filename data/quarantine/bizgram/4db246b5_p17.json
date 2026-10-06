@@ -1,0 +1,2642 @@
+{
+  "sha256": "4db246b50b24d8ce6a834e26405da5873071916e8246aada8cb8a383dda655cc",
+  "vendor": "bizgram",
+  "page_number": 17,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800-SE-LIC D-View 8 Standard Maintenance License",
+      "variant": "<5,000 nodes",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5807.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800MS-Y1-LIC D-View 8 Standard Maintenance License",
+      "variant": "Y1=365 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3630.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800MS-Y2-LIC D-View 8 Standard Maintenance License",
+      "variant": "Y2=730 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6533.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800MS-Y3-LIC D-View 8 Standard Maintenance License",
+      "variant": "Y3=1095 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8711.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800MS-Y4-LIC D-View 8 Standard Maintenance License",
+      "variant": "Y4=1460 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10163.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800MS-Y5-LIC D-View 8 Standard Maintenance License",
+      "variant": "Y5=1825 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10889.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800ME-Y1-LIC D-View 8 Enterprise Maintenance License",
+      "variant": "Y1=365 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5807.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800ME-Y2-LIC D-View 8 Enterprise Maintenance License",
+      "variant": "Y2=730 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10889.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link DV-800ME-Y3-LIC D-View 8 Enterprise Maintenance License",
+      "variant": "Y3=1095 days",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15244.0
+    },
+    {
+      "category": null,
+      "brand": "D-Link",
+      "product": "D-Link NCB-C6UBLUR-305-24 CAT6 UTP 24AWG Cable Rolls",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD114-20417 3 in 1 Mini DP to HDMI/VGA/DVI",
+      "variant": "White, 1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD114-20418 3 in 1 Mini DP to HDMI/VGA/DVI",
+      "variant": "Black, 1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD115-20421 Mini DisplayPort to HDMI & VGA Converter",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 10448 Mini DP Cable Male to DVI Female converter cable, Active, 4Kx2K EOL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD110-10451 Mini dp male to HDMI female converter cable---Aluminum case",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD110-10401 Mini dp male to HDMI female converter cable---Aluminum case, 1.1V",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD112-10461 Mini dp to HDMI female converter cable 18CM Black - Plastic",
+      "variant": "1920*1080",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD112-40360 Mini dp to HDMI female converter cable 18CM Black - Plastic",
+      "variant": "4K*2K/30Hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD112-40361 Mini dp to HDMI female converter cable 18CM White - Plastic",
+      "variant": "4K*2K/30Hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 10402 Mini dp male to DVI female converter cable, Ver 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD107-10403 Mini dp male to VGA female converter cable---Aluminum case",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD113-10459 Mini dp male to VGA female converter cable---Aluminum case",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD101-10419 Mini dp male to hdmi cable",
+      "variant": "white 3M - 1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD101-20848 Mini dp 1.2 male to hdmi cable",
+      "variant": "black 4K, 1.5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.4
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD101-10455 Mini dp 1.2 male to hdmi cable",
+      "variant": "black 4K, 3.0m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD102-10443 Mini DP to DVI (24+1) cable",
+      "variant": "1.5M White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD102-10405 Mini DP to DVI (24+1) cable",
+      "variant": "2M White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD102-20925 Mini DP to DVI (24+1) cable",
+      "variant": "2M Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD102-10425 Mini DP to DVI (24+1) cable 3M EOL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD105-10477 Mini DP to DP 1.2 cable",
+      "variant": "1.5M, 3D, 4Kx2K@60Hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD105-10433 Mini DP to DP 1.2 cable",
+      "variant": "2.0M, 4Kx2K@60Hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD105-10434 Mini DP to DP 1.2 cable",
+      "variant": "3.0M, 4Kx2K@60Hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MD111-10429 Mini DP Male to Male Cable",
+      "variant": "2m, 4K White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 10445 Mini DP Male to DP female adaptor",
+      "variant": "ver 1.2 support 4K*2K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP110-20420 DisplayPort to HDMI/VGA/DVI Converter",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP106-20414 DP Male to VGA Female Converter cable",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM137-40363 DP to HDMI Female converter cable",
+      "variant": "4K*2K@ 30hz Slim type",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM137-70694 DP to HDMI Female converter cable",
+      "variant": "4K*2K@ 60hz Slim type",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP105-10247 DP Male to VGA Male cable",
+      "variant": "1.5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP105-10235 DP Male to VGA Male cable",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP105-10236 DP Male to VGA Male Cable",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP101-10238 DP Male to HDMI Male cable",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP101-10202 DP Male to HDMI Male cable",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP101-10203 DP Male to HDMI Male cable",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP101-10204 DP Male to HDMI Male cable",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP111-40434 2m DP male to HDMI male cable Active",
+      "variant": "4K@60hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP102-10244 Dp Male to DP Male cable",
+      "variant": "1m 4K*2K @60hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP102-10211 Dp Male to DP Male cable",
+      "variant": "2m 4K*2K @60hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP102-10212 Dp Male to DP Male cable",
+      "variant": "3m 4K*2K @60hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP102-10213 Dp Male to DP Male cable",
+      "variant": "5m 4K*2K @60hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP107-30120 Display Port 1.2 Male to Male Cable with nylon braid",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP107-30122 Display Port 1.2 Male to Male Cable with nylon braid",
+      "variant": "5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP107-30124 Display Port 1.2 Male to Male Cable with nylon braid",
+      "variant": "10M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP112-60842 8K DisplayPort Cable 1Meter",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP112-60843 8K DisplayPort Cable 2Meter",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP112-60844 8K DisplayPort Cable 3Meter",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP114-80390 DP 1.4 Male To Male Cable",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP114-80392 DP 1.4 Male To Male Cable",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP114-80393 DP 1.4 Male To Male Cable",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP103-10221 DP Male to DVI Male cable",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP103-10222 DP Male to DVI Male cable",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP103-10223 DP Male to DVI Male cable",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 54.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP106-20405 DP Male to DVI Female adapter cable",
+      "variant": "15cm",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM219-50985 4-Port USB 3.0 Hub",
+      "variant": "Grey/16CM",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US156-30344 USB 3.0 3 Ports Hub+ 4 Card Reader Converter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR113-20291 USB 3.0 to 4 ports hub",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR113-40850 4 Ports USB 3.0 Hub with Type-C and USB3.1 OTG Adapter Converter",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR133-30421 3 Port USB 2.0 Hub with External Stereo Sound Adapter",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20265 USB 3.0 Hub Ethernet Adapter 10/100/1000 Gigabit Network Converter with USB 3.0 Hub 3 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR108-20627 USB 3.0 to SATA Converter cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM257-60561 USB 3.0 to SATA Adapter Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US160-30353 USB 3.0 to SATA/IDE Converter cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 108.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US221-50743 Type C 2.5 inch Hard Dish box",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US158-30345 USB 2.0 Sharing Switch 2*1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US158-30346 USB 2.0 Sharing Switch 4*1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US216-30768 USB 3.0 2 in 4 out Sharing Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM102-40253 HDMI Male To VGA Female adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM103-40248 HDMI Male To VGA Female + Audio + Micro USB converter",
+      "variant": "Flat Design",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40282 HDMI Male To VGA Female + 5.1 SDIF and Audio",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM101-30449 HDMI Male To VGA Male converter round cable",
+      "variant": "1.5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20694 Active HDMI to VGA Adapter with 3.5mm Audio Jack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD106-30116 HDMI Male To DVI Male",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD106-10135 HDMI Male To DVI Male",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD106-10136 HDMI Male To DVI Male",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD106-10137 HDMI Male To DVI Male",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD106-10138 HDMI Male To DVI Male",
+      "variant": "10m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD106-10166 HDMI Male To DVI Male",
+      "variant": "15m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD107-10140 HDMI Male to Female extension cable 1.4V",
+      "variant": "0.5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD107-10141 HDMI male to female extension cable",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD107-10142 HDMI male to female extension cable",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20118 DVI Male to HDMI female adaptor cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20136 HDMI Male to DVI Female adaptor cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20123 HDMI Male to DVI Female adaptor cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20124 HDMI Female to DVI Male adaptor cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20107 HDMI Female to Female adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM217-50966 2-Port HDMI Switcher/Splitter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40278 HDMI 3*1 Switch",
+      "variant": "130",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40205 5x1 HDMI Switch",
+      "variant": "1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM129-40370 HDMI 5*1 Swith with 3.5mm Audio+ optical fiber",
+      "variant": "4K@30hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 200.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40279 HDMI 5*1 Switch 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM186-50707 HDMI 2.0 1*2 Splitter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD110-30605 HDMI 2.0",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD131-50106 HDMI 2.0V Carbon fiber Zinc alloy Cable",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD131-50108 HDMI 2.0V Carbon fiber Zinc alloy Cable",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD131-50109 HDMI 2.0V Carbon fiber Zinc alloy Cable",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD131-50110 HDMI 2.0V Carbon fiber Zinc alloy Cable",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD131-50112 HDMI 2.0V Carbon fiber Zinc alloy Cable",
+      "variant": "10m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 132.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD131-50114 HDMI 2.0V Carbon fiber Zinc alloy Cable",
+      "variant": "15m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 270.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD132-50717 HDMI 2.0 Zinc Alloy Optical Fibre cable",
+      "variant": "10m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD132-50215 HDMI 2.0 Zinc Alloy Optical Fibre cable",
+      "variant": "15m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 330.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD132-50216 HDMI 2.0 Zinc Alloy Optical Fibre cable",
+      "variant": "20m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 410.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD132-50217 HDMI 2.0 Zinc Alloy Optical Fibre cable",
+      "variant": "30m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 500.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-30115 HDMI cable 2.0v",
+      "variant": "0.5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10106 HDMI cable 2.0v",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10107 HDMI cable 2.0v",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD135-70319 HDMI 2.1 Cable 8K 60Hz 48Gbps",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD135-70321 HDMI 2.1 Cable 8K 60Hz 48Gbps",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD135-80602 HDMI 2.1 Cable 8K 60Hz 48Gbps",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10108 HDMI cable 2.0v",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10109 HDMI cable 1.4V",
+      "variant": "5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10109 HDMI cable 1.4V",
+      "variant": "8M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10110 HDMI cable 1.4V",
+      "variant": "10M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10111 HDMI cable 1.4V",
+      "variant": "15M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10112 HDMI cable 1.4V",
+      "variant": "20M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 220.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10113 HDMI cable 2.0V",
+      "variant": "25M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 300.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD104-10114 HDMI cable 2.0V",
+      "variant": "30M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 340.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen ED015-50819 HDMI cable 2.0v",
+      "variant": "1.5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.4
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen ED015-50820 HDMI cable 2.0v",
+      "variant": "3.0M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen ED015-50821 HDMI cable 2.0v",
+      "variant": "5.0M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD122-10277 HDMI right angle flat Cable metal connectors",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20109 HDMI Male to Female adapter",
+      "variant": "Down",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD107-20137 Mini HDMI male to HDMI female adpter cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD107-20134 Micro HDMI male to HDMI female adapter cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20144 Micro HDMI + Mini HDMI Male to HDMI Female Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM113-20316 HDMI Panel Frame",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM113-20317 HDMI Panel 86 module",
+      "variant": "1.4V",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM113-20318 HDMI Panel 86 Module",
+      "variant": "90 degree elbow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM107-40238 HDMI to Displayport",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM239-60352 HdMI to Mini DP converter",
+      "variant": "4K@30hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40234 HDMI 3*1 Switch Black",
+      "variant": "4K@30hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40216 4x2xHDMI Matrix HDMI switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM289-70436 HDMI 2.0 4*4 Matrix Switcher&Splitter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40203 1x8 HDMI Amplifier Splitter",
+      "variant": "4K*2K@30HZ",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 316.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40218 1x16 HDMI Amplifier Splitter",
+      "variant": "1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40201 1x2 HDMI Amplifier Splitter",
+      "variant": "1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40202 1x4 HDMI Amplifier Splitter",
+      "variant": "1080p",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20667 1x2 HDMI Amplifier Splitter",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 178.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40276 1x2 HDMI Amplifier Splitter",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 178.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40277 1x4 HDMI Amplifier Splitter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen DP101-10202 DP Male to HDMI Male cable",
+      "variant": "4K@30hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD127-30103 Micro HDMI Male to HDMI Male 1.4V Full copper 19+1",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD127-30104 Micro HDMI Male to HDMI Male 1.4V Full copper 19+1",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD108-10195 Mini HDMI Male to HDMI Male cable full copper 19+1",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM103-40217 Mini HDMI Male to VGA Female +3.5MM Audio+Mirco USB converter",
+      "variant": "Aluminum case",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM115-30355 Micro HDMI to HDMI+VGA Adapter with 3.5mm audio",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen HD101-40460 HDMI 2, Full copper 19+1",
+      "variant": "4K@60hz, Green-Black, 1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40207 2 ports HDMI splitter",
+      "variant": "1m - Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40281 HDMI to HDMI Converter with SPDIF and 3.5mm audio",
+      "variant": "4K@30hz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US121-10319 USB 2.0 Active extension cable with Chipset",
+      "variant": "5M Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US121-10321 USB 2.0 Active extension cable with Chipset",
+      "variant": "10M Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US121-10323 USB 2.0 Active Extension cable with chipset",
+      "variant": "15m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US121-10324 USB 2.0 Active Extension cable with chipset",
+      "variant": "20m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US122-10374 USB 2.0 Active A to B Printer Cable",
+      "variant": "10M Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US122-30935 USB 2.0 Active A to B cable with Chipset",
+      "variant": "10m EOL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US122-30936 USB 2.0 Active A to B cable with Chipset",
+      "variant": "15m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US175-20826 USB 3 Extender up to",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US175-20827 USB 3 Extender up to",
+      "variant": "10m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US133-10396 Micro USB to USB female OTG Black Color Round",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.3
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US127-10817 Micro USB to USB female OTG White Color Round",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US289-60134 USB 2.0 Male to Micro USB Data Cable Black",
+      "variant": "0.25m black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US289-60136 USB 2.0 Male to Micro USB Data Cable Black",
+      "variant": "1m black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.8
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US289-60138 USB 2.0 Male to Micro USB Data Cable Black",
+      "variant": "2m black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US289-60827 USB 2.0 Male to Micro USB Data Cable Black",
+      "variant": "3m black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US114-10841 USB 3.0 A male to Micro B USB male cable",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US114-10843 USB 3.0 Male to Micro USB Male cable",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US127-10817 Micro USB 3.0 OTG cable",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US102-10311 USB2.0 A male to A male cable",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US102-30136 USB2.0 A male to A male cable",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US103-10314 USB2.0 A Male to A Female extension cable gold plated",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US103-10316 USB2.0 A Male to A Female extension cable gold plated",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US103-10317 USB2.0 A Male to A Female extension cable gold plated",
+      "variant": "3m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US103-10318 USB2.0 A Male to A Female extension cable gold plated",
+      "variant": "5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.4
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US135-10350 USB 2.0 AM to BM print cable gold-plated",
+      "variant": "1.5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US135-20847 USB 2.0 AM to BM print cable gold-plated",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.8
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US135-10351 USB 2.0 AM to BM print cable gold-plated",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US135-10352 USB 2.0 AM to BM print cable gold-plated",
+      "variant": "5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US132-10385 USB2.0 A male to Mini 5pin male cable",
+      "variant": "1.5M - Gold plated",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US132-30472 USB2.0 A male to Mini 5pin male cable",
+      "variant": "2.0M - Gold plated",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.1
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US132-10386 USB2.0 A male to Mini 5pin male cable",
+      "variant": "3M - Gold plated",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US210-30753 USB 3.0 A Male to B Male",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.8
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US210-10372 USB 3.0 A Male to B Male",
+      "variant": "2m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US241-40417 USB C to USB 2 Printer Cable",
+      "variant": "1.5m White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.8
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US129-30125 USB 3.0 A male to A female extension cable",
+      "variant": "0.5m Flat",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US129-10368 USB 3.0 A male to A female extension cable",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US129-10373 USB 3.0 A male to A female extension cable",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US129-30127 USB 3.0 A male to A female extension cable",
+      "variant": "3M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US128-10371 USB 3.0 A male to A female extension cable",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR111-20255 USB3.0 Giga Lan Card-- ABS case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR111-20256 USB3.0 Giga Lan Card-- ABS case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM209-50922 USB Ethernet Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30154 USB 3.1 Type-C to Micro USB Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30155 USB 3.1 Type C superspeed male to USB 3.0 Type A female adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US173-20808 Type C to USB 3.0 A Female adaptor",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20107 HDMI Female to Female adaptor",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US154-30701 Usb Type C To Usb 3.0 to giga",
+      "variant": "16cm",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US154-30702 Usb Type C To Usb 3.0 Female Cable White",
+      "variant": "15Cm",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM199-50737 USB Type C to giga, Grey",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen MM123-30843 USB type C to HDMi+VGA Female converter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM162-50505 USB-C to HDMI 4K@30hz+VGA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM260-60568 USB-C To VGA+HDMI+DP Converter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR125-40755 USB C Card Reader, USB A and USB Type C 2 in 1 to TF SD CF MS Slot",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM185-50706 USB-C +USB 3.0 TF/SD Card Reader",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM187-50708 HDMI 2.0 1*4 Splitter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 176.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM387-80798 USB-C SD TF Card Reader 3 in 1 USB 3.0 UHS-I USB 2.0 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30722 Bluetooth 4.0 Receiver USB Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 10379 Samsung OTG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 20224 USB to DB25F",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR107-20206 USB 2.0 to DB9 RS232 cable",
+      "variant": "1m - FTDI Chipset",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM228-60101 4 ports USB Synchronous Controller Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR107-20218 USB 2.0 to DB9 RS232 cable",
+      "variant": "2m - FTDI Chipset",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM229-60102 8 ports USB Synchronous Controller Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR104-20210 USB 2.0 to DB9 RS232 cable",
+      "variant": "1m - Prolfic Chipset (PL2303)",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CR104-20222 USB 2.0 to DB9 RS232 cable",
+      "variant": "2m - Prolfic Chipset (PL2303)",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.4
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US229-30769 USB 2.0 to 2xDB9 RS232 cable",
+      "variant": "1.5m Prolfic Chipset (PL2303)",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.6
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM253-70612 USB C to DB9 RS232 cable",
+      "variant": "1.5m, Prolific Chipset",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM253-60562 USB TO RS-422/RS485 adapter Cable",
+      "variant": "1.5m, Chipset: FIDI-FT232R+ZT485",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM204-50773 USB to RJ45 Console cable",
+      "variant": "1.5m for Cisco Serial Switch",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM204-80186 USB TYPE C TO RJ45 CONSOLE FLAT CABLE",
+      "variant": "1.5M BLACK",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US186-30461 USB to Micro USB x1, USB Type C x1, MFi Lightning x1",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30572 USB Y Splitter Cable USB to USB Type C & Micro USB Cable",
+      "variant": "0.5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US155-20729 Lightning to USB Cable(ABS case) MFi Ceritified",
+      "variant": "1.5m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US155-20728 MFI Certified Ugreen Lightning to USB Cable Data Syncing Charging Cord",
+      "variant": "1M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US155-80315 MFI Certified Ugreen Lightning to USB Cable Data Syncing Charging Cord",
+      "variant": "1.5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US211-30756 Lightning TO 3.5 Female",
+      "variant": "MFi Ceritified, Length:10cm",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US260-50146 USB A Male to 3.5mm Male Ipod Charging Cable",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US277-10376 USB A Male to 3.5*1.35 charging cable",
+      "variant": "black 1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30143 USB 2.0 External 3.5mm Sound Card Adapter",
+      "variant": "15CM White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US206-30712 USB Sound Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.2
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM129-40964 USB 2.0 External Stereo Sound Adapter",
+      "variant": "15cm adjustable volume",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.4
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM151-50291 Iphone Lightning and Android phone to HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40243 USB 3 to DVI Converter",
+      "variant": "80cm Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 240.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 40246 USB 3 to Dual DVI Converter",
+      "variant": "80cm Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM138-40576 USB 2.0 Slim Portable DVD Writer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 156.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30985 Micro USB Ethernet adaptor for Chromecast and Micro TV Sticks",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen 30175 USB type C to USB 2 type A female change and sync cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen ED008-40574 USB C Extension Cable Type C Extender Cord Male to Female",
+      "variant": "1.5FT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US353-10387 USB-C 3.1 Gen 2 Extension Cable (10Gbps)",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US177-20873 Micro Usb Cable With Usb C Adapter",
+      "variant": "Silver 1.5M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen US312-20103 USB C Hard Drive Cable",
+      "variant": "1M Micro B to Type C Lead",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.4
+    },
+    {
+      "category": null,
+      "brand": "Ugreen",
+      "product": "Ugreen CM201-50745 HDMI 4*1 Quad Multi-View 1080p",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 396.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS XA01 ROG STRIX FLARE CHERRY RGB MX BROWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS XA01 ROG STRIX FLARE CHERRY RGB MX BLUE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE DELUXE RD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE DELUXE BL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE TKL DELUXE RD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE TKL DELUXE SV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS XA03 ROG STRIX SCOPE PBT KEYCAP MX RED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE RX GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS XA02 ROG STRIX CONTROL CHERRY RGB MX RED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS XA02 ROG STRIX CONTROL CHERRY RGB MX BROWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS XA02 ROG STRIX CONTROL CHERRY RGB MX BLUE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K7 OPT-MECH RGB GAMING KEYBOARD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K7 OPT-MECH RGB GAMING KEYBOARD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K3 RED KB / LINEAR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K3 BLUE KB / CLICKY",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K1 KB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CHAKRAM W/LESS RGB MOUSE WITH QI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CHAKRAM CORE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG KERIS WIRELESS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG PUGIO II GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX CARRY WIRELESS GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS II WIRELESS AURA RGB MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS II CORE RGB GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX IMPACT II WIRELESS GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX IMPACT II AURA RGB GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING M3 RGB GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS CERBERUS 2500DPI GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG BALTEUS QI WIRELESS CHARGING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1Y",
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SCABBARD GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SHEATH GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SLICE MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS CERBERUS PAD XXL MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS CERBERUS PAD PLUS MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS CERBERUS PAD MINI RED MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING P3 GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GAMING KEYCAP SET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG THETA 7.1 GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX GO 2.4GHZ GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX GO CORE - 3.5mm",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG DELTA S TYPE-C RGB GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX FUSION 500 7.1 GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX FUSION 300 7.1 GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    }
+  ],
+  "numeric_tokens_in_source": 106,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 292 rows, limit 217",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800-SE-LIC D-View 8 Standard Maintenance License\", \"variant\": \"<5,000 nodes\", \"price_sgd\": 5807},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800MS-Y1-LIC D-View 8 Standard Maintenance License\", \"variant\": \"Y1=365 days\", \"price_sgd\": 3630},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800MS-Y2-LIC D-View 8 Standard Maintenance License\", \"variant\": \"Y2=730 days\", \"price_sgd\": 6533},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800MS-Y3-LIC D-View 8 Standard Maintenance License\", \"variant\": \"Y3=1095 days\", \"price_sgd\": 8711},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800MS-Y4-LIC D-View 8 Standard Maintenance License\", \"variant\": \"Y4=1460 days\", \"price_sgd\": 10163},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800MS-Y5-LIC D-View 8 Standard Maintenance License\", \"variant\": \"Y5=1825 days\", \"price_sgd\": 10889},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800ME-Y1-LIC D-View 8 Enterprise Maintenance License\", \"variant\": \"Y1=365 days\", \"price_sgd\": 5807},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800ME-Y2-LIC D-View 8 Enterprise Maintenance License\", \"variant\": \"Y2=730 days\", \"price_sgd\": 10889},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800ME-Y3-LIC D-View 8 Enterprise Maintenance License\", \"variant\": \"Y3=1095 days\", \"price_sgd\": 15244},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800ME-Y4-LIC D-View 8 Enterprise Maintenance License\", \"variant\": \"Y4=1460 days\", \"price_sgd\": 21777},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800ME-Y5-LIC D-View 8 Enterprise Maintenance License\", \"variant\": \"Y5=1825 days\", \"price_sgd\": 23593},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link DV-800MS-Yn-LIC\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link Cat 6 Cable\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link NCB-C6UBLUR-305-24 CAT6 UTP 24AWG Cable Rolls\", \"price_sgd\": 144},\n  {\"category\": null, \"brand\": \"D-Link\", \"product\": \"D-Link\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD114-20417 3 in 1 Mini DP to HDMI/VGA/DVI\", \"variant\": \"White, 1080p\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD114-20418 3 in 1 Mini DP to HDMI/VGA/DVI\", \"variant\": \"Black, 1080p\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD115-20421 Mini DisplayPort to HDMI & VGA Converter\", \"variant\": \"Silver\", \"price_sgd\": 64},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 10448 Mini DP Cable Male to DVI Female converter cable, Active, 4Kx2K EOL\", \"price_sgd\": 66},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD110-10451 Mini dp male to HDMI female converter cable---Aluminum case\", \"price_sgd\": 58},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD110-10401 Mini dp male to HDMI female converter cable---Aluminum case, 1.1V\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD112-10461 Mini dp to HDMI female converter cable 18CM Black - Plastic\", \"variant\": \"1920*1080\", \"price_sgd\": 22},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD112-40360 Mini dp to HDMI female converter cable 18CM Black - Plastic\", \"variant\": \"4K*2K/30Hz\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD112-40361 Mini dp to HDMI female converter cable 18CM White - Plastic\", \"variant\": \"4K*2K/30Hz\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 10402 Mini dp male to DVI female converter cable, Ver 1\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD107-10403 Mini dp male to VGA female converter cable---Aluminum case\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD113-10459 Mini dp male to VGA female converter cable---Aluminum case\", \"price_sgd\": 37},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD101-10419 Mini dp male to hdmi cable\", \"variant\": \"white 3M - 1080p\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD101-20848 Mini dp 1.2 male to hdmi cable\", \"variant\": \"black 4K, 1.5m\", \"price_sgd\": 34.4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD101-10455 Mini dp 1.2 male to hdmi cable\", \"variant\": \"black 4K, 3.0m\", \"price_sgd\": 48},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD102-10443 Mini DP to DVI (24+1) cable\", \"variant\": \"1.5M White\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD102-10405 Mini DP to DVI (24+1) cable\", \"variant\": \"2M White\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD102-20925 Mini DP to DVI (24+1) cable\", \"variant\": \"2M Black\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD102-10425 Mini DP to DVI (24+1) cable 3M EOL\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD105-10477 Mini DP to DP 1.2 cable\", \"variant\": \"1.5M, 3D, 4Kx2K@60Hz\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD105-10433 Mini DP to DP 1.2 cable\", \"variant\": \"2.0M, 4Kx2K@60Hz\", \"price_sgd\": 28},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD105-10434 Mini DP to DP 1.2 cable\", \"variant\": \"3.0M, 4Kx2K@60Hz\", \"price_sgd\": 31},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MD111-10429 Mini DP Male to Male Cable\", \"variant\": \"2m, 4K White\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 10445 Mini DP Male to DP female adaptor\", \"variant\": \"ver 1.2 support 4K*2K\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen Display Port\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP110-20420 DisplayPort to HDMI/VGA/DVI Converter\", \"variant\": \"Black\", \"price_sgd\": 70},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP106-20414 DP Male to VGA Female Converter cable\", \"variant\": \"Black\", \"price_sgd\": 36},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM137-40363 DP to HDMI Female converter cable\", \"variant\": \"4K*2K@ 30hz Slim type\", \"price_sgd\": 38},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM137-70694 DP to HDMI Female converter cable\", \"variant\": \"4K*2K@ 60hz Slim type\", \"price_sgd\": 41.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP105-10247 DP Male to VGA Male cable\", \"variant\": \"1.5m\", \"price_sgd\": 42},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP105-10235 DP Male to VGA Male cable\", \"variant\": \"2m\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP105-10236 DP Male to VGA Male Cable\", \"variant\": \"3M\", \"price_sgd\": 56},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP101-10238 DP Male to HDMI Male cable\", \"variant\": \"1m\", \"price_sgd\": 38},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP101-10202 DP Male to HDMI Male cable\", \"variant\": \"2m\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP101-10203 DP Male to HDMI Male cable\", \"variant\": \"3m\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP101-10204 DP Male to HDMI Male cable\", \"variant\": \"5m\", \"price_sgd\": 56},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP111-40434 2m DP male to HDMI male cable Active\", \"variant\": \"4K@60hz\", \"price_sgd\": 80},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP102-10244 Dp Male to DP Male cable\", \"variant\": \"1m 4K*2K @60hz\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP102-10211 Dp Male to DP Male cable\", \"variant\": \"2m 4K*2K @60hz\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP102-10212 Dp Male to DP Male cable\", \"variant\": \"3m 4K*2K @60hz\", \"price_sgd\": 38},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP102-10213 Dp Male to DP Male cable\", \"variant\": \"5m 4K*2K @60hz\", \"price_sgd\": 48},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP107-30120 Display Port 1.2 Male to Male Cable with nylon braid\", \"variant\": \"2M\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP107-30122 Display Port 1.2 Male to Male Cable with nylon braid\", \"variant\": \"5M\", \"price_sgd\": 66},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP107-30124 Display Port 1.2 Male to Male Cable with nylon braid\", \"variant\": \"10M\", \"price_sgd\": 136},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP112-60842 8K DisplayPort Cable 1Meter\", \"variant\": \"1M\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP112-60843 8K DisplayPort Cable 2Meter\", \"variant\": \"2M\", \"price_sgd\": 70},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP112-60844 8K DisplayPort Cable 3Meter\", \"variant\": \"3M\", \"price_sgd\": 82},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP114-80390 DP 1.4 Male To Male Cable\", \"variant\": \"1m\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP114-80392 DP 1.4 Male To Male Cable\", \"variant\": \"2m\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP114-80393 DP 1.4 Male To Male Cable\", \"variant\": \"3m\", \"price_sgd\": 37},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP103-10221 DP Male to DVI Male cable\", \"variant\": \"2m\", \"price_sgd\": 38},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP103-10222 DP Male to DVI Male cable\", \"variant\": \"3m\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP103-10223 DP Male to DVI Male cable\", \"variant\": \"5m\", \"price_sgd\": 54},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP106-20405 DP Male to DVI Female adapter cable\", \"variant\": \"15cm\", \"price_sgd\": 36},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen USB Hub\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM219-50985 4-Port USB 3.0 Hub\", \"variant\": \"Grey/16CM\", \"price_sgd\": 42},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US156-30344 USB 3.0 3 Ports Hub+ 4 Card Reader Converter\", \"price_sgd\": 62},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR113-20291 USB 3.0 to 4 ports hub\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR113-40850 4 Ports USB 3.0 Hub with Type-C and USB3.1 OTG Adapter Converter\", \"variant\": \"1m\", \"price_sgd\": 52},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR133-30421 3 Port USB 2.0 Hub with External Stereo Sound Adapter\", \"variant\": \"1M\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20265 USB 3.0 Hub Ethernet Adapter 10/100/1000 Gigabit Network Converter with USB 3.0 Hub 3 Ports\", \"price_sgd\": 116},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR108-20627 USB 3.0 to SATA Converter cable\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM257-60561 USB 3.0 to SATA Adapter Cable\", \"price_sgd\": 37},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US160-30353 USB 3.0 to SATA/IDE Converter cable\", \"price_sgd\": 108},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US221-50743 Type C 2.5 inch Hard Dish box\", \"price_sgd\": 53},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen USB Sharing Switch\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US158-30345 USB 2.0 Sharing Switch 2*1\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US158-30346 USB 2.0 Sharing Switch 4*1\", \"price_sgd\": 56},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US216-30768 USB 3.0 2 in 4 out Sharing Switch\", \"price_sgd\": 80},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HDMI/Micro HDMI/Mini HDMI Cable and Converter\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM102-40253 HDMI Male To VGA Female adaptor\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM103-40248 HDMI Male To VGA Female + Audio + Micro USB converter\", \"variant\": \"Flat Design\", \"price_sgd\": 48},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40282 HDMI Male To VGA Female + 5.1 SDIF and Audio\", \"price_sgd\": 84},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM101-30449 HDMI Male To VGA Male converter round cable\", \"variant\": \"1.5m\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20694 Active HDMI to VGA Adapter with 3.5mm Audio Jack\", \"price_sgd\": 42},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD106-30116 HDMI Male To DVI Male\", \"variant\": \"1m\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD106-10135 HDMI Male To DVI Male\", \"variant\": \"2m\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD106-10136 HDMI Male To DVI Male\", \"variant\": \"3m\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD106-10137 HDMI Male To DVI Male\", \"variant\": \"5m\", \"price_sgd\": 32},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD106-10138 HDMI Male To DVI Male\", \"variant\": \"10m\", \"price_sgd\": 66},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD106-10166 HDMI Male To DVI Male\", \"variant\": \"15m\", \"price_sgd\": 124},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD107-10140 HDMI Male to Female extension cable 1.4V\", \"variant\": \"0.5m\", \"price_sgd\": 14},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD107-10141 HDMI male to female extension cable\", \"variant\": \"1M\", \"price_sgd\": 15},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD107-10142 HDMI male to female extension cable\", \"variant\": \"2M\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20118 DVI Male to HDMI female adaptor cable\", \"price_sgd\": 18},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20136 HDMI Male to DVI Female adaptor cable\", \"price_sgd\": 18},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20123 HDMI Male to DVI Female adaptor cable\", \"price_sgd\": 11},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20124 HDMI Female to DVI Male adaptor cable\", \"price_sgd\": 12},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20107 HDMI Female to Female adaptor\", \"price_sgd\": 11},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM217-50966 2-Port HDMI Switcher/Splitter\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40278 HDMI 3*1 Switch\", \"variant\": \"130\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40205 5x1 HDMI Switch\", \"variant\": \"1080p\", \"price_sgd\": 116},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM129-40370 HDMI 5*1 Swith with 3.5mm Audio+ optical fiber\", \"variant\": \"4K@30hz\", \"price_sgd\": 200},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40279 HDMI 5*1 Switch 4K\", \"price_sgd\": 170},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM186-50707 HDMI 2.0 1*2 Splitter\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD110-30605 HDMI 2.0\", \"variant\": \"5m\", \"price_sgd\": 57},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD131-50106 HDMI 2.0V Carbon fiber Zinc alloy Cable\", \"variant\": \"1m\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD131-50108 HDMI 2.0V Carbon fiber Zinc alloy Cable\", \"variant\": \"2m\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD131-50109 HDMI 2.0V Carbon fiber Zinc alloy Cable\", \"variant\": \"3m\", \"price_sgd\": 76},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD131-50110 HDMI 2.0V Carbon fiber Zinc alloy Cable\", \"variant\": \"5m\", \"price_sgd\": 90},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD131-50112 HDMI 2.0V Carbon fiber Zinc alloy Cable\", \"variant\": \"10m\", \"price_sgd\": 132},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD131-50114 HDMI 2.0V Carbon fiber Zinc alloy Cable\", \"variant\": \"15m\", \"price_sgd\": 270},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD132-50717 HDMI 2.0 Zinc Alloy Optical Fibre cable\", \"variant\": \"10m\", \"price_sgd\": 28.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD132-50215 HDMI 2.0 Zinc Alloy Optical Fibre cable\", \"variant\": \"15m\", \"price_sgd\": 330},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD132-50216 HDMI 2.0 Zinc Alloy Optical Fibre cable\", \"variant\": \"20m\", \"price_sgd\": 410},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD132-50217 HDMI 2.0 Zinc Alloy Optical Fibre cable\", \"variant\": \"30m\", \"price_sgd\": 500},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-30115 HDMI cable 2.0v\", \"variant\": \"0.5M\", \"price_sgd\": 14},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10106 HDMI cable 2.0v\", \"variant\": \"1M\", \"price_sgd\": 16},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10107 HDMI cable 2.0v\", \"variant\": \"2M\", \"price_sgd\": 18},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD135-70319 HDMI 2.1 Cable 8K 60Hz 48Gbps\", \"variant\": \"1M\", \"price_sgd\": 52},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD135-70321 HDMI 2.1 Cable 8K 60Hz 48Gbps\", \"variant\": \"2M\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD135-80602 HDMI 2.1 Cable 8K 60Hz 48Gbps\", \"variant\": \"3M\", \"price_sgd\": 67},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10108 HDMI cable 2.0v\", \"variant\": \"3M\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10109 HDMI cable 1.4V\", \"variant\": \"5M\", \"price_sgd\": 32},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10109 HDMI cable 1.4V\", \"variant\": \"8M\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10110 HDMI cable 1.4V\", \"variant\": \"10M\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10111 HDMI cable 1.4V\", \"variant\": \"15M\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10112 HDMI cable 1.4V\", \"variant\": \"20M\", \"price_sgd\": 220},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10113 HDMI cable 2.0V\", \"variant\": \"25M\", \"price_sgd\": 300},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD104-10114 HDMI cable 2.0V\", \"variant\": \"30M\", \"price_sgd\": 340},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen ED015-50819 HDMI cable 2.0v\", \"variant\": \"1.5M\", \"price_sgd\": 14.4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen ED015-50820 HDMI cable 2.0v\", \"variant\": \"3.0M\", \"price_sgd\": 17.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen ED015-50821 HDMI cable 2.0v\", \"variant\": \"5.0M\", \"price_sgd\": 23},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD122-10277 HDMI right angle flat Cable metal connectors\", \"variant\": \"1M\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20109 HDMI Male to Female adapter\", \"variant\": \"Down\", \"price_sgd\": 9},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD107-20137 Mini HDMI male to HDMI female adpter cable\", \"price_sgd\": 16},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD107-20134 Micro HDMI male to HDMI female adapter cable\", \"price_sgd\": 18},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20144 Micro HDMI + Mini HDMI Male to HDMI Female Adapter\", \"price_sgd\": 12},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM113-20316 HDMI Panel Frame\", \"price_sgd\": 8},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM113-20317 HDMI Panel 86 module\", \"variant\": \"1.4V\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM113-20318 HDMI Panel 86 Module\", \"variant\": \"90 degree elbow\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HDMI Splitters, Switches and cable\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM107-40238 HDMI to Displayport\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM239-60352 HdMI to Mini DP converter\", \"variant\": \"4K@30hz\", \"price_sgd\": 100},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40234 HDMI 3*1 Switch Black\", \"variant\": \"4K@30hz\", \"price_sgd\": 78},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40216 4x2xHDMI Matrix HDMI switch\", \"price_sgd\": 540},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM289-70436 HDMI 2.0 4*4 Matrix Switcher&Splitter\", \"price_sgd\": 540},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40203 1x8 HDMI Amplifier Splitter\", \"variant\": \"4K*2K@30HZ\", \"price_sgd\": 316},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40218 1x16 HDMI Amplifier Splitter\", \"variant\": \"1080p\", \"price_sgd\": 900},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40201 1x2 HDMI Amplifier Splitter\", \"variant\": \"1080p\", \"price_sgd\": 124},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40202 1x4 HDMI Amplifier Splitter\", \"variant\": \"1080p\", \"price_sgd\": 210},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20667 1x2 HDMI Amplifier Splitter\", \"variant\": \"4K\", \"price_sgd\": 178},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40276 1x2 HDMI Amplifier Splitter\", \"variant\": \"4K\", \"price_sgd\": 178},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40277 1x4 HDMI Amplifier Splitter\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen DP101-10202 DP Male to HDMI Male cable\", \"variant\": \"4K@30hz\", \"price_sgd\": 7.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD127-30103 Micro HDMI Male to HDMI Male 1.4V Full copper 19+1\", \"variant\": \"2m\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD127-30104 Micro HDMI Male to HDMI Male 1.4V Full copper 19+1\", \"variant\": \"3m\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD108-10195 Mini HDMI Male to HDMI Male cable full copper 19+1\", \"variant\": \"1m\", \"price_sgd\": 13.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM103-40217 Mini HDMI Male to VGA Female +3.5MM Audio+Mirco USB converter\", \"variant\": \"Aluminum case\", \"price_sgd\": 64},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM115-30355 Micro HDMI to HDMI+VGA Adapter with 3.5mm audio\", \"variant\": \"Black\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen HD101-40460 HDMI 2, Full copper 19+1\", \"variant\": \"4K@60hz, Green-Black, 1m\", \"price_sgd\": 16},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40207 2 ports HDMI splitter\", \"variant\": \"1m - Black\", \"price_sgd\": 100},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40281 HDMI to HDMI Converter with SPDIF and 3.5mm audio\", \"variant\": \"4K@30hz\", \"price_sgd\": 96},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen USB Booster/ Mini USB\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US121-10319 USB 2.0 Active extension cable with Chipset\", \"variant\": \"5M Black\", \"price_sgd\": 30},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US121-10321 USB 2.0 Active extension cable with Chipset\", \"variant\": \"10M Black\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US121-10323 USB 2.0 Active Extension cable with chipset\", \"variant\": \"15m\", \"price_sgd\": 90},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US121-10324 USB 2.0 Active Extension cable with chipset\", \"variant\": \"20m\", \"price_sgd\": 110},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US122-10374 USB 2.0 Active A to B Printer Cable\", \"variant\": \"10M Black\", \"price_sgd\": 40},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US122-30935 USB 2.0 Active A to B cable with Chipset\", \"variant\": \"10m EOL\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US122-30936 USB 2.0 Active A to B cable with Chipset\", \"variant\": \"15m\", \"price_sgd\": 66},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US175-20826 USB 3 Extender up to\", \"variant\": \"5m\", \"price_sgd\": 62},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US175-20827 USB 3 Extender up to\", \"variant\": \"10m\", \"price_sgd\": 134},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US133-10396 Micro USB to USB female OTG Black Color Round\", \"price_sgd\": 4.3},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US127-10817 Micro USB to USB female OTG White Color Round\", \"price_sgd\": 9},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US289-60134 USB 2.0 Male to Micro USB Data Cable Black\", \"variant\": \"0.25m black\", \"price_sgd\": 4.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US289-60136 USB 2.0 Male to Micro USB Data Cable Black\", \"variant\": \"1m black\", \"price_sgd\": 5.8},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US289-60138 USB 2.0 Male to Micro USB Data Cable Black\", \"variant\": \"2m black\", \"price_sgd\": 6.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US289-60827 USB 2.0 Male to Micro USB Data Cable Black\", \"variant\": \"3m black\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US114-10841 USB 3.0 A male to Micro B USB male cable\", \"variant\": \"1M\", \"price_sgd\": 16},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US114-10843 USB 3.0 Male to Micro USB Male cable\", \"variant\": \"2m\", \"price_sgd\": 17},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US127-10817 Micro USB 3.0 OTG cable\", \"variant\": \"White\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US102-10311 USB2.0 A male to A male cable\", \"variant\": \"2M\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US102-30136 USB2.0 A male to A male cable\", \"variant\": \"3M\", \"price_sgd\": 12},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US103-10314 USB2.0 A Male to A Female extension cable gold plated\", \"variant\": \"1m\", \"price_sgd\": 7.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US103-10316 USB2.0 A Male to A Female extension cable gold plated\", \"variant\": \"2m\", \"price_sgd\": 8},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US103-10317 USB2.0 A Male to A Female extension cable gold plated\", \"variant\": \"3m\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US103-10318 USB2.0 A Male to A Female extension cable gold plated\", \"variant\": \"5m\", \"price_sgd\": 14.4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US135-10350 USB 2.0 AM to BM print cable gold-plated\", \"variant\": \"1.5M\", \"price_sgd\": 7.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US135-20847 USB 2.0 AM to BM print cable gold-plated\", \"variant\": \"2M\", \"price_sgd\": 9.8},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US135-10351 USB 2.0 AM to BM print cable gold-plated\", \"variant\": \"3M\", \"price_sgd\": 15},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US135-10352 USB 2.0 AM to BM print cable gold-plated\", \"variant\": \"5M\", \"price_sgd\": 17},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US132-10385 USB2.0 A male to Mini 5pin male cable\", \"variant\": \"1.5M - Gold plated\", \"price_sgd\": 9},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US132-30472 USB2.0 A male to Mini 5pin male cable\", \"variant\": \"2.0M - Gold plated\", \"price_sgd\": 9.1},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US132-10386 USB2.0 A male to Mini 5pin male cable\", \"variant\": \"3M - Gold plated\", \"price_sgd\": 14},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US210-30753 USB 3.0 A Male to B Male\", \"variant\": \"1m\", \"price_sgd\": 12.8},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US210-10372 USB 3.0 A Male to B Male\", \"variant\": \"2m\", \"price_sgd\": 18.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US241-40417 USB C to USB 2 Printer Cable\", \"variant\": \"1.5m White\", \"price_sgd\": 15.8},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US129-30125 USB 3.0 A male to A female extension cable\", \"variant\": \"0.5m Flat\", \"price_sgd\": 11.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US129-10368 USB 3.0 A male to A female extension cable\", \"variant\": \"1M\", \"price_sgd\": 11.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US129-10373 USB 3.0 A male to A female extension cable\", \"variant\": \"2M\", \"price_sgd\": 18},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US129-30127 USB 3.0 A male to A female extension cable\", \"variant\": \"3M\", \"price_sgd\": 22},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US128-10371 USB 3.0 A male to A female extension cable\", \"variant\": \"2M\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR111-20255 USB3.0 Giga Lan Card-- ABS case\", \"variant\": \"White\", \"price_sgd\": 64},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR111-20256 USB3.0 Giga Lan Card-- ABS case\", \"variant\": \"Black\", \"price_sgd\": 64},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM209-50922 USB Ethernet Adapter\", \"price_sgd\": 64},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30154 USB 3.1 Type-C to Micro USB Adapter\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30155 USB 3.1 Type C superspeed male to USB 3.0 Type A female adapter\", \"price_sgd\": 13},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US173-20808 Type C to USB 3.0 A Female adaptor\", \"variant\": \"Black\", \"price_sgd\": 13},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20107 HDMI Female to Female adaptor\", \"variant\": \"4K\", \"price_sgd\": 260},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US236-50307 USB Type C Female Cable Black\", \"variant\": \"15Cm\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US154-30701 Usb Type C To Usb 3.0 to giga\", \"variant\": \"16cm\", \"price_sgd\": 9},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US154-30702 Usb Type C To Usb 3.0 Female Cable White\", \"variant\": \"15Cm\", \"price_sgd\": 16},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM199-50737 USB Type C to giga, Grey\", \"price_sgd\": 64},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen MM123-30843 USB type C to HDMi+VGA Female converter\", \"price_sgd\": 80},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM162-50505 USB-C to HDMI 4K@30hz+VGA\", \"price_sgd\": 116},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM260-60568 USB-C To VGA+HDMI+DP Converter\", \"price_sgd\": 116},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR125-40755 USB C Card Reader, USB A and USB Type C 2 in 1 to TF SD CF MS Slot\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM185-50706 USB-C +USB 3.0 TF/SD Card Reader\", \"price_sgd\": 158},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM187-50708 HDMI 2.0 1*4 Splitter\", \"price_sgd\": 176},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM387-80798 USB-C SD TF Card Reader 3 in 1 USB 3.0 UHS-I USB 2.0 Ports\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30722 Bluetooth 4.0 Receiver USB Adapter\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 10379 Samsung OTG\", \"price_sgd\": 6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 20224 USB to DB25F\", \"price_sgd\": 32},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR107-20206 USB 2.0 to DB9 RS232 cable\", \"variant\": \"1m - FTDI Chipset\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM228-60101 4 ports USB Synchronous Controller Black\", \"price_sgd\": 100},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR107-20218 USB 2.0 to DB9 RS232 cable\", \"variant\": \"2m - FTDI Chipset\", \"price_sgd\": 48.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM229-60102 8 ports USB Synchronous Controller Black\", \"price_sgd\": 216},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR104-20210 USB 2.0 to DB9 RS232 cable\", \"variant\": \"1m - Prolfic Chipset (PL2303)\", \"price_sgd\": 27.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CR104-20222 USB 2.0 to DB9 RS232 cable\", \"variant\": \"2m - Prolfic Chipset (PL2303)\", \"price_sgd\": 28.4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US229-30769 USB 2.0 to 2xDB9 RS232 cable\", \"variant\": \"1.5m Prolfic Chipset (PL2303)\", \"price_sgd\": 68.6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM253-70612 USB C to DB9 RS232 cable\", \"variant\": \"1.5m, Prolific Chipset\", \"price_sgd\": 32},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM253-60562 USB TO RS-422/RS485 adapter Cable\", \"variant\": \"1.5m, Chipset: FIDI-FT232R+ZT485\", \"price_sgd\": 57},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM204-50773 USB to RJ45 Console cable\", \"variant\": \"1.5m for Cisco Serial Switch\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM204-80186 USB TYPE C TO RJ45 CONSOLE FLAT CABLE\", \"variant\": \"1.5M BLACK\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US186-30461 USB to Micro USB x1, USB Type C x1, MFi Lightning x1\", \"variant\": \"1m\", \"price_sgd\": 52},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30572 USB Y Splitter Cable USB to USB Type C & Micro USB Cable\", \"variant\": \"0.5M\", \"price_sgd\": 27},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US155-20729 Lightning to USB Cable(ABS case) MFi Ceritified\", \"variant\": \"1.5m\", \"price_sgd\": 36},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US155-20728 MFI Certified Ugreen Lightning to USB Cable Data Syncing Charging Cord\", \"variant\": \"1M\", \"price_sgd\": 39},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US155-80315 MFI Certified Ugreen Lightning to USB Cable Data Syncing Charging Cord\", \"variant\": \"1.5M\", \"price_sgd\": 42},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US211-30756 Lightning TO 3.5 Female\", \"variant\": \"MFi Ceritified, Length:10cm\", \"price_sgd\": 48},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US260-50146 USB A Male to 3.5mm Male Ipod Charging Cable\", \"variant\": \"White\", \"price_sgd\": 6},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US277-10376 USB A Male to 3.5*1.35 charging cable\", \"variant\": \"black 1m\", \"price_sgd\": 4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30143 USB 2.0 External 3.5mm Sound Card Adapter\", \"variant\": \"15CM White\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US206-30712 USB Sound Adapter\", \"price_sgd\": 37.2},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM129-40964 USB 2.0 External Stereo Sound Adapter\", \"variant\": \"15cm adjustable volume\", \"price_sgd\": 34.4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM151-50291 Iphone Lightning and Android phone to HDMI\", \"price_sgd\": 92},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40243 USB 3 to DVI Converter\", \"variant\": \"80cm Silver\", \"price_sgd\": 240},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 40246 USB 3 to Dual DVI Converter\", \"variant\": \"80cm Silver\", \"price_sgd\": 280},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM138-40576 USB 2.0 Slim Portable DVD Writer\", \"price_sgd\": 156},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen USB Ethernet for Chromecast and TV stick\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30985 Micro USB Ethernet adaptor for Chromecast and Micro TV Sticks\", \"price_sgd\": 42},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen Type C\", \"price_sgd\": 0},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen 30175 USB type C to USB 2 type A female change and sync cable\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen ED008-40574 USB C Extension Cable Type C Extender Cord Male to Female\", \"variant\": \"1.5FT\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US353-10387 USB-C 3.1 Gen 2 Extension Cable (10Gbps)\", \"variant\": \"1m\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US177-20873 Micro Usb Cable With Usb C Adapter\", \"variant\": \"Silver 1.5M\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen US312-20103 USB C Hard Drive Cable\", \"variant\": \"1M Micro B to Type C Lead\", \"price_sgd\": 14.4},\n  {\"category\": null, \"brand\": \"Ugreen\", \"product\": \"Ugreen CM201-50745 HDMI 4*1 Quad Multi-View 1080p\", \"price_sgd\": 396},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS XA01 ROG STRIX FLARE CHERRY RGB MX BROWN\", \"price_sgd\": 249},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS XA01 ROG STRIX FLARE CHERRY RGB MX BLUE\", \"price_sgd\": 249},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE DELUXE RD\", \"price_sgd\": 279},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE DELUXE BL\", \"price_sgd\": 279},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE TKL DELUXE RD\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE TKL DELUXE SV\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS XA03 ROG STRIX SCOPE PBT KEYCAP MX RED\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE RX GAMING\", \"price_sgd\": 179},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS XA02 ROG STRIX CONTROL CHERRY RGB MX RED\", \"warranty\": \"2Y\", \"price_sgd\": 219},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS XA02 ROG STRIX CONTROL CHERRY RGB MX BROWN\", \"warranty\": \"2Y\", \"price_sgd\": 219},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS XA02 ROG STRIX CONTROL CHERRY RGB MX BLUE\", \"warranty\": \"2Y\", \"price_sgd\": 219},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K7 OPT-MECH RGB GAMING KEYBOARD\", \"warranty\": \"2Y\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K7 OPT-MECH RGB GAMING KEYBOARD\", \"warranty\": \"2Y\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K3 RED KB / LINEAR\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K3 BLUE KB / CLICKY\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K1 KB\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG CHAKRAM W/LESS RGB MOUSE WITH QI\", \"price_sgd\": 259},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG CHAKRAM CORE\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG KERIS WIRELESS\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG PUGIO II GAMING MOUSE\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX CARRY WIRELESS GAMING MOUSE\", \"price_sgd\": 109},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS II WIRELESS AURA RGB MOUSE\", \"price_sgd\": 189},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS II CORE RGB GAMING MOUSE\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX IMPACT II WIRELESS GAMING MOUSE\", \"price_sgd\": 139},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX IMPACT II AURA RGB GAMING MOUSE\", \"price_sgd\": 69},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING M3 RGB GAMING MOUSE\", \"price_sgd\": 39},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS CERBERUS 2500DPI GAMING MOUSE\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG BALTEUS QI WIRELESS CHARGING MOUSEMAT\", \"warranty\": \"1Y\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG SCABBARD GAMING MOUSEMAT\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG SHEATH GAMING MOUSEMAT\", \"price_sgd\": 69},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SLICE MOUSEMAT\", \"price_sgd\": 39},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS CERBERUS PAD XXL MOUSEMAT\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS CERBERUS PAD PLUS MOUSEMAT\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS CERBERUS PAD MINI RED MOUSEMAT\", \"price_sgd\": 19},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING P3 GAMING MOUSEMAT\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG GAMING KEYCAP SET\", \"price_sgd\": 59},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG THETA 7.1 GAMING HEADSET\", \"price_sgd\": 479},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX GO 2.4GHZ GAMING HEADSET\", \"price_sgd\": 319},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX GO CORE - 3.5mm\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG DELTA S TYPE-C RGB GAMING HEADSET\", \"price_sgd\": 399},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX FUSION 500 7.1 GAMING HEADSET\", \"price_sgd\": 359},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX FUSION 300 7.1 GAMING HEADSET\", \"price_sgd\": 209}\n]}"
+}

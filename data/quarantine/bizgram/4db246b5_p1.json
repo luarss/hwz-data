@@ -1,0 +1,302 @@
+{
+  "sha256": "4db246b50b24d8ce6a834e26405da5873071916e8246aada8cb8a383dda655cc",
+  "vendor": "bizgram",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2338.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2980.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3175.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBM-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2385.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU9",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2655.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram A25",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2535.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBM-A5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3078.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram BU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 3979.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram BU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2365.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram BU5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2646.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PCM-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2888.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram CU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3033.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AC4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3594.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AC5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2940.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBM-C4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2555.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AUD3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2899.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AUD4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2245.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AUD5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 3595.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBM-AD4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3625.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram EAU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 3208.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AEU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4128.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU5E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2616.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBM-EA4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2066.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram ARU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2518.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram ARU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3708.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU5R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3032.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBMR-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2972.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AUS3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3050.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram ASU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3515.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram AU5S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2878.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Bizgram PBSM-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2680.0
+    }
+  ],
+  "numeric_tokens_in_source": 66,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 32/66 = 0.48",
+  "raw_response": "{\"rows\": [\n  {\"product\": \"Bizgram AU3\", \"price_sgd\": 2338},\n  {\"product\": \"Bizgram AU4\", \"price_sgd\": 2980},\n  {\"product\": \"Bizgram AU5\", \"price_sgd\": 3175},\n  {\"product\": \"Bizgram PBM-A4\", \"price_sgd\": 2436},\n  {\"product\": \"Bizgram AU8\", \"price_sgd\": 2385},\n  {\"product\": \"Bizgram AU9\", \"warranty\": \"3Y\", \"price_sgd\": 2655},\n  {\"product\": \"Bizgram A25\", \"warranty\": \"3Y\", \"price_sgd\": 2535},\n  {\"product\": \"Bizgram PBM-A5\", \"price_sgd\": 3078},\n  {\"product\": \"Bizgram BU3\", \"warranty\": \"3Y\", \"price_sgd\": 3979},\n  {\"product\": \"Bizgram BU4\", \"price_sgd\": 2365},\n  {\"product\": \"Bizgram BU5\", \"price_sgd\": 2646},\n  {\"product\": \"Bizgram PCM-A4\", \"price_sgd\": 2888},\n  {\"product\": \"Bizgram CU3\", \"price_sgd\": 3033},\n  {\"product\": \"Bizgram AC4\", \"price_sgd\": 3594},\n  {\"product\": \"Bizgram AC5\", \"price_sgd\": 2940},\n  {\"product\": \"Bizgram PBM-C4\", \"price_sgd\": 2555},\n  {\"product\": \"Bizgram AUD3\", \"price_sgd\": 2899},\n  {\"product\": \"Bizgram AUD4\", \"price_sgd\": 2245},\n  {\"product\": \"Bizgram AUD5\", \"warranty\": \"3Y\", \"price_sgd\": 3595},\n  {\"product\": \"Bizgram PBM-AD4\", \"price_sgd\": 3625},\n  {\"product\": \"Bizgram EAU3\", \"warranty\": \"3Y\", \"price_sgd\": 3208},\n  {\"product\": \"Bizgram AEU4\", \"price_sgd\": 4128},\n  {\"product\": \"Bizgram AU5E\", \"price_sgd\": 2616},\n  {\"product\": \"Bizgram PBM-EA4\", \"price_sgd\": 2066},\n  {\"product\": \"Bizgram ARU3\", \"price_sgd\": 2518},\n  {\"product\": \"Bizgram ARU4\", \"price_sgd\": 3708},\n  {\"product\": \"Bizgram AU5R\", \"price_sgd\": 3032},\n  {\"product\": \"Bizgram PBMR-A4\", \"warranty\": \"3Y\", \"price_sgd\": 2972},\n  {\"product\": \"Bizgram AUS3\", \"price_sgd\": 3050},\n  {\"product\": \"Bizgram ASU4\", \"price_sgd\": 3515},\n  {\"product\": \"Bizgram AU5S\", \"warranty\": \"3Y\", \"price_sgd\": 2878},\n  {\"product\": \"Bizgram PBSM-A4\", \"price_sgd\": 2680}\n]}"
+}
