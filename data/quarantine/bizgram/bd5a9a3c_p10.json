@@ -1,0 +1,5117 @@
+{
+  "sha256": "bd5a9a3c589747290d111bd346bd6b179511745658f7ad285e33a2d91600b5da",
+  "vendor": "bizgram",
+  "page_number": 10,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBE-2AC-13-U NanoBeam 2AC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-OLT Fiber OLT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2077.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti 60G-PM 60GHz Precision Al",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UOC-0.5 UniFi ODN Cable,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax OAP1300 Office +1 Office+1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NSM2 NanoStation2 MIMO CP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-OLT-4 512 Client Capac",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1316.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-RMKIT EdgeRouter Rack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UOC-1 UniFi ODN Cable, 1m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NSM2-U NanoStation2 MIMO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-OLT-4-EU 512 Client Ca",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1316.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBE-16-WM NanoBeam 16 Win",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UOC-2 UniFi ODN Cable, 2m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax APC500 Wireless Acess Point",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NSM2(EU) NanoStation2 MIM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-OLT-EU Fiber OLT, EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2077.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NS-WM NS-WM NS Window/Wal",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UOC-3 UniFi ODN Cable, 3m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAX1800 Wi-Fi 6 AX1800 Ceil",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 232.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-2AC-400 PowerBeam 2AC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-OLT-U Fiber OLT, U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2077.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PAK-620 Precision Alignme",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UOC-5 UniFi ODN Cable, 5m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax WAP1750 AC1750 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-2AC-400-EU PowerBeam",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi UFiber WiFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-WM POE Wall Mount",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax OAP1750 AC 1750 Long Range",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-2AC-400-U PowerBeam 2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi-EU UFiber WiFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti Quick-Mount Tool-less qui",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax OAP1300 AC 1300 outdoor AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-M2-400 PowerBeam M2,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi-U UFiber WiFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Fiber-SR-Kit Weather",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti XR2 XR2 mini PCI PCBA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 133.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax OAP900 Long Range 802.11ac",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-M2-400-EU PowerBeam M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi6 UFiber WiFi6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti XR5 XR5 mini PCI PCBA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 133.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP1750 AC1750 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 234.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-M2-400-U PowerBeam M2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi6-EU UFiber WiFi6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Wave-AP-Micro-Mount",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 143.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP1300 AC1300 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti R2AC-PRISM Rocket 2AC wit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 270.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi6-U UFiber WiFi6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UB-AM Universal Antenna M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP1200 AC1200 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 122.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti R2AC-PRISM-EU Rocket 2AC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 270.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-WiFi6-UK UFiber WiFi6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-Terminal-Box UFiber Te",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-11-DUP-H AirFiber 11 H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 263.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP300 2x2 N300 Ceiling-Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti R2AC-PRISM-U Rocket 2AC w",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 270.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Box Outdoor, weather",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-11-DUP-L AirFiber 11 L",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 263.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IAP1200 AC1200 In-Wall Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-101IT IEEE 802.3at Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RocketM2 Rocket2 MIMO, Ai",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti F-POE-G2 FiberPOE, G2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5G-OMT-S45 airFiber 5G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-103IT IEEE 802.3af/at/bt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RocketM2-U Rocket2 MIMO,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-AE UFiber ActiveEthern",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-MPx4 airFiber Multiple",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-201IT IEEE 802.3at 2.5Gi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RocketM2(EU) Rocket2 MIMO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti INS-3AF-I-G 802.3AF Adapt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti MUSB-1A-B-5 Micro USB Pow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-203IT IEEE 802.3bt 2.5Gi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti INS-3AF-O-G 802.3AF Adapt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti MUSB-1A-B-5-EU Micro USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-101ST IEEE 802.3at Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-101ET IEEE 802.3at PoE E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-11 1.2Gbps+ Ultra low-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1419.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti INS-3AF-USB Instant 802.3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBE-WMK NanoBeam Wall Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5208PLG V2 10-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-11-EU 1.2Gbps+ Ultra l",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1419.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Console UISP console",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 380.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti INS-8023af-I Instant 802.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5210PLG 10-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-11-U 1.2Gbps+ Ultra lo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1419.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Console-EU UISP cons",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 380.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti INS-8023af-O Instant 802.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RPS-DC-100W Redundant Pow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 117.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5210PL Surveillance Long",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 243.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-24 AirFiber, 24GHz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2077.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti N-SW NanoSwitch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 51.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5216PLC Surveillance Lon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-24-U AirFiber, 24GHz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2077.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-15-12W POE 15V",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-RJ45-10G RJ45 - 10Gbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5424PLC V3 Surveillance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 580.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-24(EU) AirFiber, 24GHz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2077.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-R Gigabit, PoE route",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-15-12W(EU) POE 15V EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5424LX Surveillance 24-P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 372.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-24HD AirFiber 24GHz, H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4154.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-R-EU Gigabit, PoE ro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W POE 24V",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-ALN-EU AmpliFi Alien",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1023.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5424PLX V2 Surveillance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 731.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-24HD-EU AirFiber 24GHz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4154.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-R-Pro 10GbE Ethernet",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 587.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-5P 24v, .5A Gi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-ALN-R-EU AmpliFi Alie",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5654LX 54-Port Gigabit W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 594.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-24HD-U AirFiber 24GHz,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4154.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-R-Pro-EU 10GbE Ether",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 587.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-5P-EU 24v, .5A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-ALN-R-UK AmpliFi Alie",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5654PLX V2 54-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 939.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-2X airFiber 2X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 667.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-G 24v, .5A Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-G-UK AmpliFi Gaming W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 520.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EA1-005D 10GbE SFP+ DAC Dir",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-2X-EU airFiber 2X, EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 667.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-G EU 24v, .5A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-HD-EU AmpliFi HD, EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 486.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EA1-020D 10GbE SFP+ DAC Dir",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-2X-U airFiber 2X, U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 667.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-S Gigabit, PoE switc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-G-WH 24v, .5A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-HD-RU AmpliFi HD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 486.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax FS-5428X 28-Port Gigabit SF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 801.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-3X airFiber 3X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1057.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-S-EU Gigabit, PoE sw",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-G-WH EU 24v, .",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-HD-UK AmpliFi HD, UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 486.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax TGS-3109PLX 9-Port 2.5 Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 392.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-3X-EU airFiber 3X, EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1057.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-S-Plus 2.5GbE PoE sw",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 562.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-G-WH-EU 24v, .",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-INS AmpliFi Instant K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax TGS-3109XT 9-Port 2.5 Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-3X-U airFiber 3X, U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1057.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-S-Plus-EU 2.5GbE PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 562.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-WH 24v, .5A PO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-INS-EU AmpliFi Instan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax TGS-5428PLX Surveillance VL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1007.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-4X airFiber 4X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-S-Pro 24-port, Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 571.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W-WH-EU 24v, .5A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-INS-R AmpliFi Instant",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-4X-EU airFiber 4X, EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-S-Pro-EU 24-Port PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 571.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-12W(EU) POE 24V EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFI-INS-R-EU AmpliFi Inst",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-4X-U airFiber 4X, U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W POE 24V",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFI-INS-R-UK AmpliFi Inst",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5 airFiber, 5Ghz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1385.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-P Power management s",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 432.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-5P 24v, 1A Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-INS-UK AmpliFi Instan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Cable Organizer - MOOY Clingman",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5 EU airFiber, 5Ghz EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1385.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-P-Pro High-capacity",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 736.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-5P-EU 24v, 1A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-P-HD-EU AmpliFi HD Me",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Everest Max / US / MX Brown / Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5 U airFiber, 5Ghz, U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1385.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-G POE Injector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-P-HD-UK AmpliFi HD Me",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Everest Max / US / MX Red / Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5U airFiber, 5GHz Uppe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1385.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-P-Pro-EU High-capaci",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 736.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-G-EU POE Injec",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-R AmpliFi HD Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Everest Max / US / MX Brown / Gray",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5U EU airFiber, 5GHz U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1385.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-G-WH 24v, 1A G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-R-EU AmpliFi HD Route",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Everest Max / US / MX Red / Gray",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5U U airFiber, 5GHz Up",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1385.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-G-WH-EU 24v, 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-R-RU AmpliFi HD Route",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Nunatak M Mousepad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5XHD AirFiber 5XHD 1Gb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 547.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-R6 EdgePoint Router, 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-WH 24v, 1A POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AFi-R-UK AmpliFi HD Route",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Makalu 67 Black Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5XHD-EU AirFiber 5XHD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 547.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-R6-EU EdgePoint Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W-WH-EU 24v, 1A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "MOUNTAIN",
+      "product": "MOUNTAIN Makalu 67 White Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5XHD-U airFiber 5XHD-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 547.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-R6-U EdgePoint Router,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-24W(EU) POE 24V (E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4208 USB 2.0 to 10/100Mb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF11-Complete-HB AirFiber",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-R8 EdgePoint Router, 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-30W POE Injector,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4306 V2 USB 3.0 to Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF11-Complete-HB-EU AirFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-R8-EU EdgePoint Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-30W-EU POE Injecto",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4306C USB Trype-C to Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF11-Complete-HB-U AirFib",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-R8-U EdgePoint Router,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-30W-G-WH 24v, 1.25",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4307 V2 USB 3.0 type C t",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF11-Complete-LB AirFiber",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-S16 EdgePoint Switch,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 815.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-30W-G-WH-EU 24v, 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4308 3-Port USB3.0 and",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF11-Complete-LB-EU AirFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-S16-EU EdgePoint Switc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 815.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-7W-G-WH 24v POE, .",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF11-Complete-LB-U AirFib",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-S16-U EdgePoint Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 815.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-7W-G-WH-EU 24v POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EN-9260TX-E V2 Gigabit PCIe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-10X EdgeRouter 10X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-AF5X POE Injector,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EN-9320SFP+ V2 10 Gigabit E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-2G24-S45 airFiber Dish",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-10X-EU EdgeRouter 10X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-24-AF5X-EU POE Inject",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EN-9320TX-E V2 10 Gigabit E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-3G26-S45 airFiber Dish",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-12 EdgeRouter 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 321.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-48-24W POE 48V",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-10GAMA 10GBase-SX LX SFP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5G23-S45 airFiber Dish",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-12-EU EdgeRouter 12 EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 321.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-48-24W-G POE48V, .5A,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-10GAS1 10GBase-SX LX SFP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 151.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5G30-S45 airFiber Dish",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-12-U EdgeRouter 12 U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 321.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-48-24W-G EU POE48V, .",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF-5G34-S45 airFiber Dish",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 416.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-12P EdgeRouter 12P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 414.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-48-24W-WH POE 48V, wh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-3305P 5P 10/100Mbps SOH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-2G15-120 2GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-4 EdgeRouter 4-port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-48-24W-WH-EU POE 48V,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-3308P 8P 10/100Mbps SOH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-2G16-90 2GHz AirMax Ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-4-EU EdgeRouter 4-port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-48-24W(EU) POE 48V, E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-1008P V2 8-Port Fast Eth",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-3G18-120 3GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 242.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-4-U EdgeRouter 4-port,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-54V-80W 54v, 1.5A Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-5AC21-60 5GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-6P EdgeRouter 6-port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti POE-54V-80W-EU 54v, 1.5A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5500G V3 Gigabit 5 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-5AC22-45 5GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-6P-EU EdgeRouter 6-por",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5800G V3 Gigabit 8 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-5G16-120 5GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-6P-U EdgeRouter 6-port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-24V-72W EdgePower 24V-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5008E 8-Port Gigabit Web",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-5G17-90 5GHz AirMax Ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-8-XG 10-Gigabit SFP+ E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2139.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-24V-72W-EU EdgePower 2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1016 V2 16P 10/100/1000M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-5G19-120 5GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-8-XG-EU 10-Gigabit SFP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2139.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-24V-72W-U EdgePower 24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1024 24P 10/100/1000M R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-5G20-90 5GHz AirMax Ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-8-XG-U 10-Gigabit SFP+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2139.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-150W EdgePower, 54",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1026 V3 24P 10/100/1000M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 150.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-9M13-120 900MHz AirMax",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-X EdgeRouter X, 5-port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-150W-AC EdgePower,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-M-V5G-Ti 5GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-X-EU EdgeRouter X, 5-p",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-150W-AC-EU EdgePow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5424G 24-Port Gigabit Po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AM-V2G-Ti 2.4GHz AirMax B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-X-SFP EdgeRouter X, 6-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-150W-DC EdgePower,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1105PE 5P Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AMO-2G10 2.4GHz AirMax Om",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-X-SFP-EU EdgeRouter X, .",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-150W-EU EdgePower,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1008P V2 8-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AMO-2G13 2.4GHz AirMax Om",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 312.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-X-SFP-U EdgeRouter Loc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-72W EdgePower 54V-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1008PL V2 8-port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AMO-3G12 3GHz AirMax Omni",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ER-X-U EdgeRouter X, 5-po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti EP-54V-72W-EU EdgePower 5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-3005P 5-Port Gigabit Web",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AMO-5G10 5GHz AirMax Omni",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RPS-AC-100W Redundant Pow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-3008P 8-Port Gigabit Web",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AMO-5G13 5GHz AirMax Omni",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-10X Edgeswitch 10X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RPS-AC-100W-EU Redundant",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AMY-9M16x2 AirMax Dual Ya",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-10X-EU Edgeswitch 10X,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti SM-SP-40 SunMax SolarPoin",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AT 1000Base-T miniGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AP-5AC-90-HD airPRISM 5GH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 572.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-10X-U Edgeswitch 10X,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti SM-SW-40 Solar Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AMA V2 1000Base-SX m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-10XP Edgeswitch 10XP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Adapter- PT-120W 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AMB V2 1000Base-SX+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti Horn-5-30 Horn 5GHz, 30 d",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-10XP-EU Edgeswitch 10X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Adapter- PT-120W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AS1 V2 1000Base-LX m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti Horn-5-45 Horn, 5GHz, 45",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-10XP-U Edgeswitch 10XP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Dual-Power-Injector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AS3 V2 1000Base-LHX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti Horn-5-60 Horn, 5GHz, 60",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-12F EdgeSwitch 12, Fib",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-PSU-27V-250W 250W AC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000PU1 V2 1000Base-BX10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti Horn-5-90 Horn, 5GHz, 90",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-12F-EU EdgeSwitch 12,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-PSU-27V-250W-EU 250W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000PD1 V2 1000Base-BX10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NB-OD9 offsetdish, 900MHz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-12F-U EdgeSwitch 12, F",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-UF-AC-100W 100W AC/D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000ATI 1000Base-T miniG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RD-2G24 2.4GHz RocketDish",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16-150W EdgeSwitch, 16",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-UF-AC-100W-EU 100W A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AMAI 1000Base-SX min",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RD-5G30 5GHz RocketDish,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16-150W-EU EdgeSwitch,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AMBI 1000Base-SX+ mi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RD-5G30-LW RocketDish 5G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16-150W-U EdgeSwitch, .",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti AF60LR-Radome Snap-on sno",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000AS1I 1000Base-LX min",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RD-5G31-AC 5GHz RocketDis",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 434.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16-XG EdgeSwitch, 16 p",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ISO-BEAM-16 NanoBeam Isol",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000PU1I 1000Base-BX10-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RD-5G34 5GHz RocketDish,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16-XG-EU EdgeSwitch, 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ISO-Beam-620 Isolator Rin",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax MG-1000PD1I 1000Base-BX10-D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Dish 6GHz 1m dish wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16-XG-U EdgeSwitch, 16",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RAD-RD2 Radome for Rocket",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Horn 5-7GHz 45deg hi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti RAD-RD3 Radome for Rocket",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7722UTn V3 300M 2T2R 802",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16XP EdgeSwitch 16XP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 547.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811Un V2 11n 150M 1T1R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NB-OD3 offsetdish, 3GHz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16XP-EU EdgeSwitch 16X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 547.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti FC-SM-100 Fiber Cable, Si",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7611ULB N150 Wi-Fi BT 4.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBM3 NanoBridgeM3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-16XP-U EdgeSwitch 16XP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 547.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti FC-SM-200 Fiber Cable, Si",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7611ULB V2 N150 Wi-Fi BT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBM3-U NanoBridgeM3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-18X Edgeswitch 18X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti FC-SM-300 Fiber Cable, Si",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax BT-8500 Bluetooth 5.0 Nano",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBM3(EU) NanoBridgeM3(EU)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-18X-EU Edgeswitch 18X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti IP67CA-RPSMA IP67CA-RPSMA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7612PIn V2 11n 300M 2T2R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBM365 NanoBridgeM365",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-250W Edge Switch, 2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PC-12 PowerCable, 12AWG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 893.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBM365-U NanoBridgeM365",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-250W-EU Edge Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti TC-Con Tough Cable Connec",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1558.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7833AXP Wi-Fi 6 AX3000 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NBM365(EU) NanoBridgeM365",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-250W-U Edge Switch,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti TC-GND Tough Cable Connec",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1039.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7833UAC AC1750 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NSM365 NanoStation365 MIM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-500W Edge Switch, 2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 755.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-0.5M Power",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822UMX AX1800 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NSM365-U NanoStation365 M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-500W-EU Edge Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 755.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-1.5M Power",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822UAD AC1200 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti NSM365(EU) NanoStation365",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-500W-U Edge Switch,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 755.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-10M Power T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822UAC AC1200 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti PBE-5AC-400-ISO-EU PowerB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-Lite EdgeSwitch 24,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 276.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-20M Power T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822UTC AC1200 Dual-Band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-Lite-EU EdgeSwitch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 276.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-30M Power T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822ULC AC1200 Dual-Band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-24-Lite-U EdgeSwitch 2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 276.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-3M Power Tr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811UTC AC600 Wireless M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-UF-OM-XGS OLT Optica",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-500W Edge Switch, 4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1057.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-50M Power T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811ULC AC600 Wireless D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-UF-WDM-XGS A coexist",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 374.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-500W-EU Edge Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1057.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-5M Power Tr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811UAC AC600 Wireless D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-FIBER-OLT-XGS 8 Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4285.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-500W-U Edge Switch,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1057.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-Cable-PT-Ext Power T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811DAC AC600 Wi-Fi Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-FIBER-OLT-XGS-EU 8 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4285.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-750W Edge Switch, 4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1309.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-CM-RJ45-10G RJ45 - 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7611UCB 2-in-1 AC600 Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-FIBER-XG 10Gbps XG-P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-750W-EU Edge Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1309.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-CM-RJ45-MG SFP+ to 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-FIBER-XG-EU 10Gbps X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-750W-U Edge Switch,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1309.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-OFC-SM- PATCH-APC-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax BR-6473AX AX3000 Wi-Fi 6 D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-FIBER-XGS 10Gbps XGS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-Lite EdgeSwitch 48,",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 536.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UACC-OFC-SM- PATCH-UPC-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax RG21S AC2600 Dual band con",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-FIBER-XGS-EU 10Gbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-Lite-EU EdgeSwitch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 536.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UC-DAC-SFP+ UniFi patch c",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax BR-6478AC V2 AC1200 Wireles",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-48-Lite-U EdgeSwitch 4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 536.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UC-DAC-SFP28 UniFi patch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7438RPN Mini N300 Univer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-5XP EdgeSwitch 5XP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UDC-1 UniFi Direct Attach",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-GP-B+ U Fiber GPON B+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-5XP-EU EdgeSwitch 5XP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UDC-2 UniFi Direct Attach",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax BR-6428nS V5 nMAX 300M 2T2R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-GP-C+ GPON OLT SFP C+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-5XP-U EdgeSwitch 5XP U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UDC-3 UniFi Direct Attach",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-Instant UFiber Instant",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-8-150W EdgeSwitch 8 Po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-ADAPTER-APC-50 UF-ADAP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IC-7113W 720p Wireless H.26",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-LOCO Fiber Nano Loco",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-8-150W-EU EdgeSwitch 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-SM-PATCH-UPC- APC UFib",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-LOCO-20 Fiber Nano Loc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1161.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ES-8-150W-U EdgeSwitch 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-SPLITTER-16 UFiber Spl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IEW-7811UTC AC600 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-LOCO-5 Fiber Nano Loco",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-SPLITTER-32 UFiber Spl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-1005 Industrial 5-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-LOCO-EU Fiber Nano Loc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ACB-AC AirCube AC WiFi Ro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-SPLITTER-4 UFiber Spli",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-1105P Industrial 5-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-LOCO-U Fiber Nano Loco",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ACB-AC-EU AirCube AC WiFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-SPLITTER-8 UFiber Spli",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-1210P V2 Industrial 10-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 281.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-Nano Fiber Nano",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ACB-AC-U AirCube AC WiFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Cable-Carrier UISP C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 243.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-5208 Industrial 8 GigaP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1091.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-Nano-EU Fiber Nano, EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti ACB-ISP AirCube ISP WiFi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Cable-Pro UISP Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-5408P Industrial 8 Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1366.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UF-Nano-U Fiber Nano, U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Connector-GND UISP C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-5416P Industrial 16 Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1960.0
+    },
+    {
+      "category": null,
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UISP-Connector-SHD UISP C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-5218PLC Industrial Surv",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 650.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-5428PLC Industrial Surv",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 856.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IGS-5654PLX Industrial Surv",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1381.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax PrimeAX 123 AX1800 Wi-Fi 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 456.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax Office 123 Simple and Secur",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 447.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP1300 Office 1-2-3 Master",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP1300 Office +1 Office +1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL 120-1pc Pack Bl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL 120-1pc White /",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL 120-1pc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL 120-1pc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL 120-3 with cont",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL 120-3 with cont",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL 120-3 w",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL 120-3 w",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL 140-1pc Pack Bl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL 140-1pc Pack Wh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI Reverse TL 140mm-1pc P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI Reverse TL 140mm-1pc P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL LCD 120-3 with",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL LCD 120-3 with",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL LCD 120-1 Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL LCD 120-1 White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL LCD 140-1 black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN TL LCD 140-1 White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL LCD 140",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN Reverse TL LCD 140",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Uni Fan P28 3pc PacK - Bla",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Uni Fan P28 3pc PacK - Whi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Uni Fan P28 1pc Pack - Bla",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Uni Fan P28 1pc Pack - Whi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 120 RGB 3pc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 120 RGB 3pc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 120 RGB 1pc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 120 RGB 1pc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 120 Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 120 Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 140 Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI UNI FAN SL-INF 140 Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Uni Fan SL 140 2pcs Pack w",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Uni Fan SL 140 2pcs Pack w",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN-LI USB 2.0 1 to 3 Port (Type",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li RB-001 Radiator Offset Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li GB-001X Anti-Sag Bracket f",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li A3 left glass panel Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li A3 left glass panel White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN-LI UNI FAN TL L-Connect3 cont",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN-LI UNI FAN TL L-Connect3 cont",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "PCI-e 4.0 X16 Riser cable, 200mm /",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "PCI-e 4.0 X16 Riser cable, 900mm /",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "PCI-e 4.0 X16 Riser cable, 900mm /",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian LI A3-mATX Vertical GPU Brack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian LI A3-mATX Vertical GPU Brack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li PC-O11D Mini Vertical GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li PC-O11D Mini Vertical GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li PC-O11D Mini Vertical GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li PC-O11D Mini Vertical GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Universal 4-Slots Vertical",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Universal 4-Slots Vertical",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li O11D EVO XL Upright GPU Br",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li O11D EVO XL Upright GPU Br",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LAN216 FRONT DUST FILTER BLACK / 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LAN216 FRONT DUST FILTER WHITE / 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN-LI Front Mesh Kit for O11D EV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "LIAN-LI Front Mesh Kit for O11D EV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Upright GPU Kit for O11D E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Upright GPU Kit for O11D E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Additional I/O Kit for O11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Additional I/O Kit for O11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Front Mesh Kit for O11D EV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Front Mesh Kit for O11D EV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Top I/O Kit for O11D EVO B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Top I/O Kit for O11D EVO W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Lian Li",
+      "product": "Lian Li Top I/O Kit for O11D EVO G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    }
+  ],
+  "numeric_tokens_in_source": 83,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 567 rows, limit 171",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBE-2AC-13-U NanoBeam 2AC\", \"price_sgd\": 127},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-OLT Fiber OLT\", \"price_sgd\": 2077},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti 60G-PM 60GHz Precision Al\", \"price_sgd\": 111},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UOC-0.5 UniFi ODN Cable,\", \"price_sgd\": 8},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax OAP1300 Office +1 Office+1\", \"price_sgd\": 206},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NSM2 NanoStation2 MIMO CP\", \"price_sgd\": 113},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-OLT-4 512 Client Capac\", \"price_sgd\": 1316},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-RMKIT EdgeRouter Rack\", \"price_sgd\": 21},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UOC-1 UniFi ODN Cable, 1m\", \"price_sgd\": 8},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Edimax Pro/SMB Wi-Fi/NMS/Ha\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NSM2-U NanoStation2 MIMO\", \"price_sgd\": 113},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-OLT-4-EU 512 Client Ca\", \"price_sgd\": 1316},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBE-16-WM NanoBeam 16 Win\", \"price_sgd\": 9},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UOC-2 UniFi ODN Cable, 2m\", \"price_sgd\": 9},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax APC500 Wireless Acess Point\", \"price_sgd\": 290},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NSM2(EU) NanoStation2 MIM\", \"price_sgd\": 113},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-OLT-EU Fiber OLT, EU\", \"price_sgd\": 2077},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NS-WM NS-WM NS Window/Wal\", \"price_sgd\": 23},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UOC-3 UniFi ODN Cable, 3m\", \"price_sgd\": 11},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAX1800 Wi-Fi 6 AX1800 Ceil\", \"price_sgd\": 232},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-2AC-400 PowerBeam 2AC\", \"price_sgd\": 154},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-OLT-U Fiber OLT, U\", \"price_sgd\": 2077},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PAK-620 Precision Alignme\", \"price_sgd\": 44},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UOC-5 UniFi ODN Cable, 5m\", \"price_sgd\": 13},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax WAP1750 AC1750 Long Range 8\", \"price_sgd\": 251},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-2AC-400-EU PowerBeam\", \"price_sgd\": 154},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi UFiber WiFi\", \"price_sgd\": 100},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-WM POE Wall Mount\", \"price_sgd\": 2},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Radio Module\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax OAP1750 AC 1750 Long Range\", \"price_sgd\": 635},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-2AC-400-U PowerBeam 2\", \"price_sgd\": 154},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi-EU UFiber WiFi\", \"price_sgd\": 100},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Quick-Mount Tool-less qui\", \"price_sgd\": 30},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax OAP1300 AC 1300 outdoor AP\", \"price_sgd\": 207},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-M2-400 PowerBeam M2,\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi-U UFiber WiFi\", \"price_sgd\": 100},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Fiber-SR-Kit Weather\", \"price_sgd\": 42},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti XR2 XR2 mini PCI PCBA\", \"price_sgd\": 133},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax OAP900 Long Range 802.11ac\", \"price_sgd\": 165},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-M2-400-EU PowerBeam M\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi6 UFiber WiFi6\", \"price_sgd\": 144},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti XR5 XR5 mini PCI PCBA\", \"price_sgd\": 133},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP1750 AC1750 Long Range 8\", \"price_sgd\": 234},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-M2-400-U PowerBeam M2\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi6-EU UFiber WiFi6\", \"price_sgd\": 144},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Wave-AP-Micro-Mount\", \"price_sgd\": 143},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Other\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP1300 AC1300 Long Range 8\", \"price_sgd\": 149},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti R2AC-PRISM Rocket 2AC wit\", \"price_sgd\": 270},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi6-U UFiber WiFi6\", \"price_sgd\": 144},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UB-AM Universal Antenna M\", \"price_sgd\": 9},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP1200 AC1200 Long Range 8\", \"price_sgd\": 122},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti R2AC-PRISM-EU Rocket 2AC\", \"price_sgd\": 270},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-WiFi6-UK UFiber WiFi6\", \"price_sgd\": 144},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-Terminal-Box UFiber Te\", \"price_sgd\": 42},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-11-DUP-H AirFiber 11 H\", \"price_sgd\": 263},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP300 2x2 N300 Ceiling-Mou\", \"price_sgd\": 88},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti R2AC-PRISM-U Rocket 2AC w\", \"price_sgd\": 270},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Convertes\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Box Outdoor, weather\", \"price_sgd\": 88},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-11-DUP-L AirFiber 11 L\", \"price_sgd\": 263},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IAP1200 AC1200 In-Wall Dual\", \"price_sgd\": 110},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-101IT IEEE 802.3at Gigab\", \"price_sgd\": 35},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RocketM2 Rocket2 MIMO, Ai\", \"price_sgd\": 113},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti F-POE-G2 FiberPOE, G2\", \"price_sgd\": 41},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5G-OMT-S45 airFiber 5G\", \"price_sgd\": 46},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-103IT IEEE 802.3af/at/bt\", \"price_sgd\": 92},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RocketM2-U Rocket2 MIMO,\", \"price_sgd\": 113},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-AE UFiber ActiveEthern\", \"price_sgd\": 40},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PoE & Surge Protect\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-MPx4 airFiber Multiple\", \"price_sgd\": 113},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-201IT IEEE 802.3at 2.5Gi\", \"price_sgd\": 57},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RocketM2(EU) Rocket2 MIMO\", \"price_sgd\": 113},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Wired\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti INS-3AF-I-G 802.3AF Adapt\", \"price_sgd\": 27},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti MUSB-1A-B-5 Micro USB Pow\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-203IT IEEE 802.3bt 2.5Gi\", \"price_sgd\": 106},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti airFiber PtP\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Console\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti INS-3AF-O-G 802.3AF Adapt\", \"price_sgd\": 30},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti MUSB-1A-B-5-EU Micro USB\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-101ST IEEE 802.3at Gigab\", \"price_sgd\": 25},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-101ET IEEE 802.3at PoE E\", \"price_sgd\": 50},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-11 1.2Gbps+ Ultra low-\", \"price_sgd\": 1419},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Promotional Price Before GST\", \"price_sgd\": null},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti INS-3AF-USB Instant 802.3\", \"price_sgd\": 23},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBE-WMK NanoBeam Wall Mou\", \"price_sgd\": 3},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5208PLG V2 10-Port Gigab\", \"price_sgd\": 182},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-11-EU 1.2Gbps+ Ultra l\", \"price_sgd\": 1419},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Console UISP console\", \"price_sgd\": 380},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti INS-8023af-I Instant 802.\", \"price_sgd\": 23},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Promotional Price Before GST\", \"price_sgd\": null},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5210PLG 10-Port Gigabit\", \"price_sgd\": 182},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-11-U 1.2Gbps+ Ultra lo\", \"price_sgd\": 1419},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Console-EU UISP cons\", \"price_sgd\": 380},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti INS-8023af-O Instant 802.\", \"price_sgd\": 25},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RPS-DC-100W Redundant Pow\", \"price_sgd\": 117},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5210PL Surveillance Long\", \"price_sgd\": 243},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-24 AirFiber, 24GHz\", \"price_sgd\": 2077},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Routing\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti N-SW NanoSwitch\", \"price_sgd\": 51},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5216PLC Surveillance Lon\", \"price_sgd\": 469},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-24-U AirFiber, 24GHz\", \"price_sgd\": 2077},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-15-12W POE 15V\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-RJ45-10G RJ45 - 10Gbps\", \"price_sgd\": 97},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5424PLC V3 Surveillance\", \"price_sgd\": 580},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-24(EU) AirFiber, 24GHz\", \"price_sgd\": 2077},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-R Gigabit, PoE route\", \"price_sgd\": 164},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-15-12W(EU) POE 15V EU\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AmpliFi\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5424LX Surveillance 24-P\", \"price_sgd\": 372},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-24HD AirFiber 24GHz, H\", \"price_sgd\": 4154},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-R-EU Gigabit, PoE ro\", \"price_sgd\": 164},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W POE 24V\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-ALN-EU AmpliFi Alien\", \"price_sgd\": 1023},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5424PLX V2 Surveillance\", \"price_sgd\": 731},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-24HD-EU AirFiber 24GHz\", \"price_sgd\": 4154},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-R-Pro 10GbE Ethernet\", \"price_sgd\": 587},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-5P 24v, .5A Gi\", \"price_sgd\": 55},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-ALN-R-EU AmpliFi Alie\", \"price_sgd\": 554},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5654LX 54-Port Gigabit W\", \"price_sgd\": 594},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-24HD-U AirFiber 24GHz,\", \"price_sgd\": 4154},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-R-Pro-EU 10GbE Ether\", \"price_sgd\": 587},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-5P-EU 24v, .5A\", \"price_sgd\": 55},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-ALN-R-UK AmpliFi Alie\", \"price_sgd\": 554},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5654PLX V2 54-Port Gigab\", \"price_sgd\": 939},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-2X airFiber 2X\", \"price_sgd\": 667},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Switching\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-G 24v, .5A Gig\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-G-UK AmpliFi Gaming W\", \"price_sgd\": 520},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EA1-005D 10GbE SFP+ DAC Dir\", \"price_sgd\": 25},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-2X-EU airFiber 2X, EU\", \"price_sgd\": 667},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-G EU 24v, .5A\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-HD-EU AmpliFi HD, EU\", \"price_sgd\": 486},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EA1-020D 10GbE SFP+ DAC Dir\", \"price_sgd\": 32},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-2X-U airFiber 2X, U\", \"price_sgd\": 667},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-S Gigabit, PoE switc\", \"price_sgd\": 164},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-G-WH 24v, .5A\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-HD-RU AmpliFi HD\", \"price_sgd\": 486},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax FS-5428X 28-Port Gigabit SF\", \"price_sgd\": 801},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-3X airFiber 3X\", \"price_sgd\": 1057},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-S-EU Gigabit, PoE sw\", \"price_sgd\": 164},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-G-WH EU 24v, .\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-HD-UK AmpliFi HD, UK\", \"price_sgd\": 486},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax TGS-3109PLX 9-Port 2.5 Giga\", \"price_sgd\": 392},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-3X-EU airFiber 3X, EU\", \"price_sgd\": 1057},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-S-Plus 2.5GbE PoE sw\", \"price_sgd\": 562},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-G-WH-EU 24v, .\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-INS AmpliFi Instant K\", \"price_sgd\": 251},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax TGS-3109XT 9-Port 2.5 Gigab\", \"price_sgd\": 207},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-3X-U airFiber 3X, U\", \"price_sgd\": 1057},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-S-Plus-EU 2.5GbE PoE\", \"price_sgd\": 562},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-WH 24v, .5A PO\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-INS-EU AmpliFi Instan\", \"price_sgd\": 251},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax TGS-5428PLX Surveillance VL\", \"price_sgd\": 1007},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-4X airFiber 4X\", \"price_sgd\": 538},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-S-Pro 24-port, Gigab\", \"price_sgd\": 571},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W-WH-EU 24v, .5A\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-INS-R AmpliFi Instant\", \"price_sgd\": 138},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-4X-EU airFiber 4X, EU\", \"price_sgd\": 538},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-S-Pro-EU 24-Port PoE\", \"price_sgd\": 571},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-12W(EU) POE 24V EU\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFI-INS-R-EU AmpliFi Inst\", \"price_sgd\": 138},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-4X-U airFiber 4X, U\", \"price_sgd\": 538},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Power\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W POE 24V\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFI-INS-R-UK AmpliFi Inst\", \"price_sgd\": 138},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5 airFiber, 5Ghz\", \"price_sgd\": 1385},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-P Power management s\", \"price_sgd\": 432},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-5P 24v, 1A Gig\", \"price_sgd\": 68},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-INS-UK AmpliFi Instan\", \"price_sgd\": 251},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Cable Organizer - MOOY Clingman\", \"price_sgd\": 13.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5 EU airFiber, 5Ghz EU\", \"price_sgd\": 1385},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-P-Pro High-capacity\", \"price_sgd\": 736},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-5P-EU 24v, 1A\", \"price_sgd\": 68},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-P-HD-EU AmpliFi HD Me\", \"price_sgd\": 166},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Everest Max / US / MX Brown / Black\", \"price_sgd\": 179.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5 U airFiber, 5Ghz, U\", \"price_sgd\": 1385},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-G POE Injector\", \"price_sgd\": 21},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-P-HD-UK AmpliFi HD Me\", \"price_sgd\": 166},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Everest Max / US / MX Red / Black\", \"price_sgd\": 179.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5U airFiber, 5GHz Uppe\", \"price_sgd\": 1385},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-P-Pro-EU High-capaci\", \"price_sgd\": 736},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-G-EU POE Injec\", \"price_sgd\": 21},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-R AmpliFi HD Router\", \"price_sgd\": 192},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Everest Max / US / MX Brown / Gray\", \"price_sgd\": 179.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5U EU airFiber, 5GHz U\", \"price_sgd\": 1385},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EdgeMAX Routing\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-G-WH 24v, 1A G\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-R-EU AmpliFi HD Route\", \"price_sgd\": 192},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Everest Max / US / MX Red / Gray\", \"price_sgd\": 179.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5U U airFiber, 5GHz Up\", \"price_sgd\": 1385},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-G-WH-EU 24v, 1\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-R-RU AmpliFi HD Route\", \"price_sgd\": 192},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Nunatak M Mousepad\", \"price_sgd\": 24.90},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5XHD AirFiber 5XHD 1Gb\", \"price_sgd\": 547},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-R6 EdgePoint Router, 6\", \"price_sgd\": 157},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-WH 24v, 1A POE\", \"price_sgd\": 17},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AFi-R-UK AmpliFi HD Route\", \"price_sgd\": 192},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Makalu 67 Black Mouse\", \"price_sgd\": 99.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5XHD-EU AirFiber 5XHD\", \"price_sgd\": 547},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-R6-EU EdgePoint Router\", \"price_sgd\": 157},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W-WH-EU 24v, 1A\", \"price_sgd\": 17},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Offer Price\", \"price_sgd\": null},\n  {\"brand\": \"MOUNTAIN\", \"product\": \"MOUNTAIN Makalu 67 White Mouse\", \"price_sgd\": 99.00},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5XHD-U airFiber 5XHD-U\", \"price_sgd\": 547},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-R6-U EdgePoint Router,\", \"price_sgd\": 157},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-24W(EU) POE 24V (E\", \"price_sgd\": 17},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4208 USB 2.0 to 10/100Mb\", \"price_sgd\": 18},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF11-Complete-HB AirFiber\", \"price_sgd\": 2120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-R8 EdgePoint Router, 8\", \"price_sgd\": 605},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-30W POE Injector,\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4306 V2 USB 3.0 to Gigab\", \"price_sgd\": 22},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF11-Complete-HB-EU AirFi\", \"price_sgd\": 2120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-R8-EU EdgePoint Router\", \"price_sgd\": 605},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-30W-EU POE Injecto\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4306C USB Trype-C to Gig\", \"price_sgd\": 22},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF11-Complete-HB-U AirFib\", \"price_sgd\": 2120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-R8-U EdgePoint Router,\", \"price_sgd\": 605},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-30W-G-WH 24v, 1.25\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4307 V2 USB 3.0 type C t\", \"price_sgd\": 38},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF11-Complete-LB AirFiber\", \"price_sgd\": 2120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-S16 EdgePoint Switch,\", \"price_sgd\": 815},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-30W-G-WH-EU 24v, 1\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4308 3-Port USB3.0 and\", \"price_sgd\": 30},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF11-Complete-LB-EU AirFi\", \"price_sgd\": 2120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-S16-EU EdgePoint Switc\", \"price_sgd\": 815},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-7W-G-WH 24v POE, .\", \"price_sgd\": 9},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Gigabit Ethernet Adapters\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF11-Complete-LB-U AirFib\", \"price_sgd\": 2120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-S16-U EdgePoint Switch\", \"price_sgd\": 815},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-7W-G-WH-EU 24v POE\", \"price_sgd\": 9},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EN-9260TX-E V2 Gigabit PCIe\", \"price_sgd\": 18},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Antennas\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-10X EdgeRouter 10X\", \"price_sgd\": 148},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-AF5X POE Injector,\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EN-9320SFP+ V2 10 Gigabit E\", \"price_sgd\": 124},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-2G24-S45 airFiber Dish\", \"price_sgd\": 260},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-10X-EU EdgeRouter 10X\", \"price_sgd\": 148},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-24-AF5X-EU POE Inject\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EN-9320TX-E V2 10 Gigabit E\", \"price_sgd\": 124},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-3G26-S45 airFiber Dish\", \"price_sgd\": 345},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-12 EdgeRouter 12\", \"price_sgd\": 321},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-48-24W POE 48V\", \"price_sgd\": 17},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-10GAMA 10GBase-SX LX SFP\", \"price_sgd\": 74},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5G23-S45 airFiber Dish\", \"price_sgd\": 131},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-12-EU EdgeRouter 12 EU\", \"price_sgd\": 321},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-48-24W-G POE48V, .5A,\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-10GAS1 10GBase-SX LX SFP\", \"price_sgd\": 151},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5G30-S45 airFiber Dish\", \"price_sgd\": 155},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-12-U EdgeRouter 12 U\", \"price_sgd\": 321},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-48-24W-G EU POE48V, .\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax 10/100Mbps Ethernet Switche\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF-5G34-S45 airFiber Dish\", \"price_sgd\": 416},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-12P EdgeRouter 12P\", \"price_sgd\": 414},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-48-24W-WH POE 48V, wh\", \"price_sgd\": 17},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-3305P 5P 10/100Mbps SOH\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-2G15-120 2GHz AirMax B\", \"price_sgd\": 172},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-4 EdgeRouter 4-port\", \"price_sgd\": 252},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-48-24W-WH-EU POE 48V,\", \"price_sgd\": 17},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-3308P 8P 10/100Mbps SOH\", \"price_sgd\": 13},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-2G16-90 2GHz AirMax Ba\", \"price_sgd\": 172},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-4-EU EdgeRouter 4-port\", \"price_sgd\": 252},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-48-24W(EU) POE 48V, E\", \"price_sgd\": 17},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-1008P V2 8-Port Fast Eth\", \"price_sgd\": 162},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-3G18-120 3GHz AirMax B\", \"price_sgd\": 242},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-4-U EdgeRouter 4-port,\", \"price_sgd\": 252},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-54V-80W 54v, 1.5A Gig\", \"price_sgd\": 40},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Gigabit Switches\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-5AC21-60 5GHz AirMax B\", \"price_sgd\": 252},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-6P EdgeRouter 6-port\", \"price_sgd\": 309},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti POE-54V-80W-EU 54v, 1.5A\", \"price_sgd\": 40},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5500G V3 Gigabit 5 Ports\", \"price_sgd\": 29},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-5AC22-45 5GHz AirMax B\", \"price_sgd\": 252},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-6P-EU EdgeRouter 6-por\", \"price_sgd\": 309},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Power Solutions\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5800G V3 Gigabit 8 Ports\", \"price_sgd\": 41},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-5G16-120 5GHz AirMax B\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-6P-U EdgeRouter 6-port\", \"price_sgd\": 309},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-24V-72W EdgePower 24V-\", \"price_sgd\": 226},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5008E 8-Port Gigabit Web\", \"price_sgd\": 48},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-5G17-90 5GHz AirMax Ba\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-8-XG 10-Gigabit SFP+ E\", \"price_sgd\": 2139},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-24V-72W-EU EdgePower 2\", \"price_sgd\": 226},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1016 V2 16P 10/100/1000M\", \"price_sgd\": 105},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-5G19-120 5GHz AirMax B\", \"price_sgd\": 172},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-8-XG-EU 10-Gigabit SFP\", \"price_sgd\": 2139},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-24V-72W-U EdgePower 24\", \"price_sgd\": 226},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1024 24P 10/100/1000M R\", \"price_sgd\": 142},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-5G20-90 5GHz AirMax Ba\", \"price_sgd\": 172},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-8-XG-U 10-Gigabit SFP+\", \"price_sgd\": 2139},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-150W EdgePower, 54\", \"price_sgd\": 260},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1026 V3 24P 10/100/1000M\", \"price_sgd\": 150},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-9M13-120 900MHz AirMax\", \"price_sgd\": 345},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-X EdgeRouter X, 5-port\", \"price_sgd\": 68},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-150W-AC EdgePower,\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-M-V5G-Ti 5GHz AirMax B\", \"price_sgd\": 218},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-X-EU EdgeRouter X, 5-p\", \"price_sgd\": 68},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-150W-AC-EU EdgePow\", \"price_sgd\": 101},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5424G 24-Port Gigabit Po\", \"price_sgd\": 216},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AM-V2G-Ti 2.4GHz AirMax B\", \"price_sgd\": 345},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-X-SFP EdgeRouter X, 6-\", \"price_sgd\": 103},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-150W-DC EdgePower,\", \"price_sgd\": 101},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1105PE 5P Gigabit Switch\", \"price_sgd\": 73},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AMO-2G10 2.4GHz AirMax Om\", \"price_sgd\": 218},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-X-SFP-EU EdgeRouter X, .\", \"price_sgd\": 103},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-150W-EU EdgePower,\", \"price_sgd\": 260},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1008P V2 8-Port Gigabit\", \"price_sgd\": 167},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AMO-2G13 2.4GHz AirMax Om\", \"price_sgd\": 312},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-X-SFP-U EdgeRouter Loc\", \"price_sgd\": 103},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-72W EdgePower 54V-\", \"price_sgd\": 226},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1008PL V2 8-port Gigabit\", \"price_sgd\": 131},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AMO-3G12 3GHz AirMax Omni\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ER-X-U EdgeRouter X, 5-po\", \"price_sgd\": 68},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EP-54V-72W-EU EdgePower 5\", \"price_sgd\": 226},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-3005P 5-Port Gigabit Web\", \"price_sgd\": 105},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AMO-5G10 5GHz AirMax Omni\", \"price_sgd\": 157},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti EdgeMAX Switching\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RPS-AC-100W Redundant Pow\", \"price_sgd\": 91},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-3008P 8-Port Gigabit Web\", \"price_sgd\": 139},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AMO-5G13 5GHz AirMax Omni\", \"price_sgd\": 209},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-10X Edgeswitch 10X\", \"price_sgd\": 148},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RPS-AC-100W-EU Redundant\", \"price_sgd\": 91},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax SFP, mini GBIC module\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AMY-9M16x2 AirMax Dual Ya\", \"price_sgd\": 252},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-10X-EU Edgeswitch 10X,\", \"price_sgd\": 148},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti SM-SP-40 SunMax SolarPoin\", \"price_sgd\": 277},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AT 1000Base-T miniGB\", \"price_sgd\": 63},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AP-5AC-90-HD airPRISM 5GH\", \"price_sgd\": 572},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-10X-U Edgeswitch 10X,\", \"price_sgd\": 148},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti SM-SW-40 Solar Switch\", \"price_sgd\": 277},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AMA V2 1000Base-SX m\", \"price_sgd\": 33},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-10XP Edgeswitch 10XP\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Adapter- PT-120W 120\", \"price_sgd\": 44},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AMB V2 1000Base-SX+\", \"price_sgd\": 44},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Horn-5-30 Horn 5GHz, 30 d\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-10XP-EU Edgeswitch 10X\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Adapter- PT-120W-EU\", \"price_sgd\": 44},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AS1 V2 1000Base-LX m\", \"price_sgd\": 41},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Horn-5-45 Horn, 5GHz, 45\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-10XP-U Edgeswitch 10XP\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Dual-Power-Injector\", \"price_sgd\": 113},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AS3 V2 1000Base-LHX\", \"price_sgd\": 46},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Horn-5-60 Horn, 5GHz, 60\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-12F EdgeSwitch 12, Fib\", \"price_sgd\": 277},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-PSU-27V-250W 250W AC\", \"price_sgd\": 192},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000PU1 V2 1000Base-BX10\", \"price_sgd\": 49},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Horn-5-90 Horn, 5GHz, 90\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-12F-EU EdgeSwitch 12,\", \"price_sgd\": 277},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-PSU-27V-250W-EU 250W\", \"price_sgd\": 192},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000PD1 V2 1000Base-BX10\", \"price_sgd\": 62},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NB-OD9 offsetdish, 900MHz\", \"price_sgd\": 35},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-12F-U EdgeSwitch 12, F\", \"price_sgd\": 277},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-UF-AC-100W 100W AC/D\", \"price_sgd\": 91},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000ATI 1000Base-T miniG\", \"price_sgd\": 82},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RD-2G24 2.4GHz RocketDish\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16-150W EdgeSwitch, 16\", \"price_sgd\": 408},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-UF-AC-100W-EU 100W A\", \"price_sgd\": 91},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AMAI 1000Base-SX min\", \"price_sgd\": 40},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RD-5G30 5GHz RocketDish,\", \"price_sgd\": 172},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16-150W-EU EdgeSwitch,\", \"price_sgd\": 408},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RF Shielding\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AMBI 1000Base-SX+ mi\", \"price_sgd\": 52},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RD-5G30-LW RocketDish 5G\", \"price_sgd\": 125},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16-150W-U EdgeSwitch, .\", \"price_sgd\": 408},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti AF60LR-Radome Snap-on sno\", \"price_sgd\": 42},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000AS1I 1000Base-LX min\", \"price_sgd\": 49},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RD-5G31-AC 5GHz RocketDis\", \"price_sgd\": 434},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16-XG EdgeSwitch, 16 p\", \"price_sgd\": 771},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ISO-BEAM-16 NanoBeam Isol\", \"price_sgd\": 14},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000PU1I 1000Base-BX10-U\", \"price_sgd\": 58},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RD-5G34 5GHz RocketDish,\", \"price_sgd\": 381},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16-XG-EU EdgeSwitch, 1\", \"price_sgd\": 771},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ISO-Beam-620 Isolator Rin\", \"price_sgd\": 101},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax MG-1000PD1I 1000Base-BX10-D\", \"price_sgd\": 69},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Dish 6GHz 1m dish wi\", \"price_sgd\": 235},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16-XG-U EdgeSwitch, 16\", \"price_sgd\": 771},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RAD-RD2 Radome for Rocket\", \"price_sgd\": 74},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Wireless LAN 802.11n USB, P\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Horn 5-7GHz 45deg hi\", \"price_sgd\": 258},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti RAD-RD3 Radome for Rocket\", \"price_sgd\": 121},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7722UTn V3 300M 2T2R 802\", \"price_sgd\": 18},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Other\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16XP EdgeSwitch 16XP\", \"price_sgd\": 547},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Cabling\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811Un V2 11n 150M 1T1R\", \"price_sgd\": 11},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NB-OD3 offsetdish, 3GHz\", \"price_sgd\": 35},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16XP-EU EdgeSwitch 16X\", \"price_sgd\": 547},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti FC-SM-100 Fiber Cable, Si\", \"price_sgd\": 87},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7611ULB N150 Wi-Fi BT 4.\", \"price_sgd\": 14},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBM3 NanoBridgeM3\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-16XP-U EdgeSwitch 16XP\", \"price_sgd\": 547},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti FC-SM-200 Fiber Cable, Si\", \"price_sgd\": 125},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7611ULB V2 N150 Wi-Fi BT\", \"price_sgd\": 13},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBM3-U NanoBridgeM3\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-18X Edgeswitch 18X\", \"price_sgd\": 235},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti FC-SM-300 Fiber Cable, Si\", \"price_sgd\": 172},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax BT-8500 Bluetooth 5.0 Nano\", \"price_sgd\": 22},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBM3(EU) NanoBridgeM3(EU)\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-18X-EU Edgeswitch 18X\", \"price_sgd\": 235},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti IP67CA-RPSMA IP67CA-RPSMA\", \"price_sgd\": 8},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7612PIn V2 11n 300M 2T2R\", \"price_sgd\": 19},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBM365 NanoBridgeM365\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-250W Edge Switch, 2\", \"price_sgd\": 554},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PC-12 PowerCable, 12AWG\", \"price_sgd\": 893},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Wireless LAN Solution 802.1\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBM365-U NanoBridgeM365\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-250W-EU Edge Switch\", \"price_sgd\": 554},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti TC-Con Tough Cable Connec\", \"price_sgd\": 1558},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7833AXP Wi-Fi 6 AX3000 P\", \"price_sgd\": 72},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NBM365(EU) NanoBridgeM365\", \"price_sgd\": 201},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-250W-U Edge Switch,\", \"price_sgd\": 554},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti TC-GND Tough Cable Connec\", \"price_sgd\": 1039},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7833UAC AC1750 Wireless\", \"price_sgd\": 52},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NSM365 NanoStation365 MIM\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-500W Edge Switch, 2\", \"price_sgd\": 755},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-0.5M Power\", \"price_sgd\": 16},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822UMX AX1800 Wireless\", \"price_sgd\": 55},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NSM365-U NanoStation365 M\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-500W-EU Edge Switch\", \"price_sgd\": 755},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-1.5M Power\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822UAD AC1200 Wireless\", \"price_sgd\": 30},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti NSM365(EU) NanoStation365\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-500W-U Edge Switch,\", \"price_sgd\": 755},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-10M Power T\", \"price_sgd\": 60},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822UAC AC1200 Wireless\", \"price_sgd\": 39},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti PBE-5AC-400-ISO-EU PowerB\", \"price_sgd\": 166},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-Lite EdgeSwitch 24,\", \"price_sgd\": 276},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-20M Power T\", \"price_sgd\": 91},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822UTC AC1200 Dual-Band\", \"price_sgd\": 27},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Fiber\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-Lite-EU EdgeSwitch\", \"price_sgd\": 276},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-30M Power T\", \"price_sgd\": 136},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822ULC AC1200 Dual-Band\", \"price_sgd\": 25},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti XGS-PON\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-24-Lite-U EdgeSwitch 2\", \"price_sgd\": 276},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-3M Power Tr\", \"price_sgd\": 30},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811UTC AC600 Wireless M\", \"price_sgd\": 19},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-UF-OM-XGS OLT Optica\", \"price_sgd\": 408},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-500W Edge Switch, 4\", \"price_sgd\": 1057},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-50M Power T\", \"price_sgd\": 226},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811ULC AC600 Wireless D\", \"price_sgd\": 18},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-UF-WDM-XGS A coexist\", \"price_sgd\": 374},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-500W-EU Edge Switch\", \"price_sgd\": 1057},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-5M Power Tr\", \"price_sgd\": 46},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811UAC AC600 Wireless D\", \"price_sgd\": 27},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-FIBER-OLT-XGS 8 Port\", \"price_sgd\": 4285},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-500W-U Edge Switch,\", \"price_sgd\": 1057},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-Cable-PT-Ext Power T\", \"price_sgd\": 44},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811DAC AC600 Wi-Fi Dual\", \"price_sgd\": 33},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-FIBER-OLT-XGS-EU 8 P\", \"price_sgd\": 4285},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-750W Edge Switch, 4\", \"price_sgd\": 1309},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-CM-RJ45-10G RJ45 - 1\", \"price_sgd\": 79},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7611UCB 2-in-1 AC600 Du\", \"price_sgd\": 26},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-FIBER-XG 10Gbps XG-P\", \"price_sgd\": 147},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-750W-EU Edge Switch\", \"price_sgd\": 1309},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-CM-RJ45-MG SFP+ to 1\", \"price_sgd\": 167},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Wireless LAN 802.11 n & a/b\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-FIBER-XG-EU 10Gbps X\", \"price_sgd\": 147},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-750W-U Edge Switch,\", \"price_sgd\": 1309},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-OFC-SM- PATCH-APC-AP\", \"price_sgd\": 8},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax BR-6473AX AX3000 Wi-Fi 6 D\", \"price_sgd\": 110},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-FIBER-XGS 10Gbps XGS\", \"price_sgd\": 206},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-Lite EdgeSwitch 48,\", \"price_sgd\": 536},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UACC-OFC-SM- PATCH-UPC-AP\", \"price_sgd\": 5},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax RG21S AC2600 Dual band con\", \"price_sgd\": 115},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-FIBER-XGS-EU 10Gbps\", \"price_sgd\": 206},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-Lite-EU EdgeSwitch\", \"price_sgd\": 536},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UC-DAC-SFP+ UniFi patch c\", \"price_sgd\": 22},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax BR-6478AC V2 AC1200 Wireles\", \"price_sgd\": 44},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti GPON\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-48-Lite-U EdgeSwitch 4\", \"price_sgd\": 536},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UC-DAC-SFP28 UniFi patch\", \"price_sgd\": 44},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7438RPN Mini N300 Univer\", \"price_sgd\": 18},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-5XP EdgeSwitch 5XP\", \"price_sgd\": 120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UDC-1 UniFi Direct Attach\", \"price_sgd\": 26},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Wireless LAN 802.11n Broadb\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-GP-B+ U Fiber GPON B+\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-5XP-EU EdgeSwitch 5XP\", \"price_sgd\": 120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UDC-2 UniFi Direct Attach\", \"price_sgd\": 32},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax BR-6428nS V5 nMAX 300M 2T2R\", \"price_sgd\": 21},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-GP-C+ GPON OLT SFP C+\", \"price_sgd\": 112},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-5XP-U EdgeSwitch 5XP U\", \"price_sgd\": 120},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UDC-3 UniFi Direct Attach\", \"price_sgd\": 38},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IP Camera--Plug & View vers\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-Instant UFiber Instant\", \"price_sgd\": 56},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-8-150W EdgeSwitch 8 Po\", \"price_sgd\": 277},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-ADAPTER-APC-50 UF-ADAP\", \"price_sgd\": 13},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IC-7113W 720p Wireless H.26\", \"price_sgd\": 124},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-LOCO Fiber Nano Loco\", \"price_sgd\": 64},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-8-150W-EU EdgeSwitch 8\", \"price_sgd\": 277},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-SM-PATCH-UPC- APC UFib\", \"price_sgd\": 35},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Industrial Grade Switch\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-LOCO-20 Fiber Nano Loc\", \"price_sgd\": 1161},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ES-8-150W-U EdgeSwitch 8\", \"price_sgd\": 277},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-SPLITTER-16 UFiber Spl\", \"price_sgd\": 35},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IEW-7811UTC AC600 Wireless\", \"price_sgd\": 39},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-LOCO-5 Fiber Nano Loco\", \"price_sgd\": 295},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti WiFi CPE\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-SPLITTER-32 UFiber Spl\", \"price_sgd\": 63},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-1005 Industrial 5-Port\", \"price_sgd\": 116},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-LOCO-EU Fiber Nano Loc\", \"price_sgd\": 64},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ACB-AC AirCube AC WiFi Ro\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-SPLITTER-4 UFiber Spli\", \"price_sgd\": 16},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-1105P Industrial 5-Port\", \"price_sgd\": 188},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-LOCO-U Fiber Nano Loco\", \"price_sgd\": 64},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ACB-AC-EU AirCube AC WiFi\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-SPLITTER-8 UFiber Spli\", \"price_sgd\": 21},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-1210P V2 Industrial 10-\", \"price_sgd\": 281},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-Nano Fiber Nano\", \"price_sgd\": 97},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ACB-AC-U AirCube AC WiFi\", \"price_sgd\": 101},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Cable-Carrier UISP C\", \"price_sgd\": 243},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-5208 Industrial 8 GigaP\", \"price_sgd\": 1091},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-Nano-EU Fiber Nano, EU\", \"price_sgd\": 97},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti ACB-ISP AirCube ISP WiFi\", \"price_sgd\": 40},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Cable-Pro UISP Cable\", \"price_sgd\": 182},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-5408P Industrial 8 Giga\", \"price_sgd\": 1366},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UF-Nano-U Fiber Nano, U\", \"price_sgd\": 97},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP Accessory Tech\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Connector-GND UISP C\", \"price_sgd\": 31},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-5416P Industrial 16 Gig\", \"price_sgd\": 1960},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti Mounting\", \"price_sgd\": 0},\n  {\"brand\": \"Ubiquiti\", \"product\": \"Ubiquiti UISP-Connector-SHD UISP C\", \"price_sgd\": 31},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-5218PLC Industrial Surv\", \"price_sgd\": 650},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-5428PLC Industrial Surv\", \"price_sgd\": 856},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IGS-5654PLX Industrial Surv\", \"price_sgd\": 1381},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Office 123 solution\", \"price_sgd\": 0},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax PrimeAX 123 AX1800 Wi-Fi 6\", \"price_sgd\": 456},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Office 123 Simple and Secur\", \"price_sgd\": 447},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP1300 Office 1-2-3 Master\", \"price_sgd\": 149},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP1300 Office +1 Office +1\", \"price_sgd\": 149},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL 120-1pc Pack Bl\", \"price_sgd\": 45},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL 120-1pc White /\", \"price_sgd\": 45},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL 120-1pc\", \"price_sgd\": 45},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL 120-1pc\", \"price_sgd\": 45},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL 120-3 with cont\", \"price_sgd\": 137},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL 120-3 with cont\", \"price_sgd\": 137},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL 120-3 w\", \"price_sgd\": 137},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL 120-3 w\", \"price_sgd\": 137},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL 140-1pc Pack Bl\", \"price_sgd\": 48},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL 140-1pc Pack Wh\", \"price_sgd\": 48},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI Reverse TL 140mm-1pc P\", \"price_sgd\": 48},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI Reverse TL 140mm-1pc P\", \"price_sgd\": 48},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL LCD 120-3 with\", \"price_sgd\": 216},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL LCD 120-3 with\", \"price_sgd\": 216},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL LCD 120\", \"price_sgd\": 216},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL LCD 120\", \"price_sgd\": 216},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL LCD 120-1 Black\", \"price_sgd\": 72},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL LCD 120-1 White\", \"price_sgd\": 72},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL LCD 120\", \"price_sgd\": 72},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL LCD 120\", \"price_sgd\": 72},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL LCD 140-1 black\", \"price_sgd\": 78},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN TL LCD 140-1 White\", \"price_sgd\": 78},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL LCD 140\", \"price_sgd\": 78},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN Reverse TL LCD 140\", \"price_sgd\": 78},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Uni Fan P28 3pc PacK - Bla\", \"price_sgd\": 93},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Uni Fan P28 3pc PacK - Whi\", \"price_sgd\": 93},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Uni Fan P28 1pc Pack - Bla\", \"price_sgd\": 35},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Uni Fan P28 1pc Pack - Whi\", \"price_sgd\": 35},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 120 RGB 3pc\", \"price_sgd\": 127},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 120 RGB 3pc\", \"price_sgd\": 127},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 120 RGB 1pc\", \"price_sgd\": 39},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 120 RGB 1pc\", \"price_sgd\": 39},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 120 Single\", \"price_sgd\": 39},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 120 Single\", \"price_sgd\": 39},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 140 Single\", \"price_sgd\": 42},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI UNI FAN SL-INF 140 Single\", \"price_sgd\": 42},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Uni Fan SL 140 2pcs Pack w\", \"price_sgd\": 96},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Uni Fan SL 140 2pcs Pack w\", \"price_sgd\": 96},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN-LI USB 2.0 1 to 3 Port (Type\", \"price_sgd\": 29},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li RB-001 Radiator Offset Mou\", \"price_sgd\": 15},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li GB-001X Anti-Sag Bracket f\", \"price_sgd\": 19},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li A3 left glass panel Black\", \"price_sgd\": 29},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li A3 left glass panel White\", \"price_sgd\": 29},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI ADDRESSABLE RGB STRIMER PL\", \"price_sgd\": 99},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI ADDRESSABLE RGB STRIMER PL\", \"price_sgd\": 69},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI ADDRESSABLE RGB STRIMER PL\", \"price_sgd\": 95},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN LI ADDRESSABLE RGB STRIMER PL\", \"price_sgd\": 89},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN-LI UNI FAN TL L-Connect3 cont\", \"price_sgd\": 49},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN-LI UNI FAN TL L-Connect3 cont\", \"price_sgd\": 49},\n  {\"brand\": \"Lian Li\", \"product\": \"PCI-e 4.0 X16 Riser cable, 200mm /\", \"price_sgd\": 99},\n  {\"brand\": \"Lian Li\", \"product\": \"PCI-e 4.0 X16 Riser cable, 900mm /\", \"price_sgd\": 145},\n  {\"brand\": \"Lian Li\", \"product\": \"PCI-e 4.0 X16 Riser cable, 900mm /\", \"price_sgd\": 145},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian LI A3-mATX Vertical GPU Brack\", \"price_sgd\": 69},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian LI A3-mATX Vertical GPU Brack\", \"price_sgd\": 69},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li PC-O11D Mini Vertical GPU\", \"price_sgd\": 59},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li PC-O11D Mini Vertical GPU\", \"price_sgd\": 59},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li PC-O11D Mini Vertical GPU\", \"price_sgd\": 99},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li PC-O11D Mini Vertical GPU\", \"price_sgd\": 99},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Universal 4-Slots Vertical\", \"price_sgd\": 90},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Universal 4-Slots Vertical\", \"price_sgd\": 90},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li O11D EVO XL Upright GPU Br\", \"price_sgd\": 19},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li O11D EVO XL Upright GPU Br\", \"price_sgd\": 19},\n  {\"brand\": \"Lian Li\", \"product\": \"LAN216 FRONT DUST FILTER BLACK / 1\", \"price_sgd\": 12},\n  {\"brand\": \"Lian Li\", \"product\": \"LAN216 FRONT DUST FILTER WHITE / 1\", \"price_sgd\": 12},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN-LI Front Mesh Kit for O11D EV\", \"price_sgd\": 35},\n  {\"brand\": \"Lian Li\", \"product\": \"LIAN-LI Front Mesh Kit for O11D EV\", \"price_sgd\": 35},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Upright GPU Kit for O11D E\", \"price_sgd\": 99},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Upright GPU Kit for O11D E\", \"price_sgd\": 99},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Additional I/O Kit for O11\", \"price_sgd\": 32},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Additional I/O Kit for O11\", \"price_sgd\": 32},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Front Mesh Kit for O11D EV\", \"price_sgd\": 28},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Front Mesh Kit for O11D EV\", \"price_sgd\": 28},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Top I/O Kit for O11D EVO B\", \"price_sgd\": 28},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Top I/O Kit for O11D EVO W\", \"price_sgd\": 28},\n  {\"brand\": \"Lian Li\", \"product\": \"Lian Li Top I/O Kit for O11D EVO G\", \"price_sgd\": 28}\n]}"
+}

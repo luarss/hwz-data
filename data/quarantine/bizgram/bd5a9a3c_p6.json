@@ -1,0 +1,302 @@
+{
+  "sha256": "bd5a9a3c589747290d111bd346bd6b179511745658f7ad285e33a2d91600b5da",
+  "vendor": "bizgram",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus TUF GAMING B760M-PLUS WIFI MATX",
+      "variant": "Bizgram AU3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2338.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z790 EDGE TI MAX WIFI",
+      "variant": "Bizgram AU4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2980.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASROCK Z890 NOVA WIFI",
+      "variant": "Bizgram AU5",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2450.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PRIME B760M-A WIFI MATX",
+      "variant": "Bizgram PBM-A4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "variant": "Bizgram AU8",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2385.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "variant": "Bizgram AU9",
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2655.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "variant": "Bizgram A25",
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2535.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": "Bizgram PBM-A5",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2435.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "variant": "Bizgram BU3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1710.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MAG Z790 TOMAHAWK MAX WIFI",
+      "variant": "Bizgram BU4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2365.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z790 CARBON WIFI",
+      "variant": "Bizgram BU5",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2646.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus TUF GAMING B760-PLUS WIFI ATX",
+      "variant": "Bizgram PCM-A4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2888.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MAG Z790 TOMAHAWK MAX WIFI",
+      "variant": "Bizgram CU3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3033.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "variant": "Bizgram AC4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1670.0
+    },
+    {
+      "category": null,
+      "brand": "ASRock",
+      "product": "ASRock Z890I NOVA WIFI (ITX)",
+      "variant": "Bizgram AC5",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2940.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": "Bizgram PBM-C4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2555.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z790 CARBON WIFI",
+      "variant": "Bizgram AUD3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2899.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Asus ROG STRIX B760-I GAMING WIFI iTX",
+      "variant": "Bizgram AUD4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2245.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "variant": "Bizgram AUD5",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1526.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MAG B760 TOMAHAWK WIFI",
+      "variant": "Bizgram PBM-AD4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1390.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIF",
+      "variant": "Bizgram EAU3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2010.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z790 EDGE TI MAX WIFI",
+      "variant": "Bizgram AEU4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4128.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": "Bizgram AU5E",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2616.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI Z790 GAMING PLUS WIFI",
+      "variant": "Bizgram PBM-EA4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2066.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI B760 GAMING PLUS WIFI",
+      "variant": "Bizgram ARU3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2518.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIF",
+      "variant": "Bizgram ARU4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1908.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z790 CARBON WIFI",
+      "variant": "Bizgram AU5R",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2025.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": "Bizgram PBMR-A4",
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2972.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI MPG Z790 CARBON WIFI",
+      "variant": "Bizgram AUS3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1745.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MSI Z790 GAMING PLUS WIFI",
+      "variant": "Bizgram ASU4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1772.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "variant": "Bizgram AU5S",
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 2878.0
+    },
+    {
+      "category": null,
+      "brand": "ASROCK",
+      "product": "ASROCK Z890 NOVA WIFI",
+      "variant": "Bizgram PBSM-A4",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2680.0
+    }
+  ],
+  "numeric_tokens_in_source": 68,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 32/68 = 0.47",
+  "raw_response": "{\"rows\": [\n  {\"variant\": \"Bizgram AU3\", \"product\": \"Asus TUF GAMING B760M-PLUS WIFI MATX\", \"price_sgd\": 2338},\n  {\"variant\": \"Bizgram AU4\", \"product\": \"MSI MPG Z790 EDGE TI MAX WIFI\", \"price_sgd\": 2980},\n  {\"variant\": \"Bizgram AU5\", \"product\": \"ASROCK Z890 NOVA WIFI\", \"price_sgd\": 2450},\n  {\"variant\": \"Bizgram PBM-A4\", \"product\": \"Asus PRIME B760M-A WIFI MATX\", \"price_sgd\": 2436},\n  {\"variant\": \"Bizgram AU8\", \"product\": \"MSI MPG Z890 CARBON WIFI\", \"price_sgd\": 2385},\n  {\"brand\": \"ASUS\", \"warranty\": \"3Y\", \"variant\": \"Bizgram AU9\", \"product\": \"ASUS ROG STRIX Z890-F GAMING WIFI\", \"price_sgd\": 2655},\n  {\"brand\": \"ASUS\", \"warranty\": \"3Y\", \"variant\": \"Bizgram A25\", \"product\": \"ASUS TUF GAMING Z890-PRO WIFI (WHITE)\", \"price_sgd\": 2535},\n  {\"variant\": \"Bizgram PBM-A5\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"price_sgd\": 2435},\n  {\"brand\": \"ASUS\", \"variant\": \"Bizgram BU3\", \"product\": \"ASUS TUF GAMING Z890-PLUS WIFI\", \"price_sgd\": 1710},\n  {\"variant\": \"Bizgram BU4\", \"product\": \"MSI MAG Z790 TOMAHAWK MAX WIFI\", \"price_sgd\": 2365},\n  {\"variant\": \"Bizgram BU5\", \"product\": \"MSI MPG Z790 CARBON WIFI\", \"price_sgd\": 2646},\n  {\"variant\": \"Bizgram PCM-A4\", \"product\": \"Asus TUF GAMING B760-PLUS WIFI ATX\", \"price_sgd\": 2888},\n  {\"variant\": \"Bizgram CU3\", \"product\": \"MSI MAG Z790 TOMAHAWK MAX WIFI\", \"price_sgd\": 3033},\n  {\"brand\": \"ASUS\", \"variant\": \"Bizgram AC4\", \"product\": \"ASUS TUF GAMING Z890-PLUS WIFI\", \"price_sgd\": 1670},\n  {\"brand\": \"ASRock\", \"variant\": \"Bizgram AC5\", \"product\": \"ASRock Z890I NOVA WIFI (ITX)\", \"price_sgd\": 2940},\n  {\"variant\": \"Bizgram PBM-C4\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"price_sgd\": 2555},\n  {\"variant\": \"Bizgram AUD3\", \"product\": \"MSI MPG Z790 CARBON WIFI\", \"price_sgd\": 2899},\n  {\"brand\": \"ASUS\", \"variant\": \"Bizgram AUD4\", \"product\": \"Asus ROG STRIX B760-I GAMING WIFI iTX\", \"price_sgd\": 2245},\n  {\"variant\": \"Bizgram AUD5\", \"product\": \"MSI Z890 GAMING PLUS WIFI\", \"price_sgd\": 1526},\n  {\"variant\": \"Bizgram PBM-AD4\", \"product\": \"MSI MAG B760 TOMAHAWK WIFI\", \"price_sgd\": 1390},\n  {\"brand\": \"ASUS\", \"variant\": \"Bizgram EAU3\", \"product\": \"ASUS ROG STRIX Z890-A GAMING WIF\", \"price_sgd\": 2010},\n  {\"variant\": \"Bizgram AEU4\", \"product\": \"MSI MPG Z790 EDGE TI MAX WIFI\", \"price_sgd\": 4128},\n  {\"variant\": \"Bizgram AU5E\", \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\", \"price_sgd\": 2616},\n  {\"variant\": \"Bizgram PBM-EA4\", \"product\": \"MSI Z790 GAMING PLUS WIFI\", \"price_sgd\": 2066},\n  {\"variant\": \"Bizgram ARU3\", \"product\": \"MSI B760 GAMING PLUS WIFI\", \"price_sgd\": 2518},\n  {\"brand\": \"ASUS\", \"variant\": \"Bizgram ARU4\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIF\", \"price_sgd\": 1908},\n  {\"variant\": \"Bizgram AU5R\", \"product\": \"MSI MPG Z790 CARBON WIFI\", \"price_sgd\": 2025},\n  {\"brand\": \"ASUS\", \"warranty\": \"3Y\", \"variant\": \"Bizgram PBMR-A4\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"price_sgd\": 2972},\n  {\"variant\": \"Bizgram AUS3\", \"product\": \"MSI MPG Z790 CARBON WIFI\", \"price_sgd\": 1745},\n  {\"variant\": \"Bizgram ASU4\", \"product\": \"MSI Z790 GAMING PLUS WIFI\", \"price_sgd\": 1772},\n  {\"brand\": \"ASUS\", \"warranty\": \"3Y\", \"variant\": \"Bizgram AU5S\", \"product\": \"ASUS PRIME Z890M-PLUS WIFI-CSM\", \"price_sgd\": 2878},\n  {\"brand\": \"ASROCK\", \"variant\": \"Bizgram PBSM-A4\", \"product\": \"ASROCK Z890 NOVA WIFI\", \"price_sgd\": 2680}\n]}"
+}
