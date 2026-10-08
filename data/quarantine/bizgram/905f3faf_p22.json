@@ -1,0 +1,212 @@
+{
+  "sha256": "905f3fafda33043af6d6d996d94953d2703d88a5524b6067393662152e620974",
+  "vendor": "bizgram",
+  "page_number": 22,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer DeathAdder V3 - Ultra-lightweight Ergonomic Esports Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Basilisk V3 - Ergonomic Wired Gaming Mouse - FRML Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Cobra - Wired Gaming Mouse - FRML Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer™ Naga X - Wired MMO Gaming Mouse - FRML Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer DeathAdder V3 Pro - Ergonomic Wireless Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer DeathAdder V3 Pro - White Edition - Ultra-lightweight Wireless Ergonomic Esports Mouse",
+      "variant": "White Edition",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer DeathAdder V3 Pro Faker Edition - Ergonomic Wireless Gaming Mouse - FRML World Packaging",
+      "variant": "Faker Edition",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer DeathAdder V2 X HyperSpeed - Wireless Ergonomic Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Basilisk V3 Pro - Ergonomic Wireless Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Basilisk V3 Pro White Edition - Ergonomic Wireless Gaming Mouse - AP Packaging",
+      "variant": "White Edition",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Basilisk V3 X HyperSpeed - Wireless Ergonomic Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Orochi V2 - Wireless Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Orochi V2 - Mobile Wireless Gaming Mouse - White Edition - AP Packaging",
+      "variant": "White Edition",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Orochi V2 - Wireless Gaming mouse - Quartz Edition - AP Packaging",
+      "variant": "Quartz Edition",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Cobra Pro - Ambidextrous Wired/Wireless Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Viper V2 Pro - Wireless Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Viper V2 Pro - Wireless Gaming Mouse - White - AP Packaging",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Naga V2 Pro - Wireless MMO Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Viper V3 HyperSpeed - Wireless Esports Gaming Mouse - FRML Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Naga V2 HyperSpeed - Wireless MMO Gaming Mouse - AP Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Mouse Mats",
+      "brand": "Razer",
+      "product": "Razer Goliathus Chroma Soft Gaming Mouse Mat Chroma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": "Mouse Mats",
+      "brand": "Razer",
+      "product": "Razer Goliathus Chroma Extended - Soft Gaming Mouse Mat with Chroma - FRML Packaging",
+      "variant": "Extended",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    }
+  ],
+  "numeric_tokens_in_source": 37,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 22/37 = 0.59",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"Razer\", \"product\": \"Razer DeathAdder V3 - Ultra-lightweight Ergonomic Esports Mouse\", \"price_sgd\": 109.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Basilisk V3 - Ergonomic Wired Gaming Mouse - FRML Packaging\", \"price_sgd\": 109.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Cobra - Wired Gaming Mouse - FRML Packaging\", \"price_sgd\": 64.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer™ Naga X - Wired MMO Gaming Mouse - FRML Packaging\", \"price_sgd\": 129.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer DeathAdder V3 Pro - Ergonomic Wireless Gaming Mouse - AP Packaging\", \"price_sgd\": 229.0},\n  {\"brand\": \"Razer\", \"product\": \"Razer DeathAdder V3 Pro - White Edition - Ultra-lightweight Wireless Ergonomic Esports Mouse\", \"variant\": \"White Edition\", \"price_sgd\": 229.0},\n  {\"brand\": \"Razer\", \"product\": \"Razer DeathAdder V3 Pro Faker Edition - Ergonomic Wireless Gaming Mouse - FRML World Packaging\", \"variant\": \"Faker Edition\", \"price_sgd\": 269.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer DeathAdder V2 X HyperSpeed - Wireless Ergonomic Gaming Mouse\", \"price_sgd\": 94.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Basilisk V3 Pro - Ergonomic Wireless Gaming Mouse - AP Packaging\", \"price_sgd\": 249.0},\n  {\"brand\": \"Razer\", \"product\": \"Razer Basilisk V3 Pro White Edition - Ergonomic Wireless Gaming Mouse - AP Packaging\", \"variant\": \"White Edition\", \"price_sgd\": 249.0},\n  {\"brand\": \"Razer\", \"product\": \"Razer Basilisk V3 X HyperSpeed - Wireless Ergonomic Gaming Mouse - AP Packaging\", \"price_sgd\": 109.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Orochi V2 - Wireless Gaming Mouse - AP Packaging\", \"price_sgd\": 104.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Orochi V2 - Mobile Wireless Gaming Mouse - White Edition - AP Packaging\", \"variant\": \"White Edition\", \"price_sgd\": 104.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Orochi V2 - Wireless Gaming mouse - Quartz Edition - AP Packaging\", \"variant\": \"Quartz Edition\", \"price_sgd\": 119.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Cobra Pro - Ambidextrous Wired/Wireless Gaming Mouse - AP Packaging\", \"price_sgd\": 2099.0},\n  {\"brand\": \"Razer\", \"product\": \"Razer Viper V2 Pro - Wireless Gaming Mouse - AP Packaging\", \"price_sgd\": 229.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Viper V2 Pro - Wireless Gaming Mouse - White - AP Packaging\", \"variant\": \"White\", \"price_sgd\": 229.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Naga V2 Pro - Wireless MMO Gaming Mouse\", \"price_sgd\": 289.0},\n  {\"brand\": \"Razer\", \"product\": \"Razer Viper V3 HyperSpeed - Wireless Esports Gaming Mouse - FRML Packaging\", \"price_sgd\": 109.9},\n  {\"brand\": \"Razer\", \"product\": \"Razer Naga V2 HyperSpeed - Wireless MMO Gaming Mouse - AP Packaging\", \"price_sgd\": 159.0},\n  {\"category\": \"Mouse Mats\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Chroma Soft Gaming Mouse Mat Chroma\", \"price_sgd\": 59.9},\n  {\"category\": \"Mouse Mats\", \"brand\": \"Razer\", \"product\": \"Razer Goliathus Chroma Extended - Soft Gaming Mouse Mat with Chroma - FRML Packaging\", \"variant\": \"Extended\", \"price_sgd\": 89.9}\n]}"
+}
