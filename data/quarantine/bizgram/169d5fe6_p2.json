@@ -1,0 +1,626 @@
+{
+  "sha256": "169d5fe62e80ea8dc2c3a13f4cd3f00fe0aa913925f4dff1a62fe7d4a556f8b3",
+  "vendor": "bizgram",
+  "page_number": 2,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN4 NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN4 NVME M.2 SSD",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN4 NVME M.2 SSD W/HEATSINK",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 174.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 SSD",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 SSD",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 748.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 SSD W/HEATSINK",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 171.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 SSD W/HEATSINK",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Corsair",
+      "product": "CORSAIR VEN LPX DDR4 3200MHZ",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Corsair",
+      "product": "CORSAIR VEN LPX DDR4 3200MHZ",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Corsair",
+      "product": "CORSAIR VEN RGB PRO SL DDR4 3600MHZ",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 970 EVO PLUS NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME M.2 SSD W/HEATSINK",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME 2.0 M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME 2.0 M.2 SSD",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 284.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME 2.0 M.2 SSD",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME W/HEATSINK",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME W/HEATSINK",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN580 NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN580 NVME M.2 SSD",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 178.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN770 M.2 NVME/SPS GEN4",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN770 M.2 NVME/SPS GEN4",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 184.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 M.2",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 M.2",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 232.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "ADATA",
+      "product": "ADATA SODIMM SODIMM DDR4 2600",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Lexar",
+      "product": "LEXAR NM790 AX5600 NVME M.2 SSD",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Lexar",
+      "product": "LEXAR NM790 AX5600 NVME M.2 SSD",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BL. IIW GEN4 NVME M.2",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 107.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BL. IIW GEN4 NVME M.2",
+      "variant": "2GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BL. IIW GEN4 NVME M.2",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "M.2 SSD",
+      "brand": "Lexar",
+      "product": "LEXAR LEGEND 800 GEN3 SSD NVME, M.2",
+      "variant": "1GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7500F",
+      "warranty": null,
+      "price_sgd": 390.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7600",
+      "warranty": null,
+      "price_sgd": 426.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7600X",
+      "warranty": null,
+      "price_sgd": 437.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7700",
+      "warranty": null,
+      "price_sgd": 504.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7700X",
+      "warranty": null,
+      "price_sgd": 582.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7800X3D",
+      "warranty": null,
+      "price_sgd": 806.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7900",
+      "warranty": null,
+      "price_sgd": 666.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7900X",
+      "warranty": null,
+      "price_sgd": 879.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7900X3D",
+      "warranty": null,
+      "price_sgd": 1104.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7950X",
+      "warranty": null,
+      "price_sgd": 1004.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "7950X3D",
+      "warranty": null,
+      "price_sgd": 400.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "8600G",
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "8700G",
+      "warranty": null,
+      "price_sgd": 598.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "8800G",
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "9700X",
+      "warranty": null,
+      "price_sgd": 666.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "9900X",
+      "warranty": null,
+      "price_sgd": 825.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG LIGHTNING WIFI AX",
+      "variant": null,
+      "bundle_cpu": "9950X",
+      "warranty": null,
+      "price_sgd": 910.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7500F",
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7600",
+      "warranty": null,
+      "price_sgd": 587.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7600X",
+      "warranty": null,
+      "price_sgd": 598.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7700",
+      "warranty": null,
+      "price_sgd": 665.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7700X",
+      "warranty": null,
+      "price_sgd": 743.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7800X3D",
+      "warranty": null,
+      "price_sgd": 967.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7900",
+      "warranty": null,
+      "price_sgd": 827.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7900X",
+      "warranty": null,
+      "price_sgd": 1040.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7900X3D",
+      "warranty": null,
+      "price_sgd": 1265.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7950X",
+      "warranty": null,
+      "price_sgd": 1265.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "7950X3D",
+      "warranty": null,
+      "price_sgd": 661.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "8600G",
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "8700G",
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "8800G",
+      "warranty": null,
+      "price_sgd": 828.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "9700X",
+      "warranty": null,
+      "price_sgd": 927.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "9900X",
+      "warranty": null,
+      "price_sgd": 1086.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "ASROCK H650M PG ITX WIFI",
+      "variant": null,
+      "bundle_cpu": "9950X",
+      "warranty": null,
+      "price_sgd": 1171.0
+    }
+  ],
+  "numeric_tokens_in_source": 856,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 68/856 = 0.08",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN4 NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 94},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN4 NVME M.2 SSD\", \"variant\": \"2GB\", \"price_sgd\": 164},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN4 NVME M.2 SSD W/HEATSINK\", \"variant\": \"2GB\", \"price_sgd\": 174},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 158},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 SSD\", \"variant\": \"2GB\", \"price_sgd\": 258},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 SSD\", \"variant\": \"4GB\", \"price_sgd\": 748},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 SSD W/HEATSINK\", \"variant\": \"1GB\", \"price_sgd\": 171},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 SSD W/HEATSINK\", \"variant\": \"2GB\", \"price_sgd\": 288},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VEN LPX DDR4 3200MHZ\", \"variant\": \"16GB\", \"price_sgd\": 115},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VEN LPX DDR4 3200MHZ\", \"variant\": \"32GB\", \"price_sgd\": 215},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VEN RGB PRO SL DDR4 3600MHZ\", \"variant\": \"16GB\", \"price_sgd\": 114},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 970 EVO PLUS NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 118},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 137},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 158},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME M.2 SSD W/HEATSINK\", \"variant\": \"1GB\", \"price_sgd\": 258},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME 2.0 M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 169},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME 2.0 M.2 SSD\", \"variant\": \"2GB\", \"price_sgd\": 284},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME 2.0 M.2 SSD\", \"variant\": \"4GB\", \"price_sgd\": 489},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME W/HEATSINK\", \"variant\": \"1GB\", \"price_sgd\": 157},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME W/HEATSINK\", \"variant\": \"2GB\", \"price_sgd\": 229},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN580 NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 99},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN580 NVME M.2 SSD\", \"variant\": \"2GB\", \"price_sgd\": 178},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN770 M.2 NVME/SPS GEN4\", \"variant\": \"1GB\", \"price_sgd\": 98},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN770 M.2 NVME/SPS GEN4\", \"variant\": \"2GB\", \"price_sgd\": 184},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 M.2\", \"variant\": \"1GB\", \"price_sgd\": 148},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 M.2\", \"variant\": \"2GB\", \"price_sgd\": 218},\n  {\"category\": \"M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK\", \"variant\": \"2GB\", \"price_sgd\": 232},\n  {\"category\": \"M.2 SSD\", \"brand\": \"ADATA\", \"product\": \"ADATA SODIMM SODIMM DDR4 2600\", \"variant\": \"1GB\", \"price_sgd\": 78},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"LEXAR NM790 AX5600 NVME M.2 SSD\", \"variant\": \"1GB\", \"price_sgd\": 98},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"LEXAR NM790 AX5600 NVME M.2 SSD\", \"variant\": \"2GB\", \"price_sgd\": 175},\n  {\"category\": \"M.2 SSD\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BL. IIW GEN4 NVME M.2\", \"variant\": \"1GB\", \"price_sgd\": 107},\n  {\"category\": \"M.2 SSD\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BL. IIW GEN4 NVME M.2\", \"variant\": \"2GB\", \"price_sgd\": 185},\n  {\"category\": \"M.2 SSD\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BL. IIW GEN4 NVME M.2\", \"variant\": \"4GB\", \"price_sgd\": 398},\n  {\"category\": \"M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"LEXAR LEGEND 800 GEN3 SSD NVME, M.2\", \"variant\": \"1GB\", \"price_sgd\": 87},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7500F\", \"price_sgd\": 390},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7600\", \"price_sgd\": 426},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7600X\", \"price_sgd\": 437},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7700\", \"price_sgd\": 504},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7700X\", \"price_sgd\": 582},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7800X3D\", \"price_sgd\": 806},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7900\", \"price_sgd\": 666},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7900X\", \"price_sgd\": 879},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7900X3D\", \"price_sgd\": 1104},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7950X\", \"price_sgd\": 1004},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"7950X3D\", \"price_sgd\": 400},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"8600G\", \"price_sgd\": 458},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"8700G\", \"price_sgd\": 598},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"8800G\", \"price_sgd\": 567},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"9700X\", \"price_sgd\": 666},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"9900X\", \"price_sgd\": 825},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG LIGHTNING WIFI AX\", \"bundle_cpu\": \"9950X\", \"price_sgd\": 910},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7500F\", \"price_sgd\": 551},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7600\", \"price_sgd\": 587},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7600X\", \"price_sgd\": 598},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7700\", \"price_sgd\": 665},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7700X\", \"price_sgd\": 743},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7800X3D\", \"price_sgd\": 967},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7900\", \"price_sgd\": 827},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7900X\", \"price_sgd\": 1040},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7900X3D\", \"price_sgd\": 1265},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7950X\", \"price_sgd\": 1265},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"7950X3D\", \"price_sgd\": 661},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"8600G\", \"price_sgd\": 719},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"8700G\", \"price_sgd\": 859},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"8800G\", \"price_sgd\": 828},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"9700X\", \"price_sgd\": 927},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"9900X\", \"price_sgd\": 1086},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"ASROCK H650M PG ITX WIFI\", \"bundle_cpu\": \"9950X\", \"price_sgd\": 1171}\n]}"
+}

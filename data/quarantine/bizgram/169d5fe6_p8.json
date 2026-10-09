@@ -1,0 +1,194 @@
+{
+  "sha256": "169d5fe62e80ea8dc2c3a13f4cd3f00fe0aa913925f4dff1a62fe7d4a556f8b3",
+  "vendor": "bizgram",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 256GB NVME M.2 GEN3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 908.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 512GB ~VME M.2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1638.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 512GB NVME M.2",
+      "variant": "1TB $35 ADD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1868.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 512GB NVME M.2",
+      "variant": "1TB $40 ADD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 888.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 1TB NVME M.2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1268.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I7-14700KF 16C/24T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2428.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I7-14700K 16C/24T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3038.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I9-14900K 24C/32T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3545.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I5-14600KF 14C/20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1115.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I5-14600KF 14C/20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1378.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I5-14600K 14C[2_0T_",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1618.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I5-14600K 14C/20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2058.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I7-14700KF 14C/20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2598.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I7-14700KF 14C/20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 161.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I7-14700K 14C[20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3318.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I7- 14700K 14C/20T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2398.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I9-14900K 24C/32T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2428.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I9- 14900K 24(/32T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2125.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I9-14900K 24C/32T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 998.0
+    },
+    {
+      "category": null,
+      "brand": "INTEL",
+      "product": "INTEL I9-14900K 24C/32T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5598.0
+    }
+  ],
+  "numeric_tokens_in_source": 99,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 20/99 = 0.20",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"product\": \"LEXAR NM620 256GB NVME M.2 GEN3\",\n      \"brand\": \"LEXAR\",\n      \"price_sgd\": 908\n    },\n    {\n      \"product\": \"LEXAR NM620 512GB ~VME M.2\",\n      \"brand\": \"LEXAR\",\n      \"price_sgd\": 1638\n    },\n    {\n      \"product\": \"LEXAR NM620 512GB NVME M.2\",\n      \"variant\": \"1TB $35 ADD\",\n      \"brand\": \"LEXAR\",\n      \"price_sgd\": 1868\n    },\n    {\n      \"product\": \"LEXAR NM620 512GB NVME M.2\",\n      \"variant\": \"1TB $40 ADD\",\n      \"brand\": \"LEXAR\",\n      \"price_sgd\": 888\n    },\n    {\n      \"product\": \"LEXAR NM620 1TB NVME M.2\",\n      \"brand\": \"LEXAR\",\n      \"price_sgd\": 1268\n    },\n    {\n      \"product\": \"INTEL I7-14700KF 16C/24T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 2428\n    },\n    {\n      \"product\": \"INTEL I7-14700K 16C/24T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 3038\n    },\n    {\n      \"product\": \"INTEL I9-14900K 24C/32T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 3545\n    },\n    {\n      \"product\": \"INTEL I5-14600KF 14C/20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 1115\n    },\n    {\n      \"product\": \"INTEL I5-14600KF 14C/20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 1378\n    },\n    {\n      \"product\": \"INTEL I5-14600K 14C[2_0T_\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 1618\n    },\n    {\n      \"product\": \"INTEL I5-14600K 14C/20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 2058\n    },\n    {\n      \"product\": \"INTEL I7-14700KF 14C/20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 2598\n    },\n    {\n      \"product\": \"INTEL I7-14700KF 14C/20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 161\n    },\n    {\n      \"product\": \"INTEL I7-14700K 14C[20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 3318\n    },\n    {\n      \"product\": \"INTEL I7- 14700K 14C/20T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 2398\n    },\n    {\n      \"product\": \"INTEL I9-14900K 24C/32T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 2428\n    },\n    {\n      \"product\": \"INTEL I9- 14900K 24(/32T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 2125\n    },\n    {\n      \"product\": \"INTEL I9-14900K 24C/32T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 998\n    },\n    {\n      \"product\": \"INTEL I9-14900K 24C/32T\",\n      \"brand\": \"INTEL\",\n      \"price_sgd\": 5598\n    }\n  ]\n}"
+}

@@ -1,0 +1,302 @@
+{
+  "sha256": "49223ab171d7325c8ab75902fd5d4a0520fa61fc568dbbf36df603de71976427",
+  "vendor": "bizgram",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU3",
+      "variant": "MSI B650I EDGE WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1705.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram AU4",
+      "variant": "Asus ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1465.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5",
+      "variant": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1775.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBM-A4",
+      "variant": "Asus TUF GAMING B650-E WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1640.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram AU8",
+      "variant": "Asus PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1468.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU9",
+      "variant": "MSI B650M GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1770.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram A25",
+      "variant": "MSI B650M GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1828.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBM-A5",
+      "variant": "Asus TUF GAMING B650-PLUS WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1135.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram BU3",
+      "variant": "Asus TUF GAMING B850M-PLUS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1170.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram BU4",
+      "variant": "Asus TUF GAMING B650M-E WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1676.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram BU5",
+      "variant": "MSI MPG B650 EDGE WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2069.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PCM-A4",
+      "variant": "Asus ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2015.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram CU3",
+      "variant": "MSI MAG Z790 TOMAHAWK MAX WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3033.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "ASUS",
+      "product": "Bizgram AC4",
+      "variant": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1670.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AC5",
+      "variant": "MSI MEG X670E GODLIKE",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2615.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBM-C4",
+      "variant": "Asus ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2305.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AUD3",
+      "variant": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2348.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AUD4",
+      "variant": "MSI B650M PROJECT ZERO",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1935.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram AUD5",
+      "variant": "Asus ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2385.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram PBM-AD4",
+      "variant": "MSI MAG B760 TOMAHAWK WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1390.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "ASUS",
+      "product": "Bizgram EAU3",
+      "variant": "ASUS ROG STRIX Z890-A GAMING WIF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2010.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AEU4",
+      "variant": "MSI MPG Z790 EDGE TI MAX WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4128.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5E",
+      "variant": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2616.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram PBM-EA4",
+      "variant": "MSI Z790 GAMING PLUS WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2066.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram ARU3",
+      "variant": "MSI MAG B650 TOMAHAWK WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1948.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "ASUS",
+      "product": "Bizgram ARU4",
+      "variant": "ASUS ROG STRIX Z890-I GAMING WIF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1908.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5R",
+      "variant": "MSI MPG Z790 CARBON WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2025.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram PBMR-A4",
+      "variant": "MSI B650I EDGE WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1445.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AUS3",
+      "variant": "MSI MPG Z790 CARBON WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1745.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram ASU4",
+      "variant": "MSI Z790 GAMING PLUS WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1772.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5S",
+      "variant": "MSI MPG B650 EDGE WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1581.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBSM-A4",
+      "variant": "Asus ROG STRIX B650E-E GAMING WIFI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1888.0
+    }
+  ],
+  "numeric_tokens_in_source": 59,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 32/59 = 0.54",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AU3\",\n      \"variant\": \"MSI B650I EDGE WIFI\",\n      \"price_sgd\": 1705\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram AU4\",\n      \"variant\": \"Asus ROG STRIX B850-A GAMING WIFI\",\n      \"price_sgd\": 1465\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AU5\",\n      \"variant\": \"MSI MAG B850 TOMAHAWK MAX WIFI\",\n      \"price_sgd\": 1775\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram PBM-A4\",\n      \"variant\": \"Asus TUF GAMING B650-E WIFI\",\n      \"price_sgd\": 1640\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram AU8\",\n      \"variant\": \"Asus PRIME B840-PLUS WIFI-CSM\",\n      \"price_sgd\": 1468\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AU9\",\n      \"variant\": \"MSI B650M GAMING WIFI\",\n      \"price_sgd\": 1770\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram A25\",\n      \"variant\": \"MSI B650M GAMING WIFI\",\n      \"price_sgd\": 1828\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram PBM-A5\",\n      \"variant\": \"Asus TUF GAMING B650-PLUS WIFI\",\n      \"price_sgd\": 1135\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram BU3\",\n      \"variant\": \"Asus TUF GAMING B850M-PLUS\",\n      \"price_sgd\": 1170\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram BU4\",\n      \"variant\": \"Asus TUF GAMING B650M-E WIFI\",\n      \"price_sgd\": 1676\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram BU5\",\n      \"variant\": \"MSI MPG B650 EDGE WIFI\",\n      \"price_sgd\": 2069\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram PCM-A4\",\n      \"variant\": \"Asus ROG STRIX B850-A GAMING WIFI\",\n      \"price_sgd\": 2015\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram CU3\",\n      \"variant\": \"MSI MAG Z790 TOMAHAWK MAX WIFI\",\n      \"price_sgd\": 3033\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Bizgram AC4\",\n      \"variant\": \"ASUS TUF GAMING Z890-PLUS WIFI\",\n      \"price_sgd\": 1670\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AC5\",\n      \"variant\": \"MSI MEG X670E GODLIKE\",\n      \"price_sgd\": 2615\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram PBM-C4\",\n      \"variant\": \"Asus ROG STRIX B850-F GAMING WIFI\",\n      \"price_sgd\": 2305\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AUD3\",\n      \"variant\": \"MSI MPG B850 EDGE TI WIFI\",\n      \"price_sgd\": 2348\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AUD4\",\n      \"variant\": \"MSI B650M PROJECT ZERO\",\n      \"price_sgd\": 1935\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram AUD5\",\n      \"variant\": \"Asus ROG STRIX B650-A GAMING WIFI\",\n      \"price_sgd\": 2385\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram PBM-AD4\",\n      \"variant\": \"MSI MAG B760 TOMAHAWK WIFI\",\n      \"price_sgd\": 1390\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Bizgram EAU3\",\n      \"variant\": \"ASUS ROG STRIX Z890-A GAMING WIF\",\n      \"price_sgd\": 2010\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AEU4\",\n      \"variant\": \"MSI MPG Z790 EDGE TI MAX WIFI\",\n      \"price_sgd\": 4128\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AU5E\",\n      \"variant\": \"MSI MAG Z890 TOMAHAWK WIFI\",\n      \"price_sgd\": 2616\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram PBM-EA4\",\n      \"variant\": \"MSI Z790 GAMING PLUS WIFI\",\n      \"price_sgd\": 2066\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram ARU3\",\n      \"variant\": \"MSI MAG B650 TOMAHAWK WIFI\",\n      \"price_sgd\": 1948\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Bizgram ARU4\",\n      \"variant\": \"ASUS ROG STRIX Z890-I GAMING WIF\",\n      \"price_sgd\": 1908\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AU5R\",\n      \"variant\": \"MSI MPG Z790 CARBON WIFI\",\n      \"price_sgd\": 2025\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram PBMR-A4\",\n      \"variant\": \"MSI B650I EDGE WIFI\",\n      \"price_sgd\": 1445\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AUS3\",\n      \"variant\": \"MSI MPG Z790 CARBON WIFI\",\n      \"price_sgd\": 1745\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram ASU4\",\n      \"variant\": \"MSI Z790 GAMING PLUS WIFI\",\n      \"price_sgd\": 1772\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Bizgram AU5S\",\n      \"variant\": \"MSI MPG B650 EDGE WIFI\",\n      \"price_sgd\": 1581\n    },\n    {\n      \"category\": \"Fortune PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Bizgram PBSM-A4\",\n      \"variant\": \"Asus ROG STRIX B650E-E GAMING WIFI\",\n      \"price_sgd\": 1888\n    }\n  ]\n}"
+}

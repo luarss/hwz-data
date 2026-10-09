@@ -1,0 +1,203 @@
+{
+  "sha256": "169d5fe62e80ea8dc2c3a13f4cd3f00fe0aa913925f4dff1a62fe7d4a556f8b3",
+  "vendor": "bizgram",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5600G 6C/12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 838.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5500 6CL12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5600G 6C/12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1188.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5600G 6C/12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1198.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5500 6CL12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5600 6CL12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1998.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 5600 6CL12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1258.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 7500F 6C/12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1438.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD R7 5700X 8C/16T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1978.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD R7 7700 8C/16T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1628.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD R7 7700 8C/16T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1648.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS 7600X 6C/12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1998.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD R7 7700X 8C/16T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2323.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD RS S~X 6C /12T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2978.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD R7 5800X 8CL16T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3098.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD R7 7800X3D scii~",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2138.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "~_r.16][_780QX308C/__1_6T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "A\"'1_D_R7_IB_ixi&r:i.~c}__1~T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 618.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "A!J!D.~7 7800~3_1)_ sc{i~T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 858.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMIJ R7 7800X3D 8C/16T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1198.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "INTEL 13-12100 4C/8T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    }
+  ],
+  "numeric_tokens_in_source": 81,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 21/81 = 0.26",
+  "raw_response": "{\"rows\": [\n  {\"product\": \"AMD RS 5600G 6C/12T\", \"price_sgd\": 838},\n  {\"product\": \"AMD RS 5500 6CL12T\", \"price_sgd\": 1168},\n  {\"product\": \"AMD RS 5600G 6C/12T\", \"price_sgd\": 1188},\n  {\"product\": \"AMD RS 5600G 6C/12T\", \"price_sgd\": 1198},\n  {\"product\": \"AMD RS 5500 6CL12T\", \"price_sgd\": 1528},\n  {\"product\": \"AMD RS 5600 6CL12T\", \"price_sgd\": 1998},\n  {\"product\": \"AMD RS 5600 6CL12T\", \"price_sgd\": 1258},\n  {\"product\": \"AMD RS 7500F 6C/12T\", \"price_sgd\": 1438},\n  {\"product\": \"AMD R7 5700X 8C/16T\", \"price_sgd\": 1978},\n  {\"product\": \"AMD R7 7700 8C/16T\", \"price_sgd\": 1628},\n  {\"product\": \"AMD R7 7700 8C/16T\", \"price_sgd\": 1648},\n  {\"product\": \"AMD RS 7600X 6C/12T\", \"price_sgd\": 1998},\n  {\"product\": \"AMD R7 7700X 8C/16T\", \"price_sgd\": 2323},\n  {\"product\": \"AMD RS S~X 6C /12T\", \"price_sgd\": 2978},\n  {\"product\": \"AMD R7 5800X 8CL16T\", \"price_sgd\": 3098},\n  {\"product\": \"AMD R7 7800X3D scii~\", \"price_sgd\": 2138},\n  {\"product\": \"~_r.16][_780QX308C/__1_6T\", \"price_sgd\": 448},\n  {\"product\": \"A\\\"'1_D_R7_IB_ixi&r:i.~c}__1~T\", \"price_sgd\": 618},\n  {\"product\": \"A!J!D.~7 7800~3_1)_ sc{i~T\", \"price_sgd\": 858},\n  {\"product\": \"AMIJ R7 7800X3D 8C/16T\", \"price_sgd\": 1198},\n  {\"product\": \"INTEL 13-12100 4C/8T\", \"price_sgd\": 1288}\n]}"
+}

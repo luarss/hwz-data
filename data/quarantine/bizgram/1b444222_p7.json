@@ -1,0 +1,302 @@
+{
+  "sha256": "1b444222f6cccdbc0b470f52b3122a0f735556ebba1b7df829cec19be7f55db6",
+  "vendor": "bizgram",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1705.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram AU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1465.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1775.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBM-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1640.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram AU8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1468.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU9",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1770.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram A25",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1828.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBM-A5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1135.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram BU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1170.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram BU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1676.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram BU5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2069.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PCM-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2015.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram CU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3033.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "ASUS",
+      "product": "Bizgram AC4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1670.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AC5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2615.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBM-C4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2305.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AUD3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2348.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AUD4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1935.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram AUD5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2385.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram PBM-AD4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1390.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "ASUS",
+      "product": "Bizgram EAU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2010.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AEU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4128.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2616.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram PBM-EA4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2066.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram ARU3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1948.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "ASUS",
+      "product": "Bizgram ARU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1908.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2025.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram PBMR-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1445.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AUS3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1745.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram ASU4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1772.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "MSI",
+      "product": "Bizgram AU5S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1581.0
+    },
+    {
+      "category": "Fortune PC",
+      "brand": "Asus",
+      "product": "Bizgram PBSM-A4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1888.0
+    }
+  ],
+  "numeric_tokens_in_source": 59,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 32/59 = 0.54",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AU3\", \"price_sgd\": 1705},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram AU4\", \"price_sgd\": 1465},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AU5\", \"price_sgd\": 1775},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram PBM-A4\", \"price_sgd\": 1640},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram AU8\", \"price_sgd\": 1468},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AU9\", \"price_sgd\": 1770},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram A25\", \"price_sgd\": 1828},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram PBM-A5\", \"price_sgd\": 1135},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram BU3\", \"price_sgd\": 1170},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram BU4\", \"price_sgd\": 1676},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram BU5\", \"price_sgd\": 2069},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram PCM-A4\", \"price_sgd\": 2015},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram CU3\", \"price_sgd\": 3033},\n  {\"category\": \"Fortune PC\", \"brand\": \"ASUS\", \"product\": \"Bizgram AC4\", \"price_sgd\": 1670},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AC5\", \"price_sgd\": 2615},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram PBM-C4\", \"price_sgd\": 2305},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AUD3\", \"price_sgd\": 2348},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AUD4\", \"price_sgd\": 1935},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram AUD5\", \"price_sgd\": 2385},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram PBM-AD4\", \"price_sgd\": 1390},\n  {\"category\": \"Fortune PC\", \"brand\": \"ASUS\", \"product\": \"Bizgram EAU3\", \"price_sgd\": 2010},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AEU4\", \"price_sgd\": 4128},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AU5E\", \"price_sgd\": 2616},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram PBM-EA4\", \"price_sgd\": 2066},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram ARU3\", \"price_sgd\": 1948},\n  {\"category\": \"Fortune PC\", \"brand\": \"ASUS\", \"product\": \"Bizgram ARU4\", \"price_sgd\": 1908},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AU5R\", \"price_sgd\": 2025},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram PBMR-A4\", \"price_sgd\": 1445},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AUS3\", \"price_sgd\": 1745},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram ASU4\", \"price_sgd\": 1772},\n  {\"category\": \"Fortune PC\", \"brand\": \"MSI\", \"product\": \"Bizgram AU5S\", \"price_sgd\": 1581},\n  {\"category\": \"Fortune PC\", \"brand\": \"Asus\", \"product\": \"Bizgram PBSM-A4\", \"price_sgd\": 1888}\n]}"
+}
