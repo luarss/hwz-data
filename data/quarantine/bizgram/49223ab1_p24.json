@@ -1,0 +1,653 @@
+{
+  "sha256": "49223ab171d7325c8ab75902fd5d4a0520fa61fc568dbbf36df603de71976427",
+  "vendor": "bizgram",
+  "page_number": 24,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Cruzer Gaming",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-37",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1420.0
+    },
+    {
+      "category": "Focus Gaming",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-38",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1595.0
+    },
+    {
+      "category": "Mercury Gaming",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-39",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1808.0
+    },
+    {
+      "category": "Crust Gaming",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-40",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1868.0
+    },
+    {
+      "category": "Beast Gaming",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-42",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1310.0
+    },
+    {
+      "category": "Liquid AIO Gaming PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-43",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3661.0
+    },
+    {
+      "category": "Asus Armor Gaming Extreme PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-44",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2796.0
+    },
+    {
+      "category": "Gigabyte Ryzen 7600X Gaming PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-71",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2879.0
+    },
+    {
+      "category": "Asrock X670E 7700x Gaming PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-72",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3252.0
+    },
+    {
+      "category": "Asus Ryzen 9-7900X Gaming PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-73",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1928.0
+    },
+    {
+      "category": "MSI Ryzen 9-7950x Gaming PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-74",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3748.0
+    },
+    {
+      "category": "Video Editing AIO PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC49U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2358.0
+    },
+    {
+      "category": "Video Editing Gigabte PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-5U0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3338.0
+    },
+    {
+      "category": "Video Editing Nvidia PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-51U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2935.0
+    },
+    {
+      "category": "Video Editing Geforce PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-5U2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3831.0
+    },
+    {
+      "category": "Video Editing Prime PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-U53",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3327.0
+    },
+    {
+      "category": "Video Editing Quad PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPC-5U4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2598.0
+    },
+    {
+      "category": "Video Editing AIO PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPCTA49",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3737.0
+    },
+    {
+      "category": "Video Editing Gigabte PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KTPAC-50",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3028.0
+    },
+    {
+      "category": "Video Editing Nvidia PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KAPTC-51",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2616.0
+    },
+    {
+      "category": "Video Editing Geforce PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPAC-52T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3350.0
+    },
+    {
+      "category": "Video Editing Prime PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KAPC-53T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2999.0
+    },
+    {
+      "category": "Video Editing Quad PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KAPC-54T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3074.0
+    },
+    {
+      "category": "Video Editing AIO PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPCDA5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3584.0
+    },
+    {
+      "category": "Video Editing Gigabte PC",
+      "brand": "Bizgram",
+      "product": "Bizgram K9PAC-50",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3758.0
+    },
+    {
+      "category": "Video Editing Nvidia PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPAC-91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2623.0
+    },
+    {
+      "category": "Video Editing Geforce PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPAC-529",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2869.0
+    },
+    {
+      "category": "Video Editing Prime PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KAPC-593",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3135.0
+    },
+    {
+      "category": "Video Editing Quad PC",
+      "brand": "Bizgram",
+      "product": "Bizgram KPAC-954",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3790.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 HOME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 PROF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND BUSINESS 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND STUDENT 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MC AFEE INTERNET SECURITY 1 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MCAFEE INTERNET SECURITY 3 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "LOCAL COMPUTER PICKUP OR DELIVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 HOME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 PROF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND BUSINESS 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND STUDENT 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MC AFEE INTERNET SECURITY 1 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MCAFEE INTERNET SECURITY 3 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "LOCAL COMPUTER PICKUP OR DELIVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 HOME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 PROF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND BUSINESS 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND STUDENT 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MC AFEE INTERNET SECURITY 1 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MCAFEE INTERNET SECURITY 3 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "LOCAL COMPUTER PICKUP OR DELIVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 HOME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 PROF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND BUSINESS 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND STUDENT 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MC AFEE INTERNET SECURITY 1 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MCAFEE INTERNET SECURITY 3 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "LOCAL COMPUTER PICKUP OR DELIVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 HOME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 PROF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND BUSINESS 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND STUDENT 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MC AFEE INTERNET SECURITY 1 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MCAFEE INTERNET SECURITY 3 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "LOCAL COMPUTER PICKUP OR DELIVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 HOME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "WINDOWS 11 PROF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND BUSINESS 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "OFFICE HOME AND STUDENT 2024 FPP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MC AFEE INTERNET SECURITY 1 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "MCAFEE INTERNET SECURITY 3 USER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ADDONS AND UPGRADES",
+      "brand": null,
+      "product": "LOCAL COMPUTER PICKUP OR DELIVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    }
+  ],
+  "numeric_tokens_in_source": 170,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 71/170 = 0.42; no_dupe_rows: 35 extra rows (49%): [('WINDOWS 11 HOME', None, None, 158), ('WINDOWS 11 PROF', None, None, 218), ('OFFICE HOME AND BUSINESS 2024 FPP', None, None, 339)]",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Cruzer Gaming\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-37\", \"price_sgd\": 1420},\n  {\"category\": \"Focus Gaming\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-38\", \"price_sgd\": 1595},\n  {\"category\": \"Mercury Gaming\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-39\", \"price_sgd\": 1808},\n  {\"category\": \"Crust Gaming\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-40\", \"price_sgd\": 1868},\n  {\"category\": \"Beast Gaming\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-42\", \"price_sgd\": 1310},\n  {\"category\": \"Liquid AIO Gaming PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-43\", \"price_sgd\": 3661},\n  {\"category\": \"Asus Armor Gaming Extreme PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-44\", \"price_sgd\": 2796},\n  {\"category\": \"Gigabyte Ryzen 7600X Gaming PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-71\", \"price_sgd\": 2879},\n  {\"category\": \"Asrock X670E 7700x Gaming PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-72\", \"price_sgd\": 3252},\n  {\"category\": \"Asus Ryzen 9-7900X Gaming PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-73\", \"price_sgd\": 1928},\n  {\"category\": \"MSI Ryzen 9-7950x Gaming PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-74\", \"price_sgd\": 3748},\n  {\"category\": \"Video Editing AIO PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC49U\", \"price_sgd\": 2358},\n  {\"category\": \"Video Editing Gigabte PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-5U0\", \"price_sgd\": 3338},\n  {\"category\": \"Video Editing Nvidia PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-51U\", \"price_sgd\": 2935},\n  {\"category\": \"Video Editing Geforce PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-5U2\", \"price_sgd\": 3831},\n  {\"category\": \"Video Editing Prime PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-U53\", \"price_sgd\": 3327},\n  {\"category\": \"Video Editing Quad PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPC-5U4\", \"price_sgd\": 2598},\n  {\"category\": \"Video Editing AIO PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPCTA49\", \"price_sgd\": 3737},\n  {\"category\": \"Video Editing Gigabte PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KTPAC-50\", \"price_sgd\": 3028},\n  {\"category\": \"Video Editing Nvidia PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KAPTC-51\", \"price_sgd\": 2616},\n  {\"category\": \"Video Editing Geforce PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPAC-52T\", \"price_sgd\": 3350},\n  {\"category\": \"Video Editing Prime PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KAPC-53T\", \"price_sgd\": 2999},\n  {\"category\": \"Video Editing Quad PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KAPC-54T\", \"price_sgd\": 3074},\n  {\"category\": \"Video Editing AIO PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPCDA5\", \"price_sgd\": 3584},\n  {\"category\": \"Video Editing Gigabte PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram K9PAC-50\", \"price_sgd\": 3758},\n  {\"category\": \"Video Editing Nvidia PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPAC-91\", \"price_sgd\": 2623},\n  {\"category\": \"Video Editing Geforce PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPAC-529\", \"price_sgd\": 2869},\n  {\"category\": \"Video Editing Prime PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KAPC-593\", \"price_sgd\": 3135},\n  {\"category\": \"Video Editing Quad PC\", \"brand\": \"Bizgram\", \"product\": \"Bizgram KPAC-954\", \"price_sgd\": 3790},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 HOME\", \"price_sgd\": 158},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 PROF\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND BUSINESS 2024 FPP\", \"price_sgd\": 339},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND STUDENT 2024 FPP\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MC AFEE INTERNET SECURITY 1 USER\", \"price_sgd\": 10},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MCAFEE INTERNET SECURITY 3 USER\", \"price_sgd\": 25},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"LOCAL COMPUTER PICKUP OR DELIVER\", \"price_sgd\": 40},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 HOME\", \"price_sgd\": 158},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 PROF\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND BUSINESS 2024 FPP\", \"price_sgd\": 339},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND STUDENT 2024 FPP\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MC AFEE INTERNET SECURITY 1 USER\", \"price_sgd\": 10},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MCAFEE INTERNET SECURITY 3 USER\", \"price_sgd\": 25},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"LOCAL COMPUTER PICKUP OR DELIVER\", \"price_sgd\": 40},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 HOME\", \"price_sgd\": 158},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 PROF\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND BUSINESS 2024 FPP\", \"price_sgd\": 339},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND STUDENT 2024 FPP\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MC AFEE INTERNET SECURITY 1 USER\", \"price_sgd\": 10},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MCAFEE INTERNET SECURITY 3 USER\", \"price_sgd\": 25},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"LOCAL COMPUTER PICKUP OR DELIVER\", \"price_sgd\": 40},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 HOME\", \"price_sgd\": 158},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 PROF\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND BUSINESS 2024 FPP\", \"price_sgd\": 339},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND STUDENT 2024 FPP\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MC AFEE INTERNET SECURITY 1 USER\", \"price_sgd\": 10},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MCAFEE INTERNET SECURITY 3 USER\", \"price_sgd\": 25},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"LOCAL COMPUTER PICKUP OR DELIVER\", \"price_sgd\": 40},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 HOME\", \"price_sgd\": 158},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 PROF\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND BUSINESS 2024 FPP\", \"price_sgd\": 339},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND STUDENT 2024 FPP\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MC AFEE INTERNET SECURITY 1 USER\", \"price_sgd\": 10},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MCAFEE INTERNET SECURITY 3 USER\", \"price_sgd\": 25},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"LOCAL COMPUTER PICKUP OR DELIVER\", \"price_sgd\": 40},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 HOME\", \"price_sgd\": 158},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"WINDOWS 11 PROF\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND BUSINESS 2024 FPP\", \"price_sgd\": 339},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"OFFICE HOME AND STUDENT 2024 FPP\", \"price_sgd\": 218},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MC AFEE INTERNET SECURITY 1 USER\", \"price_sgd\": 10},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"MCAFEE INTERNET SECURITY 3 USER\", \"price_sgd\": 25},\n  {\"category\": \"ADDONS AND UPGRADES\", \"brand\": null, \"product\": \"LOCAL COMPUTER PICKUP OR DELIVER\", \"price_sgd\": 40}\n]}"
+}

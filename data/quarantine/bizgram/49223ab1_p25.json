@@ -1,0 +1,284 @@
+{
+  "sha256": "49223ab171d7325c8ab75902fd5d4a0520fa61fc568dbbf36df603de71976427",
+  "vendor": "bizgram",
+  "page_number": 25,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN63-S1-S5033AD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1289.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN63-S1-S7046AD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1529.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN51-E1-B5206ZD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1039.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN51-S1-B7350AD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN51-S1-B-B5215MD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN51-S1-B-B7216MD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 705.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PN63-S1-B-S3031MD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 639.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS PN63-S1-B-S5032MD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 769.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS PN63-S1-B-S7033MD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 919.0
+    },
+    {
+      "category": null,
+      "brand": "ASRock",
+      "product": "ASRock DESKMINI B660",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 349.0
+    },
+    {
+      "category": null,
+      "brand": "ASRock",
+      "product": "ASRock DESKMINI X300",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-Site Warranty",
+      "price_sgd": 919.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte Brix GB-BSRE-1605",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 565.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 3440|i5-1335U|8GB|256GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1562.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Latitude Lati 3440|i5-1335U|8GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1672.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 3440|i5-1335U|16GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1856.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 3440|i7-1355U|8GB|256GB SSD|W1113th Gen Intel Core i7-1355U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1869.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 3440|i7-1355U|8GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1967.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 3440|i7-1355U|16GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3-year warranty",
+      "price_sgd": 2088.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 5340|i5-1335U|8GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1998.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 5340|i5-1345U|16GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 2027.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 5340|i7-1365U|16GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 2377.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 5440|i5-1335U|16GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 2195.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 5440|i7-1365U|16GB|512GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 2403.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Lati 5540|i5-1335U|8GB|256GB SSD|W11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3Yrs ProSupport NBD",
+      "price_sgd": 1891.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Workstation Preci 3480|i5-1350P|8GB|512GB SSD|W11 Pro| Nvidia A500",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2383.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Workstation Preci 3480|i5-1350P|16GB|512GB SSD|W11 Pro| Nvidia A500",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2597.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Workstation Preci 3480| i7-1370P|16GB|512GB SSD|W11 Pro| Nvidia A500",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2853.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Workstation AWM3580 l i7-1360P l 16GB l 512GBssd l NVIDIA A500 4GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3042.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Workstation AWM3580 l i7-1370P l 32GB l 1TBssd l NVIDIA A500 4GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3622.0
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Workstation AWM5480|i7-1360P |16GB|512Gb SSD|W11|NVIDIA A500 4GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3058.0
+    }
+  ],
+  "numeric_tokens_in_source": 197,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 30/197 = 0.15",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"Asus\", \"product\": \"Asus PN63-S1-S5033AD\", \"price_sgd\": 1289},\n  {\"brand\": \"Asus\", \"product\": \"Asus PN63-S1-S7046AD\", \"price_sgd\": 1529},\n  {\"brand\": \"Asus\", \"product\": \"Asus PN51-E1-B5206ZD\", \"price_sgd\": 1039},\n  {\"brand\": \"Asus\", \"product\": \"Asus PN51-S1-B7350AD\", \"price_sgd\": 1299},\n  {\"brand\": \"Asus\", \"product\": \"Asus PN51-S1-B-B5215MD\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 459},\n  {\"brand\": \"Asus\", \"product\": \"Asus PN51-S1-B-B7216MD\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 705},\n  {\"brand\": \"Asus\", \"product\": \"Asus PN63-S1-B-S3031MD\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 639},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS PN63-S1-B-S5032MD\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 769},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS PN63-S1-B-S7033MD\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 919},\n  {\"brand\": \"ASRock\", \"product\": \"ASRock DESKMINI B660\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 349},\n  {\"brand\": \"ASRock\", \"product\": \"ASRock DESKMINI X300\", \"warranty\": \"3 Years On-Site Warranty\", \"price_sgd\": 919},\n  {\"brand\": \"Gigabyte\", \"product\": \"Gigabyte Brix GB-BSRE-1605\", \"warranty\": \"3 Years\", \"price_sgd\": 565},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 3440|i5-1335U|8GB|256GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1562},\n  {\"brand\": \"Dell\", \"product\": \"Dell Latitude Lati 3440|i5-1335U|8GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1672},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 3440|i5-1335U|16GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1856},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 3440|i7-1355U|8GB|256GB SSD|W1113th Gen Intel Core i7-1355U\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1869},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 3440|i7-1355U|8GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1967},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 3440|i7-1355U|16GB|512GB SSD|W11\", \"warranty\": \"3-year warranty\", \"price_sgd\": 2088},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 5340|i5-1335U|8GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1998},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 5340|i5-1345U|16GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 2027},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 5340|i7-1365U|16GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 2377},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 5440|i5-1335U|16GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 2195},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 5440|i7-1365U|16GB|512GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 2403},\n  {\"brand\": \"Dell\", \"product\": \"Dell Lati 5540|i5-1335U|8GB|256GB SSD|W11\", \"warranty\": \"3Yrs ProSupport NBD\", \"price_sgd\": 1891},\n  {\"brand\": \"Dell\", \"product\": \"Dell Workstation Preci 3480|i5-1350P|8GB|512GB SSD|W11 Pro| Nvidia A500\", \"price_sgd\": 2383},\n  {\"brand\": \"Dell\", \"product\": \"Dell Workstation Preci 3480|i5-1350P|16GB|512GB SSD|W11 Pro| Nvidia A500\", \"price_sgd\": 2597},\n  {\"brand\": \"Dell\", \"product\": \"Dell Workstation Preci 3480| i7-1370P|16GB|512GB SSD|W11 Pro| Nvidia A500\", \"price_sgd\": 2853},\n  {\"brand\": \"Dell\", \"product\": \"Dell Workstation AWM3580 l i7-1360P l 16GB l 512GBssd l NVIDIA A500 4GB GDDR6\", \"price_sgd\": 3042},\n  {\"brand\": \"Dell\", \"product\": \"Dell Workstation AWM3580 l i7-1370P l 32GB l 1TBssd l NVIDIA A500 4GB GDDR6\", \"price_sgd\": 3622},\n  {\"brand\": \"Dell\", \"product\": \"Dell Workstation AWM5480|i7-1360P |16GB|512Gb SSD|W11|NVIDIA A500 4GB GDDR6\", \"price_sgd\": 3058}\n]}"
+}

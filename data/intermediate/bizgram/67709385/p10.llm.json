@@ -1,0 +1,4433 @@
+{
+ "rows": [
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-LITE-U",
+   "price_sgd": 163
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-FIBER-OLT-XGS",
+   "price_sgd": 6194
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex",
+   "price_sgd": 206
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-MICRO",
+   "price_sgd": 363
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000PU1I 1000Base-BX10-U",
+   "price_sgd": 58
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "Raspberry",
+   "price_sgd": 270
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-LR",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-FIBER-OLT-XGS-EU",
+   "price_sgd": 6194
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-5",
+   "price_sgd": 106
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-MICRO-5",
+   "price_sgd": 1750
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000PD1I 1000Base-BX10-D",
+   "price_sgd": 69
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite 2024 Jade",
+   "variant": "16GB",
+   "price_sgd": 270
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-LR-5",
+   "price_sgd": 926
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-FIBER-XG",
+   "price_sgd": 211
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-5-EU",
+   "price_sgd": 106
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-MICRO-5-EU",
+   "price_sgd": 1750
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite Signature Edition 2024 Metallic Black",
+   "variant": "32GB",
+   "price_sgd": 318
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-LR-EU",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-FIBER-XG-EU",
+   "price_sgd": 211
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-5-UK",
+   "price_sgd": 106
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-MICRO-EU",
+   "price_sgd": 363
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7722UTn V3 300M 2T2R 802",
+   "price_sgd": 18
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite Signature Edition 2024 Metallic Jade",
+   "variant": "32GB",
+   "price_sgd": 318
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-LR-U",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-FIBER-XGS",
+   "price_sgd": 299
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-8",
+   "price_sgd": 322
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-PRO",
+   "price_sgd": 552
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7811Un V2 11n 150M 1T1R",
+   "price_sgd": 11
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite Signature Edition 2024 Metallic Raspberry",
+   "variant": "32GB",
+   "price_sgd": 318
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M",
+   "price_sgd": 184
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-FIBER-XGS-EU",
+   "price_sgd": 299
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-8-EU",
+   "price_sgd": 322
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-PRO-3",
+   "price_sgd": 1640
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7611ULB N150 Wi-Fi BT 4.",
+   "price_sgd": 14
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Coloursoft Signature Edition Metallic Black",
+   "variant": "32GB",
+   "price_sgd": 479
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-5",
+   "price_sgd": 902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Horn",
+   "price_sgd": 371
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-8-PoE",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4 Doorbell Pro PoE Kit",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7611ULB V2 N150 Wi-Fi BT",
+   "price_sgd": 13
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite Denim x 2pcs Black x 2pcs SLIGHTLY DAMAGED BOXES",
+   "variant": "16GB",
+   "price_sgd": 234
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-EU",
+   "price_sgd": 184
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-P",
+   "price_sgd": 624
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-8-U",
+   "price_sgd": 322
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4 Doorbell Pro PoE Kit-White",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax BT-8500 Bluetooth 5.0 Nano",
+   "price_sgd": 22
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Fire HD 10 Denim",
+   "variant": "32GB",
+   "price_sgd": 174
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-PRO",
+   "price_sgd": 363
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-P-Pro",
+   "price_sgd": 1064
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-2.5G-8-UK",
+   "price_sgd": 322
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4 Doorbell Pro-EU",
+   "price_sgd": 611
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7612PIn V2 11n 300M 2T2R",
+   "price_sgd": 19
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Fire HD 10 Lavender",
+   "variant": "32GB",
+   "price_sgd": 174
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-PRO-5",
+   "price_sgd": 1814
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-P-Pro-EU",
+   "price_sgd": 1064
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-3",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-BULLET",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Fire HD 10 Olive",
+   "variant": "32GB",
+   "price_sgd": 174
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-PRO-EU",
+   "price_sgd": 363
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-R",
+   "price_sgd": 237
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Mini",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-Bullet-3",
+   "price_sgd": 1178
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7833AXP Wi-Fi 6 AX3000 P",
+   "price_sgd": 72
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Echo Show 5 (3rd Generation) White x 8pcs",
+   "price_sgd": 119
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-PRO-U",
+   "price_sgd": 363
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-R-EU",
+   "price_sgd": 237
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Mini-3",
+   "price_sgd": 176
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-DB-Cover-Black",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7833UAC AC1750 Wireless",
+   "price_sgd": 52
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Echo Show 8 (3rd Generation) Charcoal x 7pcs Sandstone x 8pcs",
+   "price_sgd": 186
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-M-U",
+   "price_sgd": 184
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-R-Pro",
+   "price_sgd": 850
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Mini-5",
+   "price_sgd": 286
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-DB-Cover-Brick",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7822UMX AX1800 Wireless",
+   "price_sgd": 55
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Echo Dot 5th Generation Charcoal x 30pcs Blue x 20pcs White x 17pcs",
+   "price_sgd": 78
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-PRO",
+   "price_sgd": 283
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-R-Pro-EU",
+   "price_sgd": 850
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Mini-EU",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-DB-Cover-Concrete",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7822UAD AC1200 Wireless",
+   "price_sgd": 30
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Fire TV Stick 4K 2nd Generation",
+   "price_sgd": 66
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-PRO-5",
+   "price_sgd": 1302
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-S",
+   "price_sgd": 237
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Mini-U",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-DB-Cover-Fabric",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7822UAC AC1200 Wireless",
+   "price_sgd": 39
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Fire TV Stick 3rd Generation",
+   "price_sgd": 52
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-PRO-EU",
+   "price_sgd": 283
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-S-EU",
+   "price_sgd": 237
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Mini-UK",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-DB-Cover-Silver",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7822UTC AC1200 Dual-Band",
+   "price_sgd": 27
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Fire TV Alexa Voice Remote 3rd Generation",
+   "price_sgd": 23
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-PRO-U",
+   "price_sgd": 283
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-S-Plus",
+   "price_sgd": 811
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-Utility",
+   "price_sgd": 96
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-DB-Cover-Wood",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7822ULC AC1200 Dual-Band",
+   "price_sgd": 25
+  },
+  {
+   "category": null,
+   "brand": "Ray-Ban",
+   "product": "RAY-BAN | META WAYFARER RW4006 SHINY BLACK/G15 GREEN S50",
+   "price_sgd": 552
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-SHD",
+   "price_sgd": 851
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-S-Plus-EU",
+   "price_sgd": 811
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-XG",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-Dome",
+   "price_sgd": 381
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7811UTC AC600 Wireless M",
+   "price_sgd": 19
+  },
+  {
+   "category": null,
+   "brand": "Ray-Ban",
+   "product": "RAY-BAN | META WAYFARER RW4006 Matte Black/POLAR GRADIENT GRAPHITE S50",
+   "price_sgd": 618
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-SHD-5",
+   "price_sgd": 4130
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-S-Pro",
+   "price_sgd": 824
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-XG-EU",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-Dome-3",
+   "price_sgd": 1139
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7811ULC AC600 Wireless D",
+   "price_sgd": 18
+  },
+  {
+   "category": null,
+   "brand": "Ray-Ban",
+   "product": "RAY-BAN | META WAYFARER RW4006 Matte Jeans/POLAR DUSTY BLUE S50",
+   "price_sgd": 618
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-AC-SHD-EU",
+   "price_sgd": 851
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-S-Pro-EU",
+   "price_sgd": 824
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-XG-U",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-Doorbell-EU",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7811UAC AC600 Wireless D",
+   "price_sgd": 27
+  },
+  {
+   "category": null,
+   "brand": "Ray-Ban",
+   "product": "RAYBAN | META WAYFARER RW4006 Shiny Caramel/POLAR BROWN S50",
+   "price_sgd": 618
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-FlexHD",
+   "price_sgd": 358
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UK-Ultra",
+   "price_sgd": 162
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Flex-XG-UK",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-Doorbell-PS-EU",
+   "price_sgd": 68
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7811DAC AC600 Wi-Fi Dual",
+   "price_sgd": 33
+  },
+  {
+   "category": null,
+   "brand": "Ray-Ban",
+   "product": "RAY-BAN | META SKYLER RW4010 SHINY BLACK/TRANSITIONS AMETHYST S52",
+   "price_sgd": 654
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-FlexHD-EU",
+   "price_sgd": 358
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UMA-D",
+   "price_sgd": 181
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Industrial",
+   "price_sgd": 1027
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-INS-EU",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7611UCB 2-in-1 AC600 Du",
+   "price_sgd": 26
+  },
+  {
+   "category": null,
+   "brand": "Ray-Ban",
+   "product": "RAY-BAN | META WAYFARER Warm Stone/TRANSITIONS CLEAR/WATERMELON RED S50",
+   "price_sgd": 654
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-IW-HD",
+   "price_sgd": 339
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UMR-EU",
+   "price_sgd": 414
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Industrial-EU",
+   "price_sgd": 1027
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-IRExtender",
+   "price_sgd": 146
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax BR-6473AX AX3000 Wi-Fi 6 D",
+   "price_sgd": 110
+  },
+  {
+   "category": null,
+   "brand": "Sudio",
+   "product": "Sudio A1 Open Ear Earbuds Black",
+   "price_sgd": 30
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-IW-HD-JB-25",
+   "price_sgd": 195
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UMR-Industrial-EU",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Industrial-U",
+   "price_sgd": 1027
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-PRO",
+   "price_sgd": 926
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax RG21S AC2600 Dual band con",
+   "price_sgd": 115
+  },
+  {
+   "category": null,
+   "brand": "Sudio",
+   "product": "Sudio A2 ANC Earbuds Purple",
+   "price_sgd": 42
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-nanoHD",
+   "price_sgd": 331
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UMR-Industrial-UK",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-16-POE",
+   "price_sgd": 414
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-PRO-3",
+   "price_sgd": 2758
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax BR-6478AC V2 AC1200 Wireles",
+   "price_sgd": 44
+  },
+  {
+   "category": null,
+   "brand": "Sudio",
+   "product": "Sudio S2 Portable Speaker",
+   "price_sgd": 42
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-nanoHD-3",
+   "price_sgd": 966
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UMR-Ultra",
+   "price_sgd": 198
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-16-POE-EU",
+   "price_sgd": 414
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G4-PTZ",
+   "price_sgd": 3605
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EW-7438RPN Mini N300 Univer",
+   "price_sgd": 18
+  },
+  {
+   "category": null,
+   "brand": "Sony",
+   "product": "Sony WF1000XM5 Black x 10pcs Silver x 5pcs",
+   "price_sgd": 335
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-nanoHD-5",
+   "price_sgd": 1640
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNAS-Pro",
+   "price_sgd": 1064
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-16-POE-U",
+   "price_sgd": 414
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Bullet",
+   "price_sgd": 270
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax BR-6428nS V5 nMAX 300M 2T2R",
+   "price_sgd": 21
+  },
+  {
+   "category": null,
+   "brand": "Asus",
+   "product": "Asus ROG Ally",
+   "variant": "512GB",
+   "price_sgd": 948
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-nanoHD-EU",
+   "price_sgd": 331
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNAS-Pro-EU",
+   "price_sgd": 1064
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-16-PoE-UK",
+   "price_sgd": 414
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Bullet-3",
+   "price_sgd": 741
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IC-7113W 720p Wireless H.26",
+   "price_sgd": 124
+  },
+  {
+   "category": null,
+   "brand": "Elgato",
+   "product": "Elgato Game Capture 60S",
+   "price_sgd": 119
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-XG",
+   "price_sgd": 1490
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNAS-Pro-UK",
+   "price_sgd": 1064
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-8-POE",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Dome",
+   "price_sgd": 376
+  },
+  {
+   "category": null,
+   "brand": "Ring",
+   "product": "Ring Video Doorbell",
+   "price_sgd": 167
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-XG-EU",
+   "price_sgd": 1490
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNVR",
+   "price_sgd": 634
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-8-POE-EU",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Dome-3",
+   "price_sgd": 1077
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IEW-7811UTC AC600 Wireless",
+   "price_sgd": 39
+  },
+  {
+   "category": null,
+   "brand": "Dyson",
+   "product": "Dyson HD07 Supersonic Hairdryer (US/110V)",
+   "price_sgd": 479
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UAP-XG-U",
+   "price_sgd": 1490
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNVR-EU",
+   "price_sgd": 634
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-8-PoE-U",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Dome-Ultra",
+   "price_sgd": 173
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-1005 Industrial 5-Port",
+   "price_sgd": 116
+  },
+  {
+   "category": null,
+   "brand": "Microsoft",
+   "product": "Xbox Elite 2 Series Controller CORE",
+   "price_sgd": 143
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UB-AM",
+   "price_sgd": 23
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNVR-Pro",
+   "price_sgd": 1051
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Lite-8-POE-UK",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Dome-Ultra-B",
+   "price_sgd": 173
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-1105P Industrial 5-Port",
+   "price_sgd": 188
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UBB",
+   "price_sgd": 1002
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNVR-Pro-EU",
+   "price_sgd": 1051
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Mission-Critical-EU",
+   "price_sgd": 2003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Flex",
+   "price_sgd": 274
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-1210P V2 Industrial 10-",
+   "price_sgd": 281
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL 120-1pc Pack Bl",
+   "price_sgd": 45
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UBB-EU",
+   "price_sgd": 1002
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UNVR-Pro-U",
+   "price_sgd": 1051
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24",
+   "price_sgd": 798
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Pro",
+   "price_sgd": 757
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-5208 Industrial 8 GigaP",
+   "price_sgd": 1091
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL 120-1pc White",
+   "price_sgd": 45
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UBB-XG",
+   "price_sgd": 2203
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UOC-0.5",
+   "price_sgd": 20
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-EU",
+   "price_sgd": 798
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-PTZ",
+   "price_sgd": 576
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-5408P Industrial 8 Giga",
+   "price_sgd": 1366
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL 120-1pc",
+   "price_sgd": 45
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UBB-XG-EU",
+   "price_sgd": 2203
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UOC-1",
+   "price_sgd": 21
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-POE",
+   "price_sgd": 1400
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Turret-Ultra",
+   "price_sgd": 173
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-5416P Industrial 16 Gig",
+   "price_sgd": 1960
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL 120-1pc",
+   "price_sgd": 45
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UC-Cast-EU",
+   "price_sgd": 421
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UOC-2",
+   "price_sgd": 24
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-POE-EU",
+   "price_sgd": 1400
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G5-Turret-Ultra-B",
+   "price_sgd": 173
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-5218PLC Industrial Surv",
+   "price_sgd": 650
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL 120-3 with cont",
+   "price_sgd": 137
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UC-Cast-Lite-EU",
+   "price_sgd": 350
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UOC-3",
+   "price_sgd": 26
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-PoE-U",
+   "price_sgd": 1400
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UWB-XG",
+   "price_sgd": 2754
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-5428PLC Industrial Surv",
+   "price_sgd": 856
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL 120-3 with cont",
+   "price_sgd": 137
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UC-Cast-Pro",
+   "price_sgd": 549
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UOC-5",
+   "price_sgd": 28
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-PoE-UK",
+   "price_sgd": 1400
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UWB-XG-EU",
+   "price_sgd": 2754
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IGS-5654PLX Industrial Surv",
+   "price_sgd": 1381
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL 120-3 w",
+   "price_sgd": 137
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UC-DAC-SFP+",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UP-AI-Port",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-U",
+   "price_sgd": 798
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UX",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax PrimeAX 123 AX1800 Wi-Fi 6",
+   "price_sgd": 456
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL 120-3 w",
+   "price_sgd": 137
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UC-DAC-SFP28",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UP-Chime-EU",
+   "price_sgd": 126
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-24-UK",
+   "price_sgd": 798
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UX-EU",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax Office 123 Simple and Secur",
+   "price_sgd": 447
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL 140-1pc Pack Bl",
+   "price_sgd": 48
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UC-Display",
+   "price_sgd": 1477
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UP-FloodLight",
+   "price_sgd": 211
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48",
+   "price_sgd": 1200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UX-UK",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAP1300 Office 1-2-3 Master",
+   "price_sgd": 149
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL 140-1pc Pack Wh",
+   "price_sgd": 48
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Fiber",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UP-Sense",
+   "price_sgd": 118
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-EU",
+   "price_sgd": 1200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UX7",
+   "price_sgd": 403
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAP1300 Office +1 Office +1",
+   "price_sgd": 149
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI Reverse TL 140mm-1pc P",
+   "price_sgd": 48
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Fiber-EU",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UP-Sense-3",
+   "price_sgd": 339
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-POE",
+   "price_sgd": 2200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UX7-EU",
+   "price_sgd": 403
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax OAP1300 Office +1 Office+1",
+   "price_sgd": 206
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI Reverse TL 140mm-1pc P",
+   "price_sgd": 48
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Fiber-UK",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UP-SuperLink-EU",
+   "price_sgd": 259
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-POE-EU",
+   "price_sgd": 2200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UX7-UK",
+   "price_sgd": 403
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax APC500 Wireless Acess Point",
+   "price_sgd": 290
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL LCD 120-3 with",
+   "price_sgd": 216
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Max",
+   "price_sgd": 571
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UPL-Amp-B-EU",
+   "price_sgd": 1251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-PoE-U",
+   "price_sgd": 2200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Fiber",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAX1800 Wi-Fi 6 AX1800 Ceil",
+   "price_sgd": 232
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL LCD 120-3 with",
+   "price_sgd": 216
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Max-EU",
+   "price_sgd": 571
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UPL-Amp-B-UK",
+   "price_sgd": 1251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-PoE-UK",
+   "price_sgd": 2200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Fiber-EU",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax WAP1750 AC1750 Long Range 8",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+   "price_sgd": 216
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Max-UK",
+   "price_sgd": 571
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UPL-Amp-W-EU",
+   "price_sgd": 1251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-U",
+   "price_sgd": 1200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Fiber-UK",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax OAP1750 AC 1750 Long Range",
+   "price_sgd": 635
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+   "price_sgd": 216
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Ultra",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UPL-Amp-W-UK",
+   "price_sgd": 1251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-48-UK",
+   "price_sgd": 1200
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Lite",
+   "price_sgd": 264
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax OAP1300 AC 1300 outdoor AP",
+   "price_sgd": 207
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL LCD 120-1 Black",
+   "price_sgd": 72
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Ultra-EU",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-16-150W",
+   "price_sgd": 589
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-8-PoE",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Lite-EU",
+   "price_sgd": 264
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax OAP900 Long Range 802.11ac",
+   "price_sgd": 165
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL LCD 120-1 White",
+   "price_sgd": 72
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCG-Ultra-UK",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-16-150W-EU",
+   "price_sgd": 589
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-8-PoE-EU",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Lite-UK",
+   "price_sgd": 264
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAP1750 AC1750 Long Range 8",
+   "price_sgd": 234
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+   "price_sgd": 72
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCK-G2",
+   "price_sgd": 266
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-16-150W-U",
+   "price_sgd": 589
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-8-PoE-U",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Max",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAP1300 AC1300 Long Range 8",
+   "price_sgd": 149
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL LCD 120",
+   "price_sgd": 72
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCK-G2-PLUS",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-16-XG",
+   "price_sgd": 1126
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-8-PoE-UK",
+   "price_sgd": 602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Max-EU",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAP1200 AC1200 Long Range 8",
+   "price_sgd": 122
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL LCD 140-1 black",
+   "price_sgd": 78
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UCK-G2-SSD",
+   "price_sgd": 514
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-16-XG-EU",
+   "price_sgd": 1126
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Aggregation",
+   "price_sgd": 1755
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Max-UK",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax CAP300 2x2 N300 Ceiling-Mou",
+   "price_sgd": 88
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN TL LCD 140-1 White",
+   "price_sgd": 78
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB",
+   "price_sgd": 203
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-16-XG-U",
+   "price_sgd": 1126
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Aggregation-EU",
+   "price_sgd": 1755
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UXG-Pro-EU",
+   "price_sgd": 1002
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax IAP1200 AC1200 In-Wall Dual",
+   "price_sgd": 110
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL LCD 140",
+   "price_sgd": 78
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-EU",
+   "price_sgd": 203
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Aggregation-U",
+   "price_sgd": 1755
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-AP",
+   "price_sgd": 1042
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GP-101IT IEEE 802.3at Gigab",
+   "price_sgd": 35
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN Reverse TL LCD 140",
+   "price_sgd": 78
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-Pro",
+   "price_sgd": 408
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-250W",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24",
+   "price_sgd": 1227
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-AP-EU",
+   "price_sgd": 1042
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GP-103IT IEEE 802.3af/at/bt",
+   "price_sgd": 92
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Uni Fan P28 3pc PacK - Bla",
+   "price_sgd": 93
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-Pro-EU",
+   "price_sgd": 408
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-250W-EU",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-EU",
+   "price_sgd": 1227
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-AP-Micro",
+   "price_sgd": 989
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GP-201IT IEEE 802.3at 2.5Gi",
+   "price_sgd": 57
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Uni Fan P28 3pc PacK - Whi",
+   "price_sgd": 93
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-Pro-U",
+   "price_sgd": 408
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-250W-U",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-PoE",
+   "price_sgd": 2003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-AP-Micro-EU",
+   "price_sgd": 989
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GP-203IT IEEE 802.3bt 2.5Gi",
+   "price_sgd": 106
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Uni Fan P28 1pc Pack - Bla",
+   "price_sgd": 35
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-Pro-UK",
+   "price_sgd": 408
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-500W",
+   "price_sgd": 1090
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-PoE-EU",
+   "price_sgd": 2003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-LR",
+   "price_sgd": 776
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GP-101ST IEEE 802.3at Gigab",
+   "price_sgd": 25
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Uni Fan P28 1pc Pack - Whi",
+   "price_sgd": 35
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-U",
+   "price_sgd": 203
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-500W-EU",
+   "price_sgd": 1090
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-PoE-U",
+   "price_sgd": 2003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-LR-EU",
+   "price_sgd": 776
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GP-101ET IEEE 802.3at PoE E",
+   "price_sgd": 50
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Cable Organizer - MOOY Clingman",
+   "price_sgd": 13.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDB-UK",
+   "price_sgd": 203
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-500W-U",
+   "price_sgd": 1090
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-PoE-UK",
+   "price_sgd": 2003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-MLO5",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5208PLG V2 10-Port Gigab",
+   "price_sgd": 182
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Everest Max / US / MX Brown / Black",
+   "price_sgd": 179.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDC-1",
+   "price_sgd": 45
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-EU",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-U",
+   "price_sgd": 1227
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-MLO5-EU",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5210PLG 10-Port Gigabit",
+   "price_sgd": 182
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Everest Max / US / MX Red / Black",
+   "price_sgd": 179.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDC-2",
+   "price_sgd": 55
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-24-U",
+   "price_sgd": 398
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-HD-24-UK",
+   "price_sgd": 1227
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-MLO5-UK",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5210PL Surveillance Long",
+   "price_sgd": 243
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Everest Max / US / MX Brown / Gray",
+   "price_sgd": 179.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDC-3",
+   "price_sgd": 63
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48",
+   "price_sgd": 774
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-Nano",
+   "price_sgd": 574
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5216PLC Surveillance Lon",
+   "price_sgd": 469
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Everest Max / US / MX Red / Gray",
+   "price_sgd": 179.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM",
+   "price_sgd": 637
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-500W",
+   "price_sgd": 1590
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-EU",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-Nano-EU",
+   "price_sgd": 574
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5424PLC V3 Surveillance",
+   "price_sgd": 580
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Nunatak M Mousepad",
+   "price_sgd": 24.90
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-EU",
+   "price_sgd": 637
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-500W-EU",
+   "price_sgd": 1590
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-PoE",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-Pico",
+   "price_sgd": 368
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5424LX Surveillance 24-P",
+   "price_sgd": 372
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Makalu 67 Black Mouse",
+   "price_sgd": 99.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro",
+   "price_sgd": 806
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-500W-U",
+   "price_sgd": 1590
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-PoE-EU",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-Pico-EU",
+   "price_sgd": 368
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5424PLX V2 Surveillance",
+   "price_sgd": 731
+  },
+  {
+   "category": null,
+   "brand": "Mountain",
+   "product": "MOUNTAIN Makalu 67 White Mouse",
+   "price_sgd": 99.00
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro-EU",
+   "price_sgd": 806
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-750W",
+   "price_sgd": 1941
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-PoE-U",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-Pro",
+   "price_sgd": 1237
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5654LX 54-Port Gigabit W",
+   "price_sgd": 594
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro-Max",
+   "price_sgd": 1224
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-750W-EU",
+   "price_sgd": 1941
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-PoE-UK",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti Wave-Pro-EU",
+   "price_sgd": 1237
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5654PLX V2 54-Port Gigab",
+   "price_sgd": 939
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro-Max-EU",
+   "price_sgd": 1224
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-750W-U",
+   "price_sgd": 1941
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-U",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti WM-W",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EA1-005D 10GbE SFP+ DAC Dir",
+   "price_sgd": 25
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro-Max-UK",
+   "price_sgd": 1224
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-EU",
+   "price_sgd": 774
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-16-UK",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti XR2",
+   "price_sgd": 190
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EA1-020D 10GbE SFP+ DAC Dir",
+   "price_sgd": 32
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro-U",
+   "price_sgd": 806
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-48-U",
+   "price_sgd": 774
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24",
+   "price_sgd": 902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti XR5",
+   "price_sgd": 190
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax FS-5428X 28-Port Gigabit SF",
+   "price_sgd": 801
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-Pro-UK",
+   "price_sgd": 806
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24-EU",
+   "price_sgd": 902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-ALN-R-EU AmpliFi Alie",
+   "price_sgd": 554
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax TGS-3109PLX 9-Port 2.5 Giga",
+   "price_sgd": 392
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-SE",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-150W",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24-PoE",
+   "price_sgd": 1574
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-ALN-R-UK AmpliFi Alie",
+   "price_sgd": 554
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax TGS-3109XT 9-Port 2.5 Gigab",
+   "price_sgd": 207
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-SE-EU",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-150W-EU",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24-PoE-EU",
+   "price_sgd": 1574
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-G-UK AmpliFi Gaming W",
+   "price_sgd": 520
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax TGS-5428PLX Surveillance VL",
+   "price_sgd": 1007
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-SE-U",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-150W-U",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24-PoE-UK",
+   "price_sgd": 1574
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-HD-EU AmpliFi HD, EU",
+   "price_sgd": 486
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-SE-UK",
+   "price_sgd": 1024
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-5",
+   "price_sgd": 989
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24-U",
+   "price_sgd": 902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-HD-RU AmpliFi HD",
+   "price_sgd": 486
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDM-UK",
+   "price_sgd": 637
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-60W",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-24-UK",
+   "price_sgd": 902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-HD-UK AmpliFi HD, UK",
+   "price_sgd": 486
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDR-EU",
+   "price_sgd": 461
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-60W-5",
+   "price_sgd": 1114
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-48",
+   "price_sgd": 1302
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-INS AmpliFi Instant K",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDR7",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-60W-5-EU",
+   "price_sgd": 1114
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-48-EU",
+   "price_sgd": 1302
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-INS-EU AmpliFi Instan",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDR7-EU",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-60W-EU",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-48-PoE",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-INS-R AmpliFi Instant",
+   "price_sgd": 138
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDR7-UK",
+   "price_sgd": 563
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-60W-U",
+   "price_sgd": 226
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-48-PoE-EU",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFI-INS-R-EU AmpliFi Inst",
+   "price_sgd": 138
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDW",
+   "price_sgd": 2066
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-EU",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Pro-Max-48-PoE-UK",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFI-INS-R-UK AmpliFi Inst",
+   "price_sgd": 138
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UDW-EU",
+   "price_sgd": 2066
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-8-U",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra",
+   "price_sgd": 202
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-INS-UK AmpliFi Instan",
+   "price_sgd": 251
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-ADAPTER-APC-50",
+   "price_sgd": 28
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-XG-6POE",
+   "price_sgd": 1189
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra-210W",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-P-HD-EU AmpliFi HD Me",
+   "price_sgd": 166
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-AE",
+   "price_sgd": 66
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti US-XG-6POE-EU",
+   "price_sgd": 1189
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra-210W-EU",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-P-HD-UK AmpliFi HD Me",
+   "price_sgd": 166
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-GP-B+",
+   "price_sgd": 146
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USG",
+   "price_sgd": 224
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra-210W-UK",
+   "price_sgd": 402
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-R AmpliFi HD Router",
+   "price_sgd": 192
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-GP-C+",
+   "price_sgd": 162
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USG-EU",
+   "price_sgd": 224
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra-60W",
+   "price_sgd": 282
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-R-EU AmpliFi HD Route",
+   "price_sgd": 192
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-Instant",
+   "price_sgd": 82
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USG-PRO-4",
+   "price_sgd": 552
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra-60W-EU",
+   "price_sgd": 282
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-R-RU AmpliFi HD Route",
+   "price_sgd": 192
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-LOCO",
+   "price_sgd": 91
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USG-PRO-4-EU",
+   "price_sgd": 552
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Ultra-60W-UK",
+   "price_sgd": 282
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti AFi-R-UK AmpliFi HD Route",
+   "price_sgd": 192
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-LOCO-20",
+   "price_sgd": 1677
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USG-PRO-4-U",
+   "price_sgd": 552
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UT-G3-Handset",
+   "price_sgd": 198
+  },
+  {
+   "category": null,
+   "brand": "Sony",
+   "product": "Sony PlayStation Pro",
+   "price_sgd": 1134
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-LOCO-5",
+   "price_sgd": 426
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USG-U",
+   "price_sgd": 224
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UTP-G3-Touch-Enterprise",
+   "price_sgd": 598
+  },
+  {
+   "category": null,
+   "brand": "Sony",
+   "product": "Sony PlayStation 5 Disc Drive",
+   "price_sgd": 210
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-LOCO-EU",
+   "price_sgd": 91
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USP-Cable",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UTP-G3-Touch-Pro",
+   "price_sgd": 414
+  },
+  {
+   "category": null,
+   "brand": "Sony",
+   "product": "Sony PlayStation Portal",
+   "price_sgd": 330
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-LOCO-U",
+   "price_sgd": 91
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USP-RPS",
+   "price_sgd": 851
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UTP-G3-Touch-Wall",
+   "price_sgd": 798
+  },
+  {
+   "category": null,
+   "brand": "Sony",
+   "product": "Sony PlayStation 5 Controller Purple",
+   "price_sgd": 95
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-Nano",
+   "price_sgd": 139
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USP-RPS-EU",
+   "price_sgd": 851
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-360",
+   "price_sgd": 842
+  },
+  {
+   "category": null,
+   "brand": "Valve",
+   "product": "Valve Steam Deck 512GB Console OLED",
+   "price_sgd": 882
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-Nano-EU",
+   "price_sgd": 139
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USP-RPS-U",
+   "price_sgd": 851
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-360-W",
+   "price_sgd": 842
+  },
+  {
+   "category": null,
+   "brand": "Valve",
+   "product": "Valve Steam Deck 1TB Console OLED",
+   "price_sgd": 1026
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-Nano-U",
+   "price_sgd": 139
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-16-POE",
+   "price_sgd": 606
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Bullet",
+   "price_sgd": 851
+  },
+  {
+   "category": null,
+   "brand": "Meta",
+   "product": "Meta Quest 2",
+   "variant": "128GB",
+   "price_sgd": 420
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-OLT",
+   "price_sgd": 3003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-16-POE-EU",
+   "price_sgd": 606
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Dome-W",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Meta",
+   "product": "Meta Quest 3 512GB + Batman: Arkham Shadow",
+   "price_sgd": 810
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-OLT-4",
+   "price_sgd": 1902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-16-PoE-U",
+   "price_sgd": 606
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-DSLR",
+   "price_sgd": 5406
+  },
+  {
+   "category": null,
+   "brand": "Meta",
+   "product": "Meta Quest 3S",
+   "variant": "128GB",
+   "price_sgd": 479
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-OLT-4-EU",
+   "price_sgd": 1902
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-24",
+   "price_sgd": 459
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-DSLR-LD",
+   "price_sgd": 5406
+  },
+  {
+   "category": null,
+   "brand": "Meta",
+   "product": "Meta Quest 3S",
+   "variant": "256GB",
+   "price_sgd": 575
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-OLT-EU",
+   "price_sgd": 3003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-24-EU",
+   "price_sgd": 459
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-LPR-B",
+   "price_sgd": 1014
+  },
+  {
+   "category": null,
+   "brand": "Meta",
+   "product": "Meta Quest 2 Original Carrying Case",
+   "price_sgd": 71
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-OLT-U",
+   "price_sgd": 3003
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-24-POE",
+   "price_sgd": 766
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Pro",
+   "price_sgd": 1016
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Chromecast TV HD Snow",
+   "price_sgd": 90
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-RJ45-10G",
+   "price_sgd": 139
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-24-POE-EU",
+   "price_sgd": 766
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Pro-White",
+   "price_sgd": 1016
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Chromecast TV 4K Snow",
+   "price_sgd": 102
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-RJ45-1G",
+   "price_sgd": 45
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-24-PoE-U",
+   "price_sgd": 766
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta",
+   "price_sgd": 626
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google TV Streamer 4K 32GB Porcelain (GA05662)",
+   "price_sgd": 167
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SM-10G-20",
+   "price_sgd": 1622
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-24-U",
+   "price_sgd": 459
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-Audio",
+   "price_sgd": 139
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Nest Audio Charcoal",
+   "price_sgd": 119
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SM-10G-S",
+   "price_sgd": 334
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-48",
+   "price_sgd": 811
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-Hub",
+   "price_sgd": 408
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Nest Mini 2nd Generation Chalk",
+   "price_sgd": 59
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SM-10G-S-20",
+   "price_sgd": 3024
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-48-EU",
+   "price_sgd": 811
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-Lens",
+   "price_sgd": 118
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Home",
+   "price_sgd": 71
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SM-1G-S-20",
+   "price_sgd": 421
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-48-POE",
+   "price_sgd": 1195
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-Lens-360",
+   "price_sgd": 118
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Nest Wi-Fi Router",
+   "price_sgd": 186
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SM-PATCH-UPC-APC",
+   "price_sgd": 15
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-48-POE-EU",
+   "price_sgd": 1195
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-Lens-LD",
+   "price_sgd": 118
+  },
+  {
+   "category": null,
+   "brand": "Google",
+   "product": "Google Pixel Buds",
+   "price_sgd": 131
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SPLITTER-16",
+   "price_sgd": 61
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-48-PoE-U",
+   "price_sgd": 1195
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-Pro",
+   "price_sgd": 678
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Scribe with Premium Pen",
+   "variant": "16GB",
+   "price_sgd": 498
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SPLITTER-32",
+   "price_sgd": 88
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-48-U",
+   "price_sgd": 811
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-ProLens110",
+   "price_sgd": 266
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Scribe with Premium Pen",
+   "variant": "64GB",
+   "price_sgd": 558
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SPLITTER-4",
+   "price_sgd": 31
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Aggregation",
+   "price_sgd": 539
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-ProLens360",
+   "price_sgd": 266
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle WiFi 2024 Matcha",
+   "variant": "16GB",
+   "price_sgd": 210
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-SPLITTER-8",
+   "price_sgd": 37
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Aggregation-EU",
+   "price_sgd": 539
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Theta-ProLens50",
+   "price_sgd": 266
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle WiFi 2024 Black",
+   "variant": "16GB",
+   "price_sgd": 192
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-Terminal-Box",
+   "price_sgd": 71
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Aggregation-U",
+   "price_sgd": 539
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Turret-B",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite 2024 Black",
+   "variant": "16GB",
+   "price_sgd": 270
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi",
+   "price_sgd": 144
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Aggregation-UK",
+   "price_sgd": 539
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-AI-Turret-W",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Amazon",
+   "product": "Amazon Kindle Paperwhite 2024",
+   "variant": "16GB",
+   "price_sgd": 270
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi-EU",
+   "price_sgd": 144
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-24-PoE",
+   "price_sgd": 1602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-BULLET",
+   "price_sgd": 274
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EU-4208 USB 2.0 to 10/100Mb",
+   "price_sgd": 18
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi-U",
+   "price_sgd": 144
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-24-PoE-EU",
+   "price_sgd": 1602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-BULLET-3",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EU-4306 V2 USB 3.0 to Gigab",
+   "price_sgd": 22
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi6",
+   "price_sgd": 206
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-24-PoE-U",
+   "price_sgd": 1602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-Dome",
+   "price_sgd": 274
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EU-4306C USB Trype-C to Gig",
+   "price_sgd": 22
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi6-EU",
+   "price_sgd": 206
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-24-PoE-UK",
+   "price_sgd": 1602
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-DOME-3",
+   "price_sgd": 802
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EU-4307 V2 USB 3.0 type C t",
+   "price_sgd": 38
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi6-U",
+   "price_sgd": 206
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-48-PoE",
+   "price_sgd": 3128
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-DOME-EU",
+   "price_sgd": 274
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EU-4308 3-Port USB3.0 and",
+   "price_sgd": 30
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UF-WiFi6-UK",
+   "price_sgd": 206
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-48-PoE-EU",
+   "price_sgd": 3128
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-DOME-U",
+   "price_sgd": 274
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EN-9260TX-E V2 Gigabit PCIe",
+   "price_sgd": 18
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UFP-VIEWPORT",
+   "price_sgd": 432
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-48-PoE-U",
+   "price_sgd": 3128
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-F-C",
+   "price_sgd": 48
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EN-9320SFP+ V2 10 Gigabit E",
+   "price_sgd": 124
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Box",
+   "price_sgd": 126
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-48-PoE-UK",
+   "price_sgd": 3128
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-F-C-3",
+   "price_sgd": 104
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax EN-9320TX-E V2 10 Gigabit E",
+   "price_sgd": 124
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Box-Plus",
+   "price_sgd": 213
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-8-PoE",
+   "price_sgd": 952
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-F-PENDANT",
+   "price_sgd": 31
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-10GAMA 10GBase-SX LX SFP",
+   "price_sgd": 74
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Cable-Carrier",
+   "price_sgd": 350
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-8-PoE-EU",
+   "price_sgd": 952
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-F-PENDANT-3",
+   "price_sgd": 63
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-10GAS1 10GBase-SX LX SFP",
+   "price_sgd": 151
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Cable-Pro",
+   "price_sgd": 264
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-8-PoE-U",
+   "price_sgd": 952
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-FLEX",
+   "price_sgd": 150
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax ES-3305P 5P 10/100Mbps SOH",
+   "price_sgd": 11
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Connector-GND",
+   "price_sgd": 53
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-Enterprise-8-PoE-UK",
+   "price_sgd": 952
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-FLEX-3",
+   "price_sgd": 434
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax ES-3308P 8P 10/100Mbps SOH",
+   "price_sgd": 13
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Connector-SHD",
+   "price_sgd": 53
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-EnterpriseXG-24",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-Flex-PWM-Black",
+   "price_sgd": 36
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax ES-1008P V2 8-Port Fast Eth",
+   "price_sgd": 162
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Console",
+   "price_sgd": 549
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-EnterpriseXG-24-EU",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-Flex-PWM-Black-3",
+   "price_sgd": 80
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax ES-5500G V3 Gigabit 5 Ports",
+   "price_sgd": 29
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Console-EU",
+   "price_sgd": 549
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-EnterpriseXG-24-U",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-Flex-PWM-WT",
+   "price_sgd": 36
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax ES-5800G V3 Gigabit 8 Ports",
+   "price_sgd": 41
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UISP-Dish",
+   "price_sgd": 339
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti USW-EnterpriseXG-24-UK",
+   "price_sgd": 2528
+  },
+  {
+   "category": null,
+   "brand": "Ubiquiti",
+   "product": "Ubiquiti UVC-G3-Flex-PWM-WT-3",
+   "price_sgd": 80
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5008E 8-Port Gigabit Web",
+   "price_sgd": 48
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-1016 V2 16P 10/100/1000M",
+   "price_sgd": 105
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-1024 24P 10/100/1000M R",
+   "price_sgd": 142
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-1026 V3 24P 10/100/1000M",
+   "price_sgd": 150
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-5424G 24-Port Gigabit Po",
+   "price_sgd": 216
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-1105PE 5P Gigabit Switch",
+   "price_sgd": 73
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-1008P V2 8-Port Gigabit",
+   "price_sgd": 167
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-1008PL V2 8-port Gigabit",
+   "price_sgd": 131
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-3005P 5-Port Gigabit Web",
+   "price_sgd": 105
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax GS-3008P 8-Port Gigabit Web",
+   "price_sgd": 139
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AT 1000Base-T miniGB",
+   "price_sgd": 63
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AMA V2 1000Base-SX m",
+   "price_sgd": 33
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AMB V2 1000Base-SX+",
+   "price_sgd": 44
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AS1 V2 1000Base-LX m",
+   "price_sgd": 41
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AS3 V2 1000Base-LHX",
+   "price_sgd": 46
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000PU1 V2 1000Base-BX10",
+   "price_sgd": 49
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000PD1 V2 1000Base-BX10",
+   "price_sgd": 62
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000ATI 1000Base-T miniG",
+   "price_sgd": 82
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AMAI 1000Base-SX min",
+   "price_sgd": 40
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AMBI 1000Base-SX+ mi",
+   "price_sgd": 52
+  },
+  {
+   "category": null,
+   "brand": "Edimax",
+   "product": "Edimax MG-1000AS1I 1000Base-LX min",
+   "price_sgd": 49
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 120 RGB 3pc",
+   "price_sgd": 127
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 120 RGB 3pc",
+   "price_sgd": 127
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 120 RGB 1pc",
+   "price_sgd": 39
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 120 RGB 1pc",
+   "price_sgd": 39
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 120 Single",
+   "price_sgd": 39
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 120 Single",
+   "price_sgd": 39
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 140 Single",
+   "price_sgd": 42
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI UNI FAN SL-INF 140 Single",
+   "price_sgd": 42
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Uni Fan SL 140 2pcs Pack w",
+   "price_sgd": 96
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Uni Fan SL 140 2pcs Pack w",
+   "price_sgd": 96
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN-LI USB 2.0 1 to 3 Port (Type",
+   "price_sgd": 29
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li RB-001 Radiator Offset Mou",
+   "price_sgd": 15
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li GB-001X Anti-Sag Bracket f",
+   "price_sgd": 19
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li A3 left glass panel Black",
+   "price_sgd": 29
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li A3 left glass panel White",
+   "price_sgd": 29
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+   "price_sgd": 99
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+   "price_sgd": 69
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+   "price_sgd": 95
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN LI ADDRESSABLE RGB STRIMER PL",
+   "price_sgd": 89
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN-LI UNI FAN TL L-Connect3 cont",
+   "price_sgd": 49
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN-LI UNI FAN TL L-Connect3 cont",
+   "price_sgd": 49
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "PCI-e 4.0 X16 Riser cable, 200mm /",
+   "price_sgd": 99
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "PCI-e 4.0 X16 Riser cable, 900mm /",
+   "price_sgd": 145
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "PCI-e 4.0 X16 Riser cable, 900mm /",
+   "price_sgd": 145
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian LI A3-mATX Vertical GPU Brack",
+   "price_sgd": 69
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian LI A3-mATX Vertical GPU Brack",
+   "price_sgd": 69
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li PC-O11D Mini Vertical GPU",
+   "price_sgd": 59
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li PC-O11D Mini Vertical GPU",
+   "price_sgd": 59
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li PC-O11D Mini Vertical GPU",
+   "price_sgd": 99
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li PC-O11D Mini Vertical GPU",
+   "price_sgd": 99
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Universal 4-Slots Vertical",
+   "price_sgd": 90
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Universal 4-Slots Vertical",
+   "price_sgd": 90
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li O11D EVO XL Upright GPU Br",
+   "price_sgd": 19
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li O11D EVO XL Upright GPU Br",
+   "price_sgd": 19
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LAN216 FRONT DUST FILTER BLACK / 1",
+   "price_sgd": 12
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LAN216 FRONT DUST FILTER WHITE / 1",
+   "price_sgd": 12
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN-LI Front Mesh Kit for O11D EV",
+   "price_sgd": 35
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "LIAN-LI Front Mesh Kit for O11D EV",
+   "price_sgd": 35
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Upright GPU Kit for O11D E",
+   "price_sgd": 99
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Upright GPU Kit for O11D E",
+   "price_sgd": 99
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Additional I/O Kit for O11",
+   "price_sgd": 32
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Additional I/O Kit for O11",
+   "price_sgd": 32
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Front Mesh Kit for O11D EV",
+   "price_sgd": 28
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Front Mesh Kit for O11D EV",
+   "price_sgd": 28
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Top I/O Kit for O11D EVO B",
+   "price_sgd": 28
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Top I/O Kit for O11D EVO W",
+   "price_sgd": 28
+  },
+  {
+   "category": null,
+   "brand": "Lian Li",
+   "product": "Lian Li Top I/O Kit for O11D EVO G",
+   "price_sgd": 28
+  }
+ ]
+}
