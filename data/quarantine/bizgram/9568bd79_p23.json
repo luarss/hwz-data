@@ -1,0 +1,545 @@
+{
+  "sha256": "9568bd796a0d2484a722824a0b9e5b766edc88769ef339b7490185523efbbb14",
+  "vendor": "bizgram",
+  "page_number": 23,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Kaira Pro - Headset - White Edition - FRML Packaging",
+      "variant": "White Edition",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Huntsman V2 - Optical Gaming Keyboard (Clicky Purple Switch) - US Layout - FRML Packaging",
+      "variant": "Clicky Purple Switch",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.9
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer BlackShark V2 Pro - Wireless Gaming Headset - FRML Packaging",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.9
+    },
+    {
+      "category": null,
+      "brand": "Belkin",
+      "product": "Belkin 108W USB-C CHARGER,GAN,4-PORT,WHT,2M WCH010MYWH",
+      "variant": "2M",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 233.69
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V SFX GOLD 750 FULL MODULAR WHITE PSU",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 233.69
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V SFX GOLD 750 FULL MODULAR WHITE PSU",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 214.13
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V SFX GOLD 850 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 223.91
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V SFX GOLD 750 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 204.36
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V SFX GOLD 650 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 184.8
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V PLATINUM 1300 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 419.47
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V PLATINUM 1000 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 360.8
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V PLATINUM 850 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 311.91
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 850 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 223.91
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 750 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 204.36
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 650 FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 184.8
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 750 FULL MODULAR WHITE PSU",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 214.13
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 650 FULL MODULAR WHITE PSU",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 194.58
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 1250W FULL MODULAR ATX3 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 341.24
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 1050W FULL MODULAR ATX3 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 311.92
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 850W FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 184.8
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 750W FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 165.24
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 650W FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 145.69
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM G800 GOLD NON MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 131.28
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE WHITE 500W 80+ 230v EU PSU V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.11
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MWE WHITE 450W 80+ 230v EU PSU V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.22
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MF120 PRISMATIC 3IN1 ARGB CRYSTAL FAN",
+      "variant": "3in1",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.17
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MF120 PRISMATIC ARGB CRYSTAL FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.17
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN SF360R ARGB FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.22
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF140 HALO ARGB ARGB FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF120 HALO 3IN1 ARGB ARGB FAN - WHITE",
+      "variant": "3in1 White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF120 HALO ARGB FAN - WHITE",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.33
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF120 HALO 3IN1 ARGB FAN",
+      "variant": "3in1",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF120 HALO ARGB FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.33
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MOBIUS 120P ARGB RING BLADE FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 38.11
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 140 PWM ARGB FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.22
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM ARGB FAN - WHITE",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.94
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM ARGB FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.94
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM ARGB 3IN1 WITH CONTROLLER",
+      "variant": "3in1",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 61.44
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM ARGB REVERSE FAN",
+      "variant": "Reverse",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.94
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM ARGB FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.94
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM RGB FAN",
+      "variant": "RGB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.54
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM RED LED FAN",
+      "variant": "Red LED",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.93
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM BLUE FAN",
+      "variant": "Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.93
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM WHITE LED FAN",
+      "variant": "White LED",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.93
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM NON LED FAN",
+      "variant": "Non LED",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.48
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 92 PWM NON LED FAN",
+      "variant": "92mm Non LED",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.76
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 80 PWM NON LED FAN",
+      "variant": "80mm Non LED",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.76
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM A1 GEN 2 ARGB CONTROLLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.96
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM A1 GEN 2 ARGB TUBE SLEEVE FOR AIO COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.22
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM A1 GEN 2 ARGB STRIP 40CM",
+      "variant": "40cm",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.56
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN ARGB & PWM 6 PORTS HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.4
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM UNIVERSAL 1-5 ARGB SPLITTER CABLE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.37
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERACCESSORY - ARGB GPU SUPPORT BRACKET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.4
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM ELV8 ARGB UNIVERSAL GRAPHICS CARD HOLDER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.4
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERACCESSORY RISER CABLE PCI-E 4.0 300MM",
+      "variant": "300mm",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.17
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERACCESSORY RISER CABLE PCI-E 200MM V2",
+      "variant": "200mm V2",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.2
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERLIQUID ML360 SUB-ZERO CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 535.5
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERLIQUID ML360P ARGB CPU COOLER-SILVER",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 310.22
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERLIQUID ML240P MIRAGE ARGB CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 212.44
+    }
+  ],
+  "numeric_tokens_in_source": 251,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 59/251 = 0.24",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": \"Razer\", \"product\": \"Razer Kaira Pro - Headset - White Edition - FRML Packaging\", \"variant\": \"White Edition\", \"price_sgd\": 269.9},\n  {\"category\": null, \"brand\": \"Razer\", \"product\": \"Razer Huntsman V2 - Optical Gaming Keyboard (Clicky Purple Switch) - US Layout - FRML Packaging\", \"variant\": \"Clicky Purple Switch\", \"price_sgd\": 299.9},\n  {\"category\": null, \"brand\": \"Razer\", \"product\": \"Razer BlackShark V2 Pro - Wireless Gaming Headset - FRML Packaging\", \"price_sgd\": 329.9},\n  {\"category\": null, \"brand\": \"Belkin\", \"product\": \"Belkin 108W USB-C CHARGER,GAN,4-PORT,WHT,2M WCH010MYWH\", \"variant\": \"2M\", \"price_sgd\": 233.69},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V SFX GOLD 750 FULL MODULAR WHITE PSU\", \"warranty\": \"10Y\", \"variant\": \"White\", \"price_sgd\": 233.69},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V SFX GOLD 750 FULL MODULAR WHITE PSU\", \"warranty\": \"10Y\", \"variant\": \"White\", \"price_sgd\": 214.13},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V SFX GOLD 850 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 223.91},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V SFX GOLD 750 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 204.36},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V SFX GOLD 650 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 184.8},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V PLATINUM 1300 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 419.47},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V PLATINUM 1000 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 360.8},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V PLATINUM 850 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 311.91},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V GOLD V2 850 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 223.91},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V GOLD V2 750 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 204.36},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V GOLD V2 650 FULL MODULAR PSU\", \"warranty\": \"10Y\", \"price_sgd\": 184.8},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V GOLD V2 750 FULL MODULAR WHITE PSU\", \"warranty\": \"10Y\", \"variant\": \"White\", \"price_sgd\": 214.13},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM V GOLD V2 650 FULL MODULAR WHITE PSU\", \"warranty\": \"10Y\", \"variant\": \"White\", \"price_sgd\": 194.58},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE GOLD V2 1250W FULL MODULAR ATX3 PSU\", \"price_sgd\": 341.24},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE GOLD V2 1050W FULL MODULAR ATX3 PSU\", \"price_sgd\": 311.92},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE GOLD V2 850W FULL MODULAR PSU\", \"warranty\": \"5Y\", \"price_sgd\": 184.8},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE GOLD V2 750W FULL MODULAR PSU\", \"warranty\": \"5Y\", \"price_sgd\": 165.24},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE GOLD V2 650W FULL MODULAR PSU\", \"warranty\": \"5Y\", \"price_sgd\": 145.69},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM G800 GOLD NON MODULAR PSU\", \"warranty\": \"5Y\", \"price_sgd\": 131.28},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE WHITE 500W 80+ 230v EU PSU V2\", \"price_sgd\": 79.11},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MWE WHITE 450W 80+ 230v EU PSU V2\", \"price_sgd\": 70.22},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MF120 PRISMATIC 3IN1 ARGB CRYSTAL FAN\", \"variant\": \"3in1\", \"price_sgd\": 124.17},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MF120 PRISMATIC ARGB CRYSTAL FAN\", \"price_sgd\": 49.17},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN SF360R ARGB FAN\", \"price_sgd\": 69.22},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN MF140 HALO ARGB ARGB FAN\", \"price_sgd\": 35.0},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN MF120 HALO 3IN1 ARGB ARGB FAN - WHITE\", \"variant\": \"3in1 White\", \"price_sgd\": 77.0},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN MF120 HALO ARGB FAN - WHITE\", \"variant\": \"White\", \"price_sgd\": 30.33},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN MF120 HALO 3IN1 ARGB FAN\", \"variant\": \"3in1\", \"price_sgd\": 77.0},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN MF120 HALO ARGB FAN\", \"price_sgd\": 30.33},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MOBIUS 120P ARGB RING BLADE FAN\", \"warranty\": \"5Y\", \"price_sgd\": 38.11},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 140 PWM ARGB FAN\", \"price_sgd\": 27.22},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM ARGB FAN - WHITE\", \"variant\": \"White\", \"price_sgd\": 20.94},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM ARGB FAN\", \"price_sgd\": 20.94},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM ARGB 3IN1 WITH CONTROLLER\", \"variant\": \"3in1\", \"price_sgd\": 61.44},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM ARGB REVERSE FAN\", \"variant\": \"Reverse\", \"price_sgd\": 20.94},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM ARGB FAN\", \"price_sgd\": 20.94},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM RGB FAN\", \"variant\": \"RGB\", \"price_sgd\": 16.54},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM RED LED FAN\", \"variant\": \"Red LED\", \"price_sgd\": 12.93},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM BLUE FAN\", \"variant\": \"Blue\", \"price_sgd\": 12.93},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM WHITE LED FAN\", \"variant\": \"White LED\", \"price_sgd\": 12.93},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 120 PWM NON LED FAN\", \"variant\": \"Non LED\", \"price_sgd\": 11.48},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 92 PWM NON LED FAN\", \"variant\": \"92mm Non LED\", \"price_sgd\": 10.76},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM SICKLEFLOW 80 PWM NON LED FAN\", \"variant\": \"80mm Non LED\", \"price_sgd\": 10.76},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM A1 GEN 2 ARGB CONTROLLER\", \"price_sgd\": 30.96},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM A1 GEN 2 ARGB TUBE SLEEVE FOR AIO COOLER\", \"price_sgd\": 70.22},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM A1 GEN 2 ARGB STRIP 40CM\", \"variant\": \"40cm\", \"price_sgd\": 22.56},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERFAN ARGB & PWM 6 PORTS HUB\", \"price_sgd\": 23.4},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM UNIVERSAL 1-5 ARGB SPLITTER CABLE\", \"price_sgd\": 12.37},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERACCESSORY - ARGB GPU SUPPORT BRACKET\", \"price_sgd\": 38.4},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM ELV8 ARGB UNIVERSAL GRAPHICS CARD HOLDER\", \"price_sgd\": 38.4},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERACCESSORY RISER CABLE PCI-E 4.0 300MM\", \"variant\": \"300mm\", \"price_sgd\": 99.17},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERACCESSORY RISER CABLE PCI-E 200MM V2\", \"variant\": \"200mm V2\", \"price_sgd\": 46.2},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERLIQUID ML360 SUB-ZERO CPU COOLER\", \"price_sgd\": 535.5},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERLIQUID ML360P ARGB CPU COOLER-SILVER\", \"variant\": \"Silver\", \"price_sgd\": 310.22},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"CM MASTERLIQUID ML240P MIRAGE ARGB CPU COOLER\", \"price_sgd\": 212.44}\n]}"
+}
