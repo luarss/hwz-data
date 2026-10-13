@@ -8,7 +8,7 @@ Scrapes the [HardwareZone price lists](https://hardwarezone.com.sg/priceLists/) 
 
 ## Corpus
 
-- 8 vendors: bizgram, dynacore, fuwell, infinity, laser, pc_themes, techdeals, tradepac.
+- 9 vendors: bizgram, dynacore, fuwell, infinity, laser, pc_themes, prime_pc, techdeals, tradepac.
 - Some PDFs carry a usable text layer; others are scanned images and need OCR (tesseract). The layer is detected per page.
 - The same PDF is often re-published under different names, months, or vendors. Files are deduplicated by sha256 before processing.
 

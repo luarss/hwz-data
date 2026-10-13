@@ -11,11 +11,12 @@ VENDORS = (
     "infinity",
     "laser",
     "pc_themes",
+    "prime_pc",
     "techdeals",
     "tradepac",
 )
 
-SCANNED_VENDORS = frozenset({"pc_themes", "tradepac"})
+SCANNED_VENDORS = frozenset({"pc_themes", "prime_pc", "tradepac"})
 MATRIX_VENDORS = frozenset({"bizgram", "dynacore"})
 IMAGE_COVERED_TEXT_VENDORS = frozenset({"dynacore"})
 

@@ -1,0 +1,85 @@
+{
+  "pdf": "downloads/2026-10/prime_pc_1pI2atSUByc-HuyahK-0rAEjR4V7qPl30.pdf",
+  "page_number": 2,
+  "complete": false,
+  "notes": "Scanned page (no text layer). DDR5 desktop kit block only, rows with a visible price in the 32GB/64GB columns; ASK rows skipped. Capacity moved to variant.",
+  "rows": [
+    {
+      "category": "Memory",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB 6000 CL36 Black",
+      "variant": "32GB",
+      "price_sgd": 699
+    },
+    {
+      "category": "Memory",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 Black",
+      "variant": "32GB",
+      "price_sgd": 719
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV BOLT V DDR5 6000 CL30 Charcoal Grey / PURE WHITE",
+      "variant": "32GB",
+      "price_sgd": 678
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV BOLT V DDR5 6000 CL30 Charcoal Grey / PURE WHITE",
+      "variant": "64GB",
+      "price_sgd": 1399
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV BOLT V DDR5 6400 CL30 Charcoal Grey / Pure White",
+      "variant": "32GB",
+      "price_sgd": 688
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV BOLT V DDR5 7200 CL34 Charcoal Grey",
+      "variant": "32GB",
+      "price_sgd": 699
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV CRAS V RGB DDR5 6000 CL30 WHITE OR Black",
+      "variant": "32GB",
+      "price_sgd": 699
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV URBANE V RGB 6000 C28 DDR5 WHITE OR BLACK",
+      "variant": "32GB",
+      "price_sgd": 699
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV CRAS V RGB DDR5 6400 CL32 WHITE OR BLACK",
+      "variant": "32GB",
+      "price_sgd": 719
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV CRAS V RGB DDR5 7200 CL34 Black",
+      "variant": "32GB",
+      "price_sgd": 729
+    },
+    {
+      "category": "Memory",
+      "brand": "KLEVV",
+      "product": "KLEVV FIT V DDR5 6000 CL28 Ceramic White OR BLACK",
+      "variant": "32GB",
+      "price_sgd": 675
+    }
+  ]
+}
