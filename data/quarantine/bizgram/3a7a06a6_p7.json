@@ -1,0 +1,203 @@
+{
+  "sha256": "3a7a06a6484d37d785e84cb8612444cf3416c0fd7d4fa705bd1e0efd6b7dcf40",
+  "vendor": "bizgram",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1128.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 948.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1088.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1348.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1848.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1128.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1298.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1978.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1048.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1628.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1648.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1720.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2323.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2978.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3098.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2138.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 618.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 858.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1198.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    }
+  ],
+  "numeric_tokens_in_source": 83,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 21/83 = 0.25; product_names_sane: 21/21 unknown or short",
+  "raw_response": "{\"rows\": [\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1128},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 948},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1088},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1348},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1848},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1128},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1298},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1978},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1048},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1628},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1648},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1720},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 2323},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 2978},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 3098},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 2138},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 448},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 618},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 858},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1198},\n  {\"product\": \"UNKNOWN\", \"price_sgd\": 1288}\n]}"
+}

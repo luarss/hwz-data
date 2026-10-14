@@ -1,0 +1,536 @@
+{
+  "rows": [
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5070Ti Eagle OC ICE SFF 16GB Triple Fan GDDR7",
+      "price_sgd": 100
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5070Ti Gaming OC Tricom Triple Fan GDDR7",
+      "price_sgd": 117
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5070Ti Aero OC 16GB Triple Fan GDDR7",
+      "price_sgd": 121
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5070Ti Aorus Master 16GB OC Triple Fan GDDR7",
+      "price_sgd": 114
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5080 Gaming OC 16GB Triple Fan GDDR7",
+      "price_sgd": 120
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5080 Aorus Master 16GB OC Triple Fan GDDR7",
+      "price_sgd": 99.5
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5080 Aorus Master ICE 16GB OC Triple Fan GDDR7",
+      "price_sgd": 112
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5090 Aorus Master 32GB OC Triple Fan GDDR7",
+      "price_sgd": 210
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac GT710 2GB DDR3",
+      "price_sgd": 186
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac GT710 ZONE EDITION 2GB DDR3",
+      "price_sgd": 186
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac GT710 1GB LP 2GB GDDR3",
+      "price_sgd": 210
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac GAMING RTX 4060 8GB TWIN EDGE OC",
+      "price_sgd": 110
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac RTX 5070 SOLID",
+      "price_sgd": 28
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac RTX 5070 SOLID OC",
+      "price_sgd": 178
+    },
+    {
+      "brand": "Zotac",
+      "product": "Zotac RTX 5070Ti SOLID OC",
+      "price_sgd": 144
+    },
+    {
+      "brand": "Asrock",
+      "product": "ASRock RX 9070 XT SL White 16GB",
+      "price_sgd": 180
+    },
+    {
+      "brand": "Asus",
+      "product": "ASUS TUF RX 7800XT 016G Triple Fan GDDR6",
+      "price_sgd": 212
+    },
+    {
+      "brand": "Asus",
+      "product": "ASUS TUF-RX7800XT-016G-GAMING",
+      "price_sgd": 119
+    },
+    {
+      "brand": "Asus",
+      "product": "ASUS RX7900XTX TUF GAMING OC 24GB",
+      "price_sgd": 219
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "GIGABYTE RX7900XT 20GB GAMING OC",
+      "price_sgd": 259
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "GIGABYTE RX7900XT 20GB GAMING OC",
+      "price_sgd": 259
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "GIGABYTE RX7900XTX 24GB GAMING OC",
+      "price_sgd": 229
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "GIGABYTE RX7900XTX 24GB AORUS ELITE",
+      "price_sgd": 174
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "GIGABYTE RX7900GRE 16GB",
+      "price_sgd": 179
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte RX9070 Gaming OC 16GB",
+      "price_sgd": 51
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte RX9070XT Gaming OC 16GB",
+      "price_sgd": 148
+    },
+    {
+      "brand": "Gigabyte",
+      "product": "Gigabyte RX9070XT Aorus Elite 16GB",
+      "price_sgd": 148
+    },
+    {
+      "brand": "Powercolor",
+      "product": "POWERCOLOR RX7800XT HELLHOUND 16GB GDDR6",
+      "price_sgd": 111
+    },
+    {
+      "brand": "Powercolor",
+      "product": "POWERCOLOR RX7800XT RED DEVIL 16GB GDDR6",
+      "price_sgd": 146
+    },
+    {
+      "brand": "Powercolor",
+      "product": "POWERCOLOR AMD RED DEVIL RX7900XTX 24G GDDR6",
+      "price_sgd": 180
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PURE RX7900XT 20GB",
+      "price_sgd": 179
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX7700XT 12GB",
+      "price_sgd": 141
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE NITRO+ RX7700XT 12GB",
+      "price_sgd": 148
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE NITRO+ RX7800XT 16GB",
+      "price_sgd": 143
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX7800XT 16GB",
+      "price_sgd": 129
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PURE RX7800XT 16GB",
+      "price_sgd": 123
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE NITRO+ RX7900 GRE GAMING OC 16GB",
+      "price_sgd": 129
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE NITRO+ RX7900XTX 24GB",
+      "price_sgd": 129
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX7900XTX GAMING OC 24GB",
+      "price_sgd": 210
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX 9070 GAMING 16GB",
+      "price_sgd": 210
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PURE RX 9070 GAMING OC 16GB",
+      "price_sgd": 188
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE NITRO+ RX 9070 GAM OC 16G",
+      "price_sgd": 195
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX 9070 XT GAM 16G",
+      "price_sgd": 112
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PURE RX 9070 XT GAM OC 16G",
+      "price_sgd": 111
+    },
+    {
+      "brand": "Sapphire",
+      "product": "SAPPHIRE NITRO+ RX9070XT GAMING OC",
+      "price_sgd": 61
+    },
+    {
+      "brand": "Powercolor",
+      "product": "Powercolor Reaper Radeon RX9070XT 16G",
+      "price_sgd": 88
+    },
+    {
+      "brand": "Powercolor",
+      "product": "Powercolor Hellhound RX9070XT 16G",
+      "price_sgd": 88
+    },
+    {
+      "brand": "Powercolor",
+      "product": "Powercolor Hellhound RX9070 16G",
+      "price_sgd": 94
+    },
+    {
+      "brand": "Nvidia",
+      "product": "NVIDIA QUADRO RTX A2000 16GB GDDR6",
+      "price_sgd": 111
+    },
+    {
+      "brand": "Nvidia",
+      "product": "NVIDIA QUADRO RTX T400 2GB GDDR6",
+      "price_sgd": 33
+    },
+    {
+      "brand": "Nvidia",
+      "product": "NVIDIA QUADRO RTX T400 4GB GDDR6",
+      "price_sgd": 141
+    },
+    {
+      "product": "CORSAIR iCUE 4000D RGB AIRFLOW TG BLACK",
+      "price_sgd": 100
+    },
+    {
+      "product": "CORSAIR iCUE 4000D RGB AIRFLOW TG WHITE",
+      "price_sgd": 171
+    },
+    {
+      "product": "CORSAIR iCUE 4000X RGB TG BLACK",
+      "price_sgd": 275
+    },
+    {
+      "product": "CORSAIR iCUE 4000X RGB TG WHITE",
+      "price_sgd": 275
+    },
+    {
+      "product": "CORSAIR 4000D AIRFLOW TG, BLACK",
+      "price_sgd": 201
+    },
+    {
+      "product": "CORSAIR CARBIDE SERIES 275R AIRFLOW LO WHITE",
+      "price_sgd": 318
+    },
+    {
+      "product": "CORSAIR CARBIDE SERIES 275R TG BLACK",
+      "price_sgd": 106
+    },
+    {
+      "product": "CORSAIR CARBIDE SERIES 275R TG WHITE",
+      "price_sgd": 206
+    },
+    {
+      "product": "CORSAIR iCUE 220T RGB AIRFLOW TG BLACK",
+      "price_sgd": 256
+    },
+    {
+      "product": "CORSAIR iCUE 220T RGB AIRFLOW TG WHITE",
+      "price_sgd": 410
+    },
+    {
+      "product": "CORSAIR CARBIDE SERIES 1000D SUPER TOWER CASE",
+      "price_sgd": 296
+    },
+    {
+      "product": "LIAN LI O11 VISION BLACK",
+      "price_sgd": 149
+    },
+    {
+      "product": "LIAN LI O11 DYNAMIC EVO RGB BLACK",
+      "price_sgd": 118
+    },
+    {
+      "product": "LIAN LI O11 DYNAMIC EVO RGB WHITE",
+      "price_sgd": 247
+    },
+    {
+      "product": "LIAN LI O11 DYNAMIC EVO HARBOR GREY",
+      "price_sgd": 79
+    },
+    {
+      "product": "LIAN LI PC-011 DYNAMIC XL BLACK",
+      "price_sgd": 196
+    },
+    {
+      "product": "LIAN LI PC 011 DYNAMIC XL MATTE",
+      "price_sgd": 334
+    },
+    {
+      "product": "LIAN LI PC 011 DYNAMIC RAZER EDITION",
+      "price_sgd": 401
+    },
+    {
+      "product": "LIAN LI PC 011 DYNAMIC SPACE BLACK",
+      "price_sgd": 78
+    },
+    {
+      "product": "LIAN LI PC 011 DYNAMIC SPACE MATTE",
+      "price_sgd": 441
+    },
+    {
+      "product": "LIAN LI O11 DYNAMIC MINI BLACK",
+      "price_sgd": 111
+    },
+    {
+      "product": "LIAN LI O11 DYNAMIC MINI WHITE",
+      "price_sgd": 67
+    },
+    {
+      "product": "LIAN LI O11 DYNAMIC MINI SNOW",
+      "price_sgd": 59
+    },
+    {
+      "product": "LIAN LI O11 AIR MINI BLACK",
+      "price_sgd": 102
+    },
+    {
+      "product": "LIAN LI O11 AIR MINI MATTE",
+      "price_sgd": 110
+    },
+    {
+      "product": "LIAN LI LANCOOL III RGB BLACK",
+      "price_sgd": 165
+    },
+    {
+      "product": "LIAN LI LANCOOL III RGB WHITE",
+      "price_sgd": 319
+    },
+    {
+      "product": "LIAN LI LANCOOL II MESH C RGB BLACK (WITH TYPE C PORT)",
+      "price_sgd": 449
+    },
+    {
+      "product": "LIAN LI LANCOOL II MESH C RGB SNOW (WITH TYPE C PORT)",
+      "price_sgd": 201
+    },
+    {
+      "product": "LIAN LI LANCOOL II MESH C PERFORMANCE(WITH TYPE C PORT)",
+      "price_sgd": 148
+    },
+    {
+      "product": "LIAN LI LANCOOL 205 BLACK",
+      "price_sgd": 191
+    },
+    {
+      "product": "LIAN LI LANCOOL 216 BLACK RGB",
+      "price_sgd": 365
+    },
+    {
+      "product": "LIAN LI LANCOOL 216 WHITE RGB",
+      "price_sgd": 555
+    },
+    {
+      "product": "LIAN LI A4H20 WITH PCI-E 4.0 RISER BLACK",
+      "price_sgd": 555
+    },
+    {
+      "product": "LIAN LI A4H20 WITH PCI-E 4.0 RISER SILVER",
+      "price_sgd": 70
+    },
+    {
+      "product": "LIAN LI Q58 BLACK WITH PCI-E 4.0 RISER",
+      "price_sgd": 60
+    },
+    {
+      "product": "LIAN LI T1 ALL PORTABLE MINITX - BLACK WITHOUT WINDOW",
+      "price_sgd": 70
+    },
+    {
+      "product": "LIAN LI T1 ALL PORTABLE MINI-ITX SILVER WITHOUT WINDOW",
+      "price_sgd": 158
+    },
+    {
+      "product": "DARKFLASH DK431",
+      "price_sgd": 165
+    },
+    {
+      "product": "DARKFLASH DLM22 MATTE",
+      "price_sgd": 220
+    },
+    {
+      "product": "DARKFLASH DLX21 BLACK",
+      "price_sgd": 410
+    },
+    {
+      "product": "DARKFLASH DLX21 WHITE",
+      "price_sgd": 311
+    },
+    {
+      "product": "DARKFLASH DLH21 PINK",
+      "price_sgd": 411
+    },
+    {
+      "product": "BE QUIET PURE BASE 700 TG BLACK",
+      "price_sgd": 171
+    },
+    {
+      "product": "BE QUIET PURE BASE 500 ATX, SOLID SIDE PANEL BLACK",
+      "price_sgd": 211
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 XL BLACK DARK TINT",
+      "price_sgd": 91
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 BLACK SOLID",
+      "price_sgd": 113
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 BLACK TG LIGHT TINT",
+      "price_sgd": 119
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 GREY TG LIGHT TINT",
+      "price_sgd": 108
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 COMPACT BLACK SOLID",
+      "price_sgd": 120
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 COMPACT WHITE SOLID",
+      "price_sgd": 119
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 COMPACT BLACK TG DARK",
+      "price_sgd": 118
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 COMPACT BLACK TG LIGHT",
+      "price_sgd": 140
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 NANO BLACK SOLID",
+      "price_sgd": 140
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 NANO BLACK TG LIGHT TINT",
+      "price_sgd": 275
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 MINI BLACK SOLID",
+      "price_sgd": 141
+    },
+    {
+      "product": "FRACTAL DESIGN DEFINE 7 MINI BLACK TG LIGHT TINT",
+      "price_sgd": 181
+    },
+    {
+      "product": "FRACTAL DESIGN FRACTAL DESIGN RIDGE BLACK MATTE",
+      "price_sgd": 188
+    },
+    {
+      "product": "FRACTAL DESIGN FRACTAL DESIGN RIDGE WHITE MATTE",
+      "price_sgd": 182
+    },
+    {
+      "product": "FRACTAL DESIGN MESHIFY 2 COMPACT BLACK SOLID",
+      "price_sgd": 181
+    },
+    {
+      "product": "FRACTAL DESIGN MESHIFY 2 COMPACT BLACK TG DARK",
+      "price_sgd": 91
+    },
+    {
+      "product": "FRACTAL DESIGN MESHIFY 2 COMPACT GRAY TG LIGHT",
+      "price_sgd": 113
+    },
+    {
+      "product": "FRACTAL DESIGN MESHIFY 2 COMPACT MATTE TG CLEAR",
+      "price_sgd": 119
+    },
+    {
+      "product": "FRACTAL DESIGN MESHIFY 2 COMPACT WHITE TG CLEAR",
+      "price_sgd": 108
+    },
+    {
+      "product": "FRACTAL DESIGN POP AIR RGB MATTE TG CLEAR TINT",
+      "price_sgd": 120
+    },
+    {
+      "product": "FRACTAL DESIGN POP AIR RGB CYAN CORE TG CLEAR TINT",
+      "price_sgd": 119
+    },
+    {
+      "product": "FRACTAL DESIGN POP AIR RGB MAGENTA CORE TG CLEAR",
+      "price_sgd": 118
+    },
+    {
+      "product": "FRACTAL DESIGN POP AIR RGB GREEN CORE TG CLEAR TINT",
+      "price_sgd": 168
+    },
+    {
+      "product": "FRACTAL DESIGN POP AIR RGB ORANGE CORE TG CLEAR",
+      "product": "FRACTAL DESIGN POP AIR RGB BLACK TG CLEAR TINT",
+      "price_sgd": 140
+    }
+  ]
+}
