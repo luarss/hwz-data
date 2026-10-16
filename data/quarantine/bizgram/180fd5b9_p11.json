@@ -1,0 +1,896 @@
+{
+  "sha256": "180fd5b92d105c1a0dc3c693d80e22d0358ce91aa34cc93fda80523b5e4fc456",
+  "vendor": "bizgram",
+  "page_number": 11,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN RS-232 to RS-485/RS-422 IC485S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "BHR8629EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Humidifier 2 EU BHR6026EU Xiaomi Sport Water Bottle BHR9678GL Redmi Buds 6 Lite Blue BHR8660GLSG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Aten",
+      "product": "Aten VC920 Mini DisplayPort to VGA Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch S3 Silver BHR7873GL Xiaomi Robot Vacuum X20+ UK BHR8125EN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6932554404086",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "BHR9678GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1 year",
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN HDMI Splitter VS182a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6941812757079",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6941812768549",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 579.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN HDMI Splitter VS184a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch S3 Black BHR7874GL Xiaomi Robot Vacuum X20 Pro UK BHR8872EN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6934177748110",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "BHR9973TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1 year",
+      "price_sgd": 51.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 port VGA Splitter VS0102",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6941812757086",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6941812792391",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 639.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB2.0 Extender Cable 5M UE250",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Sliver Case With Gray TPU Strap Xiaomi Robot Vacuum X20 Max UK BHR9217GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6934177715846",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "BHR9250GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1 year",
+      "price_sgd": 51.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB2.0 Extender Cable 12M UE2120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "BHR8034GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "6941812777183",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": "Biostar",
+      "product": "Biostar TB360-BTC Pro 9Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Biostar",
+      "product": "Biostar TZ590-BTC Pro 10Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 366.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Afox H81 Motherboard 4 Gen/Asus H81M-k",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock z87/ Z270M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H310M-DS2 8th and 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock Z490M Pro 4 10th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Intel",
+      "product": "Intel H61 OEM Motherboard 3rd Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus H110M Intel 6th & 7th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H81M-DS2 LGA1150 4th gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus H81M-K 4th Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B460M Gaming HD 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B560 Aorus Pro AX 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Z590 AORUS ULTRA 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 303.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H510M H / H410M H 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus Prime H410M-A 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus TUF Z390-M Gaming Pro 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock Z590 EXTREME WIFI 6E 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 353.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock Z590 Phantom Gaming 4 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus PRIME H510M-A WIFI 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard RGB Hotswap - ACR98 Mini Combo (CS Jelly Blue + Doll of the Princess)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard ACR61 RGB Hotswap - Doll of the Princess (CS Jelly Blue Clicky 40g)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard ACR59 RGB Hotswap - World Tour Tokyo (CS Jelly Pink Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Switch - TTC Demon Ltd. Ed. (10pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Profile - Chocolate (178pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Coiled Cable - Pink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - Dracula Castle (TTC Silver Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - World Tour London (TTC Silver Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - JK Girl (CS Sakura Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Profile - Chicago (158pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Low Profile - Black & Pink (155pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Clear Transparent Keycap Sets (Full Transparent) Green Characters",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC",
+      "brand": "Asus",
+      "product": "Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC",
+      "brand": "Asus",
+      "product": "Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC",
+      "brand": "Asus",
+      "product": "Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC",
+      "brand": "Asus",
+      "product": "Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": "Google",
+      "product": "Google Chromecast 3 HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": "Google",
+      "product": "Google Chromecast 4K with Google TV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": "Microsoft",
+      "product": "Microsoft Wireless Display Adapter V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": "Roku",
+      "product": "Roku Streaming Stick + 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM ERGOSTAND AIR SLIM NOTEBOOK STA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM ERGOSTAND AIR SLIM NOTEBOOK STA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL ERGOSTAND III 4 USB HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL ERGOSTAND LITE W/2 USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL X3 W/20CM BLUE LED FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL i300 BLACK 16CM BLUE LE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL X-SLIM II 20CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL X-LITE II 2 USB HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL L2 W/16CM LED FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1Y",
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL L1 16CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL i100 W/14CM FAN BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL CMC3 W/20CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Ivory) BHR5909GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Midnight Blue) BHR5785GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh 22.5W Lite TH BHR9357TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Magnetic Power Bank 6000mAh TH BHR9077TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh (Integrated Cable) Ice Blue TH BHR9103TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh (Integrated Cable) Tan TH BHR9139TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Tan TH BHR8974TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Blue TH BHR8977TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 18W Power Bank 30000mAh TH BHR9130TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 80W Adaptive Wireless Charging Stand BHR8304GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 50W Wireless Charging Stand Pro BHR7560GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi 20W Wireless Charging Stand GDS4145GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Midnight Black BHR8337GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Glacier Silver BHR8340GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Titan Gray BHR8642GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Mystic Rose BHR8345GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Beige White BHR9441GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Black BHR9444GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Pink BHR9917GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Arctic Blue BHR8346GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    }
+  ],
+  "numeric_tokens_in_source": 256,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 98/256 = 0.38",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": \"ATEN\", \"product\": \"ATEN RS-232 to RS-485/RS-422 IC485S\", \"price_sgd\": 66},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"BHR8629EU\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Humidifier 2 EU BHR6026EU Xiaomi Sport Water Bottle BHR9678GL Redmi Buds 6 Lite Blue BHR8660GLSG\", \"price_sgd\": 229},\n  {\"category\": null, \"brand\": \"Aten\", \"product\": \"Aten VC920 Mini DisplayPort to VGA Adapter\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch S3 Silver BHR7873GL Xiaomi Robot Vacuum X20+ UK BHR8125EN\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6932554404086\", \"price_sgd\": 18.5},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"BHR9678GL\", \"warranty\": \"1 year\", \"price_sgd\": 25},\n  {\"category\": null, \"brand\": \"ATEN\", \"product\": \"ATEN HDMI Splitter VS182a\", \"price_sgd\": 138},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6941812757079\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6941812768549\", \"price_sgd\": 579},\n  {\"category\": null, \"brand\": \"ATEN\", \"product\": \"ATEN HDMI Splitter VS184a\", \"price_sgd\": 245},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch S3 Black BHR7874GL Xiaomi Robot Vacuum X20 Pro UK BHR8872EN\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6934177748110\", \"price_sgd\": 15.9},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"BHR9973TH\", \"warranty\": \"1 year\", \"price_sgd\": 51},\n  {\"category\": null, \"brand\": \"ATEN\", \"product\": \"ATEN 2 port VGA Splitter VS0102\", \"price_sgd\": 112},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6941812757086\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6941812792391\", \"price_sgd\": 639},\n  {\"category\": null, \"brand\": \"ATEN\", \"product\": \"ATEN USB2.0 Extender Cable 5M UE250\", \"price_sgd\": 36},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Sliver Case With Gray TPU Strap Xiaomi Robot Vacuum X20 Max UK BHR9217GB\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6934177715846\", \"price_sgd\": 37},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"BHR9250GL\", \"warranty\": \"1 year\", \"price_sgd\": 51},\n  {\"category\": null, \"brand\": \"ATEN\", \"product\": \"ATEN USB2.0 Extender Cable 12M UE2120\", \"price_sgd\": 90},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"BHR8034GL\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Xiaomi\", \"product\": \"6941812777183\", \"price_sgd\": 729},\n  {\"category\": null, \"brand\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Biostar\", \"product\": \"Biostar TB360-BTC Pro 9Gen Motherboard\", \"price_sgd\": 336},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Biostar\", \"product\": \"Biostar TZ590-BTC Pro 10Gen Motherboard\", \"price_sgd\": 366},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asus\", \"product\": \"Afox H81 Motherboard 4 Gen/Asus H81M-k\", \"price_sgd\": 162},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asrock\", \"product\": \"Asrock z87/ Z270M\", \"price_sgd\": 255},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte H310M-DS2 8th and 9th Gen\", \"price_sgd\": 159},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asrock\", \"product\": \"Asrock Z490M Pro 4 10th Gen\", \"price_sgd\": 329},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Intel\", \"product\": \"Intel H61 OEM Motherboard 3rd Gen\", \"price_sgd\": 109},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus H110M Intel 6th & 7th Gen\", \"price_sgd\": 179},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte H81M-DS2 LGA1150 4th gen\", \"price_sgd\": 162},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus H81M-K 4th Gen Motherboard\", \"price_sgd\": 169},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte B460M Gaming HD 10th/11th\", \"price_sgd\": 219},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte B560 Aorus Pro AX 10th/11th\", \"price_sgd\": 259},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte Z590 AORUS ULTRA 10th/11th\", \"price_sgd\": 303},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte H510M H / H410M H 10th/11th\", \"price_sgd\": 165},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus Prime H410M-A 10th/11th\", \"price_sgd\": 159},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus TUF Z390-M Gaming Pro 9th Gen\", \"price_sgd\": 219},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asrock\", \"product\": \"Asrock Z590 EXTREME WIFI 6E 10th/11th\", \"price_sgd\": 353},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asrock\", \"product\": \"Asrock Z590 Phantom Gaming 4 10th/11th\", \"price_sgd\": 289},\n  {\"category\": \"Intel Motherboard / AMD Motherboard\", \"brand\": \"Asus\", \"product\": \"Asus PRIME H510M-A WIFI 10th/11th\", \"price_sgd\": 192},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keyboard RGB Hotswap - ACR98 Mini Combo (CS Jelly Blue + Doll of the Princess)\", \"price_sgd\": 148},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keyboard ACR61 RGB Hotswap - Doll of the Princess (CS Jelly Blue Clicky 40g)\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keyboard ACR59 RGB Hotswap - World Tour Tokyo (CS Jelly Pink Linear)\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Switch - TTC Demon Ltd. Ed. (10pcs)\", \"price_sgd\": 12},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keycap - ASA Profile - Chocolate (178pcs)\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Coiled Cable - Pink\", \"price_sgd\": 8},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keyboard 5108S RGB - Dracula Castle (TTC Silver Linear)\", \"price_sgd\": 148},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keyboard 5108S RGB - World Tour London (TTC Silver Linear)\", \"price_sgd\": 148},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keyboard 5108S RGB - JK Girl (CS Sakura Linear)\", \"price_sgd\": 136},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keycap - ASA Profile - Chicago (158pcs)\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Keycap - ASA Low Profile - Black & Pink (155pcs)\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"AKKO\", \"product\": \"AKKO Clear Transparent Keycap Sets (Full Transparent) Green Characters\", \"price_sgd\": 35},\n  {\"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC\", \"brand\": \"Asus\", \"product\": \"Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\", \"price_sgd\": 1599},\n  {\"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC\", \"brand\": \"Asus\", \"product\": \"Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\", \"price_sgd\": 1329},\n  {\"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC\", \"brand\": \"Asus\", \"product\": \"Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B\", \"price_sgd\": 569},\n  {\"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC\", \"brand\": \"Asus\", \"product\": \"Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P\", \"price_sgd\": 829},\n  {\"category\": \"Google & Roku & Xioami Products\", \"brand\": \"Google\", \"product\": \"Google Chromecast 3 HDMI\", \"price_sgd\": 85},\n  {\"category\": \"Google & Roku & Xioami Products\", \"brand\": \"Google\", \"product\": \"Google Chromecast 4K with Google TV\", \"price_sgd\": 125},\n  {\"category\": \"Google & Roku & Xioami Products\", \"brand\": \"Microsoft\", \"product\": \"Microsoft Wireless Display Adapter V1\", \"price_sgd\": 199},\n  {\"category\": \"Google & Roku & Xioami Products\", \"brand\": \"Roku\", \"product\": \"Roku Streaming Stick + 4K\", \"price_sgd\": 129},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM ERGOSTAND AIR SLIM NOTEBOOK STA\", \"price_sgd\": 58},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM ERGOSTAND AIR SLIM NOTEBOOK STA\", \"price_sgd\": 58},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL ERGOSTAND III 4 USB HUB\", \"price_sgd\": 74},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL ERGOSTAND LITE W/2 USB\", \"price_sgd\": 49},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL X3 W/20CM BLUE LED FAN\", \"price_sgd\": 49},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL i300 BLACK 16CM BLUE LE\", \"price_sgd\": 33},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL X-SLIM II 20CM FAN\", \"price_sgd\": 33},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL X-LITE II 2 USB HUB\", \"price_sgd\": 33},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL L2 W/16CM LED FAN\", \"warranty\": \"1Y\", \"price_sgd\": 33},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL L1 16CM FAN\", \"price_sgd\": 28},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL i100 W/14CM FAN BLACK\", \"price_sgd\": 24},\n  {\"category\": \"Cooler Master Notebook Cooler Cooling Fan\", \"brand\": \"Cooler Master\", \"product\": \"CM NOTEPAL CMC3 W/20CM FAN\", \"price_sgd\": 20},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Ivory) BHR5909GL\", \"price_sgd\": 52},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Midnight Blue) BHR5785GL\", \"price_sgd\": 52},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Power Bank 10000mAh 22.5W Lite TH BHR9357TH\", \"price_sgd\": 14.5},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Magnetic Power Bank 6000mAh TH BHR9077TH\", \"price_sgd\": 53.9},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Power Bank 10000mAh (Integrated Cable) Ice Blue TH BHR9103TH\", \"price_sgd\": 21.9},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Power Bank 10000mAh (Integrated Cable) Tan TH BHR9139TH\", \"price_sgd\": 21.9},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Tan TH BHR8974TH\", \"price_sgd\": 31.9},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Blue TH BHR8977TH\", \"price_sgd\": 31.9},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 18W Power Bank 30000mAh TH BHR9130TH\", \"price_sgd\": 39.9},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 80W Adaptive Wireless Charging Stand BHR8304GL\", \"price_sgd\": 110},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi 50W Wireless Charging Stand Pro BHR7560GL\", \"price_sgd\": 53},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Mi 20W Wireless Charging Stand GDS4145GL\", \"price_sgd\": 19},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Midnight Black BHR8337GL\", \"price_sgd\": 49},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Glacier Silver BHR8340GL\", \"price_sgd\": 49},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Titan Gray BHR8642GL\", \"price_sgd\": 49},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Mystic Rose BHR8345GL\", \"price_sgd\": 49},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL\", \"price_sgd\": 95},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL\", \"price_sgd\": 95},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL\", \"price_sgd\": 95},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Active Beige White BHR9441GL\", \"price_sgd\": 30},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Active Black BHR9444GL\", \"price_sgd\": 30},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Active Pink BHR9917GL\", \"price_sgd\": 30},\n  {\"category\": \"Xiaomi MI Products / Redmi\", \"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Arctic Blue BHR8346GL\", \"price_sgd\": 49}\n]}"
+}
