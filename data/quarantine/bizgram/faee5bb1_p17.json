@@ -1,0 +1,644 @@
+{
+  "sha256": "faee5bb13a4e5f85f0b0fcfc82c27faeb6e3657788de7b3f7936a96ef5bd2226",
+  "vendor": "bizgram",
+  "page_number": 17,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS PAPER CASSETTE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "STRIX CONTROL CHERRY RGB MX RED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ROG STRIX FUSION 300 PNK EDT 7.1 HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ROG STRIX CONTROL CHERRY RGB MX BROWN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ROG STRIX CONTROL CHERRY RGB MX BLUE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "10/100/1000BASE TX INT.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 455.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "FAXBOARD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1296.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T671400 MAINTENANCE BOX (WF- C878R/879R)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13S210048 Standard Cassette Maintenance Roller",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13S210049 Optional Cassette Maintenance Roller",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01D400 WF-579R Y/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01D300 WF-579R M/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01D200 WF-579R C/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01D100 WF-579R BK/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 591.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01C400 WF-579R Y/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01C300 WF-579R M/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01C200 WF-579R C/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T01C100 WF-579R BK/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 302.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05A100 Hopkins3, BK/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05A200 Hopkins3, C/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05A300 Hopkins3, M/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05A400 Hopkins3, Y/ Standard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05B100 Hopkins3, BK/ Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 493.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05B200 Hopkins3, C/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05B300 Hopkins3, M/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T05B400 Hopkins3, Y/Large",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T973100 Black Standard Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T973200 Cyan Standard Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T973300 Magenta Standard Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T973400 Yellow Standard Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T974100 Black Large Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 495.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T974200 Cyan Large Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T974300 Magenta Large Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C13T974400 Yellow Large Ink Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C11CH605024NTB1 1+4 years Coverplus for WF-C878R (with Option)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1014.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C11CH605022NTB1 1+2 years Coverplus for WF-C878R (with Option)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C11CH355024NTB1 1+4 years Coverplus for WF-C879R (with Option)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1165.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON C11CH355022NTB1 1+2 years Coverplus for WF-C879R (with Option)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 556.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON IC579R3N101 2+3 year Coverplus for WF-C579R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "EPSON IC579R1N101 2+1 year Coverplus for WF-C579R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 3850C003 LV-X350 Compact Projector LCD Fixed Lens Lamp 3500 lumens XGA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 3851C003 LV-WX370 Compact Projector LCD Fixed Lens Lamp 3700 lumens WXGA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 3852C003 LV-WU360 Compact Projector LCD Fixed Lens Lamp 3600 lumens WUXGA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1799.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 2136C003 XEED WUX500ST Compact Short-throw Full HD LCOS Projector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11000.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 1955C003 XEED 4K600STZ LCOS Fixed Lens Laser 6000 lumens 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 1907C001 LV-LP42 LV-X420 / HD420 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 450.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 1035C001 LX-LP02 MW500 / MU500 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 0953C001 LX-LP01 MU700 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2000.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 5322B001 LV-LP34 7490 / 8320 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 5323B001 LV-LP35 7292 / 7290 / 7392 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 5806B001 LV-LP36 8235UST Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 350.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 0030C001 LV-LP37 S300 / X300 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 300.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 0031C001 LV-LP38 X300ST / X320 / X310ST Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 350.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 0119C001 LV-LP39 WX300 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 300.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 0120C001 LV-LP40 WX300ST / WX320 / WX310ST Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 350.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 0740C001 LV-LP41 WX300UST / WX300USTi Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 400.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 2406C001 RS-LP12 WUX7500 / WUX6700 / WUX5800 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 700.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 8377B001 RS-LP08 WX520 / WUX400ST / WUX450 / WX450ST / WUX500ST / WUX500 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 9963B001 RS-LP09 WUX6000/WUX6010 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Canon 2141C001 RS-LP11 WUX6500 Lamps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON SCANNER LiDE 300 ASA 2995C012AA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON SCANNER LiDE 400 ASA 2996C012AA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON SCANNER P-215 II 9705B002",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON SCANNER DR-F120 9017B003",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON IMAGEFORMULA 3258C003AD DR-C225 II",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1562.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON IMAGEFORMULA 0651C003AF DR-C240",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2095.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON IMAGEFORMULA 4044C003AC DR-S150",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2625.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON IMAGEFORMULA 2405C003AE DR-M260",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3474.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON IMAGEFORMULA 1255C003AF ScanFront 400",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8415.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "CANON IMAGEFORMULA 4624B003AJ DR-6030C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8800.0
+    }
+  ],
+  "numeric_tokens_in_source": 272,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 70/272 = 0.26",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"ASUS\", \"product\": \"ASUS PAPER CASSETTE\", \"price_sgd\": 31.00},\n  {\"brand\": \"ASUS\", \"product\": \"STRIX CONTROL CHERRY RGB MX RED\", \"warranty\": \"2Y\", \"price_sgd\": 219.00},\n  {\"brand\": \"ASUS\", \"product\": \"ROG STRIX FUSION 300 PNK EDT 7.1 HEADSET\", \"warranty\": \"2Y\", \"price_sgd\": 219.00},\n  {\"brand\": \"ASUS\", \"product\": \"ROG STRIX CONTROL CHERRY RGB MX BROWN\", \"warranty\": \"2Y\", \"price_sgd\": 219.00},\n  {\"brand\": \"ASUS\", \"product\": \"ROG STRIX CONTROL CHERRY RGB MX BLUE\", \"warranty\": \"2Y\", \"price_sgd\": 219.00},\n  {\"brand\": \"ASUS\", \"product\": \"10/100/1000BASE TX INT.\", \"price_sgd\": 455.00},\n  {\"brand\": \"ASUS\", \"product\": \"FAXBOARD\", \"price_sgd\": 1296.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T671400 MAINTENANCE BOX (WF- C878R/879R)\", \"price_sgd\": 121.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13S210048 Standard Cassette Maintenance Roller\", \"price_sgd\": 68.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13S210049 Optional Cassette Maintenance Roller\", \"price_sgd\": 68.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01D400 WF-579R Y/Large\", \"price_sgd\": 201.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01D300 WF-579R M/Large\", \"price_sgd\": 201.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01D200 WF-579R C/Large\", \"price_sgd\": 201.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01D100 WF-579R BK/Large\", \"price_sgd\": 591.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01C400 WF-579R Y/ Standard\", \"price_sgd\": 131.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01C300 WF-579R M/ Standard\", \"price_sgd\": 131.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01C200 WF-579R C/ Standard\", \"price_sgd\": 131.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T01C100 WF-579R BK/ Standard\", \"price_sgd\": 302.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05A100 Hopkins3, BK/ Standard\", \"price_sgd\": 131.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05A200 Hopkins3, C/ Standard\", \"price_sgd\": 268.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05A300 Hopkins3, M/ Standard\", \"price_sgd\": 268.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05A400 Hopkins3, Y/ Standard\", \"price_sgd\": 268.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05B100 Hopkins3, BK/ Large\", \"price_sgd\": 493.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05B200 Hopkins3, C/Large\", \"price_sgd\": 554.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05B300 Hopkins3, M/Large\", \"price_sgd\": 554.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T05B400 Hopkins3, Y/Large\", \"price_sgd\": 554.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T973100 Black Standard Ink Pack\", \"price_sgd\": 144.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T973200 Cyan Standard Ink Pack\", \"price_sgd\": 268.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T973300 Magenta Standard Ink Pack\", \"price_sgd\": 268.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T973400 Yellow Standard Ink Pack\", \"price_sgd\": 268.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T974100 Black Large Ink Pack\", \"price_sgd\": 495.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T974200 Cyan Large Ink Pack\", \"price_sgd\": 918.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T974300 Magenta Large Ink Pack\", \"price_sgd\": 918.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C13T974400 Yellow Large Ink Pack\", \"price_sgd\": 918.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C11CH605024NTB1 1+4 years Coverplus for WF-C878R (with Option)\", \"price_sgd\": 1014.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C11CH605022NTB1 1+2 years Coverplus for WF-C878R (with Option)\", \"price_sgd\": 479.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C11CH355024NTB1 1+4 years Coverplus for WF-C879R (with Option)\", \"price_sgd\": 1165.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON C11CH355022NTB1 1+2 years Coverplus for WF-C879R (with Option)\", \"price_sgd\": 556.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON IC579R3N101 2+3 year Coverplus for WF-C579R\", \"price_sgd\": 398.00},\n  {\"brand\": \"ASUS\", \"product\": \"EPSON IC579R1N101 2+1 year Coverplus for WF-C579R\", \"price_sgd\": 131.00},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 3850C003 LV-X350 Compact Projector LCD Fixed Lens Lamp 3500 lumens XGA\", \"price_sgd\": 999},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 3851C003 LV-WX370 Compact Projector LCD Fixed Lens Lamp 3700 lumens WXGA\", \"price_sgd\": 1099},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 3852C003 LV-WU360 Compact Projector LCD Fixed Lens Lamp 3600 lumens WUXGA\", \"price_sgd\": 1799},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 2136C003 XEED WUX500ST Compact Short-throw Full HD LCOS Projector\", \"price_sgd\": 11000},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 1955C003 XEED 4K600STZ LCOS Fixed Lens Laser 6000 lumens 4K\", \"price_sgd\": 180},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 1907C001 LV-LP42 LV-X420 / HD420 Lamps\", \"price_sgd\": 450},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 1035C001 LX-LP02 MW500 / MU500 Lamps\", \"price_sgd\": 900},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 0953C001 LX-LP01 MU700 Lamps\", \"price_sgd\": 2000},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 5322B001 LV-LP34 7490 / 8320 Lamps\", \"price_sgd\": 280},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 5323B001 LV-LP35 7292 / 7290 / 7392 Lamps\", \"price_sgd\": 180},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 5806B001 LV-LP36 8235UST Lamps\", \"price_sgd\": 350},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 0030C001 LV-LP37 S300 / X300 Lamps\", \"price_sgd\": 300},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 0031C001 LV-LP38 X300ST / X320 / X310ST Lamps\", \"price_sgd\": 350},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 0119C001 LV-LP39 WX300 Lamps\", \"price_sgd\": 300},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 0120C001 LV-LP40 WX300ST / WX320 / WX310ST Lamps\", \"price_sgd\": 350},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 0740C001 LV-LP41 WX300UST / WX300USTi Lamps\", \"price_sgd\": 400},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 2406C001 RS-LP12 WUX7500 / WUX6700 / WUX5800 Lamps\", \"price_sgd\": 700},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 8377B001 RS-LP08 WX520 / WUX400ST / WUX450 / WX450ST / WUX500ST / WUX500 Lamps\", \"price_sgd\": 550},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 9963B001 RS-LP09 WUX6000/WUX6010 Lamps\", \"price_sgd\": 550},\n  {\"brand\": \"ASUS\", \"product\": \"Canon 2141C001 RS-LP11 WUX6500 Lamps\", \"price_sgd\": 900},\n  {\"brand\": \"ASUS\", \"product\": \"CANON SCANNER LiDE 300 ASA 2995C012AA\", \"price_sgd\": 149},\n  {\"brand\": \"ASUS\", \"product\": \"CANON SCANNER LiDE 400 ASA 2996C012AA\", \"price_sgd\": 189},\n  {\"brand\": \"ASUS\", \"product\": \"CANON SCANNER P-215 II 9705B002\", \"price_sgd\": 459},\n  {\"brand\": \"ASUS\", \"product\": \"CANON SCANNER DR-F120 9017B003\", \"price_sgd\": 689},\n  {\"brand\": \"ASUS\", \"product\": \"CANON IMAGEFORMULA 3258C003AD DR-C225 II\", \"price_sgd\": 1562},\n  {\"brand\": \"ASUS\", \"product\": \"CANON IMAGEFORMULA 0651C003AF DR-C240\", \"price_sgd\": 2095},\n  {\"brand\": \"ASUS\", \"product\": \"CANON IMAGEFORMULA 4044C003AC DR-S150\", \"price_sgd\": 2625},\n  {\"brand\": \"ASUS\", \"product\": \"CANON IMAGEFORMULA 2405C003AE DR-M260\", \"price_sgd\": 3474},\n  {\"brand\": \"ASUS\", \"product\": \"CANON IMAGEFORMULA 1255C003AF ScanFront 400\", \"price_sgd\": 8415},\n  {\"brand\": \"ASUS\", \"product\": \"CANON IMAGEFORMULA 4624B003AJ DR-6030C\", \"price_sgd\": 8800}\n]}"
+}

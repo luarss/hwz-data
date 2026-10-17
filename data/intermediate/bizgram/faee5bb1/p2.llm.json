@@ -1,0 +1,4503 @@
+{
+  "rows": [
+    {
+      "category": null,
+      "brand": "GMKTec",
+      "product": "GMKtec NucBox G5 12G/512G/W11P Intel N100 /2.5G Lan , Wifi 6",
+      "price_sgd": 329
+    },
+    {
+      "category": null,
+      "brand": "GMKTec",
+      "product": "GMKtec NucBox G3 16G/1TB/W11P Intel N100/ 2.5G LAN , Wifi 6",
+      "price_sgd": 419
+    },
+    {
+      "category": null,
+      "brand": "GMKTec",
+      "product": "GMKtec NucBox M3 32G/1TB/W11P Intel Core i5-12450H, 2.5G LAN , Wifi 6",
+      "price_sgd": 749
+    },
+    {
+      "category": null,
+      "brand": "GMKTec",
+      "product": "GMKtec NucBox K7 Plus 32G/1TB/W11P I7-13620H DDR5, Dual 2.5G , Wifi 6",
+      "price_sgd": 949
+    },
+    {
+      "category": null,
+      "brand": "GMKTec",
+      "product": "GMKtec NucBox K8 Plus 16G/1TB/W11P I7-13620H DDR5, Dual 2.5G , Wifi 6",
+      "price_sgd": 969
+    },
+    {
+      "category": null,
+      "brand": "GMKTec",
+      "product": "GMKtec NucBox K9 32G/1TB/W11P / Intel Core Ultra 5 125H DDR5, Dual 2.5G, Wifi 6",
+      "price_sgd": 1099
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte Brix GB-BEi3H-1220 Barebone",
+      "price_sgd": 625
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte Brix GB-BEi5H-1240 Barebone",
+      "price_sgd": 789
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte BRIX GB-BSi7HS-1355 Barebone",
+      "price_sgd": 1115
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte BRIX GB-BSi7HS-1260 Barebone",
+      "price_sgd": 1185
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry Pi4 RPI4 B 4GB Board",
+      "price_sgd": 100
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry Pi4 RPI4 B 8GB Board",
+      "price_sgd": 159
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry RPI5 B 4GB Board",
+      "price_sgd": 169
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry RPI5 B 8GB Board",
+      "price_sgd": 249
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry RPI5 B 16GB Board",
+      "price_sgd": 299
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry PI case / PI USB-C Power/Argon",
+      "price_sgd": 30
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry PI Heatsink",
+      "price_sgd": 20
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": null,
+      "product": "AMD Original CPU AM4+ / Intel CPU Cooler",
+      "price_sgd": 30
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Freezer i35 (Base Model)",
+      "price_sgd": 40
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Freezer i35 ARGB (LGA1700/1200)",
+      "price_sgd": 58
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Freezer 4U-M (SP6 SP3 sTR5 TR4 sWRX8 sTRX4 LGA4677 LGA4189)",
+      "price_sgd": 125
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-240 (Black)",
+      "price_sgd": 113
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-280 (Black)",
+      "price_sgd": 120
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-360 (Black)",
+      "price_sgd": 141
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-420 (Black)",
+      "price_sgd": 185
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-240 ARGB",
+      "price_sgd": 137
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-280 A-RGB",
+      "price_sgd": 139
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-360 ARGB",
+      "price_sgd": 166
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Asus",
+      "product": "Asus Prime LC360 ARGB Cooler",
+      "price_sgd": 189
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Asus",
+      "product": "Asus Ryujin III 360 ARGB Extreme White",
+      "price_sgd": 599
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Asus",
+      "product": "Asus Ryujin III 360 ARGB Extreme Black",
+      "price_sgd": 579
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG RYUJIN III 360 AIO CPU CO",
+      "price_sgd": 466
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG RYUJIN III 240 AIO CPU CO",
+      "price_sgd": 397
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG RYUJIN III 360 ARGB WHITE",
+      "price_sgd": 498
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG RYUJIN III 240 ARGB WHITE",
+      "price_sgd": 423
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG RYUJIN III 240 ARGB AIO C",
+      "price_sgd": 406
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS PROART LC 420 AIO CPU COOLER",
+      "price_sgd": 459
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS RYUO III 360 ARGB WHITE AIO C",
+      "price_sgd": 407
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS RYUO III 240 ARGB WHITE AIO C",
+      "price_sgd": 343
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS RYUO III 360 ARGB AIO CPU",
+      "price_sgd": 395
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS RYUO III 240 ARGB AIO CPU",
+      "price_sgd": 331
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG LC III 360 AIO ( NO ARGB)",
+      "price_sgd": 275
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG LC III 360 ARGB black/white",
+      "price_sgd": 325
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG LC III 240 ARGB black/white",
+      "price_sgd": 250
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX LC II 360 RGB WHITE",
+      "price_sgd": 371
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX LC II 240 RGB WHITE",
+      "price_sgd": 289
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX LC 240 RGB WHITE ED",
+      "price_sgd": 281
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX LC II 360 ARGB AIO",
+      "price_sgd": 295
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX LC II 280 ARGB AIO",
+      "price_sgd": 263
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX LC II 240 ARGB AIO",
+      "price_sgd": 234
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING LC III 360 ARGB AIO",
+      "price_sgd": 365
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING LC II 240 ARGB AIO",
+      "price_sgd": 190
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING LC 240 ARGB",
+      "warranty": "5Y",
+      "price_sgd": 128
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master MLW-D36M-A18PZ-RW MA",
+      "price_sgd": 88
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master MLW-D36M-A18PZ-R1 MA",
+      "price_sgd": 98
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master MLW-D24M-A18PZ-RW MA",
+      "price_sgd": 80
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master MLW-D24M-A18PZ-R1 MA",
+      "price_sgd": 75
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master MAM-D8PN-318PK-R1 MA",
+      "price_sgd": 105
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master RR-D6NA-17PA-R1 HYPE",
+      "price_sgd": 38
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "Cooler Master RR-S4KK-20PA-R1 HYPE",
+      "price_sgd": 45
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair XTM70 Extreme Performance T",
+      "price_sgd": 39
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR A115 High-Performance Tower",
+      "price_sgd": 149
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H100i Elite CAPELLIX X",
+      "price_sgd": 239
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H115i Elite CAPELLIX X",
+      "price_sgd": 265
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H150i Elite CAPELLIX X",
+      "price_sgd": 289
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H100i Elite CAPELLIX X",
+      "price_sgd": 249
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H170i Elite CAPELLIX X",
+      "price_sgd": 339
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE ELITE CPU Cooler LCD DISPLAY",
+      "price_sgd": 149
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE H100i ELITE LCD XT Liq",
+      "price_sgd": 389
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE H150i ELITE LCD XT Liq",
+      "price_sgd": 419
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE H150i ELITE LCD XT Liq",
+      "price_sgd": 429
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE H170i ELITE LCD XT Liq",
+      "price_sgd": 449
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H100i Elite RGB Liquid",
+      "price_sgd": 189
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H115i Elite RGB Liquid",
+      "price_sgd": 219
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H150i Elite RGB Liquid",
+      "price_sgd": 255
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H100i Elite RGB Liquid",
+      "price_sgd": 229
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "Corsair iCUE H150i Elite RGB Liquid",
+      "price_sgd": 265
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H100i RGB Liquid",
+      "price_sgd": 219
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H150i RGB Liquid",
+      "price_sgd": 269
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H100i RGB White L",
+      "price_sgd": 249
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H150i RGB White L",
+      "price_sgd": 289
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H100i LCD Liquid",
+      "price_sgd": 345
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H150i LCD Liquid",
+      "price_sgd": 409
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H150i LCD Liquid",
+      "price_sgd": 415
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK H170i LCD Liquid",
+      "price_sgd": 419
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK TITAN 240 RX RGB",
+      "price_sgd": 249
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK TITAN 360 RX RGB BK",
+      "price_sgd": 299
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK TITAN 240 RX LCD",
+      "price_sgd": 279
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK TITAN 360 RX LCD WH",
+      "price_sgd": 339
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE LINK TITAN 360 RX LCD",
+      "price_sgd": 339
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR NAUTILUS 240 RS Liquid CPU",
+      "price_sgd": 139
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR NAUTILUS 360 RS Liquid CPU",
+      "price_sgd": 149
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR NAUTILUS 240 ARGB, 240mm Ra",
+      "price_sgd": 159
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Corsair",
+      "product": "CORSAIR NAUTILUS 360 ARGB, 360mm Ra",
+      "price_sgd": 189
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM MA624 STEALTH CPU COOLER",
+      "warranty": "5Y",
+      "price_sgd": 149
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM MA612 STEALTH ARGB CPU COOLER (",
+      "price_sgd": 122
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM MA612 STEALTH CPU COOLER",
+      "warranty": "5Y",
+      "price_sgd": 105
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM HYPER 622 HALO ARGB CPU COOLER",
+      "price_sgd": 87
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM HYPER 620S ARGB CPU COOLER",
+      "warranty": "2Y",
+      "price_sgd": 52
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM MASTERLIQUID 360 ATMOS ARGB",
+      "price_sgd": 249
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM MASTERLIQUID 240 ATMOS ARGB",
+      "price_sgd": 189
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Cooler Master",
+      "product": "CM HYPER 212 HALO CPU COOLER",
+      "price_sgd": 78
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool AK400 DIGITAL PRO",
+      "price_sgd": 55
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "DEEPCOOL AK400 PINK LIMITED EDITIO",
+      "price_sgd": 40
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool AK620 DIGITAL",
+      "price_sgd": 103
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool AK620 DIGITAL PRO",
+      "price_sgd": 114
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool AK620 ZERO DARK ZORIA",
+      "price_sgd": 100
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool AK620 DIGITAL White",
+      "price_sgd": 103
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool ASSASSIN IV",
+      "price_sgd": 140
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "DEEPCOOL ASSASSIN IV WHITE",
+      "price_sgd": 140
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool ASSASSIN IVS BK",
+      "price_sgd": 111
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool ASSASSIN IVS WH",
+      "price_sgd": 111
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LD240",
+      "price_sgd": 129
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LD360",
+      "price_sgd": 167
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LD360 WH",
+      "price_sgd": 167
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LE520 WHITE AIO 2 x ARGB",
+      "price_sgd": 100
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LE720 WHITE AIO 3 x ARGB",
+      "price_sgd": 122
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LS520 ARGB 240 AIO BLACK",
+      "price_sgd": 146
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LS520S ZERO DARK",
+      "price_sgd": 111
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LS520 ARGB 240 AIO WHITE",
+      "price_sgd": 146
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LS720S ZERO DARK",
+      "price_sgd": 133
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LT360 ARGB",
+      "price_sgd": 157
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LT360 WH ARGB",
+      "price_sgd": 168
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool LT520",
+      "price_sgd": 134
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool MYSTIQUE 240",
+      "price_sgd": 174
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool MYSTIQUE 360 ARGB",
+      "price_sgd": 230
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Deepcool",
+      "product": "Deepcool MYSTIQUE 360",
+      "price_sgd": 218
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": null,
+      "product": "EKIO EK-AIO 360 D-RGB",
+      "price_sgd": 222
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "EVGA",
+      "product": "EVGA CLC AIO 240mm cooler",
+      "price_sgd": 59
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "EVGA",
+      "product": "EVGA CLC AIO 280mm cooler",
+      "price_sgd": 59
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "EVGA",
+      "product": "EVGA CLC AIO 360mm cooler",
+      "price_sgd": 123
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS WATERFORCE X 240",
+      "price_sgd": 285
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Gigabyte",
+      "product": "Gigabyte ATC800 AORUS CPU COOLER",
+      "price_sgd": 150
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling BLITZ X4",
+      "price_sgd": 22
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling DK 09i - LGA115x/LGA120",
+      "price_sgd": 10
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling DX360 MAX - Black",
+      "price_sgd": 88
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling FROZN A400 BLACK",
+      "price_sgd": 25
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling FROZN A620 BLACK",
+      "price_sgd": 45
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling FROZN A620 PRO SE",
+      "price_sgd": 43
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling FROZN A720 Black",
+      "price_sgd": 66
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling FX240 ARGB - 240m",
+      "price_sgd": 57
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling FX240 INF -",
+      "price_sgd": 63
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling FX240 PRO",
+      "price_sgd": 57
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling FX360 INF - BLACK",
+      "price_sgd": 82
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling FX360 PRO",
+      "price_sgd": 77
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling IS-40X V3 -",
+      "price_sgd": 20
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-COOLING IS-47K AIR COOLER",
+      "price_sgd": 25
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling IS-55 ARGB",
+      "price_sgd": 50
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling IS-55 BLACK",
+      "price_sgd": 40
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling PINKFLOW 240 ARGB V2 (L",
+      "price_sgd": 122
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID Cooling SE 206 XT Black",
+      "price_sgd": 36
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID COOLING SE 914 XT ARGB V2 AIR C",
+      "price_sgd": 37
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-COOLING SE 226 XT ARGB SNOW",
+      "price_sgd": 39
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling Space SL240 XE -",
+      "price_sgd": 129
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling Space SL360 XE -",
+      "price_sgd": 151
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-COOLING ZOOMFLOW 360X ARGB",
+      "price_sgd": 77
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "ID-Cooling",
+      "product": "ID-COOLING ZOOMFLOW 360XT",
+      "price_sgd": 84
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Hydroshift LCD AIO 360TL",
+      "price_sgd": 379
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Hydroshift LCD AIO 360R",
+      "price_sgd": 263
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Hydroshift LCD AIO 360S",
+      "price_sgd": 238
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II LCD AIO 280",
+      "price_sgd": 291
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II LCD AIO 360",
+      "price_sgd": 311
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II LCD AIO 360 SL-INF",
+      "price_sgd": 365
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II Trinity AIO 240",
+      "price_sgd": 170
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II Trinity AIO 240 SL-INF",
+      "price_sgd": 219
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II Trinity AIO 360",
+      "price_sgd": 203
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II Trinity AIO 360 SL-INF",
+      "price_sgd": 255
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Lian Li",
+      "product": "Lian Li Galahad II Trinity Perform",
+      "price_sgd": 230
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "MONTECH",
+      "product": "MONTECH Hyperflow ARGB 360 White",
+      "price_sgd": 140
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-L9a-AMD chromax., Low Profile",
+      "price_sgd": 151
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-L9i chromax.black, Low-Profile",
+      "price_sgd": 151
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-L9x65, Premium Low Profile",
+      "price_sgd": 161
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-L9i-17xx chromax.black,",
+      "price_sgd": 151
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U9 TR4-SP3, Premium Cooler",
+      "price_sgd": 161
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U9S, Premium CPU Cooler",
+      "price_sgd": 141
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-D9L, Premium CPU Cooler",
+      "price_sgd": 140
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U9S chromax.black/Premium",
+      "price_sgd": 150
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-L12S, Premium Low Profile",
+      "price_sgd": 131
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U12A chromax.black, , 120mm",
+      "price_sgd": 232
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U12S Cooler Redux/Chromax",
+      "price_sgd": 161
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U12S SE-AM4, Premium CPU",
+      "price_sgd": 150
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U12S TR4-SP3, Premium-grade",
+      "price_sgd": 150
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-D12L, Low-Height Dual-Tower",
+      "price_sgd": 181
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-C14S, Premium CPU Cooler w",
+      "price_sgd": 222
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U14S, Premium CPU Cooler w",
+      "price_sgd": 160
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-U14S TR4-SP3, Premium",
+      "price_sgd": 201
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-D15 chromax.black, /Premium",
+      "price_sgd": 249
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-D15S chromax.black/Premium",
+      "price_sgd": 191
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-D15 SE-AM4, Premium Dual-T",
+      "price_sgd": 182
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Noctua",
+      "product": "Noctua NH-D15 G Premium",
+      "price_sgd": 228
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken 240 (LCD, Black)",
+      "price_sgd": 190
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "(2023) NZXT Kraken Elite 240 - Black",
+      "price_sgd": 246
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken 360 (LCD, Black)",
+      "price_sgd": 246
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "(2023) NZXT Kraken Elite 360 - Black",
+      "price_sgd": 325
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken 120 (LGA1700/AM5)",
+      "price_sgd": 78
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken 240 RGB (LCD)",
+      "price_sgd": 218
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "(2025) NZXT Kraken ELITE 240 RGB V2 -",
+      "price_sgd": 323
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken 280 RGB (LCD,)",
+      "price_sgd": 185
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "(2023) NZXT Kraken ELITE 280 RGB - White",
+      "price_sgd": 280
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken 360 RGB (LCD)",
+      "price_sgd": 287
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "(2023) NZXT Kraken ELITE 360 RGB - White",
+      "price_sgd": 308
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "(2025) NZXT Kraken ELITE 360 RGB V2",
+      "price_sgd": 390
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken X53 RGB (LGA1700/AM5)",
+      "price_sgd": 101
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "NZXT",
+      "product": "NZXT Kraken Z63 (LGA1700/AM5)",
+      "price_sgd": 283
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Scythe",
+      "product": "SCYTHE GRAND TORNADO 120 PWM 3000",
+      "price_sgd": 29
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Scythe",
+      "product": "Scythe Fuma 3(LGA 1700/AM5 READY",
+      "price_sgd": 79
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Scythe",
+      "product": "SCYTHE MUGEN 6 COOLER",
+      "price_sgd": 65
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Assassin Spirit 120 V",
+      "price_sgd": 55
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Assassin X 120 Refine",
+      "price_sgd": 35
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Assassin X 120 REFINE",
+      "price_sgd": 39
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright AXP-120 X67",
+      "price_sgd": 65
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright AXP-90 X47 Full Copper",
+      "price_sgd": 69
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright AXP-90 X53 Full Copper",
+      "price_sgd": 69
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright AXP-90 X36",
+      "price_sgd": 45
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright AXP-90 X47",
+      "price_sgd": 47
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright AXP-90 X53",
+      "price_sgd": 55
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Aqua Elite v3 ARGB 240",
+      "price_sgd": 79
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Aqua Elite v3 ARGB 360",
+      "price_sgd": 99
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Th Burst Ass 120 SE(X 120 R DIGITAL)",
+      "price_sgd": 39
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Core Vision ARGB 360",
+      "price_sgd": 149
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Elite Vision 360 Argb",
+      "price_sgd": 189
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Frost Spirit 140",
+      "price_sgd": 75
+    },
+    {
+      "category": "CPU Coolers",
+      "brand": "Thermalright",
+      "product": "Thermalright Frozen Notte 240 Argb",
+      "price_sgd": 89
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG THOR 1600 80+ TITANIUM PS",
+      "price_sgd": 989
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Asus",
+      "product": "Asus ROG-THOR-1600T3-GAMING",
+      "price_sgd": 1158
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG THOR 1200 80+ PLATINUM III",
+      "price_sgd": 626
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG THOR 1000W PLATINUM II EV",
+      "price_sgd": 527
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG Strix 1200 80+ PLATINUM",
+      "price_sgd": 425
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG-STRIX-1000G GOLD FULL MOD",
+      "price_sgd": 250
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG-STRIX-850G GOLD FULL MODU",
+      "price_sgd": 293
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG-STRIX-750G GOLD FULL MODU",
+      "price_sgd": 218
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG LOKI SFXL 1200 TITANIUM M",
+      "price_sgd": 445
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG LOKI SFXL 1000 PLATINUM M",
+      "price_sgd": 382
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG LOKI SFXL 750 PLATINUM MO",
+      "price_sgd": 292
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS ROG LOKI SFXL 850 PLATinum",
+      "price_sgd": 357
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING 1200 GOLD FULL MOD",
+      "price_sgd": 365
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING 1000 GOLD FULL MOD",
+      "price_sgd": 278
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING 850 GOLD FULL MODU",
+      "price_sgd": 215
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING 750 GOLD FULL MODU",
+      "price_sgd": 193
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS TUF-GAMING-750B BRONZE PSU",
+      "price_sgd": 149
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "ASUS",
+      "product": "ASUS TUF-GAMING-650B BRONZE PSU",
+      "price_sgd": 125
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Adata",
+      "product": "Adata XPG Core Reactor Gold 750w",
+      "price_sgd": 139
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Adata",
+      "product": "Adata XPG Core Reactor Gold 850w",
+      "price_sgd": 159
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM V1100 SFX PLATINUM FULL MODOLAR",
+      "price_sgd": 426
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM V850 SFX GOLD FULL MODULAR 3.1",
+      "price_sgd": 239
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM V750 SFX GOLD FULL MODULAR 3.1",
+      "price_sgd": 219
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 750 FULL MODULAR PSU",
+      "price_sgd": 193
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM V GOLD V2 650 FULL MODULAR PSU",
+      "price_sgd": 183
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 1250W FULL MODULAR",
+      "price_sgd": 339
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 1050W FULL MODULAR",
+      "price_sgd": 300
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 850W FULL MODULAR P",
+      "price_sgd": 164
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 750W FULL MODULAR P",
+      "price_sgd": 154
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Cooler Master",
+      "product": "CM MWE GOLD V2 650W FULL MODULAR P",
+      "price_sgd": 145
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair AX1600i Digital ATX Power",
+      "price_sgd": 682
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair HXi Series HX1500i Fully M",
+      "price_sgd": 574
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair SF Series™ SF750 — 750 Wat",
+      "price_sgd": 254
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair SF Series™ SF850 — 850 Wat",
+      "price_sgd": 277
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair SF Series™ SF1000 — 1000 W",
+      "price_sgd": 347
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair RMx Series™ RM1000X — 1000",
+      "price_sgd": 277
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR CV Series CV750 80 PLUS Br",
+      "price_sgd": 103
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR CX Series, CX750, 750 watt",
+      "price_sgd": 103
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair SF850L Fully Modular Low-N",
+      "price_sgd": 235
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair SF1000L Fully Modular Low-",
+      "price_sgd": 277
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RMe Series RM650e Fully Mo",
+      "price_sgd": 150
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RMe Series RM750e Fully Mo",
+      "price_sgd": 180
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RMe Series RM850e Fully Mo",
+      "price_sgd": 209
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RMe Series RM1000e Fully M",
+      "price_sgd": 278
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RMx Series RM850x Cybeneti",
+      "price_sgd": 208
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RMx Series RM1000x Cybenet",
+      "price_sgd": 277
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift Series - RM850X",
+      "price_sgd": 226
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift Series - RM1000X",
+      "price_sgd": 296
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift Series - RM1200X",
+      "price_sgd": 342
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RM850x Shift White, 850 Wa",
+      "price_sgd": 226
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RM1000x Shift White, 1000",
+      "price_sgd": 296
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR RM1200x Shift White, 1200",
+      "price_sgd": 342
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair HX1000i Fully Modular Ultr",
+      "price_sgd": 382
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "CORSAIR HX1200i Fully Modular Ultr",
+      "price_sgd": 412
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Corsair",
+      "product": "Corsair HX1500i Fully Modular Ultr",
+      "price_sgd": 580
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Deepcool",
+      "product": "DEEPCOOL PM850D 850W Gold Non-mod",
+      "price_sgd": 129
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Fractal Design",
+      "product": "Fractal Design ION Platinum 660P 660W",
+      "price_sgd": 192
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP HV PRO 550W BRONZE (BULK PACK",
+      "price_sgd": 58
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP HV PRO 85+ 550W. Black cables,",
+      "price_sgd": 58
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP HV PRO 85+ 650W 80PLUS BRONZE",
+      "price_sgd": 67
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP HYDRO PTM PRO 1200W, 80PLUS Pl",
+      "price_sgd": 314
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP Hydro Ti PRO 1000W Full Modula",
+      "price_sgd": 447
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP Dagger Pro 650W 80+ Gold SFX Full",
+      "price_sgd": 147
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP Dagger Pro 850W 80+ Gold SFX Full",
+      "price_sgd": 202
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP VITA GM 1000W 80+ Gold FM ATX3",
+      "price_sgd": 190
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP VITA GD 750W 80+Gold Non Modul",
+      "price_sgd": 106
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP VITA GD 850W 80+Gold Non Modul",
+      "price_sgd": 119
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP VITA GM 850W 80+ Gold FM ATX3.",
+      "price_sgd": 155
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "FSP",
+      "product": "FSP Cannon PRO 2000W (12V-2x6) 80P",
+      "price_sgd": 459
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Gamemax",
+      "product": "Gamemax 500w True ATX PSU",
+      "price_sgd": 57
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP P1000GM",
+      "price_sgd": 270
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP UD1300GM PG5 PCIE5",
+      "price_sgd": 385
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP UD1000GM PG5 PCIE5",
+      "price_sgd": 225
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS GP AP1200PM AORUS",
+      "price_sgd": 384
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Inwin",
+      "product": "Inwin A65 650W Psu",
+      "price_sgd": 90
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge 1200 PSU Gold",
+      "price_sgd": 259
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge 1300 Power supply - plat",
+      "price_sgd": 315
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge 1000 Power supply - gold",
+      "price_sgd": 235
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge 850 PSU(GOLD 175)PLAT",
+      "price_sgd": 195
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Lian Li",
+      "product": "Lian Li SP750 Power Supply - 80 Pl",
+      "price_sgd": 165
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Lian Li",
+      "product": "Lian Li SP850 Power Supply - 80 Pl",
+      "price_sgd": 192
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "MONTECH",
+      "product": "MONTECH AP 650W 80+ PSU",
+      "price_sgd": 75
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "MSI",
+      "product": "MSI MAG A750GL PCIE5",
+      "price_sgd": 158
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "MSI",
+      "product": "MSI MAG A850GL PCIE5",
+      "price_sgd": 188
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "MSI",
+      "product": "MSI MPG A1000G PCIE5",
+      "price_sgd": 295
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "MSI",
+      "product": "MSI MEG Ai1300P PCIE5",
+      "price_sgd": 490
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "NZXT",
+      "product": "NZXT C1000 Gold ATX 3.1 Gen5 Full",
+      "price_sgd": 233
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "NZXT",
+      "product": "NZXT C1200 Gold ATX 3.1 Gen5 Full",
+      "price_sgd": 280
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "NZXT",
+      "product": "NZXT C1500 FM ATX3.1 PSU - Black (",
+      "price_sgd": 482
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "NZXT",
+      "product": "NZXT C850 Gold FM ATX 3.1 PSU - Bl",
+      "price_sgd": 174
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Phanteks",
+      "product": "Phanteks AMP GH 1000W Platinum, AT",
+      "price_sgd": 219
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Phanteks",
+      "product": "Phanteks AMP GH 850W 80+ Gold, ATX",
+      "price_sgd": 195
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Phanteks",
+      "product": "Phanteks AMP GH 750W 80+Gold, ATX",
+      "price_sgd": 159
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-850 (V4)(ATX 3)",
+      "price_sgd": 230
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-1000 (V4)(ATX3)",
+      "price_sgd": 294
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX 750 ATX 3.0 White",
+      "price_sgd": 225
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-850 (V4)(ATX 3) White",
+      "price_sgd": 263
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-1000 (V4)(ATX3) White",
+      "price_sgd": 310
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus SGX-650",
+      "price_sgd": 172
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex GX 750",
+      "price_sgd": 235
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex GX 850",
+      "price_sgd": 288
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex GX 1000",
+      "price_sgd": 335
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex GX 1200",
+      "price_sgd": 383
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX 750",
+      "price_sgd": 291
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX 850",
+      "price_sgd": 332
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX 1000",
+      "price_sgd": 379
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX 1200",
+      "price_sgd": 441
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Prime PX 1600 ATX 3.0",
+      "price_sgd": 647
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Prime TX 1300 ATX 3.0",
+      "price_sgd": 662
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Prime TX 1600 ATX 3.0",
+      "price_sgd": 782
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Seasonic",
+      "product": "Seasonic Prime PX-2200 (ATX 3)",
+      "price_sgd": 799
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone DA1000R GOLD",
+      "price_sgd": 229
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone ET650-HG V1.2 Essential 650W",
+      "price_sgd": 120
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone ET750-HG V1.2 E 750W 80 Plus",
+      "price_sgd": 131
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone ST60F-ES230 Strider Es 600W",
+      "price_sgd": 92
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone ET700 FMod Gold 700w",
+      "price_sgd": 100
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone ST65F-GS V1.1 Strider Gold 650",
+      "price_sgd": 147
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone SX1000-LPT SFX-L 1000W",
+      "price_sgd": 365
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone SX800-LTI SFX-L form",
+      "price_sgd": 265
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone SX700-G SFX Gold",
+      "price_sgd": 196
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone SX500-G SFX Gold",
+      "price_sgd": 123
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone 500w ATX PSU 80+ ET500",
+      "price_sgd": 87
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone 600w ATX PSU 80+",
+      "price_sgd": 95
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone VA650-G 650w Gold PSU",
+      "price_sgd": 98
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone VA750-G 750w Gold PSU",
+      "price_sgd": 109
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone DA750-G Gold PSU 750w",
+      "price_sgd": 129
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone DA750R 750w",
+      "price_sgd": 155
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone DA850R-G 850w",
+      "price_sgd": 165
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone Cybernetics 1000w DA1000r",
+      "price_sgd": 283
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone HELA 850w Platinum ATX3.0",
+      "price_sgd": 263
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone HELA 1200w Platinum ATX3.0",
+      "price_sgd": 289
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone Hela 1300w SST-HA1300R-PM",
+      "price_sgd": 381
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone HELA 2050w Platinum ATX3.0",
+      "price_sgd": 708
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Silverstone",
+      "product": "Silverstone Extreme 850R Platinum",
+      "price_sgd": 354
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Superflower LEADEX VI Plat PRO 1000W",
+      "price_sgd": 229
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Superflower Leadex Platinum SE 1200W",
+      "price_sgd": 299
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Superflower Leadex Platinum 1600W",
+      "price_sgd": 499
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Superflower Leadex Titanium 1600W",
+      "price_sgd": 549
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Superflower Leadex Platinum 2000W",
+      "price_sgd": 549
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Super Flower Leadex III Gold 850W",
+      "price_sgd": 149
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Super Flower",
+      "product": "Superflower LEADEX VI Plat PRO 850W",
+      "price_sgd": 169
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Thermalright",
+      "product": "Thermlright SFX 650W 80+ Gold Full Mod",
+      "price_sgd": 138
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Thermalright",
+      "product": "Thermlright SFX 850W 80+ Gold Full Mod",
+      "price_sgd": 169
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Thermalright",
+      "product": "Thermlright TG 650W 80+ Gold Full Modular",
+      "price_sgd": 109
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Thermalright",
+      "product": "Thermlright TG 850W 80+ Gold Full Modular",
+      "price_sgd": 130
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": "Thermalright",
+      "product": "Thermlright TP 1650W 80+ Plat Full Mod",
+      "price_sgd": 349
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": null,
+      "product": "Vios SFX 450w / iCute 500w /Gamemax",
+      "price_sgd": 56
+    },
+    {
+      "category": "PSU / SMPS / Power Supply by Bizgram",
+      "brand": null,
+      "product": "Xigmatek X-Power 600W / EVGA 600w",
+      "price_sgd": 68
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! Pure Base 500 Solid Panel, Black",
+      "price_sgd": 102
+    },
+    {
+      "category": null,
+      "brand": "MONTECH",
+      "product": "MONTECH XR Black",
+      "price_sgd": 72
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT Sentry Mix 2, 6 channel fan c",
+      "price_sgd": 8
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! Pure Base 500 TG Black",
+      "price_sgd": 119
+    },
+    {
+      "category": null,
+      "brand": "MONTECH",
+      "product": "MONTECH XR White",
+      "price_sgd": 79
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT F140 RGB Core",
+      "price_sgd": 26
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! Pure Base 600 TG Black",
+      "price_sgd": 140
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG Vampiric 010X",
+      "price_sgd": 109
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT F140 RGB Duo -",
+      "price_sgd": 36
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM COSMOS C700M ARGB OWER WITH T.G",
+      "price_sgd": 654
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG FORGE 112R",
+      "price_sgd": 91
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT RGB and Fan Controller v1",
+      "price_sgd": 28
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM HAF700 ARGB TOWER WITH T.G",
+      "price_sgd": 373
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG GUNGNIR 110R WHITE",
+      "price_sgd": 164
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT RGB & Fan Controller V2",
+      "price_sgd": 39
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM HAF500 ARGB CASE WITH T.G",
+      "price_sgd": 186
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG VAMPIRIC 300R",
+      "price_sgd": 158
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT Internal Usb Hub v3.0",
+      "price_sgd": 25
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERCASE H500M ARGB CASE WITH",
+      "price_sgd": 280
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H5 Elite (2022) -",
+      "price_sgd": 140
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT Wired USB Microphone Black",
+      "price_sgd": 176
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX CM694 ATX CASE WITH T",
+      "price_sgd": 177
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H3 Flow (2025)",
+      "price_sgd": 89
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT Puck",
+      "price_sgd": 17
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX TD500 V2 MESH ARGB W",
+      "price_sgd": 159
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H5 Flow RGB (2022) -",
+      "price_sgd": 112
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "G12 AIO Bracket",
+      "price_sgd": 17
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX TD300 MESH ARGB m-ATX",
+      "price_sgd": 114
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H5 Flow (2024)",
+      "price_sgd": 101
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks T30 120 PWM Triple Premium",
+      "price_sgd": 134
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX NR600P ATX CASE WITH",
+      "price_sgd": 186
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H6 Flow -",
+      "price_sgd": 140
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Digital RGB LED Strip Combo Set",
+      "price_sgd": 47
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX NR400 m-ATX CASE WITH",
+      "price_sgd": 96
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H6 Flow RGB -",
+      "price_sgd": 174
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Digital RGB Starter Kit",
+      "price_sgd": 67
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX NR200 SFF m-ITX CASE",
+      "price_sgd": 95
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H7 (2022)",
+      "price_sgd": 111
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks PCIE Extension Cable kit 500m",
+      "price_sgd": 46
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX NR200P SFF m-ITX CASE",
+      "price_sgd": 135
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H7 Elite (2022) -",
+      "price_sgd": 146
+    },
+    {
+      "category": null,
+      "brand": "Scythe",
+      "product": "Scythe Kaze Flex RGB, 12cm, PWM, Aurasyn",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX MB600L V2 ATX CASE WI",
+      "price_sgd": 70
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H7 Flow (2022)",
+      "price_sgd": 127
+    },
+    {
+      "category": null,
+      "brand": "Scythe",
+      "product": "SCYTHE WONDER TORNADO 120",
+      "price_sgd": 18
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX MB530 ARGB ATX CASE W",
+      "price_sgd": 149
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H7 Flow (2024) -",
+      "price_sgd": 167
+    },
+    {
+      "category": null,
+      "brand": "TRYX",
+      "product": "TRYX ROTA PRO 120mm Performance F",
+      "price_sgd": 35
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX 520 MESH ATX CASE SAK",
+      "price_sgd": 131
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H7 Flow RGB (2024) -",
+      "price_sgd": 195
+    },
+    {
+      "category": null,
+      "brand": "TRYX",
+      "product": "TRYX ROTA PRO 120mm Performance F",
+      "price_sgd": 35
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM CMP520 MESH ARGB ARGB ATX CASE",
+      "price_sgd": 87
+    },
+    {
+      "category": null,
+      "brand": "HAVN",
+      "product": "HAVN HS 420 Base Hybrod Case",
+      "price_sgd": 235
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Flex PSU Extension Cable Set Kaze",
+      "price_sgd": 27
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM CMP320 MESH ARGB m-ATX CASE - 3",
+      "price_sgd": 78
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H9 Flow RGB (2025)",
+      "price_sgd": 259
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware PCIE Gen 4.0 Riser Cable 20cm",
+      "price_sgd": 61
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM ELITE 502 ATX CASE",
+      "price_sgd": 89
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks NV9 Case,, DRGB,",
+      "price_sgd": 325
+    },
+    {
+      "category": null,
+      "brand": "Thermalright",
+      "product": "Thermalright C12C 12cm ARGB 3 fan pack",
+      "price_sgd": 25
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM ELITE 300 m-ATX CASE WITH ODD",
+      "price_sgd": 61
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks NV7 Case,, DRGB,",
+      "price_sgd": 295
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Prisma AL-12 ARGB PWM Fan - Single Pack",
+      "price_sgd": 36
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM QUBE 500 ATX CASE WITH T.G - WH",
+      "price_sgd": 114
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks NV5 Case,, DRGB,",
+      "price_sgd": 155
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Venturi HP-12 PWM Fan",
+      "price_sgd": 34
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERBOX Q300L V2 m-ATX CASE",
+      "price_sgd": 70
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Polartherm X-10 2g",
+      "price_sgd": 9
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM nCore 100 MAX PSU 280MM Bronze",
+      "price_sgd": 549
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Polartherm X-10 5g",
+      "price_sgd": 12
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM ncore AIR ITX Case",
+      "price_sgd": 245
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Polartherm X-10 10g",
+      "price_sgd": 19
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Obsidian 1000D Case",
+      "price_sgd": 695
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Polartherm X-8 2g",
+      "price_sgd": 7
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 5000X RGB TG MT Case, Whit",
+      "price_sgd": 257
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Polartherm X-8 5g",
+      "price_sgd": 10
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 5000X RGB Airflow TG MT Ca",
+      "price_sgd": 334
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Polartherm X-8 10g",
+      "price_sgd": 15
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Enthoo 719 Full tower cas",
+      "price_sgd": 299
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Liquid Metal Appli",
+      "price_sgd": 10
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Enthoo Pro 2 Server Editi",
+      "price_sgd": 249
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Conductonaut - 1 G",
+      "price_sgd": 25
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Enthoo Pro 2 Full Tower C",
+      "price_sgd": 219
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Conductonaut Extre",
+      "price_sgd": 29
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Enthoo Pro Black Full Tow",
+      "price_sgd": 169
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Contact Sealing Fr",
+      "price_sgd": 39
+    },
+    {
+      "category": null,
+      "brand": "Phanteks",
+      "product": "Phanteks Eclipse G500A ATX Case, T",
+      "price_sgd": 229
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Cleaning Wipes",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "Silverstone",
+      "product": "Silverstone Fara H1M Pro",
+      "price_sgd": 71
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Kryonaut - 1 Gramm",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "Silverstone",
+      "product": "Silverstone CS381 Server Storage Case",
+      "price_sgd": 496
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Kryonaut - 5.55 Gr",
+      "price_sgd": 35
+    },
+    {
+      "category": null,
+      "brand": "Silverstone",
+      "product": "Silverstone RM400 4U RACKMOUNT",
+      "price_sgd": 299
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Kryonaut - 11.1 Gr",
+      "price_sgd": 49
+    },
+    {
+      "category": null,
+      "brand": "Silverstone",
+      "product": "Silverstone ALTA G1M Micro Atx Chasis",
+      "price_sgd": 191
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Kryonaut 10ml / 37",
+      "price_sgd": 119
+    },
+    {
+      "category": null,
+      "brand": "Silverstone",
+      "product": "Silverstone SST-FA312Z Matx Case",
+      "price_sgd": 90
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly Kryonaut Extreme -",
+      "price_sgd": 29
+    },
+    {
+      "category": null,
+      "brand": "Silverstone",
+      "product": "Silverstone SST-FA512Z Matx Case",
+      "price_sgd": 110
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly KryoSheet - 33x33",
+      "price_sgd": 32
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARC ARGB 4F - Omni Link",
+      "price_sgd": 75
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly KryoSheet - 38x38",
+      "price_sgd": 32
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARC M ARGB - White",
+      "price_sgd": 63
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly M.2 SSD Cooler (PS",
+      "price_sgd": 29
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Core Mini w/ 250W PSU",
+      "price_sgd": 55
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": null,
+      "product": "Thermal Grizzly PhaseSheet 50x 40x",
+      "price_sgd": 20
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Fusion 2 - Black",
+      "price_sgd": 71
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "Cooler Master",
+      "product": "CoolerMaster High Performance",
+      "price_sgd": 30
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Fusion 2 - White",
+      "price_sgd": 81
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "Cooler Master",
+      "product": "Coolermaster Mastergel",
+      "price_sgd": 23
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Infinity M ARGB x3 -",
+      "price_sgd": 69
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "Cooler Master",
+      "product": "Cooler Master Cryofuze Thermal Grease",
+      "price_sgd": 15
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Infinity M2 ARGB x3 - Blac",
+      "price_sgd": 55
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "Noctua",
+      "product": "Noctua NT-H1 3.5G Thermal paste",
+      "price_sgd": 37
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus Air Steel Black",
+      "price_sgd": 52
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "Arctic",
+      "product": "Arctic MX-4 Thermal Paste Tube 4 gram",
+      "price_sgd": 10
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus Air TG Black",
+      "price_sgd": 55
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "Arctic",
+      "product": "Arctic MX-4 Thermal Paste Tube 8 gram",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Timber ATX TG w/ 4 Fans",
+      "price_sgd": 69
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "ARCTIC",
+      "product": "ARCTIC MX-6 Thermal Paste 2gm",
+      "price_sgd": 10
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Timer M ATX with Fan",
+      "price_sgd": 69
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "ARCTIC",
+      "product": "ARCTIC MX-6 Thermal Paste 4gm",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VXL EVO ARGB x4 -",
+      "price_sgd": 104
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "ARCTIC",
+      "product": "ARCTIC MX-6 Thermal Paste 4gm + 6 wipes",
+      "price_sgd": 19
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VXM Evo - Black",
+      "price_sgd": 58
+    },
+    {
+      "category": "Thermal Paste & Thermal Pad",
+      "brand": "ARCTIC",
+      "product": "ARCTIC MX-6 Thermal Paste 8gm",
+      "price_sgd": 23
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VX Trinity M ARGB 6F - Omn",
+      "price_sgd": 75
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Trend Micro",
+      "product": "Trend Micro Internet Security 2024-2025",
+      "price_sgd": 6
+    },
+    {
+      "category": null,
+      "brand": "Tecgear",
+      "product": "Tecgear Core Slim 250W SFF Case",
+      "price_sgd": 60
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Mcafee",
+      "product": "Mcafee Internet Security 1 User 1 Year",
+      "price_sgd": 15
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "LUCA L70 Midtower Case",
+      "price_sgd": 329
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Mcafee",
+      "product": "Mcafee Internet Security 1 User 3 Year",
+      "price_sgd": 28
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Norton",
+      "product": "Norton 360 Standard 2024 1 Year 1 Device",
+      "price_sgd": 49
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Norton",
+      "product": "Norton 360 Premium 2024 1-Year 5 Device",
+      "price_sgd": 79
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Norton",
+      "product": "Norton 360 Premium 2024 1-Year 10device",
+      "price_sgd": 99
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Symantec",
+      "product": "Symantec Endpoint Security 14 = 5 user",
+      "price_sgd": 269
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Symantec",
+      "product": "Symantec Endpoint Security 14 = 10 user",
+      "price_sgd": 549
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Symantec",
+      "product": "Symantec Endpoint Security 14 = 20 user",
+      "price_sgd": 1199
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "brand": "Symantec",
+      "product": "Symantec Endpoint Security 14 = 50 user",
+      "price_sgd": 2999
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Windows 11 Home 64Bit DVD",
+      "price_sgd": 162
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Windows 11 Professional 64bit DVD",
+      "price_sgd": 225
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Windows 10 Home 64 Bit DVD",
+      "price_sgd": 149
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Windows 10 Professional 64 Bit",
+      "price_sgd": 269
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Windows 7 Professional 64 Bit / 32 Bit",
+      "price_sgd": 259
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Windows 8 Professional 64 Bit / 32 Bit",
+      "price_sgd": 199
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office Home 2024",
+      "price_sgd": 219
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office Home and Business 2024",
+      "price_sgd": 318
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office 365 Personal 1 Device",
+      "price_sgd": 138
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office 365 Family 6 Device",
+      "price_sgd": 185
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office Home & Student 2019",
+      "price_sgd": 215
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office Home & Business 2019",
+      "price_sgd": 325
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office Home & Student 2021",
+      "price_sgd": 228
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Office Home & Business 2021",
+      "price_sgd": 375
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Server Standard 2022 OEM",
+      "price_sgd": 1345
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft 5clt User CAL Standard",
+      "price_sgd": 341
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft Standard Svr r2016/19/16/12",
+      "price_sgd": 1386
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft SQL Server Standard 2019 +5Cl",
+      "price_sgd": 4520
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "brand": "Microsoft",
+      "product": "Microsoft SQL Server Standard 2022",
+      "price_sgd": 2450
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Yubi Key 5C NFC Key USB-C Yubico",
+      "price_sgd": 165
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Power PDF 5 - Standard, ESD Download",
+      "price_sgd": 189
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! SILENT WINGS 4 120mm PWM high",
+      "price_sgd": 32
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! SILENT WINGS 4 140mm PWM high",
+      "price_sgd": 33
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! SILENT WINGS PRO 4 120mm PWM",
+      "price_sgd": 41
+    },
+    {
+      "category": null,
+      "brand": "be quiet!",
+      "product": "be quiet! SILENT WINGS PRO 4 140mm PWM",
+      "price_sgd": 42
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE LINK QX120 RGB, 120mm",
+      "price_sgd": 63
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE LINK QX120 RGB, 120mm",
+      "price_sgd": 183
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE AF120 RGB SLIM, Fluid",
+      "price_sgd": 37
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE AF120 RGB SLIM, Fluid",
+      "price_sgd": 84
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair ML120 RGB ELITE, 120mm Magn",
+      "price_sgd": 138
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair ML120 RGB ELITE, 120mm Magn",
+      "price_sgd": 42
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE SP120 RGB ELITE Perfor",
+      "price_sgd": 45
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair QL , QL120 RGB, 120mm",
+      "price_sgd": 43
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair QL , QL120 RGB, 120mm",
+      "price_sgd": 138
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair QL , QL140 RGB, 140mm",
+      "price_sgd": 116
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair QL140 RGB, 140mm RGB LED Fan",
+      "price_sgd": 50
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair LL120 RGB 120mm Dual Light",
+      "price_sgd": 143
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair LL120 RGB 120mm Dual Light",
+      "price_sgd": 42
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Commander PRO Smart RGB Lig",
+      "price_sgd": 85
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE COMMANDER CORE XT Smar",
+      "price_sgd": 72
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Lighting Node PRO",
+      "price_sgd": 72
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Premium PCIe 4.0 ×16 Extens",
+      "price_sgd": 94
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Air Duster 400ml",
+      "price_sgd": 12
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic 10 PWM Fan Hub",
+      "price_sgd": 20
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic P12 / F12 120mm Fan, PWM",
+      "price_sgd": 13
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic P14 / F14 140mm Fan, PWM",
+      "price_sgd": 18
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic P12 Slim 120mm Fan, PWM",
+      "price_sgd": 17
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic BioniX P120 A-RGB",
+      "price_sgd": 41
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic BioniX P120 A-RGB 3Fan+1Hub",
+      "price_sgd": 112
+    },
+    {
+      "category": null,
+      "brand": "Arctic",
+      "product": "Arctic F9 92mm Fan, / F8 80mm Fan",
+      "price_sgd": 12
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Artic P12 MAX / P14 MAX",
+      "price_sgd": 20
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF TF120 ARGB Single Fan (XF120)",
+      "price_sgd": 40
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG Herculx Graphics Card Holder",
+      "price_sgd": 70
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": null,
+      "product": "Portable 15.6inch Portable Monitor USB-C",
+      "price_sgd": 425
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": null,
+      "product": "Portable 17inch Portable Monitor",
+      "price_sgd": 657
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "AOC",
+      "product": "AOC E1659FWU 15.6” USB",
+      "price_sgd": 179
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "AOC",
+      "product": "AOC I1601FWUX 15.6” USB-C",
+      "price_sgd": 259
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "AOC",
+      "product": "AOC 16T3E USB-C FHD IPS",
+      "price_sgd": 258
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "ASUS",
+      "product": "ASUS 17.3” ZENSCREEN FOLD OLED QHD PORTABLE MONITOR MQ17QH",
+      "price_sgd": 3699
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MS27UC Smart 4K 27” USB-C Spk",
+      "price_sgd": 649
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB14AC Flat 1920x1080 60Hz",
+      "price_sgd": 309
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB165B Flat 1366x768 60Hz",
+      "price_sgd": 182
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB166B Flat 1920x1080 60Hz",
+      "price_sgd": 218
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB166C Flat 1920x1080 60Hz",
+      "price_sgd": 227
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB169CK Zenscreen USB C HDMI",
+      "price_sgd": 239
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB166CR Flat 1920x1080 60Hz",
+      "price_sgd": 245
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16ACV Flat 1920x1080 60Hz",
+      "price_sgd": 254
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AHV",
+      "price_sgd": 273
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AHG Flat 1920x1080 144Hz",
+      "price_sgd": 427
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AHT Flat 1920x1080 60Hz",
+      "price_sgd": 438
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AMT Flat 1920x1080 60Hz",
+      "price_sgd": 509
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AWP Flat 1920x1080 60Hz",
+      "price_sgd": 736
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16QHG Flat 2560x1600 120Hz",
+      "price_sgd": 654
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB229CF",
+      "price_sgd": 427
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB249C Flat 1920x1080 75Hz",
+      "price_sgd": 539
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MQ13AH Flat 1920x1080 60Hz",
+      "price_sgd": 509
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MQ16AH Flat 1920x1080 60Hz",
+      "price_sgd": 618
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus XG16AHP-W Flat 1920x1080 144Hz",
+      "price_sgd": 752
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus XG17AHPE Flat 1920x1080 240Hz",
+      "price_sgd": 790
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus XG17AHP Flat 1920x1080 240Hz",
+      "price_sgd": 917
+    },
+    {
+      "category": null,
+      "brand": "Viewsonic",
+      "product": "Viewsonic VA1655 15.6” LED BackLight",
+      "price_sgd": 245
+    },
+    {
+      "category": null,
+      "brand": "Viewsonic",
+      "product": "Viewsonic VG1655 15.6” LED BackLight",
+      "price_sgd": 389
+    },
+    {
+      "category": null,
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD1655 Touch Screen",
+      "price_sgd": 507
+    },
+    {
+      "category": null,
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD1630-3 Touch Screen",
+      "price_sgd": 466
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MP161 15.6 Portable Monitor",
+      "price_sgd": 263
+    },
+    {
+      "category": null,
+      "brand": "LG",
+      "product": "LG 16MR70 16-inch Portable Monitor View+",
+      "price_sgd": 489
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CCTV Monitor BNC RGB 17” Inch AV",
+      "price_sgd": 342
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CCTV Monitor BNC RGB 19” Inch AV",
+      "price_sgd": 477
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CCTV Monitor BNC RGB 21” Inch AV",
+      "price_sgd": 612
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer EA220Q 21.5” Monitor HDMI",
+      "price_sgd": 119
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer 19.5 (20inch) HDMI VGA Monitor",
+      "price_sgd": 169
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer K273 - 27” FHD IPS (FREESYNC",
+      "price_sgd": 154
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer SA242Y 24” Monitor HDMI Full HD",
+      "price_sgd": 149
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer VG273E Nitro 27-Inch FHD",
+      "price_sgd": 173
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer K222HQL - 21.5”FHD (TN) MON",
+      "price_sgd": 149
+    },
+    {
+      "category": null,
+      "brand": "Acer",
+      "product": "Acer CB272 - 27” FHD IPS (75HZ/FR",
+      "price_sgd": 232
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT Sentry Mesh 5 channel 30w Fan",
+      "price_sgd": 8
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GEFORCE RTX NVLINK 4 AURA",
+      "price_sgd": 154
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUG GAMING TF120 ARGB 3IN1 FA",
+      "price_sgd": 80
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING TF120 ARGB FAN - W",
+      "price_sgd": 28
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING TF120 ARGB 3IN1 FA",
+      "price_sgd": 77
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX XF120 PWN FAN",
+      "warranty": "5Y",
+      "price_sgd": 30
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus Wingwall Holder",
+      "price_sgd": 103
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus Thunderbolt 4 card (TB3 Card 155)",
+      "price_sgd": 206
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TPM Module for Windows 11 B365/360",
+      "price_sgd": 81
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF140 HALO ARGB FAN V",
+      "price_sgd": 30
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF120 HALO 3IN1 ARGB",
+      "price_sgd": 76
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERFAN MF120 HALO ARGB FAN (",
+      "price_sgd": 30
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MOBIUS 120 OC RING BLADE FAN (",
+      "price_sgd": 49
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MOBIUS 120P ARGB RING BLADE FAN",
+      "price_sgd": 38
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM ARGB FAN - W",
+      "price_sgd": 21
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 ARGB 3IN1 WITH C",
+      "price_sgd": 69
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM LED FAN",
+      "price_sgd": 14
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 120 PWM NON LED FAN",
+      "price_sgd": 12
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM SICKLEFLOW 80mm and 92mm",
+      "price_sgd": 11
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERACCESSORY GEM UNIVERSAL M",
+      "price_sgd": 49
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM ORACLE AIR NVME M.2 SSD ALUMINU",
+      "price_sgd": 65
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM UNIVERSAL 1-5 ARGB SPLITTER CAB",
+      "price_sgd": 12
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERACCESSORY - ARGB GPU SUP",
+      "price_sgd": 38
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM VERTICAL GPU HOLDER PCI-E 4.0 R",
+      "price_sgd": 107
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "CM MASTERACCESSORY RISER CABLE PCI",
+      "price_sgd": 98
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Commander PRO Smart RGB Light",
+      "price_sgd": 92
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Commander PRO XT",
+      "price_sgd": 84
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 12+4 12VHPWR Gen5 Type-4",
+      "price_sgd": 29
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair RGB LED Lighting PRO Expansion",
+      "price_sgd": 71
+    },
+    {
+      "category": null,
+      "brand": "darkFlash",
+      "product": "DarkFlash INF8 5in1 FAN PACK",
+      "price_sgd": 45
+    },
+    {
+      "category": null,
+      "brand": "darkFlash",
+      "product": "darkFlash C6 3in1 fan pack",
+      "price_sgd": 25
+    },
+    {
+      "category": null,
+      "brand": "Deepcool",
+      "product": "Deepcool CF120+, 3 x 12cm PWM ARGB",
+      "price_sgd": 53
+    },
+    {
+      "category": null,
+      "brand": "Deepcool",
+      "product": "Deepcool SC790, 1 to 6 ARGB + PWM Fan",
+      "price_sgd": 20
+    },
+    {
+      "category": null,
+      "brand": "Deepcool",
+      "product": "Deepcool FH-04, 1 to 4 port Fan hub",
+      "price_sgd": 10
+    },
+    {
+      "category": null,
+      "brand": "Deepcool",
+      "product": "Deepcool RF 120FS, Fixed RGB, Tripl",
+      "price_sgd": 30
+    },
+    {
+      "category": null,
+      "brand": "Deepcool",
+      "product": "Deepcool RF120, White LED 12cm fan,",
+      "price_sgd": 7
+    },
+    {
+      "category": null,
+      "brand": "Deepcool",
+      "product": "Deepcool RF120M, 4 pin RGB 5 x 12cm",
+      "price_sgd": 44
+    },
+    {
+      "category": null,
+      "brand": "ID-Cooling",
+      "product": "ID-Cooling HA-02 8 Port PWM +ARGB Hub",
+      "price_sgd": 20
+    },
+    {
+      "category": null,
+      "brand": "Inwin",
+      "product": "Inwin POLARIS-RGB (TWIN PACK)",
+      "price_sgd": 41
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HYTE FA12 120mm 3 Fan Pack",
+      "price_sgd": 35
+    },
+    {
+      "category": null,
+      "brand": "MONTECH",
+      "product": "MONTECH RX120 ARGB PWM Reverse Fan",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "MONTECH",
+      "product": "MONTECH AX120 ARGB PWM fan",
+      "price_sgd": 16
+    },
+    {
+      "category": null,
+      "brand": "MONTECH",
+      "product": "MONTECH Metal 120 PWM fan",
+      "price_sgd": 19
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG F12A-3 3x120mm ARGB Fans",
+      "price_sgd": 41
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL MATREXX 30 MATX Casing",
+      "price_sgd": 45
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": null,
+      "product": "Airstream R200 ARGB / Zero ARGB",
+      "price_sgd": 96
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Asus",
+      "product": "Asus ProArt PA602 E-ATX computer",
+      "price_sgd": 389
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li Dan Cases A3 Black",
+      "price_sgd": 115
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li Dan Cases A3 Wood",
+      "price_sgd": 125
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS ROG HYPERION GR701 EATX",
+      "price_sgd": 589
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX HELIOS ATX CASE black",
+      "price_sgd": 353
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li SUP01",
+      "price_sgd": 223
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH AIR 903 MAX",
+      "price_sgd": 90
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH AIR 100 ARGB MATX",
+      "price_sgd": 73
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING GT502 DUAL-CHAMBER",
+      "price_sgd": 178
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH KING 65 Pro",
+      "price_sgd": 116
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING GT502 Horizon",
+      "price_sgd": 249
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH KING 95 Pro",
+      "price_sgd": 184
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING GT301 ARGB ATX CAS",
+      "price_sgd": 107
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH KING 95",
+      "price_sgd": 140
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS ROG Z11 ARGB m-ITX CASE WITH",
+      "price_sgd": 354
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH SKY TWO GX -",
+      "price_sgd": 120
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS PROART P602 ATX CASE WITH T.G",
+      "price_sgd": 312
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "MONTECH",
+      "product": "MONTECH SKY TWO WHITE, 4 ARGB Sync",
+      "price_sgd": 111
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME AP201 mATX CASE",
+      "price_sgd": 105
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "ASUS",
+      "product": "ASUS A21 m-ATX CASE WITH T.G",
+      "price_sgd": 99
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "darkFlash",
+      "product": "darkFlash DLM21 Black",
+      "price_sgd": 67
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "darkFlash",
+      "product": "darkFlash DLX 21 / DLX22 / DLV22",
+      "price_sgd": 105
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "darkFlash",
+      "product": "darkFlash DLH21",
+      "price_sgd": 95
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "darkFlash",
+      "product": "darkFlash DLH21 Pink",
+      "price_sgd": 120
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "DarkFlash",
+      "product": "DarkFlash HD14 Storage (ATX,14 x 3.5 HDD)",
+      "price_sgd": 85
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Dark Flash",
+      "product": "Dark Flash DK352/DK351 ATX ARGB Case",
+      "price_sgd": 79
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Darkflash",
+      "product": "Darkflash A290 TG ARGB",
+      "price_sgd": 60
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Deepcool",
+      "product": "Deepcool Macube 110 Black",
+      "price_sgd": 65
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Deepcool",
+      "product": "Deepcool CH160 TG (ITX) - Black",
+      "price_sgd": 77
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Deepcool",
+      "product": "Deepcool CH160 TG (ITX) - White",
+      "price_sgd": 87
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Deepcool",
+      "product": "Deepcool CH170 Mesh Digital (Verti",
+      "price_sgd": 87
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Deepcool",
+      "product": "Deepcool CH170 Mesh Digital (Verti",
+      "price_sgd": 97
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Deepcool",
+      "product": "Deepcool Macube 110 White",
+      "price_sgd": 65
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Ridge ITX PCIE 3.0",
+      "price_sgd": 237
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal",
+      "product": "Fractal North XL Charcoal / Chalk",
+      "price_sgd": 265
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal",
+      "product": "Fractal North Charcoal / Chalk",
+      "price_sgd": 220
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air / Mini / Silent / Solid",
+      "price_sgd": 175
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB / Air Mini RGB",
+      "price_sgd": 185
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop XL AIR RGB TG",
+      "price_sgd": 189
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Nano",
+      "price_sgd": 201
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Mini",
+      "price_sgd": 206
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact TG",
+      "price_sgd": 213
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Solid / TG",
+      "price_sgd": 297
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL / Meshify 2 XL",
+      "price_sgd": 358
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 RGB / MOOD Case",
+      "price_sgd": 304
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify C / Meshify Mini",
+      "price_sgd": 185
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite",
+      "price_sgd": 207
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact",
+      "price_sgd": 217
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Mini Black TG",
+      "price_sgd": 207
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite TG",
+      "price_sgd": 182
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite RGB",
+      "price_sgd": 213
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 TG",
+      "price_sgd": 265
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Solid 01",
+      "price_sgd": 266
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Nano TG",
+      "price_sgd": 187
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent TG 01/02/03/06",
+      "price_sgd": 308
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Solid 05",
+      "price_sgd": 323
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent RGB TG TOR1A-04",
+      "price_sgd": 400
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact Solid 04",
+      "price_sgd": 233
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact RGB TG 02",
+      "price_sgd": 274
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact TG 01/03",
+      "price_sgd": 243
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano TG 01/03",
+      "price_sgd": 233
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano Black Solid 04",
+      "price_sgd": 218
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano RGB 02",
+      "price_sgd": 238
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Terra Casing",
+      "price_sgd": 333
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus G Black",
+      "price_sgd": 124
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus 2",
+      "price_sgd": 165
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Node 304",
+      "price_sgd": 159
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Node 804",
+      "price_sgd": 228
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Gigabyte",
+      "product": "Gigabyte AC500G EATX U3.2 4xRGB",
+      "price_sgd": 330
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "HYTE",
+      "product": "HYTE Y40 BLACK",
+      "price_sgd": 207
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "HYTE",
+      "product": "HYTE Y40 - Snow White",
+      "price_sgd": 207
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "HYTE",
+      "product": "HYTE Y60",
+      "price_sgd": 279
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "HYTE",
+      "product": "HYTE Y70 Touch Black comes with LCD Kit",
+      "price_sgd": 579
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Inwin",
+      "product": "Inwin CHOPIN PRO TITAN (200W 80+ GOLD)",
+      "price_sgd": 159
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO D300",
+      "price_sgd": 118
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO D31 MESH (mATX, Type",
+      "price_sgd": 78
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO D41 MESH (ATX, Type C",
+      "price_sgd": 78
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO D41 STD SC White (LCD, ATX,",
+      "price_sgd": 142
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO D41 STD White (ATX, type c,",
+      "price_sgd": 75
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO DS8 -LCD Screen",
+      "price_sgd": 85
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO N4 - (NAS Case)",
+      "price_sgd": 118
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO N5 - BLACK (NAS Case)",
+      "price_sgd": 234
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO Z20 - Black / White",
+      "price_sgd": 88
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "JONSBO",
+      "product": "JONSBO Z20 - Pink White",
+      "price_sgd": 94
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "LIAN LI",
+      "product": "LIAN LI V3000 PLUS",
+      "price_sgd": 556
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Dynamic Evo XL",
+      "price_sgd": 292
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11D EVO RGB",
+      "price_sgd": 217
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian-Li",
+      "product": "Lian-Li O11D EVO RGB Automobili La",
+      "price_sgd": 422
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li PC-O11 Dynamic Space",
+      "price_sgd": 185
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Vision Compact",
+      "price_sgd": 175
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Vision",
+      "price_sgd": 187
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Dynamic Mini",
+      "price_sgd": 167
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Air Mini Black",
+      "price_sgd": 137
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Air Mini White",
+      "price_sgd": 152
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "LIAN LI",
+      "product": "LIAN LI LANCOOL 207 Digital",
+      "price_sgd": 179
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "LIAN LI",
+      "product": "LIAN LI LANCOOL 217",
+      "price_sgd": 175
+    },
+    {
+      "category": "BUNDLE Computer Casing (Alone add $10)",
+      "brand": "LIAN LI",
+      "product": "LIAN LI LANCOOL 207",
+      "price_sgd": 119
+    }
+  ]
+}
