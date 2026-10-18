@@ -1,0 +1,2525 @@
+{
+  "sha256": "673e7f976e2de7e7d61c8cb6382599a1c354b4425e2e71187348b1a108f2e0ce",
+  "vendor": "bizgram",
+  "page_number": 20,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K65 RGB RAPIDFIRE Compact Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9011221-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair ST50 Premium Headset Stand CS-CA-9011167-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX GO BT 90YH02Y1-B5UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Vertical GPU bracket (controlled by case reset/RGB button)",
+      "variant": "LARGE",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair ST100 RGB Premium Headset Stand CS-CA-9011221-AP (UK) 7.4mm 65WATT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX GO 2.4 Wireless 90YH01X1-B3UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Vertical GPU Bracket (VXC & VXR, No Riser Cable)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE FK2-DW 4K Wireless Mouse for Esports",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K68 RGB Mechanical Gaming Keyboard - Cherry MX Red (IP32 Water & Dust Resistance) CS-CH-9102010-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair SABRE RGB PRO Wireless Champion Optical Gaming Mouse CS-CH-9303211-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX GO - Ty-C 90YH02Q1-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Vertical GPU Bracket v2 (for VXL No Riser Cable)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-SR GAMING MOUSE PAD (LARGE)",
+      "variant": "LARGE",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K60 RGB PRO SE Mechanical Gaming Keyboard - Cherry VIOLA CS-CH-910D119-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair SABRE RGB PRO Champion Optical Gaming Mouse CS-CH-9303111-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX GO CORE - 3.5mm 90YH02R1-B1UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Wristrest (FULL)",
+      "variant": "FULL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.9
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-SR II Gaming Mouse Pad for Esports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K60 PRO Mechanical Gaming Keyboard (Red LED) - Cherry VIOLA CS-CH-910D029-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair KATAR PRO Wired Gaming Mouse CS-CH-930C011-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus AS TUF GAMING H3 WIRELESS 90YH02ZG-B3UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Wristrest (TKL)",
+      "variant": "TKL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.9
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-SR III Large Esports Gaming Mouse Pad",
+      "variant": "Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair KATAR PRO Wireless Gaming Mouse CS-CH-931C011-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus AS TUF GAMING H3 (Silver) 90YH025S-B1UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARC ARGB 4F - Omni Link (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-SR-SE Gris Large Esports Gaming Mouse Pad",
+      "variant": "Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair SCIMITAR RGB ELITE, MOBA/MMO Gaming Mouse, Black CS-CH-9304211-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus AS TUF GAMING H3 (Red) 90YH02AR-B1UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARC ARGB 4F - Omni Link (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-SR-SE DEEP BLUE Large Esports Gaming Mouse Pad",
+      "variant": "Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair DARK CORE PRO RGB SE Wireless SLIPSTREAM Gaming Mouse, Black CS-CH-9315511-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus AS TUF GAMING H3 (GUN METAL) 90YH028G-B1UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARC M ARGB - Black (CPU+GPU temp display)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-SR-SE ROUGE II Large Esports Gaming Mouse Pad",
+      "variant": "Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair IRONCLAW RGB Wireless Gaming Mouse CS-CH-9317011-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF GAMING H1 WIRELESS 90YH0391-B3UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARC M ARGB - White (CPU+GPU temp display)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "G-TR Large Esports Gaming Mouse Pad",
+      "variant": "Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HARPOON RGB PRO, FPS/MOBA Gaming Mouse CS-CH-9301111-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF GAMING H1 90YH03A1-B1UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Core Mini w/ 250W PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "GTF-X GAMING MOUSE PAD (LARGE)",
+      "variant": "LARGE",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HARPOON RGB Wireless Gaming Mouse CS-CH-9311011-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG CETRA TRUE WIRELESS 90YH03G1-B5UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Forge L OMNI TG (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "H-SR III Extra Large Esports Gaming Mouse Pad",
+      "variant": "Extra Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming M65 RGB ELITE Tunable FPS Gaming Mouse - Black CS-CH-9309011-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG CETRA RGB 90YH02U0-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Fusion 2 Air - MATX 3F(Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "H-SR-SE ROUGE II Extra Large Esports Gaming Mouse Pad",
+      "variant": "Extra Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair M55 RGB PRO Ambidextrous Multi-Grip Gaming Mouse - Black CS-CH-9308011-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG CETRA II 90YH02S0-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Fusion Air M2 High Airflow SFF Case (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "H-TR Extra Large Esports Gaming Mouse Pad",
+      "variant": "Extra Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Glaive RGB Pro Gaming Mouse - Black CS-CH-9302211-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus AS ROG CETRA 90YH01I0-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Infinity M ARGB x3 - Black (Omni Link)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "PTF-X GAMING MOUSEPAD (SMALL)",
+      "variant": "SMALL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MM500 Premium Ant-Fray Cloth Gaming Mouse Pad - Extended 3XL CS-CH-9415080-WW",
+      "variant": "Extended 3XL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG CETRA II CORE 90YH02V0-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Infinity M ARGB x3 - White (Omni Link)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE MOUSE S1-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MM150 Ultra-Thin Gaming Mouse Pad - Medium CS-CH-9421591-WW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG CLAVIS 90YH02N0-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Infinity M2 ARGB x3 - Black (Omni Link)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE S2-DW 4K Wireless Mouse for Esports",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Medium CS-CH-9413631-WW",
+      "variant": "Medium",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ASUS AI NC MIC ADAPTER/USB C 90YH02L1-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware NEO M2 TG - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE U2 Wireless Mouse For Esport",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Extended CS-CH-9413641-WW",
+      "variant": "Extended",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ASUS WEBCAM C3 90YH0340-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware NEO M2 TG ARGB - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE U2-DW 4K Wireless Mouse for Esports",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MM350 PRO Premium Spill-Proof Gaming Mouse Pad - Extended XL CS-CH-9413771-WW",
+      "variant": "Extended XL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG EYE S 90YH0350-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Neo M2 TG ARGB - Black (Omni Link)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE XL2540K TN 240Hz 24.5 inch Gaming Monitor for Esports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MM700 RGB Extended Mouse Pad CS-CH-9417070-WW",
+      "variant": "Extended",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus AS ROG THRONE QI (Headset Stand) 90YH01K0-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Neo M2 TG ARGB - White (Omni Link)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE XL2546X+ New Fast TN 280Hz DyAc 2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX FLARE CHERRY RGB MX RED PNK 90MP00M0-B0UA04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Neo M2 Steel - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE XL2566X+ Fast TN 400Hz DyAcTM 2.0 24.1 Inch Gaming Monitor For Esports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG GLADIUS II ORIGIN PNK LTD 90MP00U3-B0UA01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus Air Steel Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE XL2586X+ New Fast TN 600Hz DyAc 2 Gaming Monitor for Esports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG SHEATH PNK LTD 90MP00K2-B0UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus Air TG Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE ZA11-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX FUSION 300 PNK 90YH02CC-BXUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus M TG Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE ZA13-DW 4K Wireless Mouse for Esports",
+      "variant": "4K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX SCOPE TKL EP/RD/US - X803 90MP01V0-BKUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Timber TG w/ 4 fans (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard - White - Cherry MX Speed CS-CH-9194114-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX IMPACT II EP - P512 90MP01U0-BMUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Timber TG w/ 4 Fans (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9194014-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG SHEATH EP - NC01 90MP01Z0-BPUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Timber M 4 Fans (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB TKL Champion Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9119014-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX GO 2.4 EP 90YH02P1-B3UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Timber M 4 Fans (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Red CS-CH-9109010-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX FLARE II NX RED ANIMATE (PBT) 90MP02E6-BKUA01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Tempered Glass for Fusion Case",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Brown CS-CH-9109012-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX FLARE II NX BLUE ANIMATE (PBT) 90MP02E8-BKUA01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VXL EVO ARGB x4 - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB MK.2 Rapidfire Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9109014-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG DELTA S ANIMATE 90MP02C0-BMUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VXL EVO ARGB x4 - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Blue CS-CH-9109011-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX SCOPE TKL NX RED MOONLIGHT 90MP02B6-BKUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VXM EVO ARGB (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB MK.2 SE Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9109114-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX SCOPE TKL NX BLUE MOONLIGHT 90MP02B8-BKUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VXM Evo - Black (omni link)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Silent CS-CH-9109013-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX IMPACT II MOONLIGHT 90MP02C0-BMUA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VX Prism M TG Matx Case w/ 3 x ARGB Fans (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K65 LUX RGB Compact Mechanical Gaming Keyboard - Cherry MX Red CS-CH-9110010-NA",
+      "variant": "TKL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 220.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG CETRA II CORE MOONLIGHT 90YH0360-B2UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VX Prism M TG Matx Case w/ 3 x ARGB Fans (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ GC01 Base cover for GW2790QT/3290QT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX GO CORE MOONLIGHT 90YH0381-B1UA00",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VX Trinity M ARGB 6F - Omni Link (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ GW2490, 23.8” 1080p, 100hz, 5ms (GtG), IPS panel",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus SL300C ROG CHARIOT 90GC00E0-MSG010",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware VX Trinity M ARGB 6F - Omni Link (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ GW2785TC, BenQ GW2785TC, 27”, 1920x1080p, 75hz, 5ms (GtG), IPS Panel, Height Adjustment Stand, USB-C & Daisychain, Noise Cancellation Microphone",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus SL300 ROG CHARIOT CORE 90GC00D0-MSG010",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Eclipse 360 ARGB LCD AIO - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ GW2790, 27” 1080p, 100hz, 5ms (GtG), IPS panel",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Deathhadder V2 Wired Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Mirage 120 Black ARGB AIO Cooler (AM5/LGA1700)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ GW2790QT, 27”, 2560x1440p, 75hz, 5ms (GtG), IPS panel, Height Adjustment Stand, USB-C & Daisychain, Noise Cancellation Microphone",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": null,
+      "brand": "Razer",
+      "product": "Razer Cynosa V2 Chroma RGB keyboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Mirage 120 White ARGB AIO Cooler (AM5/LGA1700)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ GW3290QT, 32”, 2560x1440p, 75hz, 5ms (GtG), IPS panel, Height Adjustment Stand, USB-C & Daisychain, Noise Cancellation Microphone",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 639.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Coolermaster MM731 Wireless RGB Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Mirage 360 Black ARGB AIO Cooler (AM5/LGA1700)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE CAMADE II MOUSE BUNGEE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "EVGA",
+      "product": "EVGA Z15 keyboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware B68+ Wireless MKB, 3Mode - Black / Gateron Yellow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE EC1-CW Wireless Gaming Mouse (Large)",
+      "variant": "Large",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "EVGA",
+      "product": "EVGA Z12 keyboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Phantom+ 104 (Black) Orange Switch (Tactile, 45g)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE EC3-CW Wireless Gaming Mouse (Small)",
+      "variant": "Small",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "EVGA",
+      "product": "EVGA X17 Mouse Grey",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware PBT Keycap Set (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.9
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE GEAR GAMING MOUSE FK1+-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "EVGA",
+      "product": "EVGA X12 Mouse White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware PBT Pudding Keycap Set (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.9
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE GEAR GAMING MOUSE FK1-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Coolermaster Devastator 3 Plus Set",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware PBT Pudding Keycap Set (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.9
+    },
+    {
+      "category": null,
+      "brand": "Zowie",
+      "product": "ZOWIE FK2-B GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Coolermaster CK530 RGB Mechanical Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware PBT Keycap Set (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.9
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Coolermaster CK550 RGB Mechanical Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Phantom 87, RGB LED with Kailh White Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Coolermaster SK622 RGB Mechanical Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Phantom L - Outemu Brown LP Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Coolermaster MK730 RGB Mechanical Red",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Shroud 104 Classic WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Cooler Master Masterkeys Mk750 Rgb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Shroud 104 Classic WHITE v2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Torque RGB Gaming Mouse with 3310 Sensor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Veil 87 Wired Mechanical Keyboard (Barebones Kit), Smokey Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus M TG White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware FLEX RGB 24p+GPU (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware FLEX RGB 24p+GPU (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Flex (White) v2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Haste CDR 450 Mousemat Codura (450x400x3mm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Haste CDR 900 Codura (900x400x3mm)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Haste XXL Mousemat (SMOOTH)",
+      "variant": "SMOOTH",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.9
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Haste XXL Mousemat White (SMOOTH)",
+      "variant": "White SMOOTH",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.9
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "TECWARE IGNITE Gaming Bundle",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Omni Beam NEON LED Strip",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Omni P14, 2 Fan Pack (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware PCIE GEN 4.0 Riser Cable 20 cm (180 degree)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Switch - Pearl Clear - Pre-lubed Linear 63g 35pcs",
+      "variant": "Pearl Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.9
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Switch - Pearl Purple - Pre-lubed Tactile 68g 35pcs",
+      "variant": "Pearl Purple",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.9
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Switch - Pearl Teal - Pre-lubed Linear 63g 35pcs",
+      "variant": "Pearl Teal",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.9
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Q3, Wireless Gaming Headset (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware ARGB 3pin Dongle",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G304 Black 910-005284",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G304 White 910-005293",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G403 910-005634",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G502 HERO 910-005472",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.5
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G502 WIRELESS 910-005569",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G604 910-005651",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G703 910-005642",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G413 CARBON MECHANICAL BACKLIT GAMING KEYBOARD 920-008313",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G512 GX Blue 920-008949",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G512 GX Brown 920-009354",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G512 GX Red 920-009372",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G613 920-008402",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G815 Tactile 920-009222",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G815 Linear 920-009223",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G815 Clicky 920-009224",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 TKL Tactile 920-009495",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 TKL Linear 920-009512",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 TKL Clicky 920-009529",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 TKL - Tactile Wt 920-009660",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 Tactile 920-009226",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 Linear 920-009227",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G915 Clicky 920-009228",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G331 981-000759",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G431 981-000774",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G435 Black 981-001051",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G435 Blue 981-001063",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G435 White 981-001075",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G733 Black 981-000867",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G733 White 981-000886",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G733 Lilac 981-000893",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G733 Blue 981-000946",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G Pro HERO Wired 910-005442",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G Pro Wireless 910-005274",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G PRO X Superlight Gaming Mouse -Black 910-005882",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G PRO X Superlight Gaming Mouse - White 910-005944",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G PRO X Superlight Gaming Mouse - Magenta 910-005958",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech Logitech Powerplay Wireless Charging System 943-000164",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech PRO X Keyboard 920-009239",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G Pro Headset 981-000814",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G Pro X Headset 981-000820",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G Pro X Wireless Headset 981-000909",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech Driving Force Shifter 941-000132",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech G923 941-000164",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 519.0
+    },
+    {
+      "category": null,
+      "brand": "Logitech",
+      "product": "Logitech LOGITECH G29 Driving Force Racing Wheel 941-000139",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K55 RGB PRO Gaming Keyboard (IP42 Protection, Spill Resistance) CS-CH-9226765-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K55 RGB PRO + Harpoon RGB Pro Gaming Bundle CS-CH-9226865-NA Gaming Bundle",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K55 RGB PRO + KATAR Pro Gaming Bundle CS-CH-9226965-NA Gaming Bundle",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Wireless Gaming Bundle - K57 RGB Wireless KB + Harpoon RGB Wireless Mouse CS-CH-925C115-NA Wireless Gaming Bundle",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K57 RGB Wireless Gaming Keyboard CS-CH-925C015-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Corsair OPX Keyswitches (MIDNIGHT GOLD) CS-CH-912A21A-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Corsair OPX Keyswitches CS-CH-912A01A-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K100 RGB Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-912A014-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K95 RGB PLATINUM XT Mechanical Gaming Keyboard - Cherry MX Brown CS-CH-9127412-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K95 RGB PLATINUM XT Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9127414-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K63 Wireless Mechanical Gaming Keyboard - Blue LED - Cherry MX Red CS-CH-9145030-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair K63 Wireless Gaming Lapboard for the K63 Wireless Keyboard CS-CH-9510000-WW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE NEXUS Companion Touch Screen, 5” TFT LCD CS-CH-9910010-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Onyx Black CS-CH-9911060-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Arctic White CS-CH-9911040-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Mint Green CS-CH-9911080-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Rogue Pink CS-CH-9911070-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Elgato Blue CS-CH-9911030-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair PBT Double-Shot Pro Keycap Mod Kit - Origin Red CS-CH-9911020-NA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming PBT Double-Shot Keycaps Full 104/105 Keyset - Black CS-CH-9000235-WW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming PBT Double-Shot Keycaps Full 104/105 Keyset - White CS-CH-9000234-WW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming Virtuoso RGB Wireless XT High-Fidelity Gaming Headset - Slate CS-CA-9011188-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming Virtuoso RGB Wireless SE High-Fidelity Gaming Headset - Espresso CS-CA-9011181-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming Virtuoso RGB Wireless SE High-Fidelity Gaming Headset - Gunmetal CS-CA-9011180-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming Virtuoso RGB Wireless High-Fidelity Gaming Headset - Carbon CS-CA-9011185-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming Virtuoso RGB Wireless High-Fidelity Gaming Headset - Pearl CS-CA-9011224-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Gaming Virtuoso RGB Wireless High-Fidelity Gaming Headset - White CS-CA-9011186-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - Carbon CS-CA-9011201-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - White CS-CA-9011202-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair VOID RGB ELITE USB Premium Gaming Headset with 7.1 Surround Sound - Carbon CS-CA-9011203-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS80 RGB Wireless Premium Gaming Headset with Spatial Audio - Carbon CS-CA-9011235-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS70 Bluetooth Multi-Platform Wired Gaming Headset CS-CA-9011227-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS75 XB Wireless Gaming Headset for Xbox X and Xbox One CS-CA-9011222-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS60 HAPTIC Stereo Gaming Headset with Haptic Bass CS-CA-9011225-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS35 Gaming Headset - Carbon CS-CA-9011195-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS35 Gaming Headset - Blue CS-CA-9011196-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS35 Gaming Headset - Green CS-CA-9011197-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS35 Gaming Headset - Red CS-CA-9011198-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS50 Pro Gaming Headset - Carbon CS-CA-9011215-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS50 Pro Gaming Headset - Green CS-CA-9011216-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS50 Pro Gaming Headset - Blue CS-CA-9011217-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS60 Pro Gaming Headset - Carbon CS-CA-9011213-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS60 Pro Gaming Headset - Yellow CS-CA-9011214-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS70 Pro Wireless SE Gaming Headset - Cream CS-CA-9011210-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair HS70 Pro Wireless Gaming Headset - Carbon CS-CA-9011211-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    }
+  ],
+  "numeric_tokens_in_source": 31,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 279 rows, limit 67",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"product\": \"Corsair K65 RGB RAPIDFIRE Compact Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9011221-AP\", \"brand\": \"Corsair\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Corsair ST50 Premium Headset Stand CS-CA-9011167-AP\", \"brand\": \"Corsair\", \"price_sgd\": 129},\n  {\"category\": null, \"product\": \"Asus ROG STRIX GO BT 90YH02Y1-B5UA00\", \"brand\": \"Asus\", \"price_sgd\": 379},\n  {\"category\": null, \"product\": \"Tecware Vertical GPU bracket (controlled by case reset/RGB button)\", \"brand\": \"Tecware\", \"variant\": \"LARGE\", \"price_sgd\": 5.0},\n  {\"category\": null, \"product\": \"Corsair ST100 RGB Premium Headset Stand CS-CA-9011221-AP (UK) 7.4mm 65WATT\", \"brand\": \"Corsair\", \"price_sgd\": 109.0},\n  {\"category\": null, \"product\": \"Asus ROG STRIX GO 2.4 Wireless 90YH01X1-B3UA00\", \"brand\": \"Asus\", \"price_sgd\": 319},\n  {\"category\": null, \"product\": \"Tecware Vertical GPU Bracket (VXC & VXR, No Riser Cable)\", \"brand\": \"Tecware\", \"price_sgd\": 25.0},\n  {\"category\": null, \"product\": \"ZOWIE FK2-DW 4K Wireless Mouse for Esports\", \"brand\": \"Zowie\", \"variant\": \"4K\", \"price_sgd\": 249.0},\n  {\"category\": null, \"product\": \"Corsair K68 RGB Mechanical Gaming Keyboard - Cherry MX Red (IP32 Water & Dust Resistance) CS-CH-9102010-NA\", \"brand\": \"Corsair\", \"price_sgd\": 199},\n  {\"category\": null, \"product\": \"Corsair SABRE RGB PRO Wireless Champion Optical Gaming Mouse CS-CH-9303211-AP\", \"brand\": \"Corsair\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Asus ROG STRIX GO - Ty-C 90YH02Q1-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Tecware Vertical GPU Bracket v2 (for VXL No Riser Cable)\", \"brand\": \"Tecware\", \"price_sgd\": 19.0},\n  {\"category\": null, \"product\": \"G-SR GAMING MOUSE PAD (LARGE)\", \"brand\": \"Zowie\", \"variant\": \"LARGE\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"Corsair K60 RGB PRO SE Mechanical Gaming Keyboard - Cherry VIOLA CS-CH-910D119-NA\", \"brand\": \"Corsair\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Corsair SABRE RGB PRO Champion Optical Gaming Mouse CS-CH-9303111-AP\", \"brand\": \"Corsair\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Asus ROG STRIX GO CORE - 3.5mm 90YH02R1-B1UA00\", \"brand\": \"Asus\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Tecware Wristrest (FULL)\", \"brand\": \"Tecware\", \"variant\": \"FULL\", \"price_sgd\": 9.9},\n  {\"category\": null, \"product\": \"G-SR II Gaming Mouse Pad for Esports\", \"brand\": \"Zowie\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Corsair K60 PRO Mechanical Gaming Keyboard (Red LED) - Cherry VIOLA CS-CH-910D029-NA\", \"brand\": \"Corsair\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Corsair KATAR PRO Wired Gaming Mouse CS-CH-930C011-AP\", \"brand\": \"Corsair\", \"price_sgd\": 45},\n  {\"category\": null, \"product\": \"Asus AS TUF GAMING H3 WIRELESS 90YH02ZG-B3UA00\", \"brand\": \"Asus\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Tecware Wristrest (TKL)\", \"brand\": \"Tecware\", \"variant\": \"TKL\", \"price_sgd\": 9.9},\n  {\"category\": null, \"product\": \"G-SR III Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Large\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"Corsair KATAR PRO Wireless Gaming Mouse CS-CH-931C011-AP\", \"brand\": \"Corsair\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Asus AS TUF GAMING H3 (Silver) 90YH025S-B1UA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware ARC ARGB 4F - Omni Link (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"G-SR-SE Gris Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Large\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Corsair SCIMITAR RGB ELITE, MOBA/MMO Gaming Mouse, Black CS-CH-9304211-AP\", \"brand\": \"Corsair\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Asus AS TUF GAMING H3 (Red) 90YH02AR-B1UA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware ARC ARGB 4F - Omni Link (White)\", \"brand\": \"Tecware\", \"price_sgd\": 89.0},\n  {\"category\": null, \"product\": \"G-SR-SE DEEP BLUE Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Large\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Corsair DARK CORE PRO RGB SE Wireless SLIPSTREAM Gaming Mouse, Black CS-CH-9315511-AP\", \"brand\": \"Corsair\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Asus AS TUF GAMING H3 (GUN METAL) 90YH028G-B1UA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware ARC M ARGB - Black (CPU+GPU temp display)\", \"brand\": \"Tecware\", \"price_sgd\": 69.0},\n  {\"category\": null, \"product\": \"G-SR-SE ROUGE II Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Large\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"Corsair IRONCLAW RGB Wireless Gaming Mouse CS-CH-9317011-AP\", \"brand\": \"Corsair\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Asus TUF GAMING H1 WIRELESS 90YH0391-B3UA00\", \"brand\": \"Asus\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Tecware ARC M ARGB - White (CPU+GPU temp display)\", \"brand\": \"Tecware\", \"price_sgd\": 75.0},\n  {\"category\": null, \"product\": \"G-TR Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Large\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"Corsair HARPOON RGB PRO, FPS/MOBA Gaming Mouse CS-CH-9301111-AP\", \"brand\": \"Corsair\", \"price_sgd\": 45},\n  {\"category\": null, \"product\": \"Asus TUF GAMING H1 90YH03A1-B1UA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware Core Mini w/ 250W PSU\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"GTF-X GAMING MOUSE PAD (LARGE)\", \"brand\": \"Zowie\", \"variant\": \"LARGE\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"Corsair HARPOON RGB Wireless Gaming Mouse CS-CH-9311011-AP\", \"brand\": \"Corsair\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Asus ROG CETRA TRUE WIRELESS 90YH03G1-B5UA00\", \"brand\": \"Asus\", \"price_sgd\": 199},\n  {\"category\": null, \"product\": \"Tecware Forge L OMNI TG (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 69.0},\n  {\"category\": null, \"product\": \"H-SR III Extra Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Extra Large\", \"price_sgd\": 85.0},\n  {\"category\": null, \"product\": \"Corsair Gaming M65 RGB ELITE Tunable FPS Gaming Mouse - Black CS-CH-9309011-AP\", \"brand\": \"Corsair\", \"price_sgd\": 109},\n  {\"category\": null, \"product\": \"Asus ROG CETRA RGB 90YH02U0-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Tecware Fusion 2 Air - MATX 3F(Black)\", \"brand\": \"Tecware\", \"price_sgd\": 69.0},\n  {\"category\": null, \"product\": \"H-SR-SE ROUGE II Extra Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Extra Large\", \"price_sgd\": 85.0},\n  {\"category\": null, \"product\": \"Corsair M55 RGB PRO Ambidextrous Multi-Grip Gaming Mouse - Black CS-CH-9308011-AP\", \"brand\": \"Corsair\", \"price_sgd\": 59},\n  {\"category\": null, \"product\": \"Asus ROG CETRA II 90YH02S0-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Tecware Fusion Air M2 High Airflow SFF Case (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 45.0},\n  {\"category\": null, \"product\": \"H-TR Extra Large Esports Gaming Mouse Pad\", \"brand\": \"Zowie\", \"variant\": \"Extra Large\", \"price_sgd\": 85.0},\n  {\"category\": null, \"product\": \"Corsair Glaive RGB Pro Gaming Mouse - Black CS-CH-9302211-AP\", \"brand\": \"Corsair\", \"price_sgd\": 129},\n  {\"category\": null, \"product\": \"Asus AS ROG CETRA 90YH01I0-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Tecware Infinity M ARGB x3 - Black (Omni Link)\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"PTF-X GAMING MOUSEPAD (SMALL)\", \"brand\": \"Zowie\", \"variant\": \"SMALL\", \"price_sgd\": 39.0},\n  {\"category\": null, \"product\": \"Corsair MM500 Premium Ant-Fray Cloth Gaming Mouse Pad - Extended 3XL CS-CH-9415080-WW\", \"brand\": \"Corsair\", \"variant\": \"Extended 3XL\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Asus ROG CETRA II CORE 90YH02V0-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Tecware Infinity M ARGB x3 - White (Omni Link)\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"ZOWIE MOUSE S1-C\", \"brand\": \"Zowie\", \"price_sgd\": 99.0},\n  {\"category\": null, \"product\": \"Corsair MM150 Ultra-Thin Gaming Mouse Pad - Medium CS-CH-9421591-WW\", \"brand\": \"Corsair\", \" variant\": \"Medium\", \"price_sgd\": 29},\n  {\"category\": null, \"product\": \"Asus ROG CLAVIS 90YH02N0-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 189},\n  {\"category\": null, \"product\": \"Tecware Infinity M2 ARGB x3 - Black (Omni Link)\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"ZOWIE S2-DW 4K Wireless Mouse for Esports\", \"brand\": \"Zowie\", \"variant\": \"4K\", \"price_sgd\": 249.0},\n  {\"category\": null, \"product\": \"Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Medium CS-CH-9413631-WW\", \"brand\": \"Corsair\", \"variant\": \"Medium\", \"price_sgd\": 29},\n  {\"category\": null, \"product\": \"Asus ASUS AI NC MIC ADAPTER/USB C 90YH02L1-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 59},\n  {\"category\": null, \"product\": \"Tecware NEO M2 TG - Black\", \"brand\": \"Tecware\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"ZOWIE U2 Wireless Mouse For Esport\", \"brand\": \"Zowie\", \"price_sgd\": 249.0},\n  {\"category\": null, \"product\": \"Corsair MM300 PRO Premium Spill-Proof Gaming Mouse Pad - Extended CS-CH-9413641-WW\", \"brand\": \"Corsair\", \"variant\": \"Extended\", \"price_sgd\": 45},\n  {\"category\": null, \"product\": \"Asus ASUS WEBCAM C3 90YH0340-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Tecware NEO M2 TG ARGB - Black\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"ZOWIE U2-DW 4K Wireless Mouse for Esports\", \"brand\": \"Zowie\", \"variant\": \"4K\", \"price_sgd\": 259.0},\n  {\"category\": null, \"product\": \"Corsair MM350 PRO Premium Spill-Proof Gaming Mouse Pad - Extended XL CS-CH-9413771-WW\", \"brand\": \"Corsair\", \"variant\": \"Extended XL\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Asus ROG EYE S 90YH0350-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Tecware Neo M2 TG ARGB - Black (Omni Link)\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"ZOWIE XL2540K TN 240Hz 24.5 inch Gaming Monitor for Esports\", \"brand\": \"Zowie\", \"price_sgd\": 499.0},\n  {\"category\": null, \"product\": \"Corsair MM700 RGB Extended Mouse Pad CS-CH-9417070-WW\", \"brand\": \"Corsair\", \"variant\": \"Extended\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Asus AS ROG THRONE QI (Headset Stand) 90YH01K0-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 219},\n  {\"category\": null, \"product\": \"Tecware Neo M2 TG ARGB - White (Omni Link)\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"ZOWIE XL2546X+ New Fast TN 280Hz DyAc 2\", \"brand\": \"Zowie\", \"price_sgd\": 799.0},\n  {\"category\": null, \"product\": \"Asus ROG STRIX FLARE CHERRY RGB MX RED PNK 90MP00M0-B0UA04\", \"brand\": \"Asus\", \"price_sgd\": 269},\n  {\"category\": null, \"product\": \"Tecware Neo M2 Steel - Black\", \"brand\": \"Tecware\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"ZOWIE XL2566X+ Fast TN 400Hz DyAcTM 2.0 24.1 Inch Gaming Monitor For Esports\", \"brand\": \"Zowie\", \"price_sgd\": 1099.0},\n  {\"category\": null, \"product\": \"Asus ROG GLADIUS II ORIGIN PNK LTD 90MP00U3-B0UA01\", \"brand\": \"Asus\", \"price_sgd\": 149},\n  {\"category\": null, \"product\": \"Tecware Nexus Air Steel Black\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"ZOWIE XL2586X+ New Fast TN 600Hz DyAc 2 Gaming Monitor for Esports\", \"brand\": \"Zowie\", \"price_sgd\": 1599.0},\n  {\"category\": null, \"product\": \"Asus ROG SHEATH PNK LTD 90MP00K2-B0UA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware Nexus Air TG Black\", \"brand\": \"Tecware\", \"price_sgd\": 69.0},\n  {\"category\": null, \"product\": \"ZOWIE ZA11-C\", \"brand\": \"Zowie\", \"price_sgd\": 99.0},\n  {\"category\": null, \"product\": \"Asus ROG STRIX FUSION 300 PNK 90YH02CC-BXUA00\", \"brand\": \"Asus\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Tecware Nexus M TG Black\", \"brand\": \"Tecware\", \"price_sgd\": 39.0},\n  {\"category\": null, \"product\": \"ZOWIE ZA13-DW 4K Wireless Mouse for Esports\", \"brand\": \"Zowie\", \"variant\": \"4K\", \"price_sgd\": 249.0},\n  {\"category\": null, \"product\": \"Asus ROG STRIX SCOPE TKL EP/RD/US - X803 90MP01V0-BKUA00\", \"brand\": \"Asus\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Tecware Timber TG w/ 4 fans (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard - White - Cherry MX Speed CS-CH-9194114-NA\", \"brand\": \"Corsair\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Asus ROG STRIX IMPACT II EP - P512 90MP01U0-BMUA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware Timber TG w/ 4 Fans (White)\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"Corsair K65 RGB MINI 60% Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9194014-NA\", \"brand\": \"Corsair\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Asus ROG SHEATH EP - NC01 90MP01Z0-BPUA00\", \"brand\": \"Asus\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware Timber M 4 Fans (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB TKL Champion Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9119014-NA\", \"brand\": \"Corsair\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Asus ROG STRIX GO 2.4 EP 90YH02P1-B3UA00\", \"brand\": \"Asus\", \"price_sgd\": 319},\n  {\"category\": null, \"product\": \"Tecware Timber M 4 Fans (White)\", \"brand\": \"Tecware\", \"price_sgd\": 65.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Red CS-CH-9109010-NA\", \"brand\": \"Corsair\", \"price_sgd\": 239},\n  {\"category\": null, \"product\": \"Asus ROG STRIX FLARE II NX RED ANIMATE (PBT) 90MP02E6-BKUA01\", \"brand\": \"Asus\", \"price_sgd\": 399},\n  {\"category\": null, \"product\": \"Tecware Tempered Glass for Fusion Case\", \"brand\": \"Tecware\", \"price_sgd\": 15.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Brown CS-CH-9109012-NA\", \"brand\": \"Corsair\", \"price_sgd\": 239},\n  {\"category\": null, \"product\": \"Asus ROG STRIX FLARE II NX BLUE ANIMATE (PBT) 90MP02E8-BKUA01\", \"brand\": \"Asus\", \"price_sgd\": 399},\n  {\"category\": null, \"product\": \"Tecware VXL EVO ARGB x4 - Black\", \"brand\": \"Tecware\", \"price_sgd\": 129.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB MK.2 Rapidfire Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9109014-NA\", \"brand\": \"Corsair\", \"price_sgd\": 239},\n  {\"category\": null, \"product\": \"Asus ROG DELTA S ANIMATE 90MP02C0-BMUA00\", \"brand\": \"Asus\", \"price_sgd\": 419},\n  {\"category\": null, \"product\": \"Tecware VXL EVO ARGB x4 - White\", \"brand\": \"Tecware\", \"price_sgd\": 129.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Blue CS-CH-9109011-NA\", \"brand\": \"Corsair\", \"price_sgd\": 239},\n  {\"category\": null, \"product\": \"Asus ROG STRIX SCOPE TKL NX RED MOONLIGHT 90MP02B6-BKUA00\", \"brand\": \"Asus\", \"price_sgd\": 259},\n  {\"category\": null, \"product\": \"Tecware VXM EVO ARGB (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 69.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB MK.2 SE Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9109114-NA\", \"brand\": \"Corsair\", \"price_sgd\": 249},\n  {\"category\": null, \"product\": \"Asus ROG STRIX SCOPE TKL NX BLUE MOONLIGHT 90MP02B8-BKUA00\", \"brand\": \"Asus\", \"price_sgd\": 259},\n  {\"category\": null, \"product\": \"Tecware VXM Evo - Black (omni link)\", \"brand\": \"Tecware\", \"price_sgd\": 69.0},\n  {\"category\": null, \"product\": \"Corsair K70 RGB MK.2 Mechanical Gaming Keyboard - Cherry MX Silent CS-CH-9109013-NA\", \"brand\": \"Corsair\", \"price_sgd\": 249},\n  {\"category\": null, \"product\": \"Asus ROG STRIX IMPACT II MOONLIGHT 90MP02C0-BMUA00\", \"brand\": \"Asus\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Tecware VX Prism M TG Matx Case w/ 3 x ARGB Fans (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 89.0},\n  {\"category\": null, \"product\": \"Corsair K65 LUX RGB Compact Mechanical Gaming Keyboard - Cherry MX Red CS-CH-9110010-NA\", \"brand\": \"Corsair\", \"variant\": \"TKL\", \"price_sgd\": 220},\n  {\"category\": null, \"product\": \"Asus ROG CETRA II CORE MOONLIGHT 90YH0360-B2UA00\", \"brand\": \"Asus\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Tecware VX Prism M TG Matx Case w/ 3 x ARGB Fans (White)\", \"brand\": \"Tecware\", \"price_sgd\": 99.0},\n  {\"category\": null, \"product\": \"BENQ GC01 Base cover for GW2790QT/3290QT\", \"brand\": \"BenQ\", \"price_sgd\": 29.0},\n  {\"category\": null, \"product\": \"Asus ROG STRIX GO CORE MOONLIGHT 90YH0381-B1UA00\", \"brand\": \"Asus\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Tecware VX Trinity M ARGB 6F - Omni Link (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"BENQ GW2490, 23.8” 1080p, 100hz, 5ms (GtG), IPS panel\", \"brand\": \"BenQ\", \"price_sgd\": 179.0},\n  {\"category\": null, \"product\": \"Asus SL300C ROG CHARIOT 90GC00E0-MSG010\", \"brand\": \"Asus\", \"price_sgd\": 799},\n  {\"category\": null, \"product\": \"Tecware VX Trinity M ARGB 6F - Omni Link (White)\", \"brand\": \"Tecware\", \"price_sgd\": 89.0},\n  {\"category\": null, \"product\": \"BENQ GW2785TC, BenQ GW2785TC, 27”, 1920x1080p, 75hz, 5ms (GtG), IPS Panel, Height Adjustment Stand, USB-C & Daisychain, Noise Cancellation Microphone\", \"brand\": \"BenQ\", \"price_sgd\": 359.0},\n  {\"category\": null, \"product\": \"Asus SL300 ROG CHARIOT CORE 90GC00D0-MSG010\", \"brand\": \"Asus\", \"price_sgd\": 549},\n  {\"category\": null, \"product\": \"Tecware Eclipse 360 ARGB LCD AIO - Black\", \"brand\": \"Tecware\", \"price_sgd\": 129.0},\n  {\"category\": null, \"product\": \"BENQ GW2790, 27” 1080p, 100hz, 5ms (GtG), IPS panel\", \"brand\": \"BenQ\", \"price_sgd\": 239.0},\n  {\"category\": null, \"product\": \"Razer Deathhadder V2 Wired Mouse\", \"brand\": \"Razer\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Tecware Mirage 120 Black ARGB AIO Cooler (AM5/LGA1700)\", \"brand\": \"Tecware\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"BENQ GW2790QT, 27”, 2560x1440p, 75hz, 5ms (GtG), IPS panel, Height Adjustment Stand, USB-C & Daisychain, Noise Cancellation Microphone\", \"brand\": \"BenQ\", \"price_sgd\": 479.0},\n  {\"category\": null, \"product\": \"Razer Cynosa V2 Chroma RGB keyboard\", \"brand\": \"Razer\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Tecware Mirage 120 White ARGB AIO Cooler (AM5/LGA1700)\", \"brand\": \"Tecware\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"BENQ GW3290QT, 32”, 2560x1440p, 75hz, 5ms (GtG), IPS panel, Height Adjustment Stand, USB-C & Daisychain, Noise Cancellation Microphone\", \"brand\": \"BenQ\", \"price_sgd\": 639.0},\n  {\"category\": null, \"product\": \"Coolermaster MM731 Wireless RGB Mouse\", \"brand\": \"Cooler Master\", \"price_sgd\": 95},\n  {\"category\": null, \"product\": \"Tecware Mirage 360 Black ARGB AIO Cooler (AM5/LGA1700)\", \"brand\": \"Tecware\", \"price_sgd\": 89.0},\n  {\"category\": null, \"product\": \"ZOWIE CAMADE II MOUSE BUNGEE\", \"brand\": \"Zowie\", \"price_sgd\": 39.0},\n  {\"category\": null, \"product\": \"EVGA Z15 keyboard\", \"brand\": \"EVGA\", \"price_sgd\": 30},\n  {\"category\": null, \"product\": \"Tecware B68+ Wireless MKB, 3Mode - Black / Gateron Yellow\", \"brand\": \"Tecware\", \"price_sgd\": 79.0},\n  {\"category\": null, \"product\": \"ZOWIE EC1-CW Wireless Gaming Mouse (Large)\", \"brand\": \"Zowie\", \"variant\": \"Large\", \"price_sgd\": 209.0},\n  {\"category\": null, \"product\": \"EVGA Z12 keyboard\", \"brand\": \"EVGA\", \"price_sgd\": 17},\n  {\"category\": null, \"product\": \"Tecware Phantom+ 104 (Black) Orange Switch (Tactile, 45g)\", \"brand\": \"Tecware\", \"price_sgd\": 49.9},\n  {\"category\": null, \"product\": \"ZOWIE EC3-CW Wireless Gaming Mouse (Small)\", \"brand\": \"Zowie\", \"variant\": \"Small\", \"price_sgd\": 229.0},\n  {\"category\": null, \"product\": \"EVGA X17 Mouse Grey\", \"brand\": \"EVGA\", \"price_sgd\": 20},\n  {\"category\": null, \"product\": \"Tecware PBT Keycap Set (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 7.9},\n  {\"category\": null, \"product\": \"ZOWIE GEAR GAMING MOUSE FK1+-C\", \"brand\": \"Zowie\", \"price_sgd\": 99.0},\n  {\"category\": null, \"product\": \"EVGA X12 Mouse White\", \"brand\": \"EVGA\", \"price_sgd\": 20},\n  {\"category\": null, \"product\": \"Tecware PBT Pudding Keycap Set (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 7.9},\n  {\"category\": null, \"product\": \"ZOWIE GEAR GAMING MOUSE FK1-C\", \"brand\": \"Zowie\", \"price_sgd\": 99.0},\n  {\"category\": null, \"product\": \"Coolermaster Devastator 3 Plus Set\", \"brand\": \"Cooler Master\", \"price_sgd\": 78},\n  {\"category\": null, \"product\": \"Tecware PBT Pudding Keycap Set (White)\", \"brand\": \"Tecware\", \"price_sgd\": 7.9},\n  {\"category\": null, \"product\": \"ZOWIE FK2-B GAMING MOUSE\", \"brand\": \"Zowie\", \"price_sgd\": 99.0},\n  {\"category\": null, \"product\": \"Coolermaster CK530 RGB Mechanical Red\", \"brand\": \"Cooler Master\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Tecware PBT Keycap Set (White)\", \"brand\": \"Tecware\", \"price_sgd\": 7.9},\n  {\"category\": null, \"product\": \"Coolermaster CK550 RGB Mechanical Red\", \"brand\": \"Cooler Master\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Tecware Phantom 87, RGB LED with Kailh White Switch\", \"brand\": \"Tecware\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"Coolermaster SK622 RGB Mechanical Red\", \"brand\": \"Cooler Master\", \"price_sgd\": 128},\n  {\"category\": null, \"product\": \"Tecware Phantom L - Outemu Brown LP Switch\", \"brand\": \"Tecware\", \"price_sgd\": 39.0},\n  {\"category\": null, \"product\": \"Coolermaster MK730 RGB Mechanical Red\", \"brand\": \"Cooler Master\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Tecware Shroud 104 Classic WHITE\", \"brand\": \"Tecware\", \"price_sgd\": 12.0},\n  {\"category\": null, \"product\": \"Cooler Master Masterkeys Mk750 Rgb\", \"brand\": \"Cooler Master\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Tecware Shroud 104 Classic WHITE v2\", \"brand\": \"Tecware\", \"price_sgd\": 12.0},\n  {\"category\": null, \"product\": \"Tecware Torque RGB Gaming Mouse with 3310 Sensor\", \"brand\": \"Tecware\", \"price_sgd\": 10.0},\n  {\"category\": null, \"product\": \"Tecware Veil 87 Wired Mechanical Keyboard (Barebones Kit), Smokey Black\", \"brand\": \"Tecware\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Tecware Nexus M TG White\", \"brand\": \"Tecware\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"Tecware FLEX RGB 24p+GPU (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Tecware FLEX RGB 24p+GPU (White)\", \"brand\": \"Tecware\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Tecware Flex (White) v2\", \"brand\": \"Tecware\", \"price_sgd\": 29.0},\n  {\"category\": null, \"product\": \"Tecware Haste CDR 450 Mousemat Codura (450x400x3mm)\", \"brand\": \"Tecware\", \"price_sgd\": 19.0},\n  {\"category\": null, \"product\": \"Tecware Haste CDR 900 Codura (900x400x3mm)\", \"brand\": \"Tecware\", \"price_sgd\": 29.0},\n  {\"category\": null, \"product\": \"Tecware Haste XXL Mousemat (SMOOTH)\", \"brand\": \"Tecware\", \"variant\": \"SMOOTH\", \"price_sgd\": 9.9},\n  {\"category\": null, \"product\": \"Tecware Haste XXL Mousemat White (SMOOTH)\", \"brand\": \"Tecware\", \"variant\": \"White SMOOTH\", \"price_sgd\": 9.9},\n  {\"category\": null, \"product\": \"TECWARE IGNITE Gaming Bundle\", \"brand\": \"Tecware\", \"price_sgd\": 49.0},\n  {\"category\": null, \"product\": \"Tecware Omni Beam NEON LED Strip\", \"brand\": \"Tecware\", \"price_sgd\": 15.0},\n  {\"category\": null, \"product\": \"Tecware Omni P14, 2 Fan Pack (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 19.0},\n  {\"category\": null, \"product\": \"Tecware PCIE GEN 4.0 Riser Cable 20 cm (180 degree)\", \"brand\": \"Tecware\", \"price_sgd\": 59.0},\n  {\"category\": null, \"product\": \"Tecware Switch - Pearl Clear - Pre-lubed Linear 63g 35pcs\", \"brand\": \"Tecware\", \"variant\": \"Pearl Clear\", \"price_sgd\": 8.9},\n  {\"category\": null, \"product\": \"Tecware Switch - Pearl Purple - Pre-lubed Tactile 68g 35pcs\", \"brand\": \"Tecware\", \"variant\": \"Pearl Purple\", \"price_sgd\": 8.9},\n  {\"category\": null, \"product\": \"Tecware Switch - Pearl Teal - Pre-lubed Linear 63g 35pcs\", \"brand\": \"Tecware\", \"variant\": \"Pearl Teal\", \"price_sgd\": 8.9},\n  {\"category\": null, \"product\": \"Tecware Q3, Wireless Gaming Headset (Black)\", \"brand\": \"Tecware\", \"price_sgd\": 39.0},\n  {\"category\": null, \"product\": \"Tecware ARGB 3pin Dongle\", \"brand\": \"Tecware\", \"price_sgd\": 39.0},\n  {\"category\": null, \"product\": \"Logitech G304 Black 910-005284\", \"brand\": \"Logitech\", \"price_sgd\": 59},\n  {\"category\": null, \"product\": \"Logitech G304 White 910-005293\", \"brand\": \"Logitech\", \"price_sgd\": 59},\n  {\"category\": null, \"product\": \"Logitech G403 910-005634\", \"brand\": \"Logitech\", \"price_sgd\": 69},\n  {\"category\": null, \"product\": \"Logitech G502 HERO 910-005472\", \"brand\": \"Logitech\", \"price_sgd\": 64.5},\n  {\"category\": null, \"product\": \"Logitech G502 WIRELESS 910-005569\", \"brand\": \"Logitech\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Logitech G604 910-005651\", \"brand\": \"Logitech\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Logitech G703 910-005642\", \"brand\": \"Logitech\", \"price_sgd\": 109},\n  {\"category\": null, \"product\": \"Logitech G413 CARBON MECHANICAL BACKLIT GAMING KEYBOARD 920-008313\", \"brand\": \"Logitech\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Logitech G512 GX Blue 920-008949\", \"brand\": \"Logitech\", \"price_sgd\": 119},\n  {\"category\": null, \"product\": \"Logitech G512 GX Brown 920-009354\", \"brand\": \"Logitech\", \"price_sgd\": 119},\n  {\"category\": null, \"product\": \"Logitech G512 GX Red 920-009372\", \"brand\": \"Logitech\", \"price_sgd\": 119},\n  {\"category\": null, \"product\": \"Logitech G613 920-008402\", \"brand\": \"Logitech\", \"price_sgd\": 109},\n  {\"category\": null, \"product\": \"Logitech G815 Tactile 920-009222\", \"brand\": \"Logitech\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Logitech G815 Linear 920-009223\", \"brand\": \"Logitech\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Logitech G815 Clicky 920-009224\", \"brand\": \"Logitech\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Logitech G915 TKL Tactile 920-009495\", \"brand\": \"Logitech\", \"price_sgd\": 289},\n  {\"category\": null, \"product\": \"Logitech G915 TKL Linear 920-009512\", \"brand\": \"Logitech\", \"price_sgd\": 289},\n  {\"category\": null, \"product\": \"Logitech G915 TKL Clicky 920-009529\", \"brand\": \"Logitech\", \"price_sgd\": 289},\n  {\"category\": null, \"product\": \"Logitech G915 TKL - Tactile Wt 920-009660\", \"brand\": \"Logitech\", \"price_sgd\": 299},\n  {\"category\": null, \"product\": \"Logitech G915 Tactile 920-009226\", \"brand\": \"Logitech\", \"price_sgd\": 329},\n  {\"category\": null, \"product\": \"Logitech G915 Linear 920-009227\", \"brand\": \"Logitech\", \"price_sgd\": 329},\n  {\"category\": null, \"product\": \"Logitech G915 Clicky 920-009228\", \"brand\": \"Logitech\", \"price_sgd\": 329},\n  {\"category\": null, \"product\": \"Logitech G331 981-000759\", \"brand\": \"Logitech\", \"price_sgd\": 59},\n  {\"category\": null, \"product\": \"Logitech G431 981-000774\", \"brand\": \"Logitech\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Logitech G435 Black 981-001051\", \"brand\": \"Logitech\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Logitech G435 Blue 981-001063\", \"brand\": \"Logitech\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Logitech G435 White 981-001075\", \"brand\": \"Logitech\", \"price_sgd\": 89},\n  {\"category\": null, \"product\": \"Logitech G733 Black 981-000867\", \"brand\": \"Logitech\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Logitech G733 White 981-000886\", \"brand\": \"Logitech\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Logitech G733 Lilac 981-000893\", \"brand\": \"Logitech\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Logitech G733 Blue 981-000946\", \"brand\": \"Logitech\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Logitech G Pro HERO Wired 910-005442\", \"brand\": \"Logitech\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Logitech G Pro Wireless 910-005274\", \"brand\": \"Logitech\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Logitech G PRO X Superlight Gaming Mouse -Black 910-005882\", \"brand\": \"Logitech\", \"price_sgd\": 209},\n  {\"category\": null, \"product\": \"Logitech G PRO X Superlight Gaming Mouse - White 910-005944\", \"brand\": \"Logitech\", \"price_sgd\": 209},\n  {\"category\": null, \"product\": \"Logitech G PRO X Superlight Gaming Mouse - Magenta 910-005958\", \"brand\": \"Logitech\", \"price_sgd\": 209},\n  {\"category\": null, \"product\": \"Logitech Logitech Powerplay Wireless Charging System 943-000164\", \"brand\": \"Logitech\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Logitech PRO X Keyboard 920-009239\", \"brand\": \"Logitech\", \"price_sgd\": 149},\n  {\"category\": null, \"product\": \"Logitech G Pro Headset 981-000814\", \"brand\": \"Logitech\", \"price_sgd\": 129},\n  {\"category\": null, \"product\": \"Logitech G Pro X Headset 981-000820\", \"brand\": \"Logitech\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Logitech G Pro X Wireless Headset 981-000909\", \"brand\": \"Logitech\", \"price_sgd\": 269},\n  {\"category\": null, \"product\": \"Logitech Driving Force Shifter 941-000132\", \"brand\": \"Logitech\", \"price_sgd\": 80},\n  {\"category\": null, \"product\": \"Logitech G923 941-000164\", \"brand\": \"Logitech\", \"price_sgd\": 519},\n  {\"category\": null, \"product\": \"Logitech LOGITECH G29 Driving Force Racing Wheel 941-000139\", \"brand\": \"Logitech\", \"price_sgd\": 419},\n  {\"category\": null, \"product\": \"Corsair K55 RGB PRO Gaming Keyboard (IP42 Protection, Spill Resistance) CS-CH-9226765-NA\", \"brand\": \"Corsair\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Corsair K55 RGB PRO + Harpoon RGB Pro Gaming Bundle CS-CH-9226865-NA Gaming Bundle\", \"brand\": \"Corsair\", \"price_sgd\": 119},\n  {\"category\": null, \"product\": \"Corsair K55 RGB PRO + KATAR Pro Gaming Bundle CS-CH-9226965-NA Gaming Bundle\", \"brand\": \"Corsair\", \"price_sgd\": 119},\n  {\"category\": null, \"product\": \"Corsair Wireless Gaming Bundle - K57 RGB Wireless KB + Harpoon RGB Wireless Mouse CS-CH-925C115-NA Wireless Gaming Bundle\", \"brand\": \"Corsair\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Corsair K57 RGB Wireless Gaming Keyboard CS-CH-925C015-NA\", \"brand\": \"Corsair\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Corsair OPX Keyswitches (MIDNIGHT GOLD) CS-CH-912A21A-NA\", \"brand\": \"Corsair\", \"price_sgd\": 399},\n  {\"category\": null, \"product\": \"Corsair K100 RGB Optical-Mechanical Gaming Keyboard - Corsair OPX Keyswitches CS-CH-912A01A-NA\", \"brand\": \"Corsair\", \"price_sgd\": 369},\n  {\"category\": null, \"product\": \"Corsair K100 RGB Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-912A014-NA\", \"brand\": \"Corsair\", \"price_sgd\": 369},\n  {\"category\": null, \"product\": \"Corsair K95 RGB PLATINUM XT Mechanical Gaming Keyboard - Cherry MX Brown CS-CH-9127412-NA\", \"brand\": \"Corsair\", \"price_sgd\": 339},\n  {\"category\": null, \"product\": \"Corsair K95 RGB PLATINUM XT Mechanical Gaming Keyboard - Cherry MX Speed CS-CH-9127414-NA\", \"brand\": \"Corsair\", \"price_sgd\": 339},\n  {\"category\": null, \"product\": \"Corsair K63 Wireless Mechanical Gaming Keyboard - Blue LED - Cherry MX Red CS-CH-9145030-NA\", \"brand\": \"Corsair\", \"price_sgd\": 169},\n  {\"category\": null, \"product\": \"Corsair K63 Wireless Gaming Lapboard for the K63 Wireless Keyboard CS-CH-9510000-WW\", \"brand\": \"Corsair\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Corsair iCUE NEXUS Companion Touch Screen, 5” TFT LCD CS-CH-9910010-AP\", \"brand\": \"Corsair\", \"price_sgd\": 159},\n  {\"category\": null, \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Onyx Black CS-CH-9911060-NA\", \"brand\": \"Corsair\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Arctic White CS-CH-9911040-NA\", \"brand\": \"Corsair\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Mint Green CS-CH-9911080-NA\", \"brand\": \"Corsair\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Rogue Pink CS-CH-9911070-NA\", \"brand\": \"Corsair\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Elgato Blue CS-CH-9911030-NA\", \"brand\": \"Corsair\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Corsair PBT Double-Shot Pro Keycap Mod Kit - Origin Red CS-CH-9911020-NA\", \"brand\": \"Corsair\", \"price_sgd\": 49},\n  {\"category\": null, \"product\": \"Corsair Gaming PBT Double-Shot Keycaps Full 104/105 Keyset - Black CS-CH-9000235-WW\", \"brand\": \"Corsair\", \"price_sgd\": 75},\n  {\"category\": null, \"product\": \"Corsair Gaming PBT Double-Shot Keycaps Full 104/105 Keyset - White CS-CH-9000234-WW\", \"brand\": \"Corsair\", \"price_sgd\": 75},\n  {\"category\": null, \"product\": \"Corsair Gaming Virtuoso RGB Wireless XT High-Fidelity Gaming Headset - Slate CS-CA-9011188-AP\", \"brand\": \"Corsair\", \"price_sgd\": 419},\n  {\"category\": null, \"product\": \"Corsair Gaming Virtuoso RGB Wireless SE High-Fidelity Gaming Headset - Espresso CS-CA-9011181-AP\", \"brand\": \"Corsair\", \"price_sgd\": 329},\n  {\"category\": null, \"product\": \"Corsair Gaming Virtuoso RGB Wireless SE High-Fidelity Gaming Headset - Gunmetal CS-CA-9011180-AP\", \"brand\": \"Corsair\", \"price_sgd\": 329},\n  {\"category\": null, \"product\": \"Corsair Gaming Virtuoso RGB Wireless High-Fidelity Gaming Headset - Carbon CS-CA-9011185-AP\", \"brand\": \"Corsair\", \"price_sgd\": 279},\n  {\"category\": null, \"product\": \"Corsair Gaming Virtuoso RGB Wireless High-Fidelity Gaming Headset - Pearl CS-CA-9011224-AP\", \"brand\": \"Corsair\", \"price_sgd\": 279},\n  {\"category\": null, \"product\": \"Corsair Gaming Virtuoso RGB Wireless High-Fidelity Gaming Headset - White CS-CA-9011186-AP\", \"brand\": \"Corsair\", \"price_sgd\": 279},\n  {\"category\": null, \"product\": \"Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - Carbon CS-CA-9011201-AP\", \"brand\": \"Corsair\", \"price_sgd\": 189},\n  {\"category\": null, \"product\": \"Corsair VOID RGB ELITE Wireless Premium Gaming Headset with 7.1 Surround Sound - White CS-CA-9011202-AP\", \"brand\": \"Corsair\", \"price_sgd\": 189},\n  {\"category\": null, \"product\": \"Corsair VOID RGB ELITE USB Premium Gaming Headset with 7.1 Surround Sound - Carbon CS-CA-9011203-AP\", \"brand\": \"Corsair\", \"price_sgd\": 139},\n  {\"category\": null, \"product\": \"Corsair HS80 RGB Wireless Premium Gaming Headset with Spatial Audio - Carbon CS-CA-9011235-AP\", \"brand\": \"Corsair\", \"price_sgd\": 229},\n  {\"category\": null, \"product\": \"Corsair HS70 Bluetooth Multi-Platform Wired Gaming Headset CS-CA-9011227-AP\", \"brand\": \"Corsair\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Corsair HS75 XB Wireless Gaming Headset for Xbox X and Xbox One CS-CA-9011222-AP\", \"brand\": \"Corsair\", \"price_sgd\": 219},\n  {\"category\": null, \"product\": \"Corsair HS60 HAPTIC Stereo Gaming Headset with Haptic Bass CS-CA-9011225-AP\", \"brand\": \"Corsair\", \"price_sgd\": 199},\n  {\"category\": null, \"product\": \"Corsair HS35 Gaming Headset - Carbon CS-CA-9011195-AP\", \"brand\": \"Corsair\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Corsair HS35 Gaming Headset - Blue CS-CA-9011196-AP\", \"brand\": \"Corsair\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Corsair HS35 Gaming Headset - Green CS-CA-9011197-AP\", \"brand\": \"Corsair\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Corsair HS35 Gaming Headset - Red CS-CA-9011198-AP\", \"brand\": \"Corsair\", \"price_sgd\": 79},\n  {\"category\": null, \"product\": \"Corsair HS50 Pro Gaming Headset - Carbon CS-CA-9011215-AP\", \"brand\": \"Corsair\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Corsair HS50 Pro Gaming Headset - Green CS-CA-9011216-AP\", \"brand\": \"Corsair\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Corsair HS50 Pro Gaming Headset - Blue CS-CA-9011217-AP\", \"brand\": \"Corsair\", \"price_sgd\": 99},\n  {\"category\": null, \"product\": \"Corsair HS60 Pro Gaming Headset - Carbon CS-CA-9011213-AP\", \"brand\": \"Corsair\", \"price_sgd\": 129},\n  {\"category\": null, \"product\": \"Corsair HS60 Pro Gaming Headset - Yellow CS-CA-9011214-AP\", \"brand\": \"Corsair\", \"price_sgd\": 129},\n  {\"category\": null, \"product\": \"Corsair HS70 Pro Wireless SE Gaming Headset - Cream CS-CA-9011210-AP\", \"brand\": \"Corsair\", \"price_sgd\": 179},\n  {\"category\": null, \"product\": \"Corsair HS70 Pro Wireless Gaming Headset - Carbon CS-CA-9011211-AP\", \"brand\": \"Corsair\", \"price_sgd\": 179}\n]}"
+}

@@ -1,0 +1,1463 @@
+{
+  "sha256": "f4fc5499896d84c7a7a949c8874ccb038477c1f369911a9e025d043f365b4c21",
+  "vendor": "bizgram",
+  "page_number": 11,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Coiled Cable - Pink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - Dracula Castle (TTC Silver Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.9
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - World Tour London (TTC Silver Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - JK Girl (CS Sakura Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Profile - Chicago (158pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.9
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Low Profile - Black & Pink (155pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.9
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Clear Transparent Keycap Sets (Full Transparent) Green Characters",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS",
+      "brand": "Asus",
+      "product": "Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS",
+      "brand": "Asus",
+      "product": "Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS",
+      "brand": "Asus",
+      "product": "Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": "ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS",
+      "brand": "Asus",
+      "product": "Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": null,
+      "product": "Google Chromecast 3 HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": null,
+      "product": "Google Chromecast 4K with Google TV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": null,
+      "product": "Microsoft Wireless Display Adapter V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Google & Roku & Xioami Products",
+      "brand": null,
+      "product": "Roku Streaming Stick + 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM ERGOSTAND AIR SLIM NOTEBOOK STA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL ERGOSTAND III 4 USB HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL ERGOSTAND LITE W/2 USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL X3 W/20CM BLUE LED FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL i300 BLACK 16CM BLUE LE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL X-SLIM II 20CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL X-LITE II 2 USB HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL L2 W/16CM LED FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1Y",
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL L1 16CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL i100 W/14CM FAN BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Cooler Master Notebook Cooler Cooling Fan",
+      "brand": "Cooler Master",
+      "product": "CM NOTEPAL CMC3 W/20CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Ivory) BHR5909GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Midnight Blue) BHR5785GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh 22.5W Lite TH BHR9357TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Magnetic Power Bank 6000mAh TH BHR9077TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh (Integrated Cable) Ice Blue TH BHR9103TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh (Integrated Cable) Tan TH BHR9139TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Tan TH BHR8974TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Blue TH BHR8977TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 18W Power Bank 30000mAh TH BHR9130TH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 80W Adaptive Wireless Charging Stand BHR8304GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 50W Wireless Charging Stand Pro BHR7560GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi 20W Wireless Charging Stand GDS4145GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Midnight Black BHR8337GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Glacier Silver BHR8340GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Titan Gray BHR8642GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Mystic Rose BHR8345GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Beige White BHR9441GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Black BHR9444GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Pink BHR9917GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Arctic Blue BHR8346GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch S3 Silver BHR7873GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch S3 Black BHR7874GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Sliver Case With Gray TPU Strap BHR8034GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Black Case With Black TPU Strap BHR8035GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Titan Gray Case With White Leather Strap BHR9306GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - 4G LTE Black Case with Black Fluororubber Strap BHR7208GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - 4G LTE Silver Case with Brown Leather Strap BHR7210GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - Bluetooth® Silver Case with Brown Leather Strap BHR7216GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro-Bluetooth® Black Case with Black Fluororubber Strap BHR7211GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Kids Watch (Pink) BHR7069GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Kids Watch (Blue) BHR7070GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Active Midnight Black BHR8784GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Active Matte Silver BHR8790GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Lite Black BHR8789GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Lite Light Gold BHR8791GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Body Composition Scale S400 BHR7793GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.9
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi Smart Scale 2 (White) NUN4056GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C200 BHR6766GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C300 BHR6540GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C400 BHR6619GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C500 Pro BHR8088GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C700 EU BHR9182EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C300 Dual EU BHR9166EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C500 Dual EU BHR8755EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi Camera 2K (Magnetic Mount) BHR5255GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW300 EU BHR8097EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW400 UK BHR7625HK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW500 Dual EU BHR9402EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW700S EU BHR9401EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera AW300 BHR6816EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera Base Station BHR8618GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 5 Pro-Midnight Black BHR7660GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 5 Pro-Moonlight White BHR7662GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 5 Pro-Aurora Purple BHR7799GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play White BHR8773GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play Pink BHR8775GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play Black BHR8776GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play Blue BHR9283GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Lite Black BHR8653GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Lite White BHR8655GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Lite Blue BHR8660GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - White BHR8391GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - Black BHR8396GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - Transparent blue BHR8394GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - Transparent powder BHR8395GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Buds 5-Titan Gray BHR8116GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Buds 5-Ceramic White BHR8117GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Buds 5-Graphite Black BHR8118GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi OpenWear Stereo Sandstone Beige BHR8473GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi OpenWear Stereo Cosmic Gray BHR8474GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi Portable Bluetooth Speaker -Grey BHR4802GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.5
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Bluetooth Speaker Mini QBH4274GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Bluetooth Speaker QBH4275GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi 20W Wireless Charging Stand GDS4145GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Midnight Black BHR8337GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Glacier Silver BHR8340GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Titan Gray BHR8642GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Mystic Rose BHR8345GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Beige White BHR9441GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Black BHR9444GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Pink BHR9917GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Arctic Blue BHR8346GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner G20 Lite EU BHR8195EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner G20 EU BHR8831EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner G20 Max EU BHR8828EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 330.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Truclean W20 Wet Dry Vacuum EU BHR8833EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 252.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dust Mite Vacuum Cleaner 2 GB BHR8277GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dust Mite Vacuum Cleaner Pro GB BHR8942GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum E10 EU BHR6783EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 191.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum S20+ (White) EU BHR8159EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 341.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum S20 (White) EU BHR8629EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 231.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum X20+ UK BHR8125ENSG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 584.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum X20 Pro UK BHR8872EN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 642.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum X20 Max UK BHR9217GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 732.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi Smart Projector 2 BHR5211GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Projector L1 UK BHR9418EN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Projector L1 Pro UK BHR9586EN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV Box S 2nd Gen UK PFJ4155UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A 32 ELA5212GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 229.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 43 ELA5509GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 439.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 55 ELA5511GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 649.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 65 ELA5513GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 799.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 75 ELA5515GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Mi Computer Monitor Light Bar BHR4838GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi 5-in-1 Type-C Hub BHR8804GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse Lite 2 Black GL BHR8916GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse Lite 2 White GL BHR8915GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dual-mode Wireless Mouse 2 (Black) BHR8850GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dual-mode Wireless Mouse 2 (White) BHR8849GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 Black GL BHR8913GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 Blue GL BHR8914GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 Pink GL BHR8911GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 White GL BHR8912GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse Comfort Edition (Black) BHR9359GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse Comfort Edition (White) BHR9354GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Gaming Mouse Lite GL BHR8869GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Keyboard and Mouse Combo BHR6100GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi WiFi Range Extender N300 UK DVB4417UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Router BE3600 2.5G UK DVB4495UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Router AX3000T UK DVB4425GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Mesh System AX3000 NE(1 pack) UK DVB4461GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Mesh System AX3000 NE(2 pack) UK DVB4460GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Mesh System AX3000 NE UK(3 pack) DVB4488UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Mesh System BE3600 Pro UK(1-PACK) DVB4476UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Mesh System BE3600 Pro UK(2-PACK) DVB4513UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 240.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Soundbar 2.0 UK S22V QBH4296GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Induction Cooker Lite UK BHR8131GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Multifunctional Cooker 1.5L UK BHR8971GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": "Xiaomi MI Products / Redmi",
+      "brand": "Xiaomi",
+      "product": "Xiaomi Sound Outdoor Speaker(30W) Black QBH4261GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    }
+  ],
+  "numeric_tokens_in_source": 276,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 161/276 = 0.58",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Coiled Cable - Pink\",\n      \"warranty\": null,\n      \"price_sgd\": 35.9\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Keyboard 5108S RGB - Dracula Castle (TTC Silver Linear)\",\n      \"warranty\": null,\n      \"price_sgd\": 40.9\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Keyboard 5108S RGB - World Tour London (TTC Silver Linear)\",\n      \"warranty\": null,\n      \"price_sgd\": 49.9\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Keyboard 5108S RGB - JK Girl (CS Sakura Linear)\",\n      \"warranty\": null,\n      \"price_sgd\": 43.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Keycap - ASA Profile - Chicago (158pcs)\",\n      \"warranty\": null,\n      \"price_sgd\": 44.9\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Keycap - ASA Low Profile - Black & Pink (155pcs)\",\n      \"warranty\": null,\n      \"price_sgd\": 64.9\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AKKO\",\n      \"product\": \"AKKO Clear Transparent Keycap Sets (Full Transparent) Green Characters\",\n      \"warranty\": null,\n      \"price_sgd\": 79.0\n    },\n    {\n      \"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\",\n      \"warranty\": null,\n      \"price_sgd\": 1599.0\n    },\n    {\n      \"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\",\n      \"warranty\": null,\n      \"price_sgd\": 1329.0\n    },\n    {\n      \"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B\",\n      \"warranty\": null,\n      \"price_sgd\": 569.0\n    },\n    {\n      \"category\": \"ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA BAREBONE - ADD RAM SSD OS\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P\",\n      \"warranty\": null,\n      \"price_sgd\": 829.0\n    },\n    {\n      \"category\": \"Google & Roku & Xioami Products\",\n      \"brand\": null,\n      \"product\": \"Google Chromecast 3 HDMI\",\n      \"warranty\": null,\n      \"price_sgd\": 85.0\n    },\n    {\n      \"category\": \"Google & Roku & Xioami Products\",\n      \"brand\": null,\n      \"product\": \"Google Chromecast 4K with Google TV\",\n      \"warranty\": null,\n      \"price_sgd\": 125.0\n    },\n    {\n      \"category\": \"Google & Roku & Xioami Products\",\n      \"brand\": null,\n      \"product\": \"Microsoft Wireless Display Adapter V1\",\n      \"warranty\": null,\n      \"price_sgd\": 199.0\n    },\n    {\n      \"category\": \"Google & Roku & Xioami Products\",\n      \"brand\": null,\n      \"product\": \"Roku Streaming Stick + 4K\",\n      \"warranty\": null,\n      \"price_sgd\": 129.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM ERGOSTAND AIR SLIM NOTEBOOK STA\",\n      \"warranty\": null,\n      \"price_sgd\": 58.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL ERGOSTAND III 4 USB HUB\",\n      \"warranty\": null,\n      \"price_sgd\": 74.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL ERGOSTAND LITE W/2 USB\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL X3 W/20CM BLUE LED FAN\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL i300 BLACK 16CM BLUE LE\",\n      \"warranty\": null,\n      \"price_sgd\": 33.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL X-SLIM II 20CM FAN\",\n      \"warranty\": null,\n      \"price_sgd\": 33.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL X-LITE II 2 USB HUB\",\n      \"warranty\": null,\n      \"price_sgd\": 33.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL L2 W/16CM LED FAN\",\n      \"warranty\": \"1Y\",\n      \"price_sgd\": 33.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL L1 16CM FAN\",\n      \"warranty\": null,\n      \"price_sgd\": 28.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL i100 W/14CM FAN BLACK\",\n      \"warranty\": null,\n      \"price_sgd\": 24.0\n    },\n    {\n      \"category\": \"Cooler Master Notebook Cooler Cooling Fan\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CM NOTEPAL CMC3 W/20CM FAN\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Ivory) BHR5909GL\",\n      \"warranty\": null,\n      \"price_sgd\": 52.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Midnight Blue) BHR5785GL\",\n      \"warranty\": null,\n      \"price_sgd\": 52.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Power Bank 10000mAh 22.5W Lite TH BHR9357TH\",\n      \"warranty\": null,\n      \"price_sgd\": 14.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Magnetic Power Bank 6000mAh TH BHR9077TH\",\n      \"warranty\": null,\n      \"price_sgd\": 53.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Power Bank 10000mAh (Integrated Cable) Ice Blue TH BHR9103TH\",\n      \"warranty\": null,\n      \"price_sgd\": 21.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Power Bank 10000mAh (Integrated Cable) Tan TH BHR9139TH\",\n      \"warranty\": null,\n      \"price_sgd\": 21.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Tan TH BHR8974TH\",\n      \"warranty\": null,\n      \"price_sgd\": 31.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Blue TH BHR8977TH\",\n      \"warranty\": null,\n      \"price_sgd\": 31.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 18W Power Bank 30000mAh TH BHR9130TH\",\n      \"warranty\": null,\n      \"price_sgd\": 39.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 80W Adaptive Wireless Charging Stand BHR8304GL\",\n      \"warranty\": null,\n      \"price_sgd\": 110.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 50W Wireless Charging Stand Pro BHR7560GL\",\n      \"warranty\": null,\n      \"price_sgd\": 53.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi 20W Wireless Charging Stand GDS4145GL\",\n      \"warranty\": null,\n      \"price_sgd\": 19.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Midnight Black BHR8337GL\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Glacier Silver BHR8340GL\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Titan Gray BHR8642GL\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Mystic Rose BHR8345GL\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL\",\n      \"warranty\": null,\n      \"price_sgd\": 95.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL\",\n      \"warranty\": null,\n      \"price_sgd\": 95.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL\",\n      \"warranty\": null,\n      \"price_sgd\": 95.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Active Beige White BHR9441GL\",\n      \"warranty\": null,\n      \"price_sgd\": 30.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Active Black BHR9444GL\",\n      \"warranty\": null,\n      \"price_sgd\": 30.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Active Pink BHR9917GL\",\n      \"warranty\": null,\n      \"price_sgd\": 30.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Arctic Blue BHR8346GL\",\n      \"warranty\": null,\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch S3 Silver BHR7873GL\",\n      \"warranty\": null,\n      \"price_sgd\": 239.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch S3 Black BHR7874GL\",\n      \"warranty\": null,\n      \"price_sgd\": 239.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Sliver Case With Gray TPU Strap BHR8034GL\",\n      \"warranty\": null,\n      \"price_sgd\": 199.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Black Case With Black TPU Strap BHR8035GL\",\n      \"warranty\": null,\n      \"price_sgd\": 199.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Titan Gray Case With White Leather Strap BHR9306GL\",\n      \"warranty\": null,\n      \"price_sgd\": 229.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Pro - 4G LTE Black Case with Black Fluororubber Strap BHR7208GL\",\n      \"warranty\": null,\n      \"price_sgd\": 309.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Pro - 4G LTE Silver Case with Brown Leather Strap BHR7210GL\",\n      \"warranty\": null,\n      \"price_sgd\": 309.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Pro - Bluetooth® Silver Case with Brown Leather Strap BHR7216GL\",\n      \"warranty\": null,\n      \"price_sgd\": 269.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Watch 2 Pro-Bluetooth® Black Case with Black Fluororubber Strap BHR7211GL\",\n      \"warranty\": null,\n      \"price_sgd\": 269.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Kids Watch (Pink) BHR7069GL\",\n      \"warranty\": null,\n      \"price_sgd\": 85.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Kids Watch (Blue) BHR7070GL\",\n      \"warranty\": null,\n      \"price_sgd\": 85.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Watch 5 Active Midnight Black BHR8784GL\",\n      \"warranty\": null,\n      \"price_sgd\": 39.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Watch 5 Active Matte Silver BHR8790GL\",\n      \"warranty\": null,\n      \"price_sgd\": 39.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Watch 5 Lite Black BHR8789GL\",\n      \"warranty\": null,\n      \"price_sgd\": 62.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Watch 5 Lite Light Gold BHR8791GL\",\n      \"warranty\": null,\n      \"price_sgd\": 62.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Body Composition Scale S400 BHR7793GL\",\n      \"warranty\": null,\n      \"price_sgd\": 25.9\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi Smart Scale 2 (White) NUN4056GL\",\n      \"warranty\": null,\n      \"price_sgd\": 19.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C200 BHR6766GL\",\n      \"warranty\": null,\n      \"price_sgd\": 36.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C300 BHR6540GL\",\n      \"warranty\": null,\n      \"price_sgd\": 41.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C400 BHR6619GL\",\n      \"warranty\": null,\n      \"price_sgd\": 50.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C500 Pro BHR8088GL\",\n      \"warranty\": null,\n      \"price_sgd\": 65.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C700 EU BHR9182EU\",\n      \"warranty\": null,\n      \"price_sgd\": 80.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C300 Dual EU BHR9166EU\",\n      \"warranty\": null,\n      \"price_sgd\": 69.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Camera C500 Dual EU BHR8755EU\",\n      \"warranty\": null,\n      \"price_sgd\": 80.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi Camera 2K (Magnetic Mount) BHR5255GL\",\n      \"warranty\": null,\n      \"price_sgd\": 43.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Outdoor Camera CW300 EU BHR8097EU\",\n      \"warranty\": null,\n      \"price_sgd\": 55.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Outdoor Camera CW400 UK BHR7625HK\",\n      \"warranty\": null,\n      \"price_sgd\": 67.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Outdoor Camera CW500 Dual EU BHR9402EU\",\n      \"warranty\": null,\n      \"price_sgd\": 88.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Outdoor Camera CW700S EU BHR9401EU\",\n      \"warranty\": null,\n      \"price_sgd\": 100.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Outdoor Camera AW300 BHR6816EU\",\n      \"warranty\": null,\n      \"price_sgd\": 55.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Outdoor Camera Base Station BHR8618GL\",\n      \"warranty\": null,\n      \"price_sgd\": 34.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 5 Pro-Midnight Black BHR7660GL\",\n      \"warranty\": null,\n      \"price_sgd\": 99.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 5 Pro-Moonlight White BHR7662GL\",\n      \"warranty\": null,\n      \"price_sgd\": 99.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 5 Pro-Aurora Purple BHR7799GL\",\n      \"warranty\": null,\n      \"price_sgd\": 99.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Play White BHR8773GL\",\n      \"warranty\": null,\n      \"price_sgd\": 11.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Play Pink BHR8775GL\",\n      \"warranty\": null,\n      \"price_sgd\": 11.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Play Black BHR8776GL\",\n      \"warranty\": null,\n      \"price_sgd\": 11.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Play Blue BHR9283GL\",\n      \"warranty\": null,\n      \"price_sgd\": 11.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Lite Black BHR8653GL\",\n      \"warranty\": null,\n      \"price_sgd\": 24.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Lite White BHR8655GL\",\n      \"warranty\": null,\n      \"price_sgd\": 24.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Lite Blue BHR8660GL\",\n      \"warranty\": null,\n      \"price_sgd\": 24.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Active - White BHR8391GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Active - Black BHR8396GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Active - Transparent blue BHR8394GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Redmi Buds 6 Active - Transparent powder BHR8395GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Buds 5-Titan Gray BHR8116GL\",\n      \"warranty\": null,\n      \"price_sgd\": 112.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Buds 5-Ceramic White BHR8117GL\",\n      \"warranty\": null,\n      \"price_sgd\": 112.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Buds 5-Graphite Black BHR8118GL\",\n      \"warranty\": null,\n      \"price_sgd\": 112.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi OpenWear Stereo Sandstone Beige BHR8473GL\",\n      \"warranty\": null,\n      \"price_sgd\": 149.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi OpenWear Stereo Cosmic Gray BHR8474GL\",\n      \"warranty\": null,\n      \"price_sgd\": 149.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi Portable Bluetooth Speaker -Grey BHR4802GL\",\n      \"warranty\": null,\n      \"price_sgd\": 32.5\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Bluetooth Speaker Mini QBH4274GL\",\n      \"warranty\": null,\n      \"price_sgd\": 44.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Bluetooth Speaker QBH4275GL\",\n      \"warranty\": null,\n      \"price_sgd\": 87.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi 20W Wireless Charging Stand GDS4145GL\",\n      \"warranty\": null,\n      \"price_sgd\": 19.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Midnight Black BHR8337GL\",\n      \"warranty\": null,\n      \"price_sgd\": 50.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Glacier Silver BHR8340GL\",\n      \"warranty\": null,\n      \"price_sgd\": 50.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Titan Gray BHR8642GL\",\n      \"warranty\": null,\n      \"price_sgd\": 50.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Mystic Rose BHR8345GL\",\n      \"warranty\": null,\n      \"price_sgd\": 50.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL\",\n      \"warranty\": null,\n      \"price_sgd\": 96.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL\",\n      \"warranty\": null,\n      \"price_sgd\": 96.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL\",\n      \"warranty\": null,\n      \"price_sgd\": 96.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Active Beige White BHR9441GL\",\n      \"warranty\": null,\n      \"price_sgd\": 30.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Active Black BHR9444GL\",\n      \"warranty\": null,\n      \"price_sgd\": 30.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Active Pink BHR9917GL\",\n      \"warranty\": null,\n      \"price_sgd\": 30.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Band 9 Arctic Blue BHR8346GL\",\n      \"warranty\": null,\n      \"price_sgd\": 50.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Vacuum Cleaner G20 Lite EU BHR8195EU\",\n      \"warranty\": null,\n      \"price_sgd\": 110.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Vacuum Cleaner G20 EU BHR8831EU\",\n      \"warranty\": null,\n      \"price_sgd\": 250.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Vacuum Cleaner G20 Max EU BHR8828EU\",\n      \"warranty\": null,\n      \"price_sgd\": 330.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Truclean W20 Wet Dry Vacuum EU BHR8833EU\",\n      \"warranty\": null,\n      \"price_sgd\": 252.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Dust Mite Vacuum Cleaner 2 GB BHR8277GB\",\n      \"warranty\": null,\n      \"price_sgd\": 56.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Dust Mite Vacuum Cleaner Pro GB BHR8942GB\",\n      \"warranty\": null,\n      \"price_sgd\": 80.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Robot Vacuum E10 EU BHR6783EU\",\n      \"warranty\": null,\n      \"price_sgd\": 191.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Robot Vacuum S20+ (White) EU BHR8159EU\",\n      \"warranty\": null,\n      \"price_sgd\": 341.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Robot Vacuum S20 (White) EU BHR8629EU\",\n      \"warranty\": null,\n      \"price_sgd\": 231.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Robot Vacuum X20+ UK BHR8125ENSG\",\n      \"warranty\": null,\n      \"price_sgd\": 584.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Robot Vacuum X20 Pro UK BHR8872EN\",\n      \"warranty\": null,\n      \"price_sgd\": 642.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Robot Vacuum X20 Max UK BHR9217GB\",\n      \"warranty\": null,\n      \"price_sgd\": 732.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi Smart Projector 2 BHR5211GL\",\n      \"warranty\": null,\n      \"price_sgd\": 699.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Projector L1 UK BHR9418EN\",\n      \"warranty\": null,\n      \"price_sgd\": 279.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Smart Projector L1 Pro UK BHR9586EN\",\n      \"warranty\": null,\n      \"price_sgd\": 409.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi TV Box S 2nd Gen UK PFJ4155UK\",\n      \"warranty\": null,\n      \"price_sgd\": 155.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi TV A 32 ELA5212GL\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 229.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi TV A Pro 2025 43 ELA5509GL\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 439.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi TV A Pro 2025 55 ELA5511GL\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 649.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi TV A Pro 2025 65 ELA5513GL\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 799.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi TV A Pro 2025 75 ELA5515GL\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 1199.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Mi Computer Monitor Light Bar BHR4838GL\",\n      \"warranty\": null,\n      \"price_sgd\": 46.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi 5-in-1 Type-C Hub BHR8804GL\",\n      \"warranty\": null,\n      \"price_sgd\": 35.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse Lite 2 Black GL BHR8916GL\",\n      \"warranty\": null,\n      \"price_sgd\": 11.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse Lite 2 White GL BHR8915GL\",\n      \"warranty\": null,\n      \"price_sgd\": 11.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Dual-mode Wireless Mouse 2 (Black) BHR8850GL\",\n      \"warranty\": null,\n      \"price_sgd\": 17.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Dual-mode Wireless Mouse 2 (White) BHR8849GL\",\n      \"warranty\": null,\n      \"price_sgd\": 17.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse 3 Black GL BHR8913GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse 3 Blue GL BHR8914GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse 3 Pink GL BHR8911GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse 3 White GL BHR8912GL\",\n      \"warranty\": null,\n      \"price_sgd\": 20.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse Comfort Edition (Black) BHR9359GL\",\n      \"warranty\": null,\n      \"price_sgd\": 13.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Mouse Comfort Edition (White) BHR9354GL\",\n      \"warranty\": null,\n      \"price_sgd\": 13.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Gaming Mouse Lite GL BHR8869GL\",\n      \"warranty\": null,\n      \"price_sgd\": 26.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Wireless Keyboard and Mouse Combo BHR6100GL\",\n      \"warranty\": null,\n      \"price_sgd\": 32.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi WiFi Range Extender N300 UK DVB4417UK\",\n      \"warranty\": null,\n      \"price_sgd\": 12.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Router BE3600 2.5G UK DVB4495UK\",\n      \"warranty\": null,\n      \"price_sgd\": 83.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Router AX3000T UK DVB4425GL\",\n      \"warranty\": null,\n      \"price_sgd\": 59.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Mesh System AX3000 NE(1 pack) UK DVB4461GL\",\n      \"warranty\": null,\n      \"price_sgd\": 60.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Mesh System AX3000 NE(2 pack) UK DVB4460GL\",\n      \"warranty\": null,\n      \"price_sgd\": 116.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Mesh System AX3000 NE UK(3 pack) DVB4488UK\",\n      \"warranty\": null,\n      \"price_sgd\": 165.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Mesh System BE3600 Pro UK(1-PACK) DVB4476UK\",\n      \"warranty\": null,\n      \"price_sgd\": 131.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Mesh System BE3600 Pro UK(2-PACK) DVB4513UK\",\n      \"warranty\": null,\n      \"price_sgd\": 240.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Soundbar 2.0 UK S22V QBH4296GL\",\n      \"warranty\": null,\n      \"price_sgd\": 47.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Induction Cooker Lite UK BHR8131GB\",\n      \"warranty\": null,\n      \"price_sgd\": 56.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Multifunctional Cooker 1.5L UK BHR8971GB\",\n      \"warranty\": null,\n      \"price_sgd\": 41.0\n    },\n    {\n      \"category\": \"Xiaomi MI Products / Redmi\",\n      \"brand\": \"Xiaomi\",\n      \"product\": \"Xiaomi Sound Outdoor Speaker(30W) Black QBH4261GL\",\n      \"warranty\": null,\n      \"price_sgd\": 55.0\n    }\n  ]\n}"
+}

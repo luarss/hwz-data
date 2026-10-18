@@ -1,0 +1,4406 @@
+{
+  "sha256": "f4fc5499896d84c7a7a949c8874ccb038477c1f369911a9e025d043f365b4c21",
+  "vendor": "bizgram",
+  "page_number": 13,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based A8453H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerCore III Sense 10000mah 20W PD A1248H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 533 PowerCore 10000mAh 30W PD PowerBank PPS Charging Black A1256H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 321 Magnetic Battery (MagGo 5000mah) Black A1616H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 321 Magnetic Battery (MagGo 5000mah) White A1616H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerCore Magnetic 5K with Bracket Black A1611H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerCore Magnetic 5K with Bracket White A1611H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerCore Magnetic 5K with Bracket Blue A1611H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 633 Magnetic Battery (MagGo) 10000mah Black A1641H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 633 Magnetic Battery (MagGo) 10000mah White A1641H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 633 Magnetic Battery (MagGo) 10000mah Blue A1641H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 334 MagGo Magnetic Powerbank 10000mAh Black A1642H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 334 MagGo Magnetic Powerbank 10000mAh White A1642H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERCORE ESSENTIAL 20000 BLACK A1268H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 325 PowerBank (PowerCore 20K II) Black A1286H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 325 PowerBank (PowerCore 20K II) White A1286H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERCORE ESSENTIAL 20000 PD 20W Black A1287H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERCORE 26800MAH POWERBANK BLACK A1277H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerCore III Elite 19200mah 60W A1284H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 537 PowerBank PowerCore 24000mah 65W Gray A1379H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 737 Power Bank 140W (PowerCore 24000mah) GanPrime A1289011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERHOUSE II 400 A1730211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 521 Portable Power Station (PowerHouse 256Wh) A1720213",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 535 Portable Power Station (PowerHouse 512Wh) A1751211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 757 Portable Power Station A1770211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerExtend USB 4 strip White A9141K21 (4 Plug + 2 USB) A9141K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerExtend PD 3 with 1 PD 2 USB Strip (3 Plug + 2 USB + 1 USB C) A9136K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort Mini 2 USB Port 12W Total White A2620222 A2620222",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER 24W 4.8A 2-PORT USB CHARGER SG PLUG A2021K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERPORT 6 60W 12A 6-PORT DESKTOP CHARGER SG PLUG (BLACK) A2123K12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Nano Pro Charger Dual USB C 40W SG Plug Black A2038K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Nano Pro Charger Dual USB C 40W SG Plug White A2038K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III Nano-20W version-High voltage black (PD) A2633K12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III Nano-20W version-High voltage white (PD) A2633K22",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 511 Charger (Nano 3, 30W) Black A2147K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 511 Charger (Nano 3, 30W) White A2147K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 511 Charger (Nano 3, 30W) Blue A2147K31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 737 Charger (GaNPrime 120W) Black A2148211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III 20W Cube Black A2149K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III 20W Cube White A2149K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 313 Charger 45W Black A2643K11 (Samsung Super Fast Charge) A2643K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 313 Charger 45W Black A2643K21 (Samsung Super Fast Charge) A2643K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III 3-Port 65W Pod 2C+1A A2667K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 735 Charger (GaNPrime 65W) 2C+1A Black A2668211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 735 Charger (GaNPrime 65W) 2C+1A Golden A26682B1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERPORT I WITH 1 USB C POWER DELIVERY & 4 PowerIQ SG PLUG BLACK A2056K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERPORT ATOM III SLIM 4 Ports 65W (USB C 45W) A2045K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 725 Charger (65W) 1A + 1C Black A2325K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 323 Charger (33W) 1A + 1C Black A2331K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 323 Charger (33W) 1A + 1C White A2331K21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerport Atom III 65W Slim 2 USB C + 2 USB Black A2046212",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 736 Charger (Nano II 100W) B2B - SA/KW/AE/SG/MY/HK Black Iteration 1 A2145K11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III Nano 20W Captain America A2633235",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerPort III Nano 20W Iron Man A2633295",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-A to USB-C 2.0 Cable 10ft Black A8874011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to Lightning Cable (3ft Braided) Black A81B5H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to Lightning Cable (3ft Braided) White A81B5H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to Lightning Cable (6ft Braided) Black A81B6H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to Lightning Cable (6ft Braided) White A81B6H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to Lightning Cable (10ft Braided) Black A81B7H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to Lightning Cable (10ft Braided) White A81B7H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Black A80B1H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) White A80B1H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Green A80B1H61",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Blue A80B1H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Black A80B2H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) White A80B2H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Green A80B2H61",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Blue A80B2H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline II with lightning connector 3ft Black A8432H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline II with lightning connector 3ft White A8432H22",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline II with lightning Connector 6ft Black A8433H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline II with lightning Connector 6ft White A8433H22",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 765 USB-C to USB-C Cable (140W 3ft Nylon) Black A88650A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 765 USB-C to USB-C Cable (140W 6ft Nylon) Black A88660A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to USB-C Cable (3ft Braided) Black A81F5H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to USB-C Cable (3ft Braided) White A81F5H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to USB-C Cable (6ft Braided) Black A81F6H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to USB-C Cable (6ft Braided) White A81F6H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to USB-C Cable (10ft Braided) Black A81F7H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-C to USB-C Cable (10ft Braided) White A81F7H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) Black A80F1H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) White A80F1H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) Green A80F1H61",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) Blue A80F1H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) Black A80F2H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) White A80F2H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) Green A80F2H61",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) Blue A80F2H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-A to USB-C Cable (3ft Braided) Black A81H5H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-A to USB-C Cable (3ft Braided) White A81H5H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-A to USB-C Cable (6ft Braided) Black A81H6H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-A to USB-C Cable (6ft Braided) White A81H6H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-A to USB-C Cable (10ft Braided) Black A81H7H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 322 USB-A to USB-C Cable (10ft Braided) White A81H7H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to Lightning 2.0 Cable 1ft Black A8831011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to Lightning 2.0 Cable 3ft Black A8832H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to Lightning 2.0 Cable 3ft White A8832H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to Lightning 2.0 Cable 6ft Black A8833H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to Lightning 2.0 Cable 6ft White A8833H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to Lightning 3ft Black A8662H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to Lightning 3ft White A8662H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to Lightning 3ft Pink A8662H51",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C with Lightning Connector 3ft A8662H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to Lightning 6ft Black A8663H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to Lightning 6ft White A8663H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to Lightning 6ft Pink A8663H51",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline Select+ USB C to Lightning 3ft Black A8617H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline Select+ USB C to Lightning 6ft Black A8618H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE+ II USB-C TO LIGHTNING C 3FT BLACK (C TO L) A8652H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE+ II USB-C TO C CABLE CONNECTOR 3FT RED (C TO L) A8652H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ III USB-C cable with Lightning 6ft 24K Gold A8843HB1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE II 3 IN 1 CABLE BLACK (LIGHTNING / TYPE C / MICRO) A8436H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III LIGHTNING CABLE 3FT BLACK A8812H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III LIGHTNING CABLE 3FT WHITE A8812H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III LIGHTNING CABLE 6FT BLACK A8813H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III LIGHTNING CABLE 6FT WHITE A8813H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 3FT BLACK A8012H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 3FT RED A8012H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 6FT BLACK A8013H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 6FT RED A8013H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline+ II Lightning Cable 1FT RED A8451H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline+ II Lightning Cable 1FT BLACK A8451H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline+ II Lightning Cable 3FT BLACK A8452H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline+ II Lightning Cable 3FT RED A8452H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline+ II Lightning Cable 6FT BLACK A8453H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker Powerline+ II Lightning Cable 6FT RED A8453H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Green A80B1H61",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Blue A80B1H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Black A80B2H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) White A80B2H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Green A80B2H61",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Blue A80B2H31",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE MICRO USB (3FT/0.9M) BLACK A8132H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE MICRO USB (6FT/1.8M) BLACK A8133H12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB-C TO USB-C 60W 3FT BLACK A8032H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB-C TO USB-C 60W 3FT RED A8032H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB-C TO USB 2.0 BLACK 3FT A8022H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB-C TO USB 2.0 RED 3FT A8022H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB-C TO USB 2.0 BLACK 6FT A8023H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE SELECT+ USB-C TO USB 2.0 RED 6FT A8023H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III USB-C TO USB-C 1FT BLACK A8851011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III USB-C TO USB-C 3FT BLACK A8852H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III USB-C TO USB-C 3FT WHITE A8852H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III USB-C TO USB-C 6FT BLACK A8853H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III USB-C TO USB-C 6FT WHITE A8553H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE III USB-C TO USB-C 10FT BLACK A8854011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE+ III USB-C TO USB-C 2.0 3ft Cable A8862H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE+ III USB-C TO USB-C 2.0 3ft Cable A8862H91",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C 3ft Cable Black A8552H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C 3ft Cable White A8552H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C 6ft Cable Black A8553H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to USB-C 100W 2.0 Cable 6ft Black A8856H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III USB-C to USB-C 100W 2.0 Cable 6ft White A8856H21",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE+ II USB-C TO USB-A 2.0 CABLE 3FT RED A8462091",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE+ II USB-C TO USB-A 2.0 CABLE 6FT BLACK A8463H11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB C to C Cable 3ft Captain America A9547031",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB C to C Cable 6ft Captain America A9549031",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB-C to USB-C Cable 6ft Iron Man A9549091",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB-C to USB-C Cable 3ft Iron Man A9547091",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB-C with Lightning 6ft Captain America A9551031",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB-C with Lightning 3ft Captain America A9548031",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB-C with Lightning 6ft Iron Man A9551091",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine+ II USB-C with Lightning 3ft Iron Man A9548091",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C Cable A8552031",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C Cable B2C - UN Violet Iteration 1 A85520V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C Cable B2C - UN Yellow Iteration 1 A8553071",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerLine III Flow USB-C to USB-C Cable B2C - UN Violet Iteration 1 A85530V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker USB-C to USB 3.0 Female Adapter 2-pack B87310A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER POWERLINE USB-C TO MICRO USB FEMALE ADAPTER BLACK 2PCS PER PACK B8174011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER USB-C TO USB-A FEMALE ADAPTER GRAY A81750A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker USB-C to HDMI 1.8m / 6ft Cable 4K 60Hz Video A8176011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker USB-C to Ethernet Adapter Gray A83410A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker USB-C to 4-Port USB 3.0 Hub Gray A83050A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 2-in-1 SD3.0 Card Reader - Gray A83260A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.95
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER PREMIUM 3-IN-1 USB-C HUB GRAY (C to HDMI , USB C) A8335HA1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER PREMIUM 4-IN-1 USB-C HUB GRAY (C to 4 USB) A8321HA1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER PREMIUM 4-IN-1 USB-C HUB GRAY A83360A1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerExpand+ 5-in-1 USB-C Ethernet Hub A8338HA1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker PowerExpand+ 7-in-1 USB-C PD Media Hub A83460A2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Anker 563 USB-C Hub (11-in-1) A83850A3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.95
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB BLACK (20CM) A7516011",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB BLACK (60CM) A7516012",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA BY ANKER MARS II PRO PORTABLE PROJECTOR - BLACK D2323211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA COSMOS MAX 4K HOME ENTERTAINMENT PROJECTOR D2150211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1999.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NUBULA COSMOS 1080P HOME ENTERTAINMENT PROJECTOR D2140211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Nebula Cosmos Laser 4K Projector B2C - UK Black+Gray Iteration 1 Nebula Polaris Pro D23502F1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3099.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA BY ANKER CAPSULE II PORTABLE PROJECTOR BLACK D2421V11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "NEBULA BY ANKER APOLLO UK BLACK D2410V11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Nebula Capsule II/Capsule Max Travel Case B2C - US Black Iteration 2 Capsule II/Capsule Max Trav D0708112",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.95
+    },
+    {
+      "category": null,
+      "brand": "Anker",
+      "product": "Nebula Apollo Carry Case B2C - US Black Iteration 1 Apollo Carry Case D0709111",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.95
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP AMP300 Hybrid Gaming Mo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GP AMP500 Hybrid Gaming Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AMP 900 MICRO FABRIC SPILL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS P7 RGB Mouse Pad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte M6880X USB 1600 DPI LASER T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS M2 USB 6200 DPI OPTIC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS M5 USB 16000 DPI OPTI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS H1 USB GAMING STEREO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte AORUS H5 USB GAMING STEREO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte KM6300 LOW PROFILE MULTIMED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM FORCE M9 ICE Performance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM XM300 Gaming Optical Sen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM KRYPTON Aivia Krypton Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM URANIUM AIVIA URANIUM WI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GM NEON Dynamic Wireless Pr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GK FORCE K81 BLUE GIGABYTE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GK AORUS K1 Cherry MX Mecha",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GK AORUS K7 Cherry MX Mecha",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT102464BD160B 1600 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT102464BF160B 1600 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT4G4DFS824A 2400 DESKTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT4G4DFS8266 2666 DESKTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT4G4SFS824A 2400 LAPTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT4G4SFS8266 2666 LAPTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT16G4DFD8266 2666 DESKTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT16G4DFD832A 3200 DESKTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFD824A 2400 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFD8266 2666 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFD832A 3200 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT16G4SFS8266 2666 LAPTOP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT32G4DFD8266 2666 DESKTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT32G4SFD8266 2666 LAPTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT51264BD160B 1600 DESKTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT51264BF160B 1600 LAPTOP",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFRA266 2666 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFS824A 2400 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFS8266 2666 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS6266 2666 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS824A 2400 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS8266 2666 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4SFS832A 3200 LAPTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT8G4DFS832A 3200 DESKTOP",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT32G4DFD832A 3200 DESKTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial CT32G4SFD832A 3200 LAPTOP",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial Ballistix BL8G32C16U4B 3200Mhz 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial Ballistix BL8G32C16U4R 3200Mhz 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial Ballistix BL8G32C16U4W 3200Mhz 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD220Q 50 TS500GSSD220Q",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD220Q 1T TS1TSSD220Q",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD220Q 2T TS2TSSD220Q",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 12 TS128GSSD230S",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 25 TS256GSSD230S",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 51 TS512GSSD230S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 1T TS1TSSD230S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD230S 2T TS2TSSD230S",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD220 120 TS120GSSD220S",
+      "variant": "120GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD220 240 TS240GSSD220S",
+      "variant": "240GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD220 480 TS480GSSD220S",
+      "variant": "480GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS820S 12 TS120GMTS820S",
+      "variant": "120GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS820S 24 TS240GMTS820S",
+      "variant": "240GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS820S 48 TS480GMTS820S",
+      "variant": "480GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS430S 25 TS256GMTS430S",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS430S 51 TS512GMTS430S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS830S 25 TS256GMTS830S",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS830S 51 TS512GMTS830S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS830S 1T TS1TMTS830S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTS830S 2T TS2TMTS830S",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE220S 25 TS256GMTE220S",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE220S 51 TS512GMTE220S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE220S 1T TS1TMTE220S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE220S 2T TS2TMTE220S",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE240S 50 TS500GMTE240S",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE240S 1T TS1TMTE240S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE112S 1T TS1TMTE112S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE112S 51 TS512GMTE112S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE110S 12 TS128GMTE110S",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE110S 25 TS256GMTE110S",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE110S 51 TS512GMTE110S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend MTE110S 1T TS1TMTE110S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD370 128 TS128GSSD370S",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.4
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD370 256 TS256GSSD370S",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.8
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD370 512 TS512GSSD370S",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 270.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend SSD370 1TB TS1TSSD370S",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 522.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend ESD240C Po TS240GESD240C",
+      "variant": "240GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend ESD240C Po TS480GESD240C",
+      "variant": "480GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend ESD250C Po TS960GESD250C",
+      "variant": "960GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend ESD350C Po TS480GESD350C",
+      "variant": "480GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend ESD350C Po TS960GESD350C",
+      "variant": "960GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 350V High TS64GUSD350V",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.8
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 350V High TS128GUSD350V",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.6
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 64GB Micro TS64GUSD330S",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.6
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 128GB Micr TS128GUSD330S",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.2
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 16GB UHS-I TS16GUSD300S-A",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.76
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 32GB UHS-I TS32GUSD300S-A",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.8
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 64GB UHS-I TS64GUSD300S-A",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 128GB UHS- TS128GUSD300S-A",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.8
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 256GB UHS- TS256GUSD300S-A4",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.6
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 512GB UHS- TS512GUSD300S-A",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 U TS-RDF9K2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 M TS-RDC8K2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 Mu TS-RDF8K2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 Mu TS-RDF8W2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 SD TS-RDF5K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 SD TS-RDF5W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 SD TS-RDF5R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.0 CF TS-RDF2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend PCMCIA ATA TS0MCF2PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 4-Port HUB TS-HUB2C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 Hu TS-HUB2K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 Hu TS-HUB3K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend HUB5C 6-in TS-HUB5C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend Smart Read TS-RDP9K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend RDC3 USB 3 TS-RDC3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend Smart Read TS-RDA2W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 8X Externa TS8XDVDS-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 8X Externa TS8XDVDS-K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 St TS0GSJ25S3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 St TS0GSJ25CK3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 - TS-CM80S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.9
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend USB 3.1 - TS-CM42S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 51.9
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 4600G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 4650G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i3 10105 CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 194.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i3 10105F CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11400F CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11400 CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 316.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11500 CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 349.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11600KF CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 412.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11600K CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i7 11700F CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 527.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i7 11700 CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i7 11700K CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i9 11900F CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 639.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i9 11900KF CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 647.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel 11th Gen i9 11900K CPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Charcoal Black TG Dark Tint FD-C-NOR1C-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Chalk White FD-C-NOR1C-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Chalk White TG Clear Tint FD-C-NOR1C-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black TG Light Tint FD-C-TOR1A-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Gray TG Light Tint FD-C-TOR1A-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent White TG Clear Tint FD-C-TOR1A-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black RGB TG Light Tint FD-C-TOR1A-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 375.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black Solid FD-C-TOR1A-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black TG Dark Tint FD-C-TOR1A-06",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent RGB White TG clear tint FD-C-TOR1A-07",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 375.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact Black TG Dark Tint FD-C-TOR1C-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact RGB Black TG Light Tint FD-C-TOR1C-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact White TG Clear Tint FD-C-TOR1C-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact Black Solid FD-C-TOR1C-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano Black TG Dark Tint FD-C-TOR1N-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 200.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano RGB Black TG Light Tint FD-C-TOR1N-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano White TG Clear Tint FD-C-TOR1N-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 200.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano Black Solid FD-C-TOR1N-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 XL Black TG Dark Tint FD-C-MES2X-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 320.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 XL Black TG Light Tint FD-C-MES2X-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 320.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 RGB Black TG Light tint FD-C-MES2A-06",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 RGB White TG Clear tint FD-C-MES2A-08",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Black Solid FD-C-MES2A-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Black TG Dark Tint FD-C-MES2A-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Black TG Light Tint FD-C-MES2A-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Gray TG Light Tint FD-C-MES2A-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 White TG Clear Tint FD-C-MES2A-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite Black TG Light tint FD-C-MEL2A-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite White TG Clear FD-C-MEL2A-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite RGB Black TG Light tint FD-C-MEL2A-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Black Solid FD-C-MES2C-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Black TG Dark Tint FD-C-MES2C-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Black TG Light Tint FD-C-MES2C-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Gray TG Light Tint FD-C-MES2C-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact White TG Clear Tint FD-C-MES2C-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact RGB Black TG Light Tint FD-C-MES2C-06",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact RGB White TG Clear Tint FD-C-MES2C-08",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite Black TG Light tint FD-C-MEL2C-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite White TG Clear FD-C-MEL2C-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite RGB Black TG Light tint FD-C-MEL2C-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Mini Black TG Dark Tint FD-C-MES2M-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Mini White TG Clear Tint FD-C-MES2M-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Nano Black TG Dark Tint FD-C-MES2N-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Nano White TG Clear Tint FD-C-MES2N-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL Black - Solid Panel FD-C-DEF7X-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 330.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL Black - Light Tint Tempered Glass FD-C-DEF7X-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL Black - Dark Tint Tempered Glass FD-C-DEF7X-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Black Solid FD-C-DEF7A-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Black TG Light Tint FD-C-DEF7A-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 282.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Black TG Dark Tint FD-C-DEF7A-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 282.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 White TG Clear Tint FD-C-DEF7A-06",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 282.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Grey TG Light Tint FD-C-DEF7A-08",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 282.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact Black Solid FD-C-DEF7C-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact White Solid FD-C-DEF7C-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact Black TG Dark Tint FD-C-DEF7C-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact Black TG Light Tint FD-C-DEF7C-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact White TG Clear Tint FD-C-DEF7C-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Mini Black Solid FD-C-DEF7M-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Mini Black TG Light Tint FD-C-DEF7M-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Nano Black Solid FD-C-DEF7N-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Nano Black TG Light Tint FD-C-DEF7N-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air Black Solid FD-C-POA1A-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air Black TG Clear Tint FD-C-POA1A-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air White TG Clear Tint FD-C-POA1A-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB White TG Clear Tint FD-C-POR1A-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Cyan Core TG Clear Tint FD-C-POR1A-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Magenta Core TG Clear Tint FD-C-POR1A-03",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Green Core TG Clear Tint FD-C-POR1A-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Orange Core TG Clear Tint FD-C-POR1A-05",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Black TG Clear Tint FD-C-POR1A-06",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Silent Black Solid FD-C-POS1A-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Silent Black TG Clear Tint FD-C-POS1A-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Silent White TG Clear Tint FD-C-POS1A-04",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Air RGB White TG Clear Tint FD-C-POR1M-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Air RGB Black TG Clear Tint FD-C-POR1M-06",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Silent Black Solid FD-C-POS1M-01",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Silent Black TG Clear Tint FD-C-POS1M-02",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 7000D Airflow , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 7000D Airflow , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 7000X RGB , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 7000X RGB , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 5000X RGB TG , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 5000X RGB TG , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 5000D Airflow TG , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 5000D Airflow TG , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 5000D TG , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 4000X RGB TG , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 4000X RGB TG , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 4000D TG , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 4000D TG , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 4000D Airflow TG , White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R Airflow , Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R Airflow , Whit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — Black ( TG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — White ( TG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — Black (Windo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — White (Windo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275Q Quiet Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 100R Silent Edition",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 100R Mid Tower",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "CORSAIR Carbide 175R RGB TG Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 220T RGB Airflow TG Sma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair iCUE 220T RGB Airflow TG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE 465X RGB TG - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE 465X RGB TG - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Crystal 280X RGB TG — Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Crystal 280X RGB TG — White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "CORSAIR Crystal 680X RGB -Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "CORSAIR Crystal 680X RGB -White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 678C - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Carbide 678C - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Obsidian 500D RGB SE Premium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Crystal 570X RGB TG Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Crystal 570X RGB TG White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Crystal 570X RGB TG Black Mirror",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Obsidian 1000D Super-Tower",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP TS-233 2-Bay 2GB RAM Desktop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 2-Bay Desktop NAS, Intel Cele",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 682.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay Desktop ARM A-55 2GHz C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 627.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 4-bay Intel Celeron N5105/N50",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 869.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay NAS AMD Ryzen quad-cor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1166.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay NAS, Intel Core i3-8100",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2233.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay quad-core 1.7GHz 1U sho",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 979.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP Short depth 1U rackmount 4-ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1056.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 6-bay Intel Celeron N5105/N50",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1100.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 6-bay NAS, AMD Ryzen V1000 se",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1320.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 6-Bay NAS, Intel Core i3 NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2640.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 8-bay NAS, AMD Ryzen V1000 s",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1595.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 8-Bay NAS, Intel core i5-8400",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3080.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP TS-873AeU-RP-4G 8-Bay Rackmou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2772.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 9-bay NAS, AMD Ryzen V1500B 4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1452.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 2-bay 3.5” SATA HDD USB 3.1 G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 4-bay 3.5” SATA HDD USB 3.0 t",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 341.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP M.2 2280 PCIe NVMe to U.2 PCI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP QM2-2P-384 Dual M.2 PCIe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 242.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP QM2-4P-384 Quad M.2 PCIe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 2 x PCIe Gen3 NVMe SSD & 1 x",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 341.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP QXG-10G1TB Single-port (10Gba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP 2 x RJ-45 10gBe Ports PCIe 3.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 337.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP CAB-DAC30M-SFPP SFP+ 10GbE tw",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP CAB-SAS05M-8644 Mini SAS cabl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-ADAPTER-65W-A01 65W exter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-ADAPTER-90W-A01 90W exter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 116.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP SP-2BAY-ADAPTOR-90W 90W exter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-ADAPTER-120W-A01 120W 4pi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 143.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-100W-DT01 100W open f",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 132.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-250W-DT02 250W Delta",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 171.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-300W-DT01 300W power",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-300W-DT02 300W power",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP SP-469U-S-PSU 250W single pow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 424.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP RAIL-B02 Rack Slide Rail Kit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": "QNAP",
+      "product": "QNAP RAIL-A02-90 A02 (Chass",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 9 5950X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1059.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 9 5900X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 759.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 7 5800X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5700X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5600X",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 7 5700G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 502.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5600G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5600",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5500",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 3 3200G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    }
+  ],
+  "numeric_tokens_in_source": 201,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 488 rows, limit 407",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based A8453H11\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerCore III Sense 10000mah 20W PD A1248H11\", \"price_sgd\": 69.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 533 PowerCore 10000mAh 30W PD PowerBank PPS Charging Black A1256H11\", \"price_sgd\": 69.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 321 Magnetic Battery (MagGo 5000mah) Black A1616H11\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 321 Magnetic Battery (MagGo 5000mah) White A1616H21\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerCore Magnetic 5K with Bracket Black A1611H11\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerCore Magnetic 5K with Bracket White A1611H21\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerCore Magnetic 5K with Bracket Blue A1611H31\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 633 Magnetic Battery (MagGo) 10000mah Black A1641H11\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 633 Magnetic Battery (MagGo) 10000mah White A1641H21\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 633 Magnetic Battery (MagGo) 10000mah Blue A1641H31\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 334 MagGo Magnetic Powerbank 10000mAh Black A1642H11\", \"price_sgd\": 89.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 334 MagGo Magnetic Powerbank 10000mAh White A1642H21\", \"price_sgd\": 89.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERCORE ESSENTIAL 20000 BLACK A1268H11\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 325 PowerBank (PowerCore 20K II) Black A1286H11\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 325 PowerBank (PowerCore 20K II) White A1286H21\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERCORE ESSENTIAL 20000 PD 20W Black A1287H11\", \"price_sgd\": 99.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERCORE 26800MAH POWERBANK BLACK A1277H11\", \"price_sgd\": 99.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerCore III Elite 19200mah 60W A1284H11\", \"price_sgd\": 119.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 537 PowerBank PowerCore 24000mah 65W Gray A1379H11\", \"price_sgd\": 139.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 737 Power Bank 140W (PowerCore 24000mah) GanPrime A1289011\", \"price_sgd\": 249.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERHOUSE II 400 A1730211\", \"price_sgd\": 799},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 521 Portable Power Station (PowerHouse 256Wh) A1720213\", \"price_sgd\": 699},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 535 Portable Power Station (PowerHouse 512Wh) A1751211\", \"price_sgd\": 999},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 757 Portable Power Station A1770211\", \"price_sgd\": 2199},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerExtend USB 4 strip White A9141K21 (4 Plug + 2 USB) A9141K21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerExtend PD 3 with 1 PD 2 USB Strip (3 Plug + 2 USB + 1 USB C) A9136K21\", \"price_sgd\": 49.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort Mini 2 USB Port 12W Total White A2620222 A2620222\", \"price_sgd\": 23.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER 24W 4.8A 2-PORT USB CHARGER SG PLUG A2021K11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERPORT 6 60W 12A 6-PORT DESKTOP CHARGER SG PLUG (BLACK) A2123K12\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Nano Pro Charger Dual USB C 40W SG Plug Black A2038K11\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Nano Pro Charger Dual USB C 40W SG Plug White A2038K21\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III Nano-20W version-High voltage black (PD) A2633K12\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III Nano-20W version-High voltage white (PD) A2633K22\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 511 Charger (Nano 3, 30W) Black A2147K11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 511 Charger (Nano 3, 30W) White A2147K21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 511 Charger (Nano 3, 30W) Blue A2147K31\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 737 Charger (GaNPrime 120W) Black A2148211\", \"price_sgd\": 129.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III 20W Cube Black A2149K11\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III 20W Cube White A2149K21\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 313 Charger 45W Black A2643K11 (Samsung Super Fast Charge) A2643K11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 313 Charger 45W Black A2643K21 (Samsung Super Fast Charge) A2643K21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III 3-Port 65W Pod 2C+1A A2667K11\", \"price_sgd\": 69.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 735 Charger (GaNPrime 65W) 2C+1A Black A2668211\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 735 Charger (GaNPrime 65W) 2C+1A Golden A26682B1\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERPORT I WITH 1 USB C POWER DELIVERY & 4 PowerIQ SG PLUG BLACK A2056K11\", \"price_sgd\": 69.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERPORT ATOM III SLIM 4 Ports 65W (USB C 45W) A2045K11\", \"price_sgd\": 65.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 725 Charger (65W) 1A + 1C Black A2325K11\", \"price_sgd\": 55.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 323 Charger (33W) 1A + 1C Black A2331K11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 323 Charger (33W) 1A + 1C White A2331K21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerport Atom III 65W Slim 2 USB C + 2 USB Black A2046212\", \"price_sgd\": 69.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 736 Charger (Nano II 100W) B2B - SA/KW/AE/SG/MY/HK Black Iteration 1 A2145K11\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III Nano 20W Captain America A2633235\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerPort III Nano 20W Iron Man A2633295\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-A to USB-C 2.0 Cable 10ft Black A8874011\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to Lightning Cable (3ft Braided) Black A81B5H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to Lightning Cable (3ft Braided) White A81B5H21\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to Lightning Cable (6ft Braided) Black A81B6H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to Lightning Cable (6ft Braided) White A81B6H21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to Lightning Cable (10ft Braided) Black A81B7H11\", \"price_sgd\": 49.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to Lightning Cable (10ft Braided) White A81B7H21\", \"price_sgd\": 49.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Black A80B1H11\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) White A80B1H21\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Green A80B1H61\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Blue A80B1H31\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Black A80B2H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) White A80B2H21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Green A80B2H61\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Blue A80B2H31\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline II with lightning connector 3ft Black A8432H12\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline II with lightning connector 3ft White A8432H22\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline II with lightning Connector 6ft Black A8433H12\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline II with lightning Connector 6ft White A8433H22\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 765 USB-C to USB-C Cable (140W 3ft Nylon) Black A88650A1\", \"price_sgd\": 35.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 765 USB-C to USB-C Cable (140W 6ft Nylon) Black A88660A1\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to USB-C Cable (3ft Braided) Black A81F5H11\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to USB-C Cable (3ft Braided) White A81F5H21\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to USB-C Cable (6ft Braided) Black A81F6H11\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to USB-C Cable (6ft Braided) White A81F6H21\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to USB-C Cable (10ft Braided) Black A81F7H11\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-C to USB-C Cable (10ft Braided) White A81F7H21\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) Black A80F1H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) White A80F1H21\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) Green A80F1H61\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 3ft) Blue A80F1H31\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) Black A80F2H11\", \"price_sgd\": 35.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) White A80F2H21\", \"price_sgd\": 35.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) Green A80F2H61\", \"price_sgd\": 35.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 544 USB-C to USB-C Cable (Bio-Based 6ft) Blue A80F2H31\", \"price_sgd\": 35.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-A to USB-C Cable (3ft Braided) Black A81H5H11\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-A to USB-C Cable (3ft Braided) White A81H5H21\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-A to USB-C Cable (6ft Braided) Black A81H6H11\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-A to USB-C Cable (6ft Braided) White A81H6H21\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-A to USB-C Cable (10ft Braided) Black A81H7H11\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 322 USB-A to USB-C Cable (10ft Braided) White A81H7H21\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to Lightning 2.0 Cable 1ft Black A8831011\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to Lightning 2.0 Cable 3ft Black A8832H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to Lightning 2.0 Cable 3ft White A8832H21\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to Lightning 2.0 Cable 6ft Black A8833H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to Lightning 2.0 Cable 6ft White A8833H21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to Lightning 3ft Black A8662H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to Lightning 3ft White A8662H21\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to Lightning 3ft Pink A8662H51\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C with Lightning Connector 3ft A8662H31\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to Lightning 6ft Black A8663H11\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to Lightning 6ft White A8663H21\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to Lightning 6ft Pink A8663H51\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline Select+ USB C to Lightning 3ft Black A8617H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline Select+ USB C to Lightning 6ft Black A8618H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE+ II USB-C TO LIGHTNING C 3FT BLACK (C TO L) A8652H11\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE+ II USB-C TO C CABLE CONNECTOR 3FT RED (C TO L) A8652H91\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ III USB-C cable with Lightning 6ft 24K Gold A8843HB1\", \"price_sgd\": 99.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE II 3 IN 1 CABLE BLACK (LIGHTNING / TYPE C / MICRO) A8436H12\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III LIGHTNING CABLE 3FT BLACK A8812H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III LIGHTNING CABLE 3FT WHITE A8812H21\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III LIGHTNING CABLE 6FT BLACK A8813H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III LIGHTNING CABLE 6FT WHITE A8813H21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 3FT BLACK A8012H12\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 3FT RED A8012H91\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 6FT BLACK A8013H12\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB LIGHTNING CABLE 6FT RED A8013H91\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline+ II Lightning Cable 1FT RED A8451H91\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline+ II Lightning Cable 1FT BLACK A8451H11\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline+ II Lightning Cable 3FT BLACK A8452H11\", \"price_sgd\": 36.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline+ II Lightning Cable 3FT RED A8452H91\", \"price_sgd\": 36.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline+ II Lightning Cable 6FT BLACK A8453H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker Powerline+ II Lightning Cable 6FT RED A8453H91\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Green A80B1H61\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 3ft) Blue A80B1H31\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Black A80B2H11\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) White A80B2H21\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Green A80B2H61\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 542 USB-C to Lightning Cable (Bio-Based 6ft) Blue A80B2H31\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE MICRO USB (3FT/0.9M) BLACK A8132H12\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE MICRO USB (6FT/1.8M) BLACK A8133H12\", \"price_sgd\": 22.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB-C TO USB-C 60W 3FT BLACK A8032H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB-C TO USB-C 60W 3FT RED A8032H91\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB-C TO USB 2.0 BLACK 3FT A8022H11\", \"price_sgd\": 27.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB-C TO USB 2.0 RED 3FT A8022H91\", \"price_sgd\": 27.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB-C TO USB 2.0 BLACK 6FT A8023H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE SELECT+ USB-C TO USB 2.0 RED 6FT A8023H91\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III USB-C TO USB-C 1FT BLACK A8851011\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III USB-C TO USB-C 3FT BLACK A8852H11\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III USB-C TO USB-C 3FT WHITE A8852H21\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III USB-C TO USB-C 6FT BLACK A8853H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III USB-C TO USB-C 6FT WHITE A8553H21\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE III USB-C TO USB-C 10FT BLACK A8854011\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE+ III USB-C TO USB-C 2.0 3ft Cable A8862H11\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE+ III USB-C TO USB-C 2.0 3ft Cable A8862H91\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C 3ft Cable Black A8552H11\", \"price_sgd\": 27.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C 3ft Cable White A8552H21\", \"price_sgd\": 27.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C 6ft Cable Black A8553H11\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to USB-C 100W 2.0 Cable 6ft Black A8856H11\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III USB-C to USB-C 100W 2.0 Cable 6ft White A8856H21\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE+ II USB-C TO USB-A 2.0 CABLE 3FT RED A8462091\", \"price_sgd\": 28.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE+ II USB-C TO USB-A 2.0 CABLE 6FT BLACK A8463H11\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB C to C Cable 3ft Captain America A9547031\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB C to C Cable 6ft Captain America A9549031\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB-C to USB-C Cable 6ft Iron Man A9549091\", \"price_sgd\": 34.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB-C to USB-C Cable 3ft Iron Man A9547091\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB-C with Lightning 6ft Captain America A9551031\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB-C with Lightning 3ft Captain America A9548031\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB-C with Lightning 6ft Iron Man A9551091\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine+ II USB-C with Lightning 3ft Iron Man A9548091\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C Cable A8552031\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C Cable B2C - UN Violet Iteration 1 A85520V1\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C Cable B2C - UN Yellow Iteration 1 A8553071\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerLine III Flow USB-C to USB-C Cable B2C - UN Violet Iteration 1 A85530V1\", \"price_sgd\": 19.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker USB-C to USB 3.0 Female Adapter 2-pack B87310A1\", \"price_sgd\": 23.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER POWERLINE USB-C TO MICRO USB FEMALE ADAPTER BLACK 2PCS PER PACK B8174011\", \"price_sgd\": 23.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER USB-C TO USB-A FEMALE ADAPTER GRAY A81750A1\", \"price_sgd\": 23.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker USB-C to HDMI 1.8m / 6ft Cable 4K 60Hz Video A8176011\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker USB-C to Ethernet Adapter Gray A83410A1\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker USB-C to 4-Port USB 3.0 Hub Gray A83050A1\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 2-in-1 SD3.0 Card Reader - Gray A83260A1\", \"price_sgd\": 29.95},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER PREMIUM 3-IN-1 USB-C HUB GRAY (C to HDMI , USB C) A8335HA1\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER PREMIUM 4-IN-1 USB-C HUB GRAY (C to 4 USB) A8321HA1\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER PREMIUM 4-IN-1 USB-C HUB GRAY A83360A1\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerExpand+ 5-in-1 USB-C Ethernet Hub A8338HA1\", \"price_sgd\": 79.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker PowerExpand+ 7-in-1 USB-C PD Media Hub A83460A2\", \"price_sgd\": 89.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Anker 563 USB-C Hub (11-in-1) A83850A3\", \"price_sgd\": 139.95},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB BLACK (20CM) A7516011\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"ANKER ULTRA SLIM 4-PORT USB 3.0 DATA HUB BLACK (60CM) A7516012\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA BY ANKER MARS II PRO PORTABLE PROJECTOR - BLACK D2323211\", \"price_sgd\": 899},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA COSMOS MAX 4K HOME ENTERTAINMENT PROJECTOR D2150211\", \"price_sgd\": 1999},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NUBULA COSMOS 1080P HOME ENTERTAINMENT PROJECTOR D2140211\", \"price_sgd\": 1099},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Nebula Cosmos Laser 4K Projector B2C - UK Black+Gray Iteration 1 Nebula Polaris Pro D23502F1\", \"price_sgd\": 3099},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA BY ANKER CAPSULE II PORTABLE PROJECTOR BLACK D2421V11\", \"price_sgd\": 999},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"NEBULA BY ANKER APOLLO UK BLACK D2410V11\", \"price_sgd\": 699},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Nebula Capsule II/Capsule Max Travel Case B2C - US Black Iteration 2 Capsule II/Capsule Max Trav D0708112\", \"price_sgd\": 59.95},\n  {\"category\": null, \"brand\": \"Anker\", \"product\": \"Nebula Apollo Carry Case B2C - US Black Iteration 1 Apollo Carry Case D0709111\", \"price_sgd\": 49.95},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GP AMP300 Hybrid Gaming Mo\", \"price_sgd\": 39},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GP AMP500 Hybrid Gaming Mou\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AMP 900 MICRO FABRIC SPILL\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS P7 RGB Mouse Pad\", \"price_sgd\": 80},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte M6880X USB 1600 DPI LASER T\", \"price_sgd\": 26},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS M2 USB 6200 DPI OPTIC\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS M5 USB 16000 DPI OPTI\", \"price_sgd\": 93},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS H1 USB GAMING STEREO\", \"price_sgd\": 93},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte AORUS H5 USB GAMING STEREO\", \"price_sgd\": 101},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte KM6300 LOW PROFILE MULTIMED\", \"price_sgd\": 20},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM FORCE M9 ICE Performance\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM XM300 Gaming Optical Sen\", \"price_sgd\": 74},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM KRYPTON Aivia Krypton Du\", \"price_sgd\": 101},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM URANIUM AIVIA URANIUM WI\", \"price_sgd\": 169},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GM NEON Dynamic Wireless Pr\", \"price_sgd\": 53},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GK FORCE K81 BLUE GIGABYTE\", \"price_sgd\": 104},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GK AORUS K1 Cherry MX Mecha\", \"price_sgd\": 147},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GK AORUS K7 Cherry MX Mecha\", \"price_sgd\": 182},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT102464BD160B 1600 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT102464BF160B 1600 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4DFS824A 2400 DESKTOP\", \"variant\": \"4GB\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4DFS8266 2666 DESKTOP\", \"variant\": \"4GB\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4SFS824A 2400 LAPTOP\", \"variant\": \"4GB\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT4G4SFS8266 2666 LAPTOP\", \"variant\": \"4GB\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4DFD8266 2666 DESKTOP\", \"variant\": \"16GB\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4DFD832A 3200 DESKTOP\", \"variant\": \"16GB\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFD824A 2400 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFD8266 2666 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFD832A 3200 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT16G4SFS8266 2666 LAPTOP\", \"variant\": \"16GB\", \"price_sgd\": 109.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4DFD8266 2666 DESKTOP\", \"variant\": \"32GB\", \"price_sgd\": 219.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4SFD8266 2666 LAPTOP\", \"variant\": \"32GB\", \"price_sgd\": 219.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT51264BD160B 1600 DESKTOP\", \"variant\": \"4GB\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT51264BF160B 1600 LAPTOP\", \"variant\": \"4GB\", \"price_sgd\": 32.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFRA266 2666 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFS824A 2400 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFS8266 2666 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS6266 2666 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS824A 2400 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS8266 2666 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4SFS832A 3200 LAPTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT8G4DFS832A 3200 DESKTOP\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4DFD832A 3200 DESKTOP\", \"variant\": \"32GB\", \"price_sgd\": 219.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial CT32G4SFD832A 3200 LAPTOP\", \"variant\": \"32GB\", \"price_sgd\": 219.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial Ballistix BL8G32C16U4B 3200Mhz 8GB\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial Ballistix BL8G32C16U4R 3200Mhz 8GB\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial Ballistix BL8G32C16U4W 3200Mhz 8GB\", \"variant\": \"8GB\", \"price_sgd\": 59.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD220Q 50 TS500GSSD220Q\", \"variant\": \"500GB\", \"price_sgd\": 89},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD220Q 1T TS1TSSD220Q\", \"variant\": \"1TB\", \"price_sgd\": 155},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD220Q 2T TS2TSSD220Q\", \"variant\": \"2TB\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 12 TS128GSSD230S\", \"variant\": \"128GB\", \"price_sgd\": 42},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 25 TS256GSSD230S\", \"variant\": \"256GB\", \"price_sgd\": 65},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 51 TS512GSSD230S\", \"variant\": \"512GB\", \"price_sgd\": 109},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 1T TS1TSSD230S\", \"variant\": \"1TB\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD230S 2T TS2TSSD230S\", \"variant\": \"2TB\", \"price_sgd\": 399},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD220 120 TS120GSSD220S\", \"variant\": \"120GB\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD220 240 TS240GSSD220S\", \"variant\": \"240GB\", \"price_sgd\": 55},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD220 480 TS480GSSD220S\", \"variant\": \"480GB\", \"price_sgd\": 95},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS820S 12 TS120GMTS820S\", \"variant\": \"120GB\", \"price_sgd\": 34},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS820S 24 TS240GMTS820S\", \"variant\": \"240GB\", \"price_sgd\": 55},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS820S 48 TS480GMTS820S\", \"variant\": \"480GB\", \"price_sgd\": 95},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS430S 25 TS256GMTS430S\", \"variant\": \"256GB\", \"price_sgd\": 69},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS430S 51 TS512GMTS430S\", \"variant\": \"512GB\", \"price_sgd\": 109},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS830S 25 TS256GMTS830S\", \"variant\": \"256GB\", \"price_sgd\": 65},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS830S 51 TS512GMTS830S\", \"variant\": \"512GB\", \"price_sgd\": 105},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS830S 1T TS1TMTS830S\", \"variant\": \"1TB\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTS830S 2T TS2TMTS830S\", \"variant\": \"2TB\", \"price_sgd\": 399},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE220S 25 TS256GMTE220S\", \"variant\": \"256GB\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE220S 51 TS512GMTE220S\", \"variant\": \"512GB\", \"price_sgd\": 125},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE220S 1T TS1TMTE220S\", \"variant\": \"1TB\", \"price_sgd\": 219},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE220S 2T TS2TMTE220S\", \"variant\": \"2TB\", \"price_sgd\": 409},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE240S 50 TS500GMTE240S\", \"variant\": \"500GB\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE240S 1T TS1TMTE240S\", \"variant\": \"1TB\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE112S 1T TS1TMTE112S\", \"variant\": \"1TB\", \"price_sgd\": 179},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE112S 51 TS512GMTE112S\", \"variant\": \"512GB\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE110S 12 TS128GMTE110S\", \"variant\": \"128GB\", \"price_sgd\": 39},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE110S 25 TS256GMTE110S\", \"variant\": \"256GB\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE110S 51 TS512GMTE110S\", \"variant\": \"512GB\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend MTE110S 1T TS1TMTE110S\", \"variant\": \"1TB\", \"price_sgd\": 189},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD370 128 TS128GSSD370S\", \"variant\": \"128GB\", \"price_sgd\": 80.4},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD370 256 TS256GSSD370S\", \"variant\": \"256GB\", \"price_sgd\": 142.8},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD370 512 TS512GSSD370S\", \"variant\": \"512GB\", \"price_sgd\": 270},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend SSD370 1TB TS1TSSD370S\", \"variant\": \"1TB\", \"price_sgd\": 522},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend ESD240C Po TS240GESD240C\", \"variant\": \"240GB\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend ESD240C Po TS480GESD240C\", \"variant\": \"480GB\", \"price_sgd\": 129},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend ESD250C Po TS960GESD250C\", \"variant\": \"960GB\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend ESD350C Po TS480GESD350C\", \"variant\": \"480GB\", \"price_sgd\": 149},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend ESD350C Po TS960GESD350C\", \"variant\": \"960GB\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 350V High TS64GUSD350V\", \"variant\": \"64GB\", \"price_sgd\": 16.8},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 350V High TS128GUSD350V\", \"variant\": \"128GB\", \"price_sgd\": 27.6},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 64GB Micro TS64GUSD330S\", \"variant\": \"64GB\", \"price_sgd\": 18.6},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 128GB Micr TS128GUSD330S\", \"variant\": \"128GB\", \"price_sgd\": 31.2},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 16GB UHS-I TS16GUSD300S-A\", \"variant\": \"16GB\", \"price_sgd\": 5.76},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 32GB UHS-I TS32GUSD300S-A\", \"variant\": \"32GB\", \"price_sgd\": 7.8},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 64GB UHS-I TS64GUSD300S-A\", \"variant\": \"64GB\", \"price_sgd\": 12},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 128GB UHS- TS128GUSD300S-A\", \"variant\": \"128GB\", \"price_sgd\": 22.8},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 256GB UHS- TS256GUSD300S-A4\", \"variant\": \"256GB\", \"price_sgd\": 5.6},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 512GB UHS- TS512GUSD300S-A\", \"variant\": \"512GB\", \"price_sgd\": 96},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 U TS-RDF9K2\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 M TS-RDC8K2\", \"price_sgd\": 43.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 Mu TS-RDF8K2\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 Mu TS-RDF8W2\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 SD TS-RDF5K\", \"price_sgd\": 18.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 SD TS-RDF5W\", \"price_sgd\": 18.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 SD TS-RDF5R\", \"price_sgd\": 18.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.0 CF TS-RDF2\", \"price_sgd\": 75},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend PCMCIA ATA TS0MCF2PC\", \"price_sgd\": 24.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 4-Port HUB TS-HUB2C\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 Hu TS-HUB2K\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 Hu TS-HUB3K\", \"price_sgd\": 39.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend HUB5C 6-in TS-HUB5C\", \"price_sgd\": 69},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend Smart Read TS-RDP9K\", \"price_sgd\": 16.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend RDC3 USB 3 TS-RDC3\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend Smart Read TS-RDA2W\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 8X Externa TS8XDVDS-W\", \"price_sgd\": 58},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 8X Externa TS8XDVDS-K\", \"price_sgd\": 58},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 St TS0GSJ25S3\", \"price_sgd\": 29.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 St TS0GSJ25CK3\", \"price_sgd\": 36.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 - TS-CM80S\", \"price_sgd\": 55.9},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend USB 3.1 - TS-CM42S\", \"price_sgd\": 51.9},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 4600G\", \"price_sgd\": 249},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 4650G\", \"price_sgd\": 289},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i3 10105 CPU\", \"price_sgd\": 194},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i3 10105F CPU\", \"price_sgd\": 135},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i5 11400F CPU\", \"price_sgd\": 288},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i5 11400 CPU\", \"price_sgd\": 316},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i5 11500 CPU\", \"price_sgd\": 349},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i5 11600KF CPU\", \"price_sgd\": 412},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i5 11600K CPU\", \"price_sgd\": 429},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i7 11700F CPU\", \"price_sgd\": 527},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i7 11700 CPU\", \"price_sgd\": 569},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i7 11700K CPU\", \"price_sgd\": 589},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i9 11900F CPU\", \"price_sgd\": 639},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i9 11900KF CPU\", \"price_sgd\": 647},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel 11th Gen i9 11900K CPU\", \"price_sgd\": 649},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design North Charcoal Black TG Dark Tint FD-C-NOR1C-01\", \"price_sgd\": 225},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design North Chalk White FD-C-NOR1C-03\", \"price_sgd\": 225},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design North Chalk White TG Clear Tint FD-C-NOR1C-04\", \"price_sgd\": 225},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Black TG Light Tint FD-C-TOR1A-01\", \"price_sgd\": 305},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Gray TG Light Tint FD-C-TOR1A-02\", \"price_sgd\": 305},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent White TG Clear Tint FD-C-TOR1A-03\", \"price_sgd\": 305},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Black RGB TG Light Tint FD-C-TOR1A-04\", \"price_sgd\": 375},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Black Solid FD-C-TOR1A-05\", \"price_sgd\": 290},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Black TG Dark Tint FD-C-TOR1A-06\", \"price_sgd\": 305},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent RGB White TG clear tint FD-C-TOR1A-07\", \"price_sgd\": 375},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Compact Black TG Dark Tint FD-C-TOR1C-01\", \"price_sgd\": 230},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Compact RGB Black TG Light Tint FD-C-TOR1C-02\", \"price_sgd\": 260},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Compact White TG Clear Tint FD-C-TOR1C-03\", \"price_sgd\": 230},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Compact Black Solid FD-C-TOR1C-04\", \"price_sgd\": 215},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Nano Black TG Dark Tint FD-C-TOR1N-01\", \"price_sgd\": 200},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Nano RGB Black TG Light Tint FD-C-TOR1N-02\", \"price_sgd\": 215},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Nano White TG Clear Tint FD-C-TOR1N-03\", \"price_sgd\": 200},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Torrent Nano Black Solid FD-C-TOR1N-04\", \"price_sgd\": 185},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 XL Black TG Dark Tint FD-C-MES2X-01\", \"price_sgd\": 320},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 XL Black TG Light Tint FD-C-MES2X-02\", \"price_sgd\": 320},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 RGB Black TG Light tint FD-C-MES2A-06\", \"price_sgd\": 279},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 RGB White TG Clear tint FD-C-MES2A-08\", \"price_sgd\": 279},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Black Solid FD-C-MES2A-01\", \"price_sgd\": 230},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Black TG Dark Tint FD-C-MES2A-02\", \"price_sgd\": 250},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Black TG Light Tint FD-C-MES2A-03\", \"price_sgd\": 250},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Gray TG Light Tint FD-C-MES2A-04\", \"price_sgd\": 250},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 White TG Clear Tint FD-C-MES2A-05\", \"price_sgd\": 250},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Lite Black TG Light tint FD-C-MEL2A-03\", \"price_sgd\": 190},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Lite White TG Clear FD-C-MEL2A-04\", \"price_sgd\": 190},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Lite RGB Black TG Light tint FD-C-MEL2A-05\", \"price_sgd\": 225},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Black Solid FD-C-MES2C-01\", \"price_sgd\": 185},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Black TG Dark Tint FD-C-MES2C-02\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Black TG Light Tint FD-C-MES2C-03\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Gray TG Light Tint FD-C-MES2C-04\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact White TG Clear Tint FD-C-MES2C-05\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact RGB Black TG Light Tint FD-C-MES2C-06\", \"price_sgd\": 225},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact RGB White TG Clear Tint FD-C-MES2C-08\", \"price_sgd\": 225},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Lite Black TG Light tint FD-C-MEL2C-03\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Lite White TG Clear FD-C-MEL2C-04\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Compact Lite RGB Black TG Light tint FD-C-MEL2C-05\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Mini Black TG Dark Tint FD-C-MES2M-01\", \"price_sgd\": 185},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Mini White TG Clear Tint FD-C-MES2M-02\", \"price_sgd\": 185},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Nano Black TG Dark Tint FD-C-MES2N-01\", \"price_sgd\": 170},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Meshify 2 Nano White TG Clear Tint FD-C-MES2N-02\", \"price_sgd\": 170},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 XL Black - Solid Panel FD-C-DEF7X-01\", \"price_sgd\": 330},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 XL Black - Light Tint Tempered Glass FD-C-DEF7X-02\", \"price_sgd\": 355},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 XL Black - Dark Tint Tempered Glass FD-C-DEF7X-03\", \"price_sgd\": 355},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Black Solid FD-C-DEF7A-01\", \"price_sgd\": 268},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Black TG Light Tint FD-C-DEF7A-02\", \"price_sgd\": 282},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Black TG Dark Tint FD-C-DEF7A-03\", \"price_sgd\": 282},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 White TG Clear Tint FD-C-DEF7A-06\", \"price_sgd\": 282},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Grey TG Light Tint FD-C-DEF7A-08\", \"price_sgd\": 282},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Compact Black Solid FD-C-DEF7C-01\", \"price_sgd\": 179},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Compact White Solid FD-C-DEF7C-05\", \"price_sgd\": 179},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Compact Black TG Dark Tint FD-C-DEF7C-02\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Compact Black TG Light Tint FD-C-DEF7C-03\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Compact White TG Clear Tint FD-C-DEF7C-04\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Mini Black Solid FD-C-DEF7M-01\", \"price_sgd\": 188},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Mini Black TG Light Tint FD-C-DEF7M-02\", \"price_sgd\": 188},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Nano Black Solid FD-C-DEF7N-01\", \"price_sgd\": 168},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Define 7 Nano Black TG Light Tint FD-C-DEF7N-02\", \"price_sgd\": 168},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air Black Solid FD-C-POA1A-01\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air Black TG Clear Tint FD-C-POA1A-02\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air White TG Clear Tint FD-C-POA1A-03\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air RGB White TG Clear Tint FD-C-POR1A-01\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air RGB Cyan Core TG Clear Tint FD-C-POR1A-02\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air RGB Magenta Core TG Clear Tint FD-C-POR1A-03\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air RGB Green Core TG Clear Tint FD-C-POR1A-04\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air RGB Orange Core TG Clear Tint FD-C-POR1A-05\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Air RGB Black TG Clear Tint FD-C-POR1A-06\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Silent Black Solid FD-C-POS1A-01\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Silent Black TG Clear Tint FD-C-POS1A-02\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Silent White TG Clear Tint FD-C-POS1A-04\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Mini Air RGB White TG Clear Tint FD-C-POR1M-01\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Mini Air RGB Black TG Clear Tint FD-C-POR1M-06\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Mini Silent Black Solid FD-C-POS1M-01\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": \"Fractal Design\", \"product\": \"Fractal Design Pop Mini Silent Black TG Clear Tint FD-C-POS1M-02\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 7000D Airflow , Black\", \"price_sgd\": 329},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 7000D Airflow , White\", \"price_sgd\": 329},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 7000X RGB , Black\", \"price_sgd\": 419},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 7000X RGB , White\", \"price_sgd\": 419},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 5000X RGB TG , Black\", \"price_sgd\": 269},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 5000X RGB TG , White\", \"price_sgd\": 269},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 5000D Airflow TG , Black\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 5000D Airflow TG , White\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 5000D TG , Black\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 4000X RGB TG , Black\", \"price_sgd\": 189},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 4000X RGB TG , White\", \"price_sgd\": 189},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 4000D TG , Black\", \"price_sgd\": 139},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 4000D TG , White\", \"price_sgd\": 139},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 4000D Airflow TG , White\", \"price_sgd\": 139},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275R Airflow , Black\", \"price_sgd\": 119},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275R Airflow , Whit\", \"price_sgd\": 119},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275R — Black ( TG\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275R — White ( TG\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275R — Black (Windo\", \"price_sgd\": 105},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275R — White (Windo\", \"price_sgd\": 105},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 275Q Quiet Gaming\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 100R Silent Edition\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 100R Mid Tower\", \"price_sgd\": 82},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"CORSAIR Carbide 175R RGB TG Gaming\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 220T RGB Airflow TG Sma\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 220T RGB Airflow TG\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"CORSAIR iCUE 465X RGB TG - Black\", \"price_sgd\": 219},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"CORSAIR iCUE 465X RGB TG - White\", \"price_sgd\": 219},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Crystal 280X RGB TG — Black\", \"price_sgd\": 249},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Crystal 280X RGB TG — White\", \"price_sgd\": 249},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"CORSAIR Crystal 680X RGB -Black\", \"price_sgd\": 369},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"CORSAIR Crystal 680X RGB -White\", \"price_sgd\": 369},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 678C - Black\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Carbide 678C - White\", \"price_sgd\": 199},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Obsidian 500D RGB SE Premium\", \"price_sgd\": 389},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Crystal 570X RGB TG Black\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Crystal 570X RGB TG White\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Crystal 570X RGB TG Black Mirror\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Obsidian 1000D Super-Tower\", \"price_sgd\": 729},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP TS-233 2-Bay 2GB RAM Desktop\", \"price_sgd\": 336},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 2-Bay Desktop NAS, Intel Cele\", \"price_sgd\": 682},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 4-Bay Desktop ARM A-55 2GHz C\", \"price_sgd\": 627},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 4-bay Intel Celeron N5105/N50\", \"price_sgd\": 869},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 4-Bay NAS AMD Ryzen quad-cor\", \"price_sgd\": 1166},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 4-Bay NAS, Intel Core i3-8100\", \"price_sgd\": 2233},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 4-Bay quad-core 1.7GHz 1U sho\", \"price_sgd\": 979},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP Short depth 1U rackmount 4-ba\", \"price_sgd\": 1056},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 6-bay Intel Celeron N5105/N50\", \"price_sgd\": 1100},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 6-bay NAS, AMD Ryzen V1000 se\", \"price_sgd\": 1320},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 6-Bay NAS, Intel Core i3 NAS\", \"price_sgd\": 2640},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 8-bay NAS, AMD Ryzen V1000 s\", \"price_sgd\": 1595},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 8-Bay NAS, Intel core i5-8400\", \"price_sgd\": 3080},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP TS-873AeU-RP-4G 8-Bay Rackmou\", \"price_sgd\": 2772},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 9-bay NAS, AMD Ryzen V1500B 4\", \"price_sgd\": 1452},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 2-bay 3.5” SATA HDD USB 3.1 G\", \"price_sgd\": 264},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 4-bay 3.5” SATA HDD USB 3.0 t\", \"price_sgd\": 341},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP M.2 2280 PCIe NVMe to U.2 PCI\", \"price_sgd\": 88},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP QM2-2P-384 Dual M.2 PCIe SSD\", \"price_sgd\": 242},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP QM2-4P-384 Quad M.2 PCIe SSD\", \"price_sgd\": 264},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 2 x PCIe Gen3 NVMe SSD & 1 x\", \"price_sgd\": 341},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP QXG-10G1TB Single-port (10Gba\", \"price_sgd\": 193},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP 2 x RJ-45 10gBe Ports PCIe 3.\", \"price_sgd\": 337},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP CAB-DAC30M-SFPP SFP+ 10GbE tw\", \"price_sgd\": 113},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP CAB-SAS05M-8644 Mini SAS cabl\", \"price_sgd\": 113},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-ADAPTER-65W-A01 65W exter\", \"price_sgd\": 116},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-ADAPTER-90W-A01 90W exter\", \"price_sgd\": 116},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP SP-2BAY-ADAPTOR-90W 90W exter\", \"price_sgd\": 127},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-ADAPTER-120W-A01 120W 4pi\", \"price_sgd\": 143},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-PSU-100W-DT01 100W open f\", \"price_sgd\": 132},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-PSU-250W-DT02 250W Delta\", \"price_sgd\": 171},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-PSU-300W-DT01 300W power\", \"price_sgd\": 319},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP PWR-PSU-300W-DT02 300W power\", \"price_sgd\": 319},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP SP-469U-S-PSU 250W single pow\", \"price_sgd\": 424},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP RAIL-B02 Rack Slide Rail Kit\", \"price_sgd\": 131},\n  {\"category\": null, \"brand\": \"QNAP\", \"product\": \"QNAP RAIL-A02-90 A02 (Chass\", \"price_sgd\": 264},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 9 5950X\", \"price_sgd\": 1059},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 9 5900X\", \"price_sgd\": 759},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 7 5800X\", \"price_sgd\": 589},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 5700X\", \"price_sgd\": 499},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 5600X\", \"price_sgd\": 345},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 7 5700G\", \"price_sgd\": 502},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 5600G\", \"price_sgd\": 359},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 5600\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 5500\", \"price_sgd\": 249},\n  {\"category\": null, \"brand\": \"AMD\", \"product\": \"AMD Ryzen 3 3200G\", \"price_sgd\": 149}\n]}"
+}
