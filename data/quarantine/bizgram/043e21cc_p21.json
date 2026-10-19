@@ -1,0 +1,13 @@
+{
+  "sha256": "043e21cc2473c794d7594d0ecd479a316615116abb4206bf8e238c45c703fb45",
+  "vendor": "bizgram",
+  "page_number": 21,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": "{\"rows\": []}"
+}

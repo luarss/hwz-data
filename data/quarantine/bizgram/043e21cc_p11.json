@@ -1,0 +1,4325 @@
+{
+  "sha256": "043e21cc2473c794d7594d0ecd479a316615116abb4206bf8e238c45c703fb45",
+  "vendor": "bizgram",
+  "page_number": 11,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG RAIKIRI PRO CONTROLLER GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-102IT Gigabit PoE++ Injector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Profile - Chocolate 6934177708022",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 65 ELA5513GL BHR7647GL 6941812745427",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG RAIKIRI GAMING CONTROLLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1005BE 2.5G 5port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 203.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "(178pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C200 BHR6766GL 6941948702615",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Toothbrush T302 (Silver Gray) 6941812703410",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG X SPALDING BASKETBALL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1008P V2 8-Port Gigabit Poe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 186.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Coiled Cable - Pink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 75 ELA5515GL BHR7595GL 6941812743782",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CARD HOLDER II",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-1008PHE V2 8-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - Dracula Castle (TTC Silver Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C300 BHR6540GL 6941948702622",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Electric Toothbrush T501 (Dark Grey) 6934177796296",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS CLAYMORE II W.LESS MECHANICAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5208PLG 8-Port POE+ & SFP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - World Tour London (TTC Silver Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dual-interface Flash Drive 64GB BHR7792GL 6941812751954",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Electric Toothbrush T501 (White) BHR8810GL 6941812791875",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG AZOTH NX SNOW WIRELESS CU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5654PLX 48Port POE+/10G S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1213.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard 5108S RGB - JK Girl (CS Sakura Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C400 BHR6619GL 6934177799921",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Electric Toothbrush T501 (White) BHR8816GL 6941812791820",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "AS ROG FALCHION WIRELESS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GS-5424G 24 Port with SFP Uplink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AKKO Keycap - ASA Profile - Chicago (158pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Camera 2K (Magnetic Mount) BHR5255GL 6934177749032",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Water Flosser 2 BHR9235GL 6941812799390",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG FALCHION ACE NX BLUE KEYB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax IAP1200 AC1200 In-Wall Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keycap - ASA Low Profile - Black & Pink (155pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 5-in-1 Type-C Hub BHR8804GL 6941812706756",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.4
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Shaver S101 BHR7465GL 6941812736616",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX FLARE II NX BLUE AN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax Smart Home KIT IC-5170SC Full",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 214.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Clear Transparent Keycap Sets (Full Transparent) Green Characters",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C500 Pro BHR8088GL 6934177787096",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Shaver S200 Silver GL BHR9529GL 6941812784518",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.5
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX FLARE RGB MECHANICA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax RE11 AC1200 Wireless Dual-band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse Lite BHR6099GL 6941812766392",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Shaver S200 Gray GL BHR9523GL BHR8916GL 6941812792988",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE II 96 NX STOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 213.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax RE11S AC1200 Single Unit mesh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C700 EU BHR9182EU 6941812799161",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse Lite 2 Black GL BHR9529GL 6941812778135",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.5
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE II NX SNOW KE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax RG21S AC2600 Dual Band Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 214.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C300 Dual EU BHR9166EU BHR8915GL 6941812792995",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Shaver S301 BHR7461GL 6941812736654",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE NX DELUXE RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax SC1000 Security Cover for WAP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Camera C500 Dual EU BHR8755EU 6941812792834",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Shaver S700 BHR5721GL 6934177767029",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE NX RGB KEYBOA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax OAP1300 2 x 2 AC Dual-Band Ou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 240.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 Black GL BHR8913GL 6941812790861",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi UniBlade Trimmer BHR7051GL 6941812717974",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE DELUXE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax OAP900 AC 900 Long Range Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 194.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 Blue GL BHR8914GL 6941812792827",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Hair Clipper BHR5891GL 6934177776908",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE TKL DELUXE RX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 228.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax CAP300 2x2 N300 Ceiling-Mount",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW300 EU BHR8097EU 6941812767603",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 54.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 Pink GL BHR8911GL 6941812744383",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Hair Clipper 2 BHR8999GL 6941812796702",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "AS ROG STRIX SCOPE TKL DELUXE RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax AX3000 BT5.0 + Wireless PCIE Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW400 UK BHR7625HK 6941812792858",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Wireless Mouse 3 White GL BHR8912GL 6941812778135",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Handheld Steam Iron EK BHR9026GB 6941812796696",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE TKL NX RGB KE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 160.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax XG-5008 10GBPS 8 Port Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 988.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera CW500 Dual EU BHR9402EU 6941812713006",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Kettle 2 Pro GB BHR9001GB 6941812774564",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE RX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "LR-Link PCIE 1x 1G SFP Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera AW300 BHR6816EU 6941812792421",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Portable Electric Air Compressor 2 BHR7112GL 6941812720974",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE RGB MECHANICA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "LR-Link PCIE 1x 1G ST 100m Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera Solar Panel (BW Series) BHR8352GL 6941812776360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Portable Electric Air Compressor 2 Pro BHR9099GL 6941812797853",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K3 RGB MECHANICAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS305-300UKS 5 Port Unmana",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Solar Outdoor Camera BW400 Pro Set BHR7747GL 6941812748244",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Multifunctional Rice Cooker UK BHR7925UK 6941812758489",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K1 RGB KEYBOARD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS308-300UKS 8 Port Unmana",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera BW500 BHR8301GL 6941948702127",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Multifunctional Rice Cooker 4L GB BHR9108GB 6941812798034",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SPATHA X WIRELESS RGB GAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS516-300UKS 16 Port Unman",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Outdoor Camera Base Station BHR8618GL 6941812786475",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Massage Gun UK BHR5609EN BHR9174GB 6941812799307",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 61.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CHAKRAM X WIRELESS RGB GA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS524-300UKS 24 Port Unman",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Google Chromecast 3 HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 5 Pro-Midnight Black BHR7660GL 6941812746165",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Filtered Water Dispenser Pro UK 6934177762079",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CHAKRAM CORER RGB GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS348-100EUS 48 Port Unman",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 749.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Google Chromecast 4K with Google TV",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 5 Pro-Moonlight White BHR7662GL 6941812746110",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Fascia gun mini Type-C BHR6083GL 6934177786099",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 81.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG HARPE ACE AIM LAB EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Microsoft Wireless Display Adapter V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 5 Pro-Aurora Purple BHR7799GL 6941812752067",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Insulated Kettle 1.8L GL BHR9049GL 6934177717024",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG KERIS WIRELESS AIMPOINT G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS305P-300UKS 5 Port Unman",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Roku Streaming Stick + 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play White BHR8773GL 6941812791271",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Handheld Garment Steamer UK BHR8271UK 6941812774564",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG KERIS WIRELESS RGB GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS305PP-300UKS 5 Port Unma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM ERGOSTAND AIR SLIM NOTEBOOK STA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play Pink BHR8775GL 6941812791295",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Standing Garment Steamer UK BHR9025GB 6941812796702",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG KERIS RGB GAMING MOUSE (2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS108LP-100EUS 8 Port Unma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM ERGOSTAND AIR SLIM NOTEBOOK STA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play Black BHR8776GL 6941812796603",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Kettle 2 UK BHR5928HK 6934177778278",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG PUGIO II WIRELESS RGB GAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS108PP-100EUS 8 Port Unma",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL ERGOSTAND III 4 USB HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Play Blue BHR9283GL 6941812737071",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Kettle S1 EU BHR9539EU 6934177719783",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 54.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS III WIRELESS AIMP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS116LP-100EUS 16 Port Unm",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL ERGOSTAND LITE W/2 USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Lite Black BHR8653GL 6941812773086",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Kettle 2 Pro GB BHR9001GB 6941812796696",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS III RGB GAMING MO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS116PP-100EUS 16 Port Unm",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL X3 W/20CM BLUE LED FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Lite White BHR8655GL 6941812785201",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Portable Electric Air Compressor 2 BHR7112GL 6941812720974",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS II WIRELESS RGB G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS305EP-100UKS 5 Port Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL i300 BLACK 16CM BLUE LE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Lite Blue BHR8660GL 6941812787793",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Air Fryer 5.5L GB BHR8239GB 6941812787823",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS II RGB GAMING MOU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS305EPP-100UKS 5 Port Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL X-SLIM II 20CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - White BHR8391GL 6934177780547",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Air Fryer Essential 6L GB BHR8589GB 6941812787847",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG GLADIUS II CORE RGB GAMIN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS308EP-100UKS 8 Port Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL X-LITE II 2 USB HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - Black BHR8396GL 6941812761830",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Cordless Pressure Washer BHR7532GL 6941812729328",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX IMPACT II WIRELESS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS308EPP-100UKS 8 Port Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL L2 W/16CM LED FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "1Y",
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - Transparent blue BHR8394GL 6941812777558",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Multi-function Flashlight BHR7004GL 6941812729229",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX IMPACT III RGB GAMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS316EP-100UKS 16-Port PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL L1 16CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Buds 6 Active - Transparent powder BHR8395GL 6941812777565",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Blender UK BHR5961GB 6941812713211",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX IMPACT II RGB GAMIN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear GS316EPP-100UKS 16-Port Po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 619.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL i100 W/14CM FAN BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Buds 5-Titan Gray BHR8116GL 6941812768518",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Magnetic Reading Light Bar GL BHR8956GL 6941812795910",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING M4 WIRELESS GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CM NOTEPAL CMC3 W/20CM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Buds 5-Ceramic White BHR8117GL 6941812768464",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Flexible Rechargeable Lamp GL BHR8959GL 6941812795958",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING M3 GEN II GAMING M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear WAX220 WiFi 6 Dual-Band AX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Ivory) BHR5909GL 6934177777165",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Buds 5-Graphite Black BHR8118GL 6941812768471",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Toaster UK BHR8807GB 6941812791608",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG BALTEUS QI WIRELESS CHARG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 160.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear WAX615 WiFi 6 Dual-Band AX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Midnight Blue) BHR5785GL 6934177771682",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi OpenWear Stereo Sandstone Beige BHR8473GL 6941812780794",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi LCD Writing Tablet 13.5” BHR4245GL 6934177720222",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG MOONSTONE ACE L TEMPERED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear WAX628 WiFi 6 Dual-Band AX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh 22.5W Lite TH BHR9357TH 6941812755518",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi OpenWear Stereo Cosmic Gray BHR8474GL 6941812780800",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Faucet Water Purifier BHR9098GL 6941812797860",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SCABBARD II GAMING MOUSEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear WBE710 WiFi 7 Tri-Band BE9",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 559.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Magnetic Power Bank 6000mAh TH BHR9077TH 6941812797556",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Portable Bluetooth Speaker -Grey BHR4802GL 6934177726774",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.5
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi LCD Writing Tablet 13.5” (Color Edition) BHR7278GL 6941812726792",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SCABBARD II MEDIUM GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear AC797-100EUS Mobile 4G LTE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 366.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh (Integrated Cable) Ice Blue TH BHR9103TH 6941812797877",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Bluetooth Speaker Mini QBH4274GL 6941948703384",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SCABBARD GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "Netgear 5G Wifi 6E Mr6450",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Power Bank 10000mAh (Integrated Cable) Tan TH BHR9139TH 6941812798492",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 21.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 50W Wireless Charging Stand Pro BHR7560GL 6941812741368",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Pet Food Feeder 2 UK BHR9028GB 6934177717024",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG HONE ACE AIMLAB EDITION M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": "Honeywell",
+      "product": "Honeywell Air Touch V2 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Tan TH BHR8974TH 6941812795606",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi 20W Wireless Charging Stand GDS4145GL 6934177716188",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Pet Fountain 2 BHR9485GL 6941812768471",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG HONE ACE AIMLAB EDITION M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Honeywell",
+      "product": "Honeywell Air Touch V3 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Blue TH BHR8977TH 6941812795668",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Midnight Black BHR8337GL 6941812775714",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi 16-in-1 Ratchet Screwdriver BHR4779GL 6934177726361",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG SHEATH GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Honeywell",
+      "product": "Honeywell Air Touch V4 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 18W Power Bank 30000mAh TH BHR9130TH 6941812798584",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Glacier Silver BHR8340GL 6941812775745",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Doorbell 3S BHR7068GL 6941812718599",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS CERBERUS PAD MINI RED GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": "Honeywell",
+      "product": "Honeywell Air Touch P2 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 80W Adaptive Wireless Charging Stand BHR8304GL 6941812775035",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Titan Gray BHR8642GL 6941812786932",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Motion-Activated Night Light 2 (Bluetooth) BHR5278GL 6934177751325",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.5
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING P3 GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": "Honeywell",
+      "product": "Honeywell Air Touch U1 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Mystic Rose BHR8345GL 6941812775790",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Precision Screwdriver Kit BHR4680GL 6934177724404",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING P1 GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Honeywell",
+      "product": "Honeywell Air Touch U2 Purifier + Humidif",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL 6941812789704",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Night Light 3 GL BHR8978GL 6941812795903",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX SCOPE NX TKL GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon Lide 300 Flatbed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL 6941812789681",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi 12V Max Brushless Cordless Drill EU BHR5510GL 6934177757839",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX GO CORE ML GAMING H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon Lide 400 Flat Bed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL 6941812789698",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Bedside Lamp 2 MUE4093GL 6934177708268",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CETRA II CORE ML GAMING E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": "Epson",
+      "product": "Epson Perfection V39 II Flatbed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Beige White BHR9441GL 6941812706312",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Laser Range Finder (Black) BHR5596GL 6934177761218",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX IMPACT II ML RGB GA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Fujitsu",
+      "product": "Fujitsu IX1600 Black ADF Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 724.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Black BHR9444GL 6941812706251",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Desk Lamp Lite UK BHR8976EN 6941812795927",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX GO EP WIRELESS GAMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 244.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP laserjet MFP M236DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Active Pink BHR9917GL 6932554415389",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Rechargeable Mini Fan BHR6089GL 6934177786150",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX F300 PNK CROWN GAMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP Color Laserjet ProMFP 3303FDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Band 9 Arctic Blue BHR8346GL 6941812775806",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi LED Desk Lamp 1S MUE4105GL 6934177709937",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG EYE S 1080P AI NOISE-CANC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP Color Laserjet Enterprise M455DN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 769.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch S3 Silver BHR7873GL 6941812757079",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Polarized Fitover Sunglasses BHR8024GL 6941812763506",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS WEBCAM C3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother DCP-1510 Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch S3 Black BHR7874GL 6941812757086",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi LED Desk Lamp 2 BHR9186GL 6941812706961",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 54.9
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG DESTRIER ERGO GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon Pixma TS5370a Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Square Sunglasses BHR8025GL 6941812763490",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CHARIOT RGB GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon Pixma TR4670S Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Sliver Case With Gray TPU Strap BHR8034GL 6941812764404",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Smart LED Desk Lamp Pro BHR4119GL 6934177778377",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG CHARIOT CORE GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "Motorola",
+      "product": "Motorola Zebra LS2208 Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Black Case With Black TPU Strap BHR8035GL 6941812764350",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Nylon Polarized Sunglasses BHR8026GL 6941812763483",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG AETHON GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Motorola",
+      "product": "Motorola Zebra DS2208 Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Titan Gray Case With White Leather Strap BHR9306GL 6941812757321",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Sport Sunglasses BHR8027GL 6941812763476",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 42.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG COSMIC FLOORMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother Drum DR-2255 Drum Unit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - 4G LTE Black Case with Black Fluororubber Strap BHR7208GL 6941812724750",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Blue Light Blocking Glasses (Gold) BHR8793GL 6941812792049",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "VIVE PRO EYE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother HL-1110 Mono Laser Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - 4G LTE Silver Case with Brown Leather Strap BHR7210GL 6941812724774",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Blue Light Blocking Glasses (Black) BHR8794GL 6941812792056",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "VIVE FOCUS 3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2039.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother HL-1210W Mono Laser Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "OCULUS QUEST 2",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - Bluetooth® Silver Case with Brown Leather Strap BHR7216GL 6941812724804",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Temperature And Humidity Monitor 2 NUN4126GL 6934177717079",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE973S-100EUS Netgear BE27000 Mes",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3299.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP Color Laser 150NW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro-Bluetooth® Black Case with Black Fluororubber Strap BHR7211GL 6941812724781",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Insulated Water Bottle (White) BHR8055GL 6941812765494",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE972S-100EUS Netgear BE27000 Mes",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2299.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP Inkjet 2821E AIO (3721 AIO $79)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Kids Watch (Pink) BHR7069GL 6941812718629",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Insulated Water Bottle (Black) BHR8056GL 6941812765487",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE970-100EUS Netgear Orbi 970 Ser",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon MG2570S AIO Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Kids Watch (Blue) BHR7070GL 6941812718636",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Tritan Water Bottle (Dark Grey) BHR8057GL 6941812765470",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE873-100APS NETGEAR Orbi 870 Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1899.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon Pro 200 Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Active Midnight Black BHR8784GL 6941812791585",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Tritan Water Bottle (White) BHR8058GL 6941812765463",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE872-100APS NETGEAR Orbi 870 Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1399.0
+    },
+    {
+      "category": null,
+      "brand": "Canon",
+      "product": "Canon MG3670 AIO Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Active Matte Silver BHR8790GL 6941812791547",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Dehumidifier UK BHR5864HK 6934177775390",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE870-100APS NETGEAR Orbi 870 Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Epson",
+      "product": "Epson LQ310 Dot Matrix 24 Pin Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Lite Black BHR8789GL 6941812791530",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Dehumidifier Lite UK BHR8375GB 6941812777459",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE773-100APS Netgear Orbi 770 Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1169.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother HL-L2460DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Redmi Watch 5 Lite Light Gold BHR8791GL 6941812791554",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Straw Mug BHR9540GL 6941812776933",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE772-100APS Netgear Orbi 770 Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 749.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother DCP-L2640DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Body Composition Scale S400 BHR7793GL 6941812751985",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Sport Water Bottle BHR9678GL 6932554404086",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.5
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBE770-100APS NETGEAR Orbi 770 Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother DCP-L2680DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Smart Scale 2 (White) NUN4056GL 6934177723391",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Sports Fanny Pack BHR5226GL 6934177748110",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBK863S-100APS Netgear AX6000 Mesh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother MFC-L2805DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Speaker Lite QBH4238EU 6934177789281",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi City Backpack 2 (Dark Gray) ZJB4192GL 6934177715846",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RBK862S-100APS Netgear AX6000 Mesh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother MFC-L2885DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum E10 EU BHR6783EU 6941812403670",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Commuter Backpack (Dark Gray) BHR4903GL 6934177729898",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RS700S-100APS NETGEAR Nighthawk Tr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother HL-L3240CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum S20+ (White) EU BHR8159EU 6941812771327",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Tower Fan 2 EU BHR8846EU 6941812792254",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.9
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RS600-100APS NETGEAR Nighthawk Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother HL-L3280CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum S20 (White) EU BHR8629EU 6941812786604",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Commuter Backpack (Light Blue) BHR4905GL 6934177732362",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RS300-100APS NETGEAR Nighthawk Tri",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother DCP-L3560CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum X20+ UK BHR8125EN 6941812768549",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 579.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Commuter Backpack (Light Gray) BHR4904GL 6934177732379",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "RAXE300-100APS Netgear (RAXE300) N",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Brother",
+      "product": "Brother MFC-L3760CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum X20 Pro UK BHR8872EN 6941812792391",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 639.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Roll Top Casual Backpack GL BHR9055GL 6941812797358",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MK92+ MS90 Netgear Nighthawk Tri-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "SK-SH7401 4-Port 4K30 HDMI KVM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Robot Vacuum X20 Max UK BHR9217GB 6941812777183",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Business Backpack GL BHR9177GL 6941812799345",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MK92-1PCAPS Netgear Nighthawk Tri-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 Port USB KVM CS22U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Watch 2 Pro - Bluetooth® Silver Case with Brown Leather Strap BHR7216GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Expandable Luggage 20” (Blue) BHR9452GL 6941812714027",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MS90-1PCAPS Netgear Nighthawk ® Tr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 Port USB HDMI KVM CS692",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 161.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner mini BHR4916GL 6934177726514",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Front Pocket Carry-on Luggage 20” BHR8767GL 6941812793053",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MK73S-100APS Netgear Nighthawk (MK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 Port USB 4K HDMI KVM CS22H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner G20 Lite EU BHR8195EU 6941812771921",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Aluminum Frame Luggage 20” BHR8840GL 6941812793046",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MR6550-100APS Netgear Nighthawk (M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 Port USB HDMI KVM CS22HF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner G20 EU BHR8831EU 6941812791936",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Aluminum Frame Luggage 24” BHR9078GL 6941812797587",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MR6110-111EUS Netgear Nighthawk (M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 PORT CS22DP DISPLAY PORT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Vacuum Cleaner G20 Max EU BHR8828EU 6941812791967",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Aluminum Frame Luggage 26” BHR9079GL 6941812797570",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MH3150-100EUS NETGEAR Nighthawk (M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 4 Port USB KVM CS64U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Truclean W20 Wet Dry Vacuum EU BHR8833EU 6941812791929",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Front Opening Luggage 20” BHR8768GL 6941812793060",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MC321HW-10000S Meural Canvas II (M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB to Serial + Cable UC-232A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dust Mite Vacuum Cleaner 2 GB BHR8277GB 6941812774502",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Luggage Classic Pro 20” (Black) BHR8602GL 6941812785850",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Netgear",
+      "product": "MCMYA-10000S Meural 1 Year Meural",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB to Serial + Cable UC-232B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Dust Mite Vacuum Cleaner Pro GB BHR8942GB 6941812795279",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Luggage Classic Pro 20” (Grey) BHR8603GL 6941812785843",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Planet",
+      "product": "Planet GT-802 SX Media Convertor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB to Parallel Printer UC1284B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Smart Projector 2 BHR5211GL 6934177746383",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Luggage Classic Pro 24” (Black) BHR8607GL 6941812785881",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "Planet",
+      "product": "Planet GT-805 Media Convertor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN VE829 Wireless Externer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 556.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Projector L1 UK BHR9418EN 6941812706213",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Luggage Classic Pro 24” (Grey) BHR8606GL 6941812785904",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Parallel Print Server LPT1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN RS-232 to RS-485/RS-422 IC485S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Smart Projector L1 Pro UK BHR9586EN 6941812702055",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Luggage Classic Pro 26” (Black) BHR8607GL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "USB Printer Server USB2.0 (Wireless $229)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "Aten VC920 Mini DisplayPort to VGA Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV Box S 2nd Gen UK PFJ4155UK 6971408157082",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Nose Hair Trimmer BHR8997GL 6941812796436",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax AC1300 3in1 Office Accesspoint",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 500.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN HDMI Splitter VS182a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Mi Computer Monitor Light Bar BHR4838GL 6934177728525",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.9
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi Electric Toothbrush T302 (Dark Blue) BHR9301GL 6941812754450",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax AC1300 Addon Office Accesspoint",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN HDMI Splitter VS184a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A 32 ELA5212GL 6941948700208",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax AI-1001W V2 Airbox AI-1001W V",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN 2 port VGA Splitter VS0102",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 43 ELA5509GL 6941948702592",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax BR-6208AC AC750 Wireless conc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB2.0 Extender Cable 5M UE250",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": "Xiaomi",
+      "product": "Xiaomi TV A Pro 2025 55 ELA5511GL 6941948702608",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax BR-6478AC V2 AC1200 Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "ATEN",
+      "product": "ATEN USB2.0 Extender Cable 12M UE2120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Biostar",
+      "product": "Biostar TB360-BTC Pro 9Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EN-9260TX-E Gigabit PCIe Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Biostar",
+      "product": "Biostar TZ590-BTC Pro 10Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 366.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-1008P V2 8-Port Fast Ether",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 143.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Afox H81 Motherboard 4 Gen/Asus H81M-k",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-1008PH V2 8-port Fast Ethe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock z87/ Z270M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-1008PHE V2 8-Port FE Switc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H310M-DS2 8th and 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-1016 16P 10/100Mbps Rackmo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock Z490M Pro 4 10th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-1024 24P 10/100Mbps Rackmo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Intel",
+      "product": "Intel H61 OEM Motherboard 3rd Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-3308P Fast 8 Port Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus H110M Intel 6th & 7th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-3316P 16P 10/100Mbps SOHO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H81M-DS2 LGA1150 4th gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5104PH 4 Ports Fast Ethernet V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 81.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus H81M-K 4th Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5208P 8 Port Full POE Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B460M Gaming HD 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5216P 16 Port Fast Etherne",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 367.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B560 Aorus Pro AX 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5224P 24 Port Fast Etherne",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 435.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H510M H / H410M H 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5500G 5 Port Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus Prime H410M-A 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax ES-5800G 8 Port Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus TUF Z390-M Gaming Pro 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4208 USB 2.0 to 10/100Mbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock Z590 EXTREME WIFI 6E 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 353.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EU-4308 3-Port USB3.0 and Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 51.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asrock",
+      "product": "Asrock Z590 Phantom Gaming 4 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7611UCB AC600 Dual-Band Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": "Asus",
+      "product": "Asus PRIME H510M-A WIFI 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7611ULB N150 WiFi+Bluetoot",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard RGB Hotswap - ACR98 Mini Combo (CS Jelly Blue + Doll of the Princess)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7612PIn V2 11n 300M 2T2R P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard ACR61 RGB Hotswap - Doll of the Princess (CS Jelly Blue Clicky 40g)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7612UAn V2 11n 300M 2T2R w",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Keyboard ACR59 RGB Hotswap - World Tour Tokyo (CS Jelly Pink Linear)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7722UTn V2 300M 2T2R 802.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": "AKKO",
+      "product": "AKKO Switch - TTC Demon Ltd. Ed. (10pcs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811Un 11n 150M 1T1R Wirel",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7811UTC AC600 Wireless Min",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822UTC Wi-Fi Usb 3.0 Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822UAC AC1200 Wireless Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7822ULC AC1200 Dual-Band 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7833UAC AC1750 Wireless Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax EW-7833AXP Wireless Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "Edimax",
+      "product": "Edimax GP-101IT POE+ Gigabit Injector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    }
+  ],
+  "numeric_tokens_in_source": 110,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 479 rows, limit 225",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG RAIKIRI PRO CONTROLLER GD\", \"price_sgd\": 190},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-102IT Gigabit PoE++ Injector\", \"price_sgd\": 97},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keycap - ASA Profile - Chocolate 6934177708022\", \"price_sgd\": 19.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi TV A Pro 2025 65 ELA5513GL BHR7647GL 6941812745427\", \"price_sgd\": 39},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG RAIKIRI GAMING CONTROLLER\", \"price_sgd\": 121},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1005BE 2.5G 5port\", \"price_sgd\": 203},\n  {\"product\": \"(178pcs)\", \"price_sgd\": 60},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C200 BHR6766GL 6941948702615\", \"price_sgd\": 799},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Toothbrush T302 (Silver Gray) 6941812703410\", \"price_sgd\": 35.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG X SPALDING BASKETBALL\", \"price_sgd\": 137},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1008P V2 8-Port Gigabit Poe\", \"price_sgd\": 186},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Coiled Cable - Pink\", \"price_sgd\": 8},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi TV A Pro 2025 75 ELA5515GL BHR7595GL 6941812743782\", \"price_sgd\": 39},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG CARD HOLDER II\", \"price_sgd\": 35},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-1008PHE V2 8-Port Gigabit\", \"price_sgd\": 100},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keyboard 5108S RGB - Dracula Castle (TTC Silver Linear)\", \"price_sgd\": 148},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C300 BHR6540GL 6941948702622\", \"price_sgd\": 1199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Electric Toothbrush T501 (Dark Grey) 6934177796296\", \"price_sgd\": 40.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS CLAYMORE II W.LESS MECHANICAL\", \"price_sgd\": 328},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5208PLG 8-Port POE+ & SFP\", \"price_sgd\": 305},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keyboard 5108S RGB - World Tour London (TTC Silver Linear)\", \"price_sgd\": 148},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Dual-interface Flash Drive 64GB BHR7792GL 6941812751954\", \"price_sgd\": 59},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Electric Toothbrush T501 (White) BHR8810GL 6941812791875\", \"price_sgd\": 24.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG AZOTH NX SNOW WIRELESS CU\", \"price_sgd\": 328},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5654PLX 48Port POE+/10G S\", \"price_sgd\": 1213},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keyboard 5108S RGB - JK Girl (CS Sakura Linear)\", \"price_sgd\": 136},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C400 BHR6619GL 6934177799921\", \"price_sgd\": 49.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Electric Toothbrush T501 (White) BHR8816GL 6941812791820\", \"price_sgd\": 41.9},\n  {\"brand\": \"ASUS\", \"product\": \"AS ROG FALCHION WIRELESS\", \"price_sgd\": 190},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GS-5424G 24 Port with SFP Uplink\", \"price_sgd\": 245},\n  {\"product\": \"AKKO Keycap - ASA Profile - Chicago (158pcs)\", \"price_sgd\": 60},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Camera 2K (Magnetic Mount) BHR5255GL 6934177749032\", \"price_sgd\": 43},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Water Flosser 2 BHR9235GL 6941812799390\", \"price_sgd\": 79},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG FALCHION ACE NX BLUE KEYB\", \"price_sgd\": 152},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax IAP1200 AC1200 In-Wall Dual\", \"price_sgd\": 125},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keycap - ASA Low Profile - Black & Pink (155pcs)\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 5-in-1 Type-C Hub BHR8804GL 6941812706756\", \"price_sgd\": 30.4},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Shaver S101 BHR7465GL 6941812736616\", \"price_sgd\": 22},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX FLARE II NX BLUE AN\", \"price_sgd\": 289},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax Smart Home KIT IC-5170SC Full\", \"price_sgd\": 214},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Clear Transparent Keycap Sets (Full Transparent) Green Characters\", \"price_sgd\": 35},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C500 Pro BHR8088GL 6934177787096\", \"price_sgd\": 12.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Shaver S200 Silver GL BHR9529GL 6941812784518\", \"price_sgd\": 26.5},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX FLARE RGB MECHANICA\", \"price_sgd\": 190},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax RE11 AC1200 Wireless Dual-band\", \"price_sgd\": 128},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Wireless Mouse Lite BHR6099GL 6941812766392\", \"price_sgd\": 64.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Shaver S200 Gray GL BHR9523GL BHR8916GL 6941812792988\", \"price_sgd\": 11},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE II 96 NX STOR\", \"price_sgd\": 213},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax RE11S AC1200 Single Unit mesh\", \"price_sgd\": 59},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS INDUSTRIAL PC RUGGED MINI PC FOR COLD ROOM / HIGH TEMEPRATURE AREA\", \"price_sgd\": 1599},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C700 EU BHR9182EU 6941812799161\", \"price_sgd\": 68},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Wireless Mouse Lite 2 Black GL BHR9529GL 6941812778135\", \"price_sgd\": 26.5},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE II NX SNOW KE\", \"price_sgd\": 144},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax RG21S AC2600 Dual Band Router\", \"price_sgd\": 214},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C300 Dual EU BHR9166EU BHR8915GL 6941812792995\", \"price_sgd\": 11},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Shaver S301 BHR7461GL 6941812736654\", \"price_sgd\": 36},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE NX DELUXE RGB\", \"price_sgd\": 205},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax SC1000 Security Cover for WAP\", \"price_sgd\": 20},\n  {\"brand\": \"ASUS\", \"product\": \"Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\", \"price_sgd\": 1599},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Camera C500 Dual EU BHR8755EU 6941812792834\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Shaver S700 BHR5721GL 6934177767029\", \"price_sgd\": 89},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE NX RGB KEYBOA\", \"price_sgd\": 167},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax OAP1300 2 x 2 AC Dual-Band Ou\", \"price_sgd\": 240},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Wireless Mouse 3 Black GL BHR8913GL 6941812790861\", \"price_sgd\": 79},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi UniBlade Trimmer BHR7051GL 6941812717974\", \"price_sgd\": 37.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE DELUXE\", \"price_sgd\": 205},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax OAP900 AC 900 Long Range Du\", \"price_sgd\": 194},\n  {\"brand\": \"ASUS\", \"product\": \"Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\", \"price_sgd\": 1329},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Wireless Mouse 3 Blue GL BHR8914GL 6941812792827\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Hair Clipper BHR5891GL 6934177776908\", \"price_sgd\": 29.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE TKL DELUXE RX\", \"price_sgd\": 228},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax CAP300 2x2 N300 Ceiling-Mount\", \"price_sgd\": 159},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera CW300 EU BHR8097EU 6941812767603\", \"price_sgd\": 54.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Wireless Mouse 3 Pink GL BHR8911GL 6941812744383\", \"price_sgd\": 66.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Hair Clipper 2 BHR8999GL 6941812796702\", \"price_sgd\": 85},\n  {\"brand\": \"ASUS\", \"product\": \"AS ROG STRIX SCOPE TKL DELUXE RGB\", \"price_sgd\": 175},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax AX3000 BT5.0 + Wireless PCIE Card\", \"price_sgd\": 70},\n  {\"brand\": \"ASUS\", \"product\": \"Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B\", \"price_sgd\": 569},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera CW400 UK BHR7625HK 6941812792858\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Wireless Mouse 3 White GL BHR8912GL 6941812778135\", \"price_sgd\": 26.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Handheld Steam Iron EK BHR9026GB 6941812796696\", \"price_sgd\": 65},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE TKL NX RGB KE\", \"price_sgd\": 160},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax XG-5008 10GBPS 8 Port Switch\", \"price_sgd\": 988},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera CW500 Dual EU BHR9402EU 6941812713006\", \"price_sgd\": 87},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Kettle 2 Pro GB BHR9001GB 6941812774564\", \"price_sgd\": 27.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE RX\", \"price_sgd\": 129},\n  {\"brand\": \"Edimax\", \"product\": \"LR-Link PCIE 1x 1G SFP Adaptor\", \"price_sgd\": 145},\n  {\"brand\": \"ASUS\", \"product\": \"Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P\", \"price_sgd\": 829},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera AW300 BHR6816EU 6941812792421\", \"price_sgd\": 26},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Portable Electric Air Compressor 2 BHR7112GL 6941812720974\", \"price_sgd\": 45.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE RGB MECHANICA\", \"price_sgd\": 167},\n  {\"brand\": \"Edimax\", \"product\": \"LR-Link PCIE 1x 1G ST 100m Adaptor\", \"price_sgd\": 145},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera Solar Panel (BW Series) BHR8352GL 6941812776360\", \"price_sgd\": 45},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Portable Electric Air Compressor 2 Pro BHR9099GL 6941812797853\", \"price_sgd\": 70},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K3 RGB MECHANICAL\", \"price_sgd\": 106},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS305-300UKS 5 Port Unmana\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Solar Outdoor Camera BW400 Pro Set BHR7747GL 6941812748244\", \"price_sgd\": 149},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Multifunctional Rice Cooker UK BHR7925UK 6941812758489\", \"price_sgd\": 52.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K1 RGB KEYBOARD\", \"price_sgd\": 53},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS308-300UKS 8 Port Unmana\", \"price_sgd\": 59},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera BW500 BHR8301GL 6941948702127\", \"price_sgd\": 11.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Multifunctional Rice Cooker 4L GB BHR9108GB 6941812798034\", \"price_sgd\": 66},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG SPATHA X WIRELESS RGB GAM\", \"price_sgd\": 190},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS516-300UKS 16 Port Unman\", \"price_sgd\": 199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Outdoor Camera Base Station BHR8618GL 6941812786475\", \"price_sgd\": 33.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Massage Gun UK BHR5609EN BHR9174GB 6941812799307\", \"price_sgd\": 61.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG CHAKRAM X WIRELESS RGB GA\", \"price_sgd\": 198},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS524-300UKS 24 Port Unman\", \"price_sgd\": 299},\n  {\"product\": \"Google Chromecast 3 HDMI\", \"price_sgd\": 85},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 5 Pro-Midnight Black BHR7660GL 6941812746165\", \"price_sgd\": 99},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Filtered Water Dispenser Pro UK 6934177762079\", \"price_sgd\": 119},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG CHAKRAM CORER RGB GAMING\", \"price_sgd\": 99},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS348-100EUS 48 Port Unman\", \"price_sgd\": 749},\n  {\"product\": \"Google Chromecast 4K with Google TV\", \"price_sgd\": 125},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 5 Pro-Moonlight White BHR7662GL 6941812746110\", \"price_sgd\": 99},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Fascia gun mini Type-C BHR6083GL 6934177786099\", \"price_sgd\": 81},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG HARPE ACE AIM LAB EDITION\", \"price_sgd\": 152},\n  {\"product\": \"Microsoft Wireless Display Adapter V1\", \"price_sgd\": 199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 5 Pro-Aurora Purple BHR7799GL 6941812752067\", \"price_sgd\": 99},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Insulated Kettle 1.8L GL BHR9049GL 6934177717024\", \"price_sgd\": 39.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG KERIS WIRELESS AIMPOINT G\", \"price_sgd\": 114},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS305P-300UKS 5 Port Unman\", \"price_sgd\": 169},\n  {\"product\": \"Roku Streaming Stick + 4K\", \"price_sgd\": 129},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Play White BHR8773GL 6941812791271\", \"price_sgd\": 11.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Handheld Garment Steamer UK BHR8271UK 6941812774564\", \"price_sgd\": 27.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG KERIS WIRELESS RGB GAMING\", \"price_sgd\": 106},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS305PP-300UKS 5 Port Unma\", \"price_sgd\": 219},\n  {\"product\": \"CM ERGOSTAND AIR SLIM NOTEBOOK STA\", \"price_sgd\": 58},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Play Pink BHR8775GL 6941812791295\", \"price_sgd\": 11.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Standing Garment Steamer UK BHR9025GB 6941812796702\", \"price_sgd\": 85},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG KERIS RGB GAMING MOUSE (2\", \"price_sgd\": 76},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS108LP-100EUS 8 Port Unma\", \"price_sgd\": 229},\n  {\"product\": \"CM ERGOSTAND AIR SLIM NOTEBOOK STA\", \"price_sgd\": 58},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Play Black BHR8776GL 6941812796603\", \"price_sgd\": 59},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Kettle 2 UK BHR5928HK 6934177778278\", \"price_sgd\": 29},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG PUGIO II WIRELESS RGB GAM\", \"price_sgd\": 121},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS108PP-100EUS 8 Port Unma\", \"price_sgd\": 249},\n  {\"product\": \"CM NOTEPAL ERGOSTAND III 4 USB HUB\", \"price_sgd\": 74},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Play Blue BHR9283GL 6941812737071\", \"price_sgd\": 11.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Kettle S1 EU BHR9539EU 6934177719783\", \"price_sgd\": 54.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS III WIRELESS AIMP\", \"price_sgd\": 144},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS116LP-100EUS 16 Port Unm\", \"price_sgd\": 339},\n  {\"product\": \"CM NOTEPAL ERGOSTAND LITE W/2 USB\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Lite Black BHR8653GL 6941812773086\", \"price_sgd\": 112},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Kettle 2 Pro GB BHR9001GB 6941812796696\", \"price_sgd\": 65},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS III RGB GAMING MO\", \"price_sgd\": 106},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS116PP-100EUS 16 Port Unm\", \"price_sgd\": 529},\n  {\"product\": \"CM NOTEPAL X3 W/20CM BLUE LED FAN\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Lite White BHR8655GL 6941812785201\", \"price_sgd\": 65},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Portable Electric Air Compressor 2 BHR7112GL 6941812720974\", \"price_sgd\": 45.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS II WIRELESS RGB G\", \"price_sgd\": 137},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS305EP-100UKS 5 Port Giga\", \"price_sgd\": 179},\n  {\"product\": \"CM NOTEPAL i300 BLACK 16CM BLUE LE\", \"price_sgd\": 33},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Lite Blue BHR8660GL 6941812787793\", \"price_sgd\": 24},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Air Fryer 5.5L GB BHR8239GB 6941812787823\", \"price_sgd\": 24},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS II RGB GAMING MOU\", \"price_sgd\": 106},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS305EPP-100UKS 5 Port Gig\", \"price_sgd\": 239},\n  {\"product\": \"CM NOTEPAL X-SLIM II 20CM FAN\", \"price_sgd\": 33},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Active - White BHR8391GL 6934177780547\", \"price_sgd\": 139},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Air Fryer Essential 6L GB BHR8589GB 6941812787847\", \"price_sgd\": 24},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG GLADIUS II CORE RGB GAMIN\", \"price_sgd\": 60},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS308EP-100UKS 8 Port Giga\", \"price_sgd\": 219},\n  {\"product\": \"CM NOTEPAL X-LITE II 2 USB HUB\", \"price_sgd\": 33},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Active - Black BHR8396GL 6941812761830\", \"price_sgd\": 89},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Cordless Pressure Washer BHR7532GL 6941812729328\", \"price_sgd\": 109},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX IMPACT II WIRELESS\", \"price_sgd\": 91},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS308EPP-100UKS 8 Port Gig\", \"price_sgd\": 309},\n  {\"warranty\": \"1Y\", \"product\": \"CM NOTEPAL L2 W/16CM LED FAN\", \"price_sgd\": 33},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Active - Transparent blue BHR8394GL 6941812777558\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Multi-function Flashlight BHR7004GL 6941812729229\", \"price_sgd\": 48.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX IMPACT III RGB GAMI\", \"price_sgd\": 68},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS316EP-100UKS 16-Port PoE\", \"price_sgd\": 529},\n  {\"product\": \"CM NOTEPAL L1 16CM FAN\", \"price_sgd\": 28},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Buds 6 Active - Transparent powder BHR8395GL 6941812777565\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Blender UK BHR5961GB 6941812713211\", \"price_sgd\": 39.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX IMPACT II RGB GAMIN\", \"price_sgd\": 53},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear GS316EPP-100UKS 16-Port Po\", \"price_sgd\": 619},\n  {\"product\": \"CM NOTEPAL i100 W/14CM FAN BLACK\", \"price_sgd\": 24},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Buds 5-Titan Gray BHR8116GL 6941812768518\", \"price_sgd\": 112},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Magnetic Reading Light Bar GL BHR8956GL 6941812795910\", \"price_sgd\": 17.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING M4 WIRELESS GAMING\", \"price_sgd\": 68},\n  {\"product\": \"CM NOTEPAL CMC3 W/20CM FAN\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Buds 5-Ceramic White BHR8117GL 6941812768464\", \"price_sgd\": 112},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Flexible Rechargeable Lamp GL BHR8959GL 6941812795958\", \"price_sgd\": 25},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING M3 GEN II GAMING M\", \"price_sgd\": 30},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear WAX220 WiFi 6 Dual-Band AX\", \"price_sgd\": 249},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Ivory) BHR5909GL 6934177777165\", \"price_sgd\": 52},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Buds 5-Graphite Black BHR8118GL 6941812768471\", \"price_sgd\": 112},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Toaster UK BHR8807GB 6941812791608\", \"price_sgd\": 29.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG BALTEUS QI WIRELESS CHARG\", \"price_sgd\": 160},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear WAX615 WiFi 6 Dual-Band AX\", \"price_sgd\": 269},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro (Midnight Blue) BHR5785GL 6934177771682\", \"price_sgd\": 52},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi OpenWear Stereo Sandstone Beige BHR8473GL 6941812780794\", \"price_sgd\": 149},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi LCD Writing Tablet 13.5” BHR4245GL 6934177720222\", \"price_sgd\": 19},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG MOONSTONE ACE L TEMPERED\", \"price_sgd\": 129},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear WAX628 WiFi 6 Dual-Band AX\", \"price_sgd\": 369},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Power Bank 10000mAh 22.5W Lite TH BHR9357TH 6941812755518\", \"price_sgd\": 14.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi OpenWear Stereo Cosmic Gray BHR8474GL 6941812780800\", \"price_sgd\": 149},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Faucet Water Purifier BHR9098GL 6941812797860\", \"price_sgd\": 29.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG SCABBARD II GAMING MOUSEM\", \"price_sgd\": 60},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear WBE710 WiFi 7 Tri-Band BE9\", \"price_sgd\": 559},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Magnetic Power Bank 6000mAh TH BHR9077TH 6941812797556\", \"price_sgd\": 53.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Portable Bluetooth Speaker -Grey BHR4802GL 6934177726774\", \"price_sgd\": 32.5},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi LCD Writing Tablet 13.5” (Color Edition) BHR7278GL 6941812726792\", \"price_sgd\": 23.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG SCABBARD II MEDIUM GAMING\", \"price_sgd\": 34},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear AC797-100EUS Mobile 4G LTE\", \"price_sgd\": 366},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Power Bank 10000mAh (Integrated Cable) Ice Blue TH BHR9103TH 6941812797877\", \"price_sgd\": 21.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Bluetooth Speaker Mini QBH4274GL 6941948703384\", \"price_sgd\": 44},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Smart Clock QBH4191GL 69341777233846\", \"price_sgd\": 0},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG SCABBARD GAMING MOUSEMAT\", \"price_sgd\": 60},\n  {\"brand\": \"Netgear\", \"product\": \"Netgear 5G Wifi 6E Mr6450\", \"price_sgd\": 1499},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Power Bank 10000mAh (Integrated Cable) Tan TH BHR9139TH 6941812798492\", \"price_sgd\": 21.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 50W Wireless Charging Stand Pro BHR7560GL 6941812741368\", \"price_sgd\": 53},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Pet Food Feeder 2 UK BHR9028GB 6934177717024\", \"price_sgd\": 39.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG HONE ACE AIMLAB EDITION M\", \"price_sgd\": 68},\n  {\"brand\": \"Honeywell\", \"product\": \"Honeywell Air Touch V2 Purifier\", \"price_sgd\": 179},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Tan TH BHR8974TH 6941812795606\", \"price_sgd\": 31.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi 20W Wireless Charging Stand GDS4145GL 6934177716188\", \"price_sgd\": 19},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Pet Fountain 2 BHR9485GL 6941812768471\", \"price_sgd\": 112},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG HONE ACE AIMLAB EDITION M\", \"price_sgd\": 45},\n  {\"brand\": \"Honeywell\", \"product\": \"Honeywell Air Touch V3 Purifier\", \"price_sgd\": 199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 33W Power Bank 20000mAh (Integrated Cable) Blue TH BHR8977TH 6941812795668\", \"price_sgd\": 31.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Midnight Black BHR8337GL 6941812775714\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi 16-in-1 Ratchet Screwdriver BHR4779GL 6934177726361\", \"price_sgd\": 23.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG SHEATH GAMING MOUSEMAT\", \"price_sgd\": 53},\n  {\"brand\": \"Honeywell\", \"product\": \"Honeywell Air Touch V4 Purifier\", \"price_sgd\": 229},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 18W Power Bank 30000mAh TH BHR9130TH 6941812798584\", \"price_sgd\": 39.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Glacier Silver BHR8340GL 6941812775745\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Doorbell 3S BHR7068GL 6941812718599\", \"price_sgd\": 92.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS CERBERUS PAD MINI RED GAMING\", \"price_sgd\": 11},\n  {\"brand\": \"Honeywell\", \"product\": \"Honeywell Air Touch P2 Purifier\", \"price_sgd\": 299},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 80W Adaptive Wireless Charging Stand BHR8304GL 6941812775035\", \"price_sgd\": 110},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Titan Gray BHR8642GL 6941812786932\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Motion-Activated Night Light 2 (Bluetooth) BHR5278GL 6934177751325\", \"price_sgd\": 13.5},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING P3 GAMING MOUSEMAT\", \"price_sgd\": 19},\n  {\"brand\": \"Honeywell\", \"product\": \"Honeywell Air Touch U1 Purifier\", \"price_sgd\": 399},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Mystic Rose BHR8345GL 6941812775790\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Precision Screwdriver Kit BHR4680GL 6934177724404\", \"price_sgd\": 19.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING P1 GAMING MOUSEMAT\", \"price_sgd\": 15},\n  {\"brand\": \"Honeywell\", \"product\": \"Honeywell Air Touch U2 Purifier + Humidif\", \"price_sgd\": 439},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Pro Obsidian Black BHR8710GL 6941812789704\", \"price_sgd\": 95},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Night Light 3 GL BHR8978GL 6941812795903\", \"price_sgd\": 15.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX SCOPE NX TKL GAMING\", \"price_sgd\": 175},\n  {\"brand\": \"Canon\", \"product\": \"Canon Lide 300 Flatbed Scanner\", \"price_sgd\": 148},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Pro Rose Gold BHR8714GL 6941812789681\", \"price_sgd\": 95},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi 12V Max Brushless Cordless Drill EU BHR5510GL 6934177757839\", \"price_sgd\": 119},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX GO CORE ML GAMING H\", \"price_sgd\": 121},\n  {\"brand\": \"Canon\", \"product\": \"Canon Lide 400 Flat Bed Scanner\", \"price_sgd\": 187},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Pro Moonlight Silver BHR8715GL 6941812789698\", \"price_sgd\": 95},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Bedside Lamp 2 MUE4093GL 6934177708268\", \"price_sgd\": 46.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG CETRA II CORE ML GAMING E\", \"price_sgd\": 76},\n  {\"brand\": \"Epson\", \"product\": \"Epson Perfection V39 II Flatbed Scanner\", \"price_sgd\": 149},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Active Beige White BHR9441GL 6941812706312\", \"price_sgd\": 30},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Laser Range Finder (Black) BHR5596GL 6934177761218\", \"price_sgd\": 39.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX IMPACT II ML RGB GA\", \"price_sgd\": 60},\n  {\"brand\": \"Fujitsu\", \"product\": \"Fujitsu IX1600 Black ADF Scanner\", \"price_sgd\": 724},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Active Black BHR9444GL 6941812706251\", \"price_sgd\": 30},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Desk Lamp Lite UK BHR8976EN 6941812795927\", \"price_sgd\": 24.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX GO EP WIRELESS GAMI\", \"price_sgd\": 244},\n  {\"brand\": \"HP\", \"product\": \"HP laserjet MFP M236DW\", \"price_sgd\": 218},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Active Pink BHR9917GL 6932554415389\", \"price_sgd\": 30},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Rechargeable Mini Fan BHR6089GL 6934177786150\", \"price_sgd\": 32},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX F300 PNK CROWN GAMI\", \"price_sgd\": 190},\n  {\"brand\": \"HP\", \"product\": \"HP Color Laserjet ProMFP 3303FDW\", \"price_sgd\": 549},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Band 9 Arctic Blue BHR8346GL 6941812775806\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi LED Desk Lamp 1S MUE4105GL 6934177709937\", \"price_sgd\": 42.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG EYE S 1080P AI NOISE-CANC\", \"price_sgd\": 137},\n  {\"brand\": \"HP\", \"product\": \"HP Color Laserjet Enterprise M455DN\", \"price_sgd\": 769},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch S3 Silver BHR7873GL 6941812757079\", \"price_sgd\": 239},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Polarized Fitover Sunglasses BHR8024GL 6941812763506\", \"price_sgd\": 18.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS WEBCAM C3\", \"price_sgd\": 53},\n  {\"brand\": \"Brother\", \"product\": \"Brother DCP-1510 Printer\", \"price_sgd\": 159},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch S3 Black BHR7874GL 6941812757086\", \"price_sgd\": 239},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi LED Desk Lamp 2 BHR9186GL 6941812706961\", \"price_sgd\": 54.9},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG DESTRIER ERGO GAMING CHAIR\", \"price_sgd\": 1099},\n  {\"brand\": \"Canon\", \"product\": \"Canon Pixma TS5370a Printer\", \"price_sgd\": 159},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Square Sunglasses BHR8025GL 6941812763490\", \"price_sgd\": 42},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG CHARIOT RGB GAMING CHAIR\", \"price_sgd\": 699},\n  {\"brand\": \"Canon\", \"product\": \"Canon Pixma TR4670S Printer\", \"price_sgd\": 139},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Sliver Case With Gray TPU Strap BHR8034GL 6941812764404\", \"price_sgd\": 199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Smart LED Desk Lamp Pro BHR4119GL 6934177778377\", \"price_sgd\": 60},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG CHARIOT CORE GAMING CHAIR\", \"price_sgd\": 499},\n  {\"brand\": \"Motorola\", \"product\": \"Motorola Zebra LS2208 Scanner\", \"price_sgd\": 146},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Black Case With Black TPU Strap BHR8035GL 6941812764350\", \"price_sgd\": 199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Nylon Polarized Sunglasses BHR8026GL 6941812763483\", \"price_sgd\": 42},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG AETHON GAMING CHAIR\", \"price_sgd\": 399},\n  {\"brand\": \"Motorola\", \"product\": \"Motorola Zebra DS2208 Scanner\", \"price_sgd\": 155},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Titan Gray Case With White Leather Strap BHR9306GL 6941812757321\", \"price_sgd\": 229},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Sport Sunglasses BHR8027GL 6941812763476\", \"price_sgd\": 42},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS ROG COSMIC FLOORMAT\", \"price_sgd\": 89},\n  {\"brand\": \"Brother\", \"product\": \"Brother Drum DR-2255 Drum Unit\", \"price_sgd\": 109},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Pro - 4G LTE Black Case with Black Fluororubber Strap BHR7208GL 6941812724750\", \"price_sgd\": 309},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Blue Light Blocking Glasses (Gold) BHR8793GL 6941812792049\", \"price_sgd\": 19.9},\n  {\"product\": \"VIVE PRO EYE\", \"price_sgd\": 2199},\n  {\"brand\": \"Brother\", \"product\": \"Brother HL-1110 Mono Laser Printer\", \"price_sgd\": 101},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Pro - 4G LTE Silver Case with Brown Leather Strap BHR7210GL 6941812724774\", \"price_sgd\": 309},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Blue Light Blocking Glasses (Black) BHR8794GL 6941812792056\", \"price_sgd\": 19.9},\n  {\"product\": \"VIVE FOCUS 3\", \"price_sgd\": 2039},\n  {\"brand\": \"Brother\", \"product\": \"Brother HL-1210W Mono Laser Wireless\", \"price_sgd\": 111},\n  {\"variant\": \"256GB\", \"product\": \"OCULUS QUEST 2\", \"price_sgd\": 899},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Pro - Bluetooth® Silver Case with Brown Leather Strap BHR7216GL 6941812724804\", \"price_sgd\": 269},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Temperature And Humidity Monitor 2 NUN4126GL 6934177717079\", \"price_sgd\": 6},\n  {\"brand\": \"Netgear\", \"product\": \"RBE973S-100EUS Netgear BE27000 Mes\", \"price_sgd\": 3299},\n  {\"brand\": \"HP\", \"product\": \"HP Color Laser 150NW\", \"price_sgd\": 399},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Pro-Bluetooth® Black Case with Black Fluororubber Strap BHR7211GL 6941812724781\", \"price_sgd\": 269},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Insulated Water Bottle (White) BHR8055GL 6941812765494\", \"price_sgd\": 11.9},\n  {\"brand\": \"Netgear\", \"product\": \"RBE972S-100EUS Netgear BE27000 Mes\", \"price_sgd\": 2299},\n  {\"brand\": \"HP\", \"product\": \"HP Inkjet 2821E AIO (3721 AIO $79)\", \"price_sgd\": 79},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Kids Watch (Pink) BHR7069GL 6941812718629\", \"price_sgd\": 85},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Insulated Water Bottle (Black) BHR8056GL 6941812765487\", \"price_sgd\": 11.9},\n  {\"brand\": \"Netgear\", \"product\": \"RBE970-100EUS Netgear Orbi 970 Ser\", \"price_sgd\": 1199},\n  {\"brand\": \"Canon\", \"product\": \"Canon MG2570S AIO Printer\", \"price_sgd\": 79},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Kids Watch (Blue) BHR7070GL 6941812718636\", \"price_sgd\": 85},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Tritan Water Bottle (Dark Grey) BHR8057GL 6941812765470\", \"price_sgd\": 11.9},\n  {\"brand\": \"Netgear\", \"product\": \"RBE873-100APS NETGEAR Orbi 870 Tri\", \"price_sgd\": 1899},\n  {\"brand\": \"Canon\", \"product\": \"Canon Pro 200 Printer\", \"price_sgd\": 648},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Watch 5 Active Midnight Black BHR8784GL 6941812791585\", \"price_sgd\": 39},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Tritan Water Bottle (White) BHR8058GL 6941812765463\", \"price_sgd\": 11.9},\n  {\"brand\": \"Netgear\", \"product\": \"RBE872-100APS NETGEAR Orbi 870 Tri\", \"price_sgd\": 1399},\n  {\"brand\": \"Canon\", \"product\": \"Canon MG3670 AIO Printer\", \"price_sgd\": 134},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Watch 5 Active Matte Silver BHR8790GL 6941812791547\", \"price_sgd\": 39},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Dehumidifier UK BHR5864HK 6934177775390\", \"price_sgd\": 309},\n  {\"brand\": \"Netgear\", \"product\": \"RBE870-100APS NETGEAR Orbi 870 Tri\", \"price_sgd\": 799},\n  {\"brand\": \"Epson\", \"product\": \"Epson LQ310 Dot Matrix 24 Pin Printer\", \"price_sgd\": 369},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Watch 5 Lite Black BHR8789GL 6941812791530\", \"price_sgd\": 62},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Dehumidifier Lite UK BHR8375GB 6941812777459\", \"price_sgd\": 219},\n  {\"brand\": \"Netgear\", \"product\": \"RBE773-100APS Netgear Orbi 770 Tri\", \"price_sgd\": 1169},\n  {\"brand\": \"Brother\", \"product\": \"Brother HL-L2460DW\", \"price_sgd\": 238},\n  {\"brand\": \"Xiaomi\", \"product\": \"Redmi Watch 5 Lite Light Gold BHR8791GL 6941812791554\", \"price_sgd\": 62},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Straw Mug BHR9540GL 6941812776933\", \"price_sgd\": 25.9},\n  {\"brand\": \"Netgear\", \"product\": \"RBE772-100APS Netgear Orbi 770 Tri\", \"price_sgd\": 749},\n  {\"brand\": \"Brother\", \"product\": \"Brother DCP-L2640DW\", \"price_sgd\": 278},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Body Composition Scale S400 BHR7793GL 6941812751985\", \"price_sgd\": 25.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Sport Water Bottle BHR9678GL 6932554404086\", \"price_sgd\": 18.5},\n  {\"brand\": \"Netgear\", \"product\": \"RBE770-100APS NETGEAR Orbi 770 Tri\", \"price_sgd\": 499},\n  {\"brand\": \"Brother\", \"product\": \"Brother DCP-L2680DW\", \"price_sgd\": 308},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Smart Scale 2 (White) NUN4056GL 6934177723391\", \"price_sgd\": 59},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Sports Fanny Pack BHR5226GL 6934177748110\", \"price_sgd\": 15.9},\n  {\"brand\": \"Netgear\", \"product\": \"RBK863S-100APS Netgear AX6000 Mesh\", \"price_sgd\": 1099},\n  {\"brand\": \"Brother\", \"product\": \"Brother MFC-L2805DW\", \"price_sgd\": 368},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Speaker Lite QBH4238EU 6934177789281\", \"price_sgd\": 45},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi City Backpack 2 (Dark Gray) ZJB4192GL 6934177715846\", \"price_sgd\": 37},\n  {\"brand\": \"Netgear\", \"product\": \"RBK862S-100APS Netgear AX6000 Mesh\", \"price_sgd\": 799},\n  {\"brand\": \"Brother\", \"product\": \"Brother MFC-L2885DW\", \"price_sgd\": 468},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Robot Vacuum E10 EU BHR6783EU 6941812403670\", \"price_sgd\": 189},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Commuter Backpack (Dark Gray) BHR4903GL 6934177729898\", \"price_sgd\": 29},\n  {\"brand\": \"Netgear\", \"product\": \"RS700S-100APS NETGEAR Nighthawk Tr\", \"price_sgd\": 899},\n  {\"brand\": \"Brother\", \"product\": \"Brother HL-L3240CDW\", \"price_sgd\": 368},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Robot Vacuum S20+ (White) EU BHR8159EU 6941812771327\", \"price_sgd\": 339},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Tower Fan 2 EU BHR8846EU 6941812792254\", \"price_sgd\": 93.9},\n  {\"brand\": \"Netgear\", \"product\": \"RS600-100APS NETGEAR Nighthawk Tri\", \"price_sgd\": 799},\n  {\"brand\": \"Brother\", \"product\": \"Brother HL-L3280CDW\", \"price_sgd\": 408},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Robot Vacuum S20 (White) EU BHR8629EU 6941812786604\", \"price_sgd\": 229},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Commuter Backpack (Light Blue) BHR4905GL 6934177732362\", \"price_sgd\": 29},\n  {\"brand\": \"Netgear\", \"product\": \"RS300-100APS NETGEAR Nighthawk Tri\", \"price_sgd\": 379},\n  {\"brand\": \"Brother\", \"product\": \"Brother DCP-L3560CDW\", \"price_sgd\": 538},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Robot Vacuum X20+ UK BHR8125EN 6941812768549\", \"price_sgd\": 579},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Commuter Backpack (Light Gray) BHR4904GL 6934177732379\", \"price_sgd\": 29},\n  {\"brand\": \"Netgear\", \"product\": \"RAXE300-100APS Netgear (RAXE300) N\", \"price_sgd\": 299},\n  {\"brand\": \"Brother\", \"product\": \"Brother MFC-L3760CDW\", \"price_sgd\": 608},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Robot Vacuum X20 Pro UK BHR8872EN 6941812792391\", \"price_sgd\": 639},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Roll Top Casual Backpack GL BHR9055GL 6941812797358\", \"price_sgd\": 65},\n  {\"brand\": \"Netgear\", \"product\": \"MK92+ MS90 Netgear Nighthawk Tri-B\", \"price_sgd\": 499},\n  {\"brand\": \"ATEN\", \"product\": \"SK-SH7401 4-Port 4K30 HDMI KVM\", \"price_sgd\": 209},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Robot Vacuum X20 Max UK BHR9217GB 6941812777183\", \"price_sgd\": 729},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Business Backpack GL BHR9177GL 6941812799345\", \"price_sgd\": 79},\n  {\"brand\": \"Netgear\", \"product\": \"MK92-1PCAPS Netgear Nighthawk Tri-\", \"price_sgd\": 299},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 2 Port USB KVM CS22U\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Watch 2 Pro - Bluetooth® Silver Case with Brown Leather Strap BHR7216GL\", \"price_sgd\": 199},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Expandable Luggage 20” (Blue) BHR9452GL 6941812714027\", \"price_sgd\": 109},\n  {\"brand\": \"Netgear\", \"product\": \"MS90-1PCAPS Netgear Nighthawk ® Tr\", \"price_sgd\": 249},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 2 Port USB HDMI KVM CS692\", \"price_sgd\": 161},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Vacuum Cleaner mini BHR4916GL 6934177726514\", \"price_sgd\": 49},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Front Pocket Carry-on Luggage 20” BHR8767GL 6941812793053\", \"price_sgd\": 149},\n  {\"brand\": \"Netgear\", \"product\": \"MK73S-100APS Netgear Nighthawk (MK\", \"price_sgd\": 279},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 2 Port USB 4K HDMI KVM CS22H\", \"price_sgd\": 169},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Vacuum Cleaner G20 Lite EU BHR8195EU 6941812771921\", \"price_sgd\": 109},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Aluminum Frame Luggage 20” BHR8840GL 6941812793046\", \"price_sgd\": 159},\n  {\"brand\": \"Netgear\", \"product\": \"MR6550-100APS Netgear Nighthawk (M\", \"price_sgd\": 1299},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 2 Port USB HDMI KVM CS22HF\", \"price_sgd\": 129},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Vacuum Cleaner G20 EU BHR8831EU 6941812791936\", \"price_sgd\": 249},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Aluminum Frame Luggage 24” BHR9078GL 6941812797587\", \"price_sgd\": 189},\n  {\"brand\": \"Netgear\", \"product\": \"MR6110-111EUS Netgear Nighthawk (M\", \"price_sgd\": 899},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 2 PORT CS22DP DISPLAY PORT\", \"price_sgd\": 168},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Vacuum Cleaner G20 Max EU BHR8828EU 6941812791967\", \"price_sgd\": 329},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Aluminum Frame Luggage 26” BHR9079GL 6941812797570\", \"price_sgd\": 229},\n  {\"brand\": \"Netgear\", \"product\": \"MH3150-100EUS NETGEAR Nighthawk (M\", \"price_sgd\": 799},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 4 Port USB KVM CS64U\", \"price_sgd\": 141},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Truclean W20 Wet Dry Vacuum EU BHR8833EU 6941812791929\", \"price_sgd\": 249},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Front Opening Luggage 20” BHR8768GL 6941812793060\", \"price_sgd\": 129},\n  {\"brand\": \"Netgear\", \"product\": \"MC321HW-10000S Meural Canvas II (M\", \"price_sgd\": 699},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN USB to Serial + Cable UC-232A\", \"price_sgd\": 29},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Dust Mite Vacuum Cleaner 2 GB BHR8277GB 6941812774502\", \"price_sgd\": 55},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Luggage Classic Pro 20” (Black) BHR8602GL 6941812785850\", \"price_sgd\": 109},\n  {\"brand\": \"Netgear\", \"product\": \"MCMYA-10000S Meural 1 Year Meural\", \"price_sgd\": 109},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN USB to Serial + Cable UC-232B\", \"price_sgd\": 39},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Dust Mite Vacuum Cleaner Pro GB BHR8942GB 6941812795279\", \"price_sgd\": 79},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Luggage Classic Pro 20” (Grey) BHR8603GL 6941812785843\", \"price_sgd\": 109},\n  {\"brand\": \"Planet\", \"product\": \"Planet GT-802 SX Media Convertor\", \"price_sgd\": 180},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN USB to Parallel Printer UC1284B\", \"price_sgd\": 29},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Smart Projector 2 BHR5211GL 6934177746383\", \"price_sgd\": 699},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Luggage Classic Pro 24” (Black) BHR8607GL 6941812785881\", \"price_sgd\": 129},\n  {\"brand\": \"Planet\", \"product\": \"Planet GT-805 Media Convertor\", \"price_sgd\": 185},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN VE829 Wireless Externer\", \"price_sgd\": 556},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Projector L1 UK BHR9418EN 6941812706213\", \"price_sgd\": 279},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Luggage Classic Pro 24” (Grey) BHR8606GL 6941812785904\", \"price_sgd\": 129},\n  {\"product\": \"Parallel Print Server LPT1\", \"price_sgd\": 199},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN RS-232 to RS-485/RS-422 IC485S\", \"price_sgd\": 66},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Smart Projector L1 Pro UK BHR9586EN 6941812702055\", \"price_sgd\": 409},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Luggage Classic Pro 26” (Black) BHR8607GL\", \"price_sgd\": 129},\n  {\"product\": \"USB Printer Server USB2.0 (Wireless $229)\", \"price_sgd\": 179},\n  {\"brand\": \"ATEN\", \"product\": \"Aten VC920 Mini DisplayPort to VGA Adapter\", \"price_sgd\": 20},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi TV Box S 2nd Gen UK PFJ4155UK 6971408157082\", \"price_sgd\": 155},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Nose Hair Trimmer BHR8997GL 6941812796436\", \"price_sgd\": 15.9},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax AC1300 3in1 Office Accesspoint\", \"price_sgd\": 500},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN HDMI Splitter VS182a\", \"price_sgd\": 138},\n  {\"brand\": \"Xiaomi\", \"product\": \"Mi Computer Monitor Light Bar BHR4838GL 6934177728525\", \"price_sgd\": 45.9},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi Electric Toothbrush T302 (Dark Blue) BHR9301GL 6941812754450\", \"price_sgd\": 29.9},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax AC1300 Addon Office Accesspoint\", \"price_sgd\": 148},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN HDMI Splitter VS184a\", \"price_sgd\": 245},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi TV A 32 ELA5212GL 6941948700208\", \"price_sgd\": 229},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax AI-1001W V2 Airbox AI-1001W V\", \"price_sgd\": 193},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN 2 port VGA Splitter VS0102\", \"price_sgd\": 112},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi TV A Pro 2025 43 ELA5509GL 6941948702592\", \"price_sgd\": 439},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax BR-6208AC AC750 Wireless conc\", \"price_sgd\": 44},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN USB2.0 Extender Cable 5M UE250\", \"price_sgd\": 36},\n  {\"brand\": \"Xiaomi\", \"product\": \"Xiaomi TV A Pro 2025 55 ELA5511GL 6941948702608\", \"price_sgd\": 649},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax BR-6478AC V2 AC1200 Router\", \"price_sgd\": 65},\n  {\"brand\": \"ATEN\", \"product\": \"ATEN USB2.0 Extender Cable 12M UE2120\", \"price_sgd\": 90},\n  {\"brand\": \"Biostar\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Biostar TB360-BTC Pro 9Gen Motherboard\", \"price_sgd\": 336},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EN-9260TX-E Gigabit PCIe Card\", \"price_sgd\": 18},\n  {\"brand\": \"Biostar\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Biostar TZ590-BTC Pro 10Gen Motherboard\", \"price_sgd\": 366},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-1008P V2 8-Port Fast Ether\", \"price_sgd\": 143},\n  {\"brand\": \"Asus\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Afox H81 Motherboard 4 Gen/Asus H81M-k\", \"price_sgd\": 162},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-1008PH V2 8-port Fast Ethe\", \"price_sgd\": 87},\n  {\"brand\": \"Asrock\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asrock z87/ Z270M\", \"price_sgd\": 255},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-1008PHE V2 8-Port FE Switc\", \"price_sgd\": 77},\n  {\"brand\": \"Gigabyte\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Gigabyte H310M-DS2 8th and 9th Gen\", \"price_sgd\": 159},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-1016 16P 10/100Mbps Rackmo\", \"price_sgd\": 50},\n  {\"brand\": \"Asrock\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asrock Z490M Pro 4 10th Gen\", \"price_sgd\": 329},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-1024 24P 10/100Mbps Rackmo\", \"price_sgd\": 66},\n  {\"brand\": \"Intel\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Intel H61 OEM Motherboard 3rd Gen\", \"price_sgd\": 109},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-3308P Fast 8 Port Switch\", \"price_sgd\": 18},\n  {\"brand\": \"Asus\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asus H110M Intel 6th & 7th Gen\", \"price_sgd\": 179},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-3316P 16P 10/100Mbps SOHO\", \"price_sgd\": 36},\n  {\"brand\": \"Gigabyte\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Gigabyte H81M-DS2 LGA1150 4th gen\", \"price_sgd\": 162},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5104PH 4 Ports Fast Ethernet V2\", \"price_sgd\": 81},\n  {\"brand\": \"Asus\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asus H81M-K 4th Gen Motherboard\", \"price_sgd\": 169},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5208P 8 Port Full POE Switch\", \"price_sgd\": 175},\n  {\"brand\": \"Gigabyte\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Gigabyte B460M Gaming HD 10th/11th\", \"price_sgd\": 219},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5216P 16 Port Fast Etherne\", \"price_sgd\": 367},\n  {\"brand\": \"Gigabyte\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Gigabyte B560 Aorus Pro AX 10th/11th\", \"price_sgd\": 259},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5224P 24 Port Fast Etherne\", \"price_sgd\": 435},\n  {\"brand\": \"Gigabyte\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Gigabyte H510M H / H410M H 10th/11th\", \"price_sgd\": 165},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5500G 5 Port Gigabit Switch\", \"price_sgd\": 26},\n  {\"brand\": \"Asus\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asus Prime H410M-A 10th/11th\", \"price_sgd\": 159},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax ES-5800G 8 Port Gigabit Switch\", \"price_sgd\": 36},\n  {\"brand\": \"Asus\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asus TUF Z390-M Gaming Pro 9th Gen\", \"price_sgd\": 219},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4208 USB 2.0 to 10/100Mbps\", \"price_sgd\": 14},\n  {\"brand\": \"Asrock\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asrock Z590 EXTREME WIFI 6E 10th/11th\", \"price_sgd\": 353},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EU-4308 3-Port USB3.0 and Gig\", \"price_sgd\": 51},\n  {\"brand\": \"Asrock\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asrock Z590 Phantom Gaming 4 10th/11th\", \"price_sgd\": 289},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7611UCB AC600 Dual-Band Wi\", \"price_sgd\": 40},\n  {\"brand\": \"Asus\", \"category\": \"Intel Motherboard / AMD Motherboard\", \"product\": \"Asus PRIME H510M-A WIFI 10th/11th\", \"price_sgd\": 192},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7611ULB N150 WiFi+Bluetoot\", \"price_sgd\": 22},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keyboard RGB Hotswap - ACR98 Mini Combo (CS Jelly Blue + Doll of the Princess)\", \"price_sgd\": 148},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7612PIn V2 11n 300M 2T2R P\", \"price_sgd\": 27},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keyboard ACR61 RGB Hotswap - Doll of the Princess (CS Jelly Blue Clicky 40g)\", \"price_sgd\": 128},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7612UAn V2 11n 300M 2T2R w\", \"price_sgd\": 32},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Keyboard ACR59 RGB Hotswap - World Tour Tokyo (CS Jelly Pink Linear)\", \"price_sgd\": 159},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7722UTn V2 300M 2T2R 802.1\", \"price_sgd\": 40},\n  {\"brand\": \"AKKO\", \"product\": \"AKKO Switch - TTC Demon Ltd. Ed. (10pcs)\", \"price_sgd\": 12},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811Un 11n 150M 1T1R Wirel\", \"price_sgd\": 16},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7811UTC AC600 Wireless Min\", \"price_sgd\": 29},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822UTC Wi-Fi Usb 3.0 Adapter\", \"price_sgd\": 27},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822UAC AC1200 Wireless Du\", \"price_sgd\": 48},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7822ULC AC1200 Dual-Band 1\", \"price_sgd\": 44},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7833UAC AC1750 Wireless Du\", \"price_sgd\": 66},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax EW-7833AXP Wireless Adaptor\", \"price_sgd\": 69},\n  {\"brand\": \"Edimax\", \"product\": \"Edimax GP-101IT POE+ Gigabit Injector\", \"price_sgd\": 59}\n]}"
+}
