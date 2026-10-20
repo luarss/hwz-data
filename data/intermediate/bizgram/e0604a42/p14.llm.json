@@ -1,0 +1,1600 @@
+{
+  "rows": [
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 7 5800X",
+      "price_sgd": 589.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5700X",
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5600X",
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 7 5700G",
+      "price_sgd": 502.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5600G",
+      "price_sgd": 359.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5600",
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 5500",
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 3 3200G",
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 4600G",
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 4650G",
+      "price_sgd": 289.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i3 10105 CPU",
+      "price_sgd": 194.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i3 10105F CPU",
+      "price_sgd": 135.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11400F CPU",
+      "price_sgd": 288.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11400 CPU",
+      "price_sgd": 316.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11500 CPU",
+      "price_sgd": 349.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11600KF CPU",
+      "price_sgd": 412.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i5 11600K CPU",
+      "price_sgd": 429.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i7 11700F CPU",
+      "price_sgd": 527.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i7 11700 CPU",
+      "price_sgd": 569.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i7 11700K CPU",
+      "price_sgd": 589.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i9 11900F CPU",
+      "price_sgd": 639.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i9 11900KF CPU",
+      "price_sgd": 647.0
+    },
+    {
+      "category": "Intel 11th Gen Processor Price Alone",
+      "brand": "Intel",
+      "product": "Intel 11th Gen i9 11900K CPU",
+      "price_sgd": 649.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 7000D Airflow  , Black",
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 7000D Airflow  , White",
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 7000X RGB  , Black",
+      "price_sgd": 419.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 7000X RGB  , White",
+      "price_sgd": 419.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 5000X RGB TG , Black",
+      "price_sgd": 269.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 5000X RGB TG , White",
+      "price_sgd": 269.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 5000D Airflow TG , Black",
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 5000D Airflow TG , White",
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 5000D TG , Black",
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 4000X RGB TG , Black",
+      "price_sgd": 189.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 4000X RGB TG , White",
+      "price_sgd": 189.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 4000D TG , Black",
+      "price_sgd": 139.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 4000D TG , White",
+      "price_sgd": 139.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair 4000D Airflow TG , White",
+      "price_sgd": 139.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R Airflow , Black",
+      "price_sgd": 119.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R Airflow , Whit",
+      "price_sgd": 119.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — Black ( TG",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — White ( TG",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — Black (Windo",
+      "price_sgd": 105.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275R — White (Windo",
+      "price_sgd": 105.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 275Q Quiet Gaming",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 100R Silent Edition",
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Carbide 100R Mid Tower",
+      "price_sgd": 82.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR Carbide 175R RGB TG Gaming",
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 220T RGB Airflow TG Sma",
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 220T RGB Airflow TG",
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE 465X RGB TG - Black",
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR iCUE 465X RGB TG - White",
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Crystal 280X RGB TG — Black",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Crystal 280X RGB TG — White",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR Crystal 680X RGB -Black",
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR Crystal 680X RGB -White",
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR Carbide 678C - Black",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "CORSAIR Carbide 678C - White",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Corsair Obsidian 500D RGB SE Premium",
+      "price_sgd": 389.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Crystal 570X RGB TG Black",
+      "price_sgd": 299.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Crystal 570X RGB TG White",
+      "price_sgd": 299.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Crystal 570X RGB TG Black Mirror",
+      "price_sgd": 299.0
+    },
+    {
+      "category": "Corsair ATX / MATX / ITX Chassis Casing",
+      "brand": "Corsair",
+      "product": "Obsidian 1000D Super-Tower",
+      "price_sgd": 729.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP TS-233 2-Bay 2GB RAM Desktop",
+      "price_sgd": 336.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 2-Bay Desktop NAS, Intel Cele",
+      "price_sgd": 682.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay Desktop ARM A-55 2GHz C",
+      "price_sgd": 627.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 4-bay Intel Celeron N5105/N50",
+      "price_sgd": 869.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay NAS AMD Ryzen quad-cor",
+      "price_sgd": 1166.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay NAS, Intel Core i3-8100",
+      "price_sgd": 2233.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 4-Bay quad-core 1.7GHz 1U sho",
+      "price_sgd": 979.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP Short depth 1U rackmount 4-ba",
+      "price_sgd": 1056.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 6-bay Intel Celeron N5105/N50",
+      "price_sgd": 1100.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 6-bay NAS, AMD Ryzen V1000 se",
+      "price_sgd": 1320.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 6-Bay NAS, Intel Core i3 NAS",
+      "price_sgd": 2640.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 8-bay NAS, AMD Ryzen V1000 s",
+      "price_sgd": 1595.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 8-Bay NAS, Intel core i5-8400",
+      "price_sgd": 3080.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP TS-873AeU-RP-4G 8-Bay Rackmou",
+      "price_sgd": 2772.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 9-bay NAS, AMD Ryzen V1500B 4",
+      "price_sgd": 1452.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 2-bay 3.5” SATA HDD USB 3.1 G",
+      "price_sgd": 264.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 4-bay 3.5” SATA HDD USB 3.0 t",
+      "price_sgd": 341.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP M.2 2280 PCIe NVMe to U.2 PCI",
+      "price_sgd": 88.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP QM2-2P-384 Dual M.2 PCIe SSD",
+      "price_sgd": 242.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP QM2-4P-384 Quad M.2 PCIe SSD",
+      "price_sgd": 264.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 2 x PCIe Gen3 NVMe SSD & 1 x",
+      "price_sgd": 341.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP QXG-10G1TB Single-port (10Gba",
+      "price_sgd": 193.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP 2 x RJ-45 10gBe Ports PCIe 3.",
+      "price_sgd": 337.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP CAB-DAC30M-SFPP SFP+ 10GbE tw",
+      "price_sgd": 113.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP CAB-SAS05M-8644 Mini SAS cabl",
+      "price_sgd": 113.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-ADAPTER-65W-A01 65W exter",
+      "price_sgd": 116.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-ADAPTER-90W-A01 90W exter",
+      "price_sgd": 116.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP SP-2BAY-ADAPTOR-90W 90W exter",
+      "price_sgd": 127.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-ADAPTER-120W-A01 120W 4pi",
+      "price_sgd": 143.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-100W-DT01 100W open f",
+      "price_sgd": 132.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-250W-DT02 250W Delta",
+      "price_sgd": 171.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-300W-DT01 300W power",
+      "price_sgd": 319.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP PWR-PSU-300W-DT02 300W power",
+      "price_sgd": 319.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP SP-469U-S-PSU 250W single pow",
+      "price_sgd": 424.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP RAIL-B02 Rack Slide Rail Kit",
+      "price_sgd": 131.0
+    },
+    {
+      "category": "QNAP",
+      "brand": "QNAP",
+      "product": "QNAP RAIL-A02-90 A02 (Chass",
+      "price_sgd": 264.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL Black - Solid Panel FD-C-DEF7X-01",
+      "price_sgd": 330.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL Black - Light Tint Tempered Glass FD-C-DEF7X-02",
+      "price_sgd": 355.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 XL Black - Dark Tint Tempered Glass FD-C-DEF7X-03",
+      "price_sgd": 355.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Black Solid FD-C-DEF7A-01",
+      "price_sgd": 268.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Black TG Light Tint FD-C-DEF7A-02",
+      "price_sgd": 282.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Black TG Dark Tint FD-C-DEF7A-03",
+      "price_sgd": 282.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 White TG Clear Tint FD-C-DEF7A-06",
+      "price_sgd": 282.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Grey TG Light Tint FD-C-DEF7A-08",
+      "price_sgd": 282.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact Black Solid FD-C-DEF7C-01",
+      "price_sgd": 179.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact White Solid FD-C-DEF7C-05",
+      "price_sgd": 179.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact Black TG Dark Tint FD-C-DEF7C-02",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact Black TG Light Tint FD-C-DEF7C-03",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Compact White TG Clear Tint FD-C-DEF7C-04",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Mini Black Solid FD-C-DEF7M-01",
+      "price_sgd": 188.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Mini Black TG Light Tint FD-C-DEF7M-02",
+      "price_sgd": 188.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Nano Black Solid FD-C-DEF7N-01",
+      "price_sgd": 168.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Define 7 Nano Black TG Light Tint FD-C-DEF7N-02",
+      "price_sgd": 168.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Charcoal Black FD-C-NOR1C-01",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Charcoal Black TG Dark Tint FD-C-NOR1C-02",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Chalk White FD-C-NOR1C-03",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design North Chalk White TG Clear Tint FD-C-NOR1C-04",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black TG Light Tint FD-C-TOR1A-01",
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Gray TG Light Tint FD-C-TOR1A-02",
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent White TG Clear Tint FD-C-TOR1A-03",
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black RGB TG Light Tint FD-C-TOR1A-04",
+      "price_sgd": 375.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black Solid FD-C-TOR1A-05",
+      "price_sgd": 290.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Black TG Dark Tint FD-C-TOR1A-06",
+      "price_sgd": 305.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent RGB White TG clear tint FD-C-TOR1A-07",
+      "price_sgd": 375.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact Black TG Dark Tint FD-C-TOR1C-01",
+      "price_sgd": 230.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact RGB Black TG Light Tint FD-C-TOR1C-02",
+      "price_sgd": 260.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact White TG Clear Tint FD-C-TOR1C-03",
+      "price_sgd": 230.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Compact Black Solid FD-C-TOR1C-04",
+      "price_sgd": 215.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano Black TG Dark Tint FD-C-TOR1N-01",
+      "price_sgd": 200.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano RGB Black TG Light Tint FD-C-TOR1N-02",
+      "price_sgd": 215.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano White TG Clear Tint FD-C-TOR1N-03",
+      "price_sgd": 200.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Torrent Nano Black Solid FD-C-TOR1N-04",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 XL Black TG Dark Tint FD-C-MES2X-01",
+      "price_sgd": 320.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 XL Black TG Light Tint FD-C-MES2X-02",
+      "price_sgd": 320.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 RGB Black TG Light tint FD-C-MES2A-06",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 RGB White TG Clear tint FD-C-MES2A-08",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Black Solid FD-C-MES2A-01",
+      "price_sgd": 230.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Black TG Dark Tint FD-C-MES2A-02",
+      "price_sgd": 250.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Black TG Light Tint FD-C-MES2A-03",
+      "price_sgd": 250.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Gray TG Light Tint FD-C-MES2A-04",
+      "price_sgd": 250.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 White TG Clear Tint FD-C-MES2A-05",
+      "price_sgd": 250.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite Black TG Light tint FD-C-MEL2A-03",
+      "price_sgd": 190.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite White TG Clear FD-C-MEL2A-04",
+      "price_sgd": 190.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Lite RGB Black TG Light tint FD-C-MEL2A-05",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Black Solid FD-C-MES2C-01",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Black TG Dark Tint FD-C-MES2C-02",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Black TG Light Tint FD-C-MES2C-03",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Gray TG Light Tint FD-C-MES2C-04",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact White TG Clear Tint FD-C-MES2C-05",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact RGB Black TG Light Tint FD-C-MES2C-06",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact RGB White TG Clear Tint FD-C-MES2C-08",
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite Black TG Light tint FD-C-MEL2C-03",
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite White TG Clear FD-C-MEL2C-04",
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Compact Lite RGB Black TG Light tint FD-C-MEL2C-05",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Mini Black TG Dark Tint FD-C-MES2M-01",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Mini White TG Clear Tint FD-C-MES2M-02",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Nano Black TG Dark Tint FD-C-MES2N-01",
+      "price_sgd": 170.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Meshify 2 Nano White TG Clear Tint FD-C-MES2N-02",
+      "price_sgd": 170.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air Black Solid FD-C-POA1A-01",
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air Black TG Clear Tint FD-C-POA1A-02",
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air White TG Clear Tint FD-C-POA1A-03",
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB White TG Clear Tint FD-C-POR1A-01",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Cyan Core TG Clear Tint FD-C-POR1A-02",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Magenta Core TG Clear Tint FD-C-POR1A-03",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Green Core TG Clear Tint FD-C-POR1A-04",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Orange Core TG Clear Tint FD-C-POR1A-05",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Air RGB Black TG Clear Tint FD-C-POR1A-06",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Silent Black Solid FD-C-POS1A-01",
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Silent Black TG Clear Tint FD-C-POS1A-02",
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Silent White TG Clear Tint FD-C-POS1A-04",
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Air RGB White TG Clear Tint FD-C-POR1M-01",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Air RGB Black TG Clear Tint FD-C-POR1M-06",
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Silent Black Solid FD-C-POS1M-01",
+      "price_sgd": 130.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop Mini Silent Black TG Clear Tint FD-C-POS1M-02",
+      "price_sgd": 130.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop XL Air RGB White TG Clear Tint FD-C-POR1X-01",
+      "price_sgd": 170.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop XL Air RGB Black TG Clear Tint FD-C-POR1X-06",
+      "price_sgd": 170.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop XL Silent Black Solid FD-C-POS1X-01",
+      "price_sgd": 155.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Pop XL Silent Black TG Clear Tint FD-C-POS1X-02",
+      "price_sgd": 155.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus 2 Black TG Clear Tint FD-C-FOC2A-01",
+      "price_sgd": 111.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus 2 White TG Clear Tint FD-C-FOC2A-02",
+      "price_sgd": 111.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus 2 RGB Black TG Clear Tint FD-C-FOC2A-03",
+      "price_sgd": 126.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus 2 RGB White TG Clear Tint FD-C-FOC2A-04",
+      "price_sgd": 126.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus 2 Black Solid FD-C-FOC2A-07",
+      "price_sgd": 111.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus G Black (Window Edition) FD-CA-FOCUS-BK-W",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus G Blue (Window Edition) FD-CA-FOCUS-BU-W",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus G Red (Window Edition) FD-CA-FOCUS-RD-W",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus G White (Window Edition) FD-CA-FOCUS-WT-W",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Focus Mini G Black (Window Edition) FD-CA-FOCUS-MINI-BKW",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Node 804 FD-CA-NODE-804-BL-W",
+      "price_sgd": 170.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Node 304 FD-CA-NODE-304-BL",
+      "price_sgd": 140.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Node 202 FD-CA-NODE-202-BK",
+      "price_sgd": 140.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Core 500 FD-CA-CORE-500-BK",
+      "price_sgd": 105.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design ION SFX Gold 500W, Black, UK Cord FD-PSU-ION-SFX-500G-BK-UK",
+      "price_sgd": 175.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design ION SFX Gold 650W, Black, UK Cord FD-PSU-ION-SFX-650G-BK-UK",
+      "price_sgd": 210.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design ION+ 660P, 660W Fully Modular Power Supply FD-PSU-IONP-660P-BK-UK",
+      "price_sgd": 205.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design ION Gold 750W Fully Modular Power Supply FD-P-IA2G-750-UK",
+      "price_sgd": 180.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design ION Gold 850W Fully Modular Power Supply FD-P-IA2G-850-UK",
+      "price_sgd": 200.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Prisma AL-12 ARGB PWM Fan - Single Pack FD-FAN-PRI-AL12-PWM",
+      "price_sgd": 35.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Prisma AL-12 ARGB PWM Fan - Triple Pack FD-FAN-PRI-AL12-PWM-3P",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Prisma AL-14 ARGB PWM Fan - Single Pack FD-FAN-PRI-AL14-PWM",
+      "price_sgd": 40.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Prisma AL-14 ARGB PWM Fan - Triple Pack FD-FAN-PRI-AL14-PWM-3P",
+      "price_sgd": 99.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Prisma AL-18 ARGB PWM Fan - Single Pack FD-FAN-PRI-AL18-PWM",
+      "price_sgd": 70.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Prisma AL-18 ARGB PWM Fan - Dual Pack FD-FAN-PRI-AL18-PWM-2P",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Venturi HP-12 PWM Fan FD-FAN-VENT-HP12-PWM",
+      "price_sgd": 33.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Venturi HP-14 PWM Fan FD-FAN-VENT-HP14-PWM",
+      "price_sgd": 39.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Dynamic X2 GP-12 Fan (Black) FD-FAN-DYN-X2-GP12BK",
+      "price_sgd": 22.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Dynamic X2 GP-12 Fan (White) FD-FAN-DYN-X2-GP12WT",
+      "price_sgd": 22.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Dynamic X2 GP-14 Fan (Black) FD-FAN-DYN-X2-GP14BK",
+      "price_sgd": 25.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Dynamic X2 GP-14 Fan (White) FD-FAN-DYN-X2-GP14WT",
+      "price_sgd": 25.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design HDD Cage kit - Type B, Black FD-A-CAGE-001",
+      "price_sgd": 22.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design USB-C 10Gbps Cable- Model D FD-A-USBC-001",
+      "price_sgd": 18.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design HDD Drive Tray Kit - Type B, Black, Dual pack FD-A-TRAY-001",
+      "price_sgd": 22.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Ridge Black Mitx FD-C-RID1N-01",
+      "price_sgd": 220.0
+    },
+    {
+      "category": "Fractal Design Casing / PSU / Accessories",
+      "brand": "Fractal Design",
+      "product": "Fractal Design Ridge White mITX FD-C-RID1N-02",
+      "price_sgd": 220.0
+    },
+    {
+      "category": "GARMIN WATCH SPORTS FITNESS GPS",
+      "brand": "Garmin",
+      "product": "Garmin Forerunner 55 Black GM-010-02562-50 upc 753759283322",
+      "price_sgd": 309.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO VERTICAL TITANIUM",
+      "price_sgd": 1229.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO VERTICAL",
+      "price_sgd": 899.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO 9 PEAK PRO TITANIUM",
+      "price_sgd": 849.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO 9 PEAK PRO",
+      "price_sgd": 679.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO 9 PEAK TITANIUM",
+      "price_sgd": 589.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO 9 PEAK",
+      "price_sgd": 459.0
+    },
+    {
+      "category": "SUUNTO WATCH SPORTS FITNESS GPS",
+      "brand": "Suunto",
+      "product": "SUUNTO 5 PEAK",
+      "price_sgd": 329.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei AP362 Settled AP, Wi-Fi 6, indoor, Dual Radio(2.4G/5GHz), 2*2/2*2 MU-MIMO, 1*GE Base-T, internal smart antennas",
+      "price_sgd": 359.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei AP263 Wall-plate AP, Wi-Fi 6, indoor, Dual Radio(2.4G/5GHz), 2*2/2*2 MU-MIMO, 1*GE Base-T, 1*GE Base-T, BLE, USB, internal smart antennas",
+      "price_sgd": 339.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei AC650-128AP 10*GE ports, 2*10GE SFP+ ports, built-in 128 license",
+      "price_sgd": 1849.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei AC650-256AP 10*GE ports, 2*10GE SFP+ ports, built-in 256 license",
+      "price_sgd": 2499.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S310-24P4S L2+ (static router), 24*10/100/1000BASE-T ports, 4*GE SFP ports, POE+(370W),",
+      "price_sgd": 1339.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S310-24T4S L2+ (static route), 24*10/100/1000BASE-T ports, 4*GE SFP ports,",
+      "price_sgd": 739.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S310-48T4S L2+ (static route), 48*10/100/1000BASE-T ports, 4*GE SFP ports,",
+      "price_sgd": 1079.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S380-L4T1T 1*GE WAN, 4*GE LAN, up to 150 users,forwarding performance 2Gbps",
+      "price_sgd": 559.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S380-L4P1T 1*GE WAN, 4*GE LAN(PoE+, 50W), up to 150 users,forwarding performance 2Gbps",
+      "price_sgd": 909.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S380-S8T2T 2*GE WAN, 8*GE LAN, up to 250 users,forwarding performance 2Gbps",
+      "price_sgd": 1039.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S380-S8P2T 2*GE WAN, 8*GE LAN(PoE+, 124W), up to 350 users,forwarding performance 2Gbps",
+      "price_sgd": 1329.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S380-H8T3ST 2*GE WAN, 1*GE(SFP) WAN, 8*GE LAN, up to 500 users, forwarding performance 2Gbps",
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei AR730 2*GE combo WAN, 1*10GE(SFP+) WAN, 8*GE LAN, 1*GE combo LAN, 2*USB, 2*SIC, up to 700 users, forwarding performance 4Gbps",
+      "price_sgd": 3019.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei AR720 2*GE combo WAN, 8*GE LAN, 2*USB, 2*SIC, up to1200 users, forwarding performance 6Gbps",
+      "price_sgd": 1429.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S110-8P2ST S110-8P2ST (8*10/100/1000BASE-T ports, PoE+, 1*GE SFP port, 1*10/100/1000BASE-T port, AC power, power adapter)",
+      "price_sgd": 239.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S110-16LP2SR S110-16LP2SR (16*10/100/1000BASE-T ports, 2*GE SFP ports, PoE+, AC power)",
+      "price_sgd": 369.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S110-24LP2SR S110-24LP2SR (24*10/100/1000BASE-T ports, 2*GE SFP ports, PoE+, AC power)",
+      "price_sgd": 779.0
+    },
+    {
+      "category": "HUAWEI NETWORKING",
+      "brand": "Huawei",
+      "product": "Huawei S110-24T2SR S110-24T2SR (24*10/100/1000BASE-T ports, 2*GE SFP ports, AC power)",
+      "price_sgd": 519.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 12th Gen (Wall Street Canyon) Ci5 RNUC12WSHI50000 90AR00E1-M00060",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 12th Gen (Wall Street Canyon) Ci7 RNUC12WSHI70000 90AR00E1-M000F0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 13th Gen (Arena Canyon) Ci5 RNUC13ANHI50000 90AR00C1-M00080",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 13th Gen (Arena Canyon) Ci7 RNUC13ANHI70000 90AR00C1-M000F0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 14th Gen (Revel Canyon) Ci3 RNUC14RVHI300000I 90AR0072-M00010",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 14th Gen (Revel Canyon) V5 RNUC14RVHV500000 90AR0072-M00130",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 14th Gen (Revel Canyon) V7 RNUC14RVHV700000 90AR0072-M00250",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 14th Gen (Revel Canyon) U5 RNUC14RVHU500000 90AR0072-M000L0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 14th Gen (Revel Canyon) U7 RNUC14RVHU700000 90AR0072-M001L0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 14th Gen Essential Celeron RNUC14MNK9700000 90AR00M2-M000C0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 14 PRO AI (Complete Set) U5 RNUC14LNKU5074N3 90AS00N1-M000W0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 14 PRO AI (Complete Set) U7 RNUC14LNKU7094N3 90AS00N1-M001Y0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 14 PRO AI (Complete Set) U9 RNUC14LNKU9094N3 90AS00N1-M001Z0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "COMPLETE SET ROG NUC 14th Gen (Scorpion Canyon) U7 RNUC14SRKU7168A0I 90AS0051-M00020",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "COMPLETE SET ROG NUC 14th Gen (Scorpion Canyon) U9 RNUC14SRKU9189A0I 90AS0051-M000X0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Barebone NUC 14th Gen Enthusiast (Scorpion Canyon) U7 RNUC14SRKU710000I 90AR0042-M00130",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "Barebone NUC 14th Gen Enthusiast (Scorpion Canyon) U9 RNUC14SRKU910000I 90AR0042-M001K0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC barebone 12th Gen (Wall Street Canyon) U9 RNUC14RVSU900000I 90AR0051-M000E0",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 15 PRO (Barebone) C3 RNUC15CRHI300000I 90AR00Q2-M00120",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 15 PRO (Barebone) C5 RNUC15CRHC500000I 90AR00Q2-M00130",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 15 PRO (Barebone) C7 RNUC15CRHC700000I 90AR00Q2-M00140",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 15 PRO (Barebone) U5 RNUC15CRHU500000I 90AR00Q2-M00150",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 15 PRO (Barebone) U7 RNUC15CRHU700000I 90AR00Q2-M00160",
+      "price_sgd": 0.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "NUC 15 PRO (Barebone) U9 RNUC15CRSU900000I 90AR00P3-M000U0",
+      "price_sgd": 0.0
+    }
+  ]
+}
