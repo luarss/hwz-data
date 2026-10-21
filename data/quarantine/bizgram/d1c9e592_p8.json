@@ -1,0 +1,5594 @@
+{
+  "sha256": "d1c9e592b37e109e2803b4cf89bed7a8302d7c4e7c2486787732b9e469f0c526",
+  "vendor": "bizgram",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-250W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Aggregation-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1186.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-BULLET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax IEW-7811UTC AC600 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-250W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Aggregation-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1186.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Bullet-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 796.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax PrimeAX 123 AX1800 Wi-Fi 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 456.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink Mini S12 Mini PC, Intel 12th Processor (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT N100 (4C/4T, up to 3.4Ghz), 16G DDR4 500G TERMINAL B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-250W-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax Office 123 Simple and Secur",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 447.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-500W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 736.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Brick",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1300 Office 1-2-3 Master",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-500W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 736.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Concrete",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1300 Office +1 Office +1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink Mini S13 Mini PC, Intel 12th Processor SSD mini Computer, LAN 1000M/25W TDP/WiFi 6/BT5.2 for Home/Office",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-500W-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 736.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Fabric",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP1300 Office +1 Office+1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Silver",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax APC500 Wireless Acess Point",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Wood",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax WAP1750 AC1750 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 523.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Dome-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 770.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP1750 1750 Long Range",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "6934177723162",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-500W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-HD-24-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Doorbell-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP1300 1300 outdoor AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-500W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Doorbell-PS-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP900 Long Range 802.11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Automatic Soap Dispenser (Blue) BHR9362GL 6941812737996",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-500W-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-INS-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1750 AC1750 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 234.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Automatic Soap Dispenser (Pink) BHR9301GL 6941812754450",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-750W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-IRExtender",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1300 AC1300 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-750W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 626.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1200 AC1200 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 122.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Automatic Soap Dispenser 1S BHR8853GL 6941812792193",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-750W-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-PRO-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1864.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP300 2x2 N300 Ceiling-Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Nose Hair Trimmer BHR8997GL 6941812796436",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 523.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-PTZ",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax IAP1200 AC1200 In-Wall Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Electric Toothbrush T302 (Dark Blue) BHR7647GL 6941812745427",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-48-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 523.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Bullet",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 184.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-101IT IEEE 802.3at Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Electric Toothbrush T302 (Silver Gray) BHR7595GL 6941812743782",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-16-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Bullet-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 502.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-103IT IEEE 802.3af/at/bt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Smart Electric Toothbrush T501 (Dark Grey) BHR7792GL 6941812751954",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-150W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 610.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 254.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-101ST IEEE 802.3at Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Smart Electric Toothbrush T501 (White) BHR7791GL 6941812751961",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-150W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 610.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 727.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-101ET IEEE 802.3at PoE E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi WaterOrico UTJ-U3 USB A TO GIGA LAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-150W-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1065.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome-Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5208PLG V2 10-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico CLH-3AR TYPE C TO 3*PORT US",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1065.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome-Ultra-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5216PLC Surveillance Lon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico HR01-U3 USB A TO 3*PORT USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-60W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1065.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Flex",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5424PLC V3 Surveillance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 580.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico CRS-31 CARD READER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-60W-5-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 754.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 610.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 512.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5424PLX V2 Surveillance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 731.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico DUK-5P 5 PORT USB 2.4A CHAR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-60W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-24-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 610.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-PTZ",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 390.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5654PLX V2 54-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 939.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico DUK-10P 10 PORT USB 2.4A CH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-60W-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-48",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 880.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-PTZ-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 390.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico PUG-C6-MTM LAN EXTENSION AD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-48-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 880.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Turret-Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec Mini PC , Small Portable PC HDMI, Dual 100",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 787.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico ST2 TOOLKIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-8-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-48-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Turret-Ultra-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XC-R45 TYPE C TO GIGABIT LA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-XG-6POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 804.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-48-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-180-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 415.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XC-304 6 IN 1 DOCKING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti US-XG-6POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 804.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-48-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Bullet-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XD-312",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Max-48-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 880.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Bullet-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XD-313 TYPE C TO HDMI/USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USG-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-10-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 970.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Dome-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico SC2 USB TO AUDIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USG-PRO-4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 373.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-10-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 970.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Dome-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico TCM2-C3 TYPE C TO NVME ENCL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USG-PRO-4-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 373.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-10-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 970.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Entry",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 337.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI OEM Sound Card Creative/CMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USG-PRO-4-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 373.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-10-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 970.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-INS-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Creative USB sound card Play 4 etc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USG-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1489.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-INS-W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USL-Entry-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1489.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-INS-W-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Mining Rig Casing 8 GPU Aluminium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 200.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USL-Environmental-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-360-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 685.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Mining Riser Cable Kit with USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USP-Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-360-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 685.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Mining on/off Switch Cable Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USP-RPS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Bullet-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 653.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Mining Motherboard CPU + RAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 428.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USP-RPS-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Bullet-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 653.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Mining Power Supply Gold 92+ 2000Watts",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 559.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USP-RPS-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1489.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Dome-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry Pi Pico Microcontroller Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-16-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 410.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-24-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1489.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Turret-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry Pi Pico Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-16-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 410.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Turret-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Maker Pi Pico and Kits",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-16-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 410.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-PTZ-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Maker Pi Pico Mini",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 310.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-PTZ-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Maker Nano RP2040",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 310.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Turret-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "TTGO T-Display RP2040 1.14 LCD Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-24-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Turret-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Arducam Pico4ML TinyML QVGA Cam LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-24-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UWB-XG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1860.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry Pi CM4 Wireless 4G RAM Lite",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-24-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UWB-XG-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1860.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Raspberry Pi CM4 with Wireless 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 310.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 173.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Nano Base (B) Board for Raspberry Pi CM4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-48",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-8-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 173.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Nano Base (A) Board for Raspberry Pi CM4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-48-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-8-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 173.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "RPi Compute Module 4 (CM4) IO Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-48-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 807.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-8-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PiTray mini Board for CM4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-48-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 807.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-8-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX7-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Piunora Raspberry Pi CM4 Carrier Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-48-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 807.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-Aggregation",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX7-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Piunora Raspberry Pi CM4 Carrier + Kits",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-48-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-Aggregation-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Enterprise",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2030.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Razer Acari Ultra Low Friction Mouse Mat",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Aggregation",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 364.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-Aggregation-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Enterprise-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2030.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Razer Blackwidow V3 TKL Mechanical Kbd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Aggregation-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 364.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-Aggregation-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Enterprise-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2030.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Tecware EXO L 6400DPI Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Aggregation-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 364.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Fiber",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Spectre Pro 104 Key Mech. Keyboar",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Aggregation-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 364.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-210W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Fiber-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Spectre 104 Key Mechanical Keyboa",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-24-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1083.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-210W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Fiber-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 104 Key Mechanical Keyboa",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-24-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1083.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-210W-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Lite",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 96 Key Mechanical Keyboar",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-24-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1083.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-60W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Lite-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 87 Key Mechanical Keyboar",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-24-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1083.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-60W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Lite-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 87 SE, RGB LED, Blue/Brow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-48-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-60W-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Max",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom Low Profile 87 Key Mechan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-48-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Max-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP KM100 Keyboard and Mouse Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-48-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Max-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP KM200 Keyboard and Mouse Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-48-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-RJ45",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Pro-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 677.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP K500F KB MEMBRANE BACKLIT LED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-8-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 643.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-RJ45-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 705.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP GK100 MECHANICAL RAINBOW LED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-8-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 643.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-RJ45-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 705.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP GK400F MECHANICAL RAINBOW LED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-8-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 643.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-RJ45-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Gen2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 831.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP GK520 MECHANICAL RAINBOW LED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Enterprise-8-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 643.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Gen2-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 831.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP GK200 MECHANICAL RAINBOW LED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-EnterpriseXG-24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Gen2-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 831.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP GK1100 MEMBRANE KB + MSE BACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-EnterpriseXG-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UT-G3-Handset",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Micro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP H100 HEADSET W/MIC 3.5MM JACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-EnterpriseXG-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTP-G3-Touch-Enterprise",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 400.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Micro-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP H320GS 7.1 SURROUND HEADSET W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-EnterpriseXG-24-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTP-G3-Touch-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP H360GS 7.1 SURROUND HEADSET W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTP-G3-Touch-Wall",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 534.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-20",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 914.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP H150 EARPHONE W/MIC 3.5MM JAC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP MP3524 GAMING MSE PAD 35X24CM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-5-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP MP7035 GAMING MSE PAD 70X35CM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-5-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-360-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP MP9040 GAMING MSE PAD 90X40CM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-5-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Bullet",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SanDisk Extreme PRO SD UHS-II Card Reader/Writer, 2Y SDDR-399-G46",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 217.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Dome-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-LR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 524.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SanDisk Extreme PRO SD UHS-II USB-C Reader/Writer, 2Y SDDR-409-G46",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-8-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 217.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Dome-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-LR-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 524.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SanDisk ImageMate PRO USB-C Reader/Writer SDDR-A631-GNGNN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-8-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-DSLR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2283.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-MLO5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD3CHD4KU iDream USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-8-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 217.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-DSLR-LD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2283.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-MLO5-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-2.5G-8-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 217.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-LPR-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 682.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-MLO5-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Biostar TB360-BTC Pro 9Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Nano",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD3CHDVU2 iDream 4 in 1 USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Mini",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Pro-White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Pico-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Biostar TZ590-BTC Pro 10Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 366.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Mini-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1776.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 836.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD5CHU2CR iDream 5 in 1 USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Mini-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 194.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-Precision-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2301.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti WM-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Afox H81 Motherboard 4 Gen/Asus H81M-k",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Mini-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-Precision-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2301.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti XR2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD5CHDLDP iDream 5 in 1 USB C to HDMI Multiport Adaptor with Lan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Mini-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1776.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti XR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asrock z87/ Z270M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Mini-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 423.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Gigabyte H310M-DS2 8th and 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD5CH2U2C iDream 5 in 1 USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-Utility",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Audio",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EU-4208 USB 2.0 to 10/100Mb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asrock Z490M Pro 4 10th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-XG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Hub",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 276.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EU-4306 V2 USB 3.0 to Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD8CHUNCR iDream USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-XG-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Lens",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EU-4308 3-Port USB3.0 and",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Intel H61 OEM Motherboard 3rd Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUCT45 iDream USB C to Gigabit Lan Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-XG-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Lens-360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus H110M Intel 6th & 7th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDCHD4K2M iDream USB C to HDMI 1.8m Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Flex-XG-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Lens-LD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EN-9260TX-E V2 Gigabit PCIe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Gigabyte H81M-DS2 LGA1150 4th gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD6CHCRPD iDream 6 in 1 Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Industrial",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-3308P 8P 10/100Mbps SOH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus H81M-K 4th Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD6CHU3CR iDream 6 in 1 Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Industrial-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-ProLens110",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-1008P V2 8-Port Fast Eth",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Gigabyte B460M Gaming HD 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD4CH4P2H iDream 4 in 1Dual HDMI Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Industrial-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-ProLens360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Gigabyte B560 Aorus Pro AX 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD7CH2C7P iDream 7 in 1 Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-16-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-ProLens50",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-5500G V3 Gigabit 5 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Gigabyte H510M H / H410M H 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDHDVGAO iDream HDMI to VGA Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-16-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Turret-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-5800G V3 Gigabit 8 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus Prime H410M-A 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "IDUCACO iDream USB C to Audio Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-16-POE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Turret-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1016 V2 16P 10/100/1000M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus TUF Z390-M Gaming Pro 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUCH4K60 iDream USB C to 4k HDMI Ada",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-16-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-Doorbell-Lite-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1024 24P 10/100/1000M R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asrock Z590 EXTREME WIFI 6E 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUC5PD iDream USB 5 Port Hub",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-8-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-Doorbell-Lite-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1026 V3 24P 10/100/1000M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 150.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asrock Z590 Phantom Gaming 4 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTCHD-SE iDream USB C to HDMI Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-8-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-BULLET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5424G 24-Port Gigabit Po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PRIME H510M-A WIFI 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTCDP-SE iDream USB C to Displayport Si",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-8-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-BULLET-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1008P V2 8-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTC2V-SE iDream USB C to VGA Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Lite-8-POE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Dome",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1008PL V2 8-port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTCMDP-SE iDream USB C to Mini Displayp",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Mission-Critical-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-DOME-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7722UTn V3 300M 2T2R 802",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUC3A1M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-DOME-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811Un V2 11n 150M 1T1R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUC3A2M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-DOME-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7611ULB N150 Wi-Fi BT 4.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUC3C1M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 946.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7611ULB V2 N150 Wi-Fi BT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUC3C2M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 946.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-C-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax BT-8500 Bluetooth 5.0 Nano",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUC5A1M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 946.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-PENDANT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7612PIn V2 11n 300M 2T2R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 946.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-PENDANT-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7833AXP Wi-Fi 6 AX3000 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-FLEX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7833UAC1750 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-24-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-FLEX-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 293.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UMX AX1800 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 811.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UAD AC1200 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 811.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-Black-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UAC1200 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1487.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-WT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UTC AC1200 Dual-Band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-POE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1487.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-WT-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822ULC AC1200 Dual-Band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1487.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811UTC AC600 Wireless M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1487.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1182.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811ULC AC600 Wireless D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 811.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO-5-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1182.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811UAC600 Wireless D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-48-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 811.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811DAC600 Wi-Fi Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-8-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 373.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7611UCB 2-in-1 AC600 Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-8-PoE-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-PRO-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1108.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax RG21S AC2600 Dual band con",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-8-PoE-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4 Doorbell Pro PoE Kit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax BR-6478V2 AC1200 Wireles",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-8-PoE-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 407.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4 Doorbell Pro PoE Kit-White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7438RPN Mini N300 Univer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-Aggregation",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1186.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4 Doorbell Pro-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 422.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax IC-7113W 720p Wireless H.26",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink Mini S12 Mini PC, Intel 12th Processor N95 (4C/4T, up to 2.9Ghz), 8G DDR4 256G SSD Desktop computer, LAN 1000M/25W TDP/WiFi 5/BT4.2 for Home/Office",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink S12 Mini PC, Intel 12th Processor N95 (4C/4T, up to 2.9Ghz), 16G DDR4 500G M.2 SSD Mini Computer, LAN 1000M/25W TDP/WiFi 5/BT4.2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQi12 Mini PC, Intel Core i5-1235U (10C/12T,up to 4.4GHz), Mini Desktop Computer 32GB DDR4 500GB M.2 PCIe 4.0 SSD, 4K Dual Display HDMI*2/WiFi 6/BT5.2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQR7 Mini PC, AMD Ryzen 7 7735U (8C/16T up to 4.7GHz), 32GB LPDDR5 1TB M.2 2280 SSD, 4K Dual Display,HDMI*2, LAN 1000M/USB-C/WiFi 6/BT5.2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink SER8 Mini PC, AMD Ryzen 7 8845HS(8C/16T up to 5.1GHz), 32GB DDR5 1TB PCIe4.0 SSD Mini Gaming PC, 4K Triple",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQR6 Mini PC, AMD Ryzen 9 6900HX (8C/16T, up to 4.9Ghz), 32G DDR5 RAM 1TB PCIe4.0 SSD Mini Computer, WiFi6, BT5.2, Dual HDMI, Dual 100",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 787.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U (8C/16T,Up to 4.5GHz) 16GB DDR4 500GB M.2 PCIe SSD Mini Desktop 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQ14 Mini PC, Intel 12th Processor N150 (4C/4T, up to 3.6Ghz), 16G DDR4 500G M.2 SSD Mini Office, 4K Dual Display/Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U (8C/16T,Up to 4.5GHz) 32GB DDR4 500GB M.2 PCIe SSD Mini Support 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 609.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink GTi14 Ultra Mini PC, Intel Core Ultra 9 185H (16C/22T up to 5.1GHz), 32GB DDR5 1TB M.2 PCIe4.0 SSD AI Mini Computer, 4K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1520.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch V2 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch V3 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch V4 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch P2 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch U1 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch U2 Purifier + Humidif",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Lide 300 Flatbed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Lide 400 Flat Bed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Epson Perfection V39 II Flatbed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Fujitsu IX1600 Black ADF Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 724.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP laserjet MFP M236DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Color Laserjet ProMFP 3303FDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Color Laserjet Enterprise M455DN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 769.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-1510 Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Pixma TS5370a Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Pixma TR4670S Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Motorola Zebra LS2208 Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Motorola Zebra DS2208 Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother Drum DR-2255 Drum Unit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-1110 Mono Laser Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-1210W Mono Laser Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Color Laser 150NW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Inkjet 2821E AIO (3721 AIO $79)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon MG2570S AIO Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Pro 200 Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon MG3670 AIO Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Epson LQ310 Dot Matrix 24 Pin Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-L2460DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-L2640DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-L2680DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother MFC-L2805DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother MFC-L2885DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-L3240CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-L3280CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-L3560CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother MFC-L3760CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SK-SH7401 4-Port 4K30 HDMI KVM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB KVM CS22U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB HDMI KVM CS692",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 161.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB 4K HDMI KVM CS22H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB HDMI KVM CS22HF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 PORT CS22DP DISPLAY PORT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 4 Port USB KVM CS64U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB to Serial + Cable UC-232A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB to Serial + Cable UC-232B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB to Parallel Printer UC1284B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN VE829 Wireless Externer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 556.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN RS-232 to RS-485/RS-422 IC485S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Aten VC920 Mini DisplayPort to VGA Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN HDMI Splitter VS182a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN HDMI Splitter VS184a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 port VGA Splitter VS0102",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB2.0 Extender Cable 5M UE250",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB2.0 Extender Cable 12M UE2120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox G5 • Intel® N97 Processor (6M Cache, up to 3.60 GHz, 4C/4T, TDP 12W) • 12GB LPDDR5 4800 Onboard • 512GB M.2 2242 SATA SSD 1x M.2 2242 SATA Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox G3 Plus • Intel® N150 Processor (6M Cache, up to 3.60 GHz, 4C/4T, TDP 6W) • 16GB DDR4 3200 SO-DIMM (1*16GB, Max 32GB) • 1TB M.2 PCIe Gen3x4 SSD 1x M.2 2242 SATA Slot 1x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox G9 • Intel® N150 Processor (6M Cache, up to 3.60 GHz, 4C/4T, TDP 6W) • 12GB LPDDR5 4800 Onboard • 64GB eMMC • 2TB M.2 PCIe Gen3x2 SSD 4x M.2 2280 PCIe Gen3x2 Slot • Windows 11 Professional | Ubuntu (Dual Boot)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox M3 • Intel® Core™ i5-12450H Processor (12MB Cache, up to 4.4 GHz, 8C/12T, TDP 45W) • 32GB DDR4 3200 SO-DIMM (2*16GB, Max 64GB) • 1TB M.2 PCIe Gen3x4 SSD 1x M.2 2242 SATA Slot 1x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K7 Plus • Intel® Core™ i7-13620H Processor (24MB Cache, up to 4.9 GHz, 10C/16T, TDP 45W) • 32GB DDR5 4800 SO-DIMM (2*16GB, Max 96GB) • 1TB M.2 PCIe Gen3x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1049.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K9 • Intel® Core™ Ultra 5 Processor 125H (18MB Cache, up to 4.5 GHz, 14C/18T, TDP 28~65W) • 32GB DDR5 5600 SO-DIMM (2*16GB, Max 96GB) • 1TB M.2 PCIe Gen4x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K8 Plus • AMD Ryzen™ 7 8845HS Processor (24MB Cache, up to 5.1 GHz, 8C/16T, TDP 35~54W) • 32GB DDR5 5600 SO-DIMM (2*16GB, Max 96GB) • 1TB M.2 PCIe Gen4x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K11 • AMD Ryzen™ 9 8945HS Processor (24MB Cache, up to 5.2 GHz, 8C/16T, TDP 35~54W) • 32GB DDR5 5600 SO-DIMM (2*16GB, Max 96GB) • 1TB M.2 PCIe Gen4x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec EVO-X1 • AMD Ryzen™ AI 9 HX 370 Processor (36MB Cache, up to 5.1 GHz, 12C/24T, TDP 15~54W) • 32GB LPDDR5X 7500 Onboard • 1TB M.2 PCIe Gen4x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec EVO-X2 • AMD Ryzen™ AI Max+ 395 Processor (16 MB L2 Cache / 64 MB L3 Cache, up to 5.1 GHz, 16C/32T, TDP 45~120W, peak at 140W) • 64GB LPDDR5X 8000 Onboard • 1TB M.2 PCIe Gen4x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec EVO-X2 • AMD Ryzen™ AI Max+ 395 Processor (16 MB L2 Cache / 64 MB L3 Cache, up to 5.1 GHz, 16C/32T, TDP 45~120W, peak at 140W) • 128GB LPDDR5X 8000 Onboard • 2TB M.2 PCIe Gen4x4 SSD 2x M.2 2280 PCIe Slot • Windows 11 Professional",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3459.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Planet GT-802 SX Media Convertor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Planet GT-805 Media Convertor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Parallel Print Server LPT1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "USB Printer Server USB2.0 (Wireless $229)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE1000U + MB + I/O board + CPU + DRAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    }
+  ],
+  "numeric_tokens_in_source": 97,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 620 rows, limit 199",
+  "raw_response": "{\"rows\": [\n  {\"product\": \"Ubiquiti US-24-250W\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti USW-Pro-Aggregation-EU\", \"price_sgd\": 1186},\n  {\"product\": \"Ubiquiti UVC-G4-BULLET\", \"price_sgd\": 269},\n  {\"product\": \"Edimax IEW-7811UTC AC600 Wireless\", \"price_sgd\": 39},\n  {\"product\": \"Ubiquiti US-24-250W-EU\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti USW-Pro-Aggregation-U\", \"price_sgd\": 1186},\n  {\"product\": \"Ubiquiti UVC-G4-Bullet-3\", \"price_sgd\": 796},\n  {\"product\": \"Edimax PrimeAX 123 AX1800 Wi-Fi 6\", \"price_sgd\": 456},\n  {\"product\": \"Beelink Mini S12 Mini PC, Intel 12th Processor  (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT N100 (4C/4T, up to 3.4Ghz), 16G DDR4 500G  TERMINAL B\", \"price_sgd\": 569},\n  {\"product\": \"Ubiquiti US-24-250W-U\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24\", \"price_sgd\": 829},\n  {\"product\": \"Ubiquiti UVC-G4-DB-Cover-Black\", \"price_sgd\": 31},\n  {\"product\": \"Edimax Office 123 Simple and Secur\", \"price_sgd\": 447},\n  {\"product\": \"Ubiquiti US-24-500W\", \"price_sgd\": 736},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-EU\", \"price_sgd\": 829},\n  {\"product\": \"Ubiquiti UVC-G4-DB-Cover-Brick\", \"price_sgd\": 31},\n  {\"product\": \"Edimax CAP1300 Office 1-2-3 Master\", \"price_sgd\": 149},\n  {\"product\": \"Ubiquiti US-24-500W-EU\", \"price_sgd\": 736},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-PoE\", \"price_sgd\": 1353},\n  {\"product\": \"Ubiquiti UVC-G4-DB-Cover-Concrete\", \"price_sgd\": 31},\n  {\"product\": \"Edimax CAP1300 Office +1 Office +1\", \"price_sgd\": 149},\n  {\"product\": \"Beelink Mini S13 Mini PC, Intel 12th Processor  SSD mini Computer, LAN 1000M/25W TDP/WiFi 6/BT5.2 for Home/Office\", \"price_sgd\": 539},\n  {\"product\": \"Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P\", \"price_sgd\": 829},\n  {\"product\": \"Ubiquiti US-24-500W-U\", \"price_sgd\": 736},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-PoE-EU\", \"price_sgd\": 1353},\n  {\"product\": \"Ubiquiti UVC-G4-DB-Cover-Fabric\", \"price_sgd\": 31},\n  {\"product\": \"Edimax OAP1300 Office +1 Office+1\", \"price_sgd\": 206},\n  {\"product\": \"Ubiquiti US-24-EU\", \"price_sgd\": 269},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-PoE-U\", \"price_sgd\": 1353},\n  {\"product\": \"Ubiquiti UVC-G4-DB-Cover-Silver\", \"price_sgd\": 31},\n  {\"product\": \"Edimax APC500 Wireless Acess Point\", \"price_sgd\": 290},\n  {\"product\": \"Ubiquiti US-24-U\", \"price_sgd\": 269},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-PoE-UK\", \"price_sgd\": 1353},\n  {\"product\": \"Ubiquiti UVC-G4-DB-Cover-Wood\", \"price_sgd\": 31},\n  {\"product\": \"Edimax WAP1750 AC1750 Long Range 8\", \"price_sgd\": 251},\n  {\"product\": \"Ubiquiti US-48\", \"price_sgd\": 523},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-U\", \"price_sgd\": 829},\n  {\"product\": \"Ubiquiti UVC-G4-Dome-3\", \"price_sgd\": 770},\n  {\"product\": \"Edimax OAP1750 1750 Long Range\", \"price_sgd\": 635},\n  {\"product\": \"6934177723162\", \"price_sgd\": 7},\n  {\"product\": \"Ubiquiti US-48-500W\", \"price_sgd\": 1075},\n  {\"product\": \"Ubiquiti USW-Pro-HD-24-UK\", \"price_sgd\": 829},\n  {\"product\": \"Ubiquiti UVC-G4-Doorbell-EU\", \"price_sgd\": 269},\n  {\"product\": \"Edimax OAP1300 1300 outdoor AP\", \"price_sgd\": 207},\n  {\"product\": \"Ubiquiti US-48-500W-EU\", \"price_sgd\": 1075},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16\", \"price_sgd\": 381},\n  {\"product\": \"Ubiquiti UVC-G4-Doorbell-PS-EU\", \"price_sgd\": 50},\n  {\"product\": \"Edimax OAP900 Long Range 802.11\", \"price_sgd\": 165},\n  {\"product\": \"Xiaomi  Automatic  Soap   Dispenser  (Blue) BHR9362GL 6941812737996\", \"price_sgd\": 29.9},\n  {\"product\": \"Ubiquiti US-48-500W-U\", \"price_sgd\": 1075},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-EU\", \"price_sgd\": 381},\n  {\"product\": \"Ubiquiti UVC-G4-INS-EU\", \"price_sgd\": 153},\n  {\"product\": \"Edimax CAP1750 AC1750 Long Range 8\", \"price_sgd\": 234},\n  {\"product\": \"Xiaomi  Automatic  Soap  Dispenser  (Pink) BHR9301GL 6941812754450\", \"price_sgd\": 29.9},\n  {\"product\": \"Ubiquiti US-48-750W\", \"price_sgd\": 1311},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-PoE\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti UVC-G4-IRExtender\", \"price_sgd\": 109},\n  {\"product\": \"Edimax CAP1300 AC1300 Long Range 8\", \"price_sgd\": 149},\n  {\"product\": \"Ubiquiti US-48-750W-EU\", \"price_sgd\": 1311},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-PoE-EU\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti UVC-G4-PRO\", \"price_sgd\": 626},\n  {\"product\": \"Edimax CAP1200 AC1200 Long Range 8\", \"price_sgd\": 122},\n  {\"product\": \"Xiaomi Automatic Soap Dispenser 1S BHR8853GL 6941812792193\", \"price_sgd\": 15.9},\n  {\"product\": \"Ubiquiti US-48-750W-U\", \"price_sgd\": 1311},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-PoE-U\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti UVC-G4-PRO-3\", \"price_sgd\": 1864},\n  {\"product\": \"Edimax CAP300 2x2 N300 Ceiling-Mou\", \"price_sgd\": 88},\n  {\"product\": \"Xiaomi  Nose    Hair  Trimmer   BHR8997GL 6941812796436\", \"price_sgd\": 15.9},\n  {\"product\": \"Ubiquiti US-48-EU\", \"price_sgd\": 523},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-PoE-UK\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti UVC-G4-PTZ\", \"price_sgd\": 2436},\n  {\"product\": \"Edimax IAP1200 AC1200 In-Wall Dual\", \"price_sgd\": 110},\n  {\"product\": \"Xiaomi  Electric  Toothbrush  T302  (Dark  Blue) BHR7647GL 6941812745427\", \"price_sgd\": 39},\n  {\"product\": \"Ubiquiti US-48-U\", \"price_sgd\": 523},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-U\", \"price_sgd\": 381},\n  {\"product\": \"Ubiquiti UVC-G5-Bullet\", \"price_sgd\": 184},\n  {\"product\": \"Edimax GP-101IT IEEE 802.3at Gigab\", \"price_sgd\": 35},\n  {\"product\": \"Xiaomi Electric Toothbrush T302 (Silver Gray) BHR7595GL 6941812743782\", \"price_sgd\": 39},\n  {\"product\": \"Ubiquiti US-8\", \"price_sgd\": 146},\n  {\"product\": \"Ubiquiti USW-Pro-Max-16-UK\", \"price_sgd\": 381},\n  {\"product\": \"Ubiquiti UVC-G5-Bullet-3\", \"price_sgd\": 502},\n  {\"product\": \"Edimax GP-103IT IEEE 802.3af/at/bt\", \"price_sgd\": 92},\n  {\"product\": \"Xiaomi Smart Electric Toothbrush T501 (Dark Grey) BHR7792GL 6941812751954\", \"price_sgd\": 59},\n  {\"product\": \"Ubiquiti US-8-150W\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24\", \"price_sgd\": 610},\n  {\"product\": \"Ubiquiti UVC-G5-Dome\", \"price_sgd\": 254},\n  {\"product\": \"Edimax GP-101ST IEEE 802.3at Gigab\", \"price_sgd\": 25},\n  {\"product\": \"Xiaomi Smart Electric Toothbrush T501 (White) BHR7791GL 6941812751961\", \"price_sgd\": 59},\n  {\"product\": \"Ubiquiti US-8-150W-EU\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24-EU\", \"price_sgd\": 610},\n  {\"product\": \"Ubiquiti UVC-G5-Dome-3\", \"price_sgd\": 727},\n  {\"product\": \"Edimax GP-101ET IEEE 802.3at PoE E\", \"price_sgd\": 50},\n  {\"product\": \"Xiaomi WaterOrico UTJ-U3 USB A TO GIGA LAN\", \"price_sgd\": 23},\n  {\"product\": \"Ubiquiti US-8-150W-U\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24-PoE\", \"price_sgd\": 1065},\n  {\"product\": \"Ubiquiti UVC-G5-Dome-Ultra\", \"price_sgd\": 127},\n  {\"product\": \"Edimax GS-5208PLG V2 10-Port Gigab\", \"price_sgd\": 182},\n  {\"product\": \"Orico CLH-3AR TYPE C TO 3*PORT US\", \"price_sgd\": 39},\n  {\"product\": \"Ubiquiti US-8-5\", \"price_sgd\": 668},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24-PoE-EU\", \"price_sgd\": 1065},\n  {\"product\": \"Ubiquiti UVC-G5-Dome-Ultra-B\", \"price_sgd\": 127},\n  {\"product\": \"Edimax GS-5216PLC Surveillance Lon\", \"price_sgd\": 469},\n  {\"product\": \"Orico HR01-U3 USB A TO 3*PORT USB\", \"price_sgd\": 29},\n  {\"product\": \"Ubiquiti US-8-60W\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24-PoE-UK\", \"price_sgd\": 1065},\n  {\"product\": \"Ubiquiti UVC-G5-Flex\", \"price_sgd\": 185},\n  {\"product\": \"Edimax GS-5424PLC V3 Surveillance\", \"price_sgd\": 580},\n  {\"product\": \"Orico CRS-31 CARD READER\", \"price_sgd\": 17},\n  {\"product\": \"Ubiquiti US-8-60W-5-EU\", \"price_sgd\": 754},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24-U\", \"price_sgd\": 610},\n  {\"product\": \"Ubiquiti UVC-G5-Pro\", \"price_sgd\": 512},\n  {\"product\": \"Edimax GS-5424PLX V2 Surveillance\", \"price_sgd\": 731},\n  {\"product\": \"Orico DUK-5P 5 PORT USB 2.4A CHAR\", \"price_sgd\": 27},\n  {\"product\": \"Ubiquiti US-8-60W-EU\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti USW-Pro-Max-24-UK\", \"price_sgd\": 610},\n  {\"product\": \"Ubiquiti UVC-G5-PTZ\", \"price_sgd\": 390},\n  {\"product\": \"Edimax GS-5654PLX V2 54-Port Gigab\", \"price_sgd\": 939},\n  {\"product\": \"Orico DUK-10P 10 PORT USB 2.4A CH\", \"price_sgd\": 79},\n  {\"product\": \"Ubiquiti US-8-60W-U\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti USW-Pro-Max-48\", \"price_sgd\": 880},\n  {\"product\": \"Ubiquiti UVC-G5-PTZ-B\", \"price_sgd\": 390},\n  {\"product\": \"Orico PUG-C6-MTM LAN EXTENSION AD\", \"price_sgd\": 8},\n  {\"product\": \"Ubiquiti US-8-EU\", \"price_sgd\": 146},\n  {\"product\": \"Ubiquiti USW-Pro-Max-48-EU\", \"price_sgd\": 880},\n  {\"product\": \"Ubiquiti UVC-G5-Turret-Ultra\", \"price_sgd\": 127},\n  {\"product\": \"GMKtec Mini PC , Small Portable PC  HDMI, Dual 100\", \"price_sgd\": 787},\n  {\"product\": \"Orico ST2 TOOLKIT\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti US-8-U\", \"price_sgd\": 146},\n  {\"product\": \"Ubiquiti USW-Pro-Max-48-PoE\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti UVC-G5-Turret-Ultra-B\", \"price_sgd\": 127},\n  {\"product\": \"Orico XC-R45 TYPE C TO GIGABIT LA\", \"price_sgd\": 27},\n  {\"product\": \"Ubiquiti US-XG-6POE\", \"price_sgd\": 804},\n  {\"product\": \"Ubiquiti USW-Pro-Max-48-PoE-EU\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti UVC-G6-180-B\", \"price_sgd\": 415},\n  {\"product\": \"Orico XC-304 6 IN 1 DOCKING\", \"price_sgd\": 85},\n  {\"product\": \"Ubiquiti US-XG-6POE-EU\", \"price_sgd\": 804},\n  {\"product\": \"Ubiquiti USW-Pro-Max-48-PoE-UK\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti UVC-G6-Bullet-B\", \"price_sgd\": 275},\n  {\"product\": \"Orico XD-312\", \"price_sgd\": 35},\n  {\"product\": \"Ubiquiti USG\", \"price_sgd\": 152},\n  {\"product\": \"Ubiquiti USW-Pro-Max-48-UK\", \"price_sgd\": 880},\n  {\"product\": \"Ubiquiti UVC-G6-Bullet-W\", \"price_sgd\": 275},\n  {\"product\": \"Orico XD-313 TYPE C TO HDMI/USB\", \"price_sgd\": 30},\n  {\"product\": \"Ubiquiti USG-EU\", \"price_sgd\": 152},\n  {\"product\": \"Ubiquiti USW-Pro-XG-10-PoE\", \"price_sgd\": 970},\n  {\"product\": \"Ubiquiti UVC-G6-Dome-B\", \"price_sgd\": 295},\n  {\"product\": \"Orico SC2 USB TO AUDIO\", \"price_sgd\": 17},\n  {\"product\": \"Ubiquiti USG-PRO-4\", \"price_sgd\": 373},\n  {\"product\": \"Ubiquiti USW-Pro-XG-10-PoE-EU\", \"price_sgd\": 970},\n  {\"product\": \"Ubiquiti UVC-G6-Dome-W\", \"price_sgd\": 295},\n  {\"product\": \"Orico TCM2-C3 TYPE C TO NVME ENCL\", \"price_sgd\": 49},\n  {\"product\": \"Ubiquiti USG-PRO-4-EU\", \"price_sgd\": 373},\n  {\"product\": \"Ubiquiti USW-Pro-XG-10-PoE-U\", \"price_sgd\": 970},\n  {\"product\": \"Ubiquiti UVC-G6-Entry\", \"price_sgd\": 337},\n  {\"product\": \"PCI OEM Sound Card Creative/CMI\", \"price_sgd\": 25},\n  {\"product\": \"Ubiquiti USG-PRO-4-U\", \"price_sgd\": 373},\n  {\"product\": \"Ubiquiti USW-Pro-XG-10-PoE-UK\", \"price_sgd\": 970},\n  {\"product\": \"Ubiquiti UVC-G6-INS-W\", \"price_sgd\": 246},\n  {\"product\": \"Creative USB sound card Play 4 etc\", \"price_sgd\": 60},\n  {\"product\": \"Ubiquiti USG-U\", \"price_sgd\": 152},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24\", \"price_sgd\": 1489},\n  {\"product\": \"Ubiquiti UVC-G6-INS-W-EU\", \"price_sgd\": 246},\n  {\"product\": \"Ubiquiti USL-Entry-EU\", \"price_sgd\": 62},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-EU\", \"price_sgd\": 1489},\n  {\"product\": \"Ubiquiti UVC-G6-INS-W-UK\", \"price_sgd\": 246},\n  {\"product\": \"Mining Rig Casing 8 GPU Aluminium\", \"price_sgd\": 200},\n  {\"product\": \"Ubiquiti USL-Environmental-EU\", \"price_sgd\": 76},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-PoE\", \"price_sgd\": 2436},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-360-B\", \"price_sgd\": 685},\n  {\"product\": \"Mining Riser Cable Kit with USB Cable\", \"price_sgd\": 15},\n  {\"product\": \"Ubiquiti USP-Cable\", \"price_sgd\": 53},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-PoE-EU\", \"price_sgd\": 2436},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-360-W\", \"price_sgd\": 685},\n  {\"product\": \"Mining on/off Switch Cable Motherboard\", \"price_sgd\": 15},\n  {\"product\": \"Ubiquiti USP-RPS\", \"price_sgd\": 576},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-PoE-U\", \"price_sgd\": 2436},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-Bullet-B\", \"price_sgd\": 653},\n  {\"product\": \"Mining Motherboard CPU + RAM\", \"price_sgd\": 428},\n  {\"product\": \"Ubiquiti USP-RPS-EU\", \"price_sgd\": 576},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-PoE-UK\", \"price_sgd\": 2436},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-Bullet-W\", \"price_sgd\": 653},\n  {\"product\": \"Mining Power Supply Gold 92+ 2000Watts\", \"price_sgd\": 559},\n  {\"product\": \"Ubiquiti USP-RPS-U\", \"price_sgd\": 576},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-U\", \"price_sgd\": 1489},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-Dome-W\", \"price_sgd\": 576},\n  {\"product\": \"Raspberry Pi Pico Microcontroller Board\", \"price_sgd\": 10},\n  {\"product\": \"Ubiquiti USW-16-POE\", \"price_sgd\": 410},\n  {\"product\": \"Ubiquiti USW-Pro-XG-24-UK\", \"price_sgd\": 1489},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-Turret-B\", \"price_sgd\": 660},\n  {\"product\": \"Raspberry Pi Pico Wireless\", \"price_sgd\": 15},\n  {\"product\": \"Ubiquiti USW-16-POE-EU\", \"price_sgd\": 410},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48\", \"price_sgd\": 2706},\n  {\"product\": \"Ubiquiti UVC-G6-Pro-Turret-W\", \"price_sgd\": 660},\n  {\"product\": \"Maker Pi Pico and Kits\", \"price_sgd\": 35},\n  {\"product\": \"Ubiquiti USW-16-PoE-U\", \"price_sgd\": 410},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-EU\", \"price_sgd\": 2706},\n  {\"product\": \"Ubiquiti UVC-G6-PTZ-B\", \"price_sgd\": 551},\n  {\"product\": \"Maker Pi Pico Mini\", \"price_sgd\": 25},\n  {\"product\": \"Ubiquiti USW-24\", \"price_sgd\": 310},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-PoE\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UVC-G6-PTZ-W\", \"price_sgd\": 551},\n  {\"product\": \"Maker Nano RP2040\", \"price_sgd\": 20},\n  {\"product\": \"Ubiquiti USW-24-EU\", \"price_sgd\": 310},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-PoE-EU\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UVC-G6-Turret-B\", \"price_sgd\": 275},\n  {\"product\": \"TTGO T-Display RP2040 1.14 LCD Board\", \"price_sgd\": 30},\n  {\"product\": \"Ubiquiti USW-24-POE\", \"price_sgd\": 518},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-PoE-U\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UVC-G6-Turret-W\", \"price_sgd\": 275},\n  {\"product\": \"Arducam Pico4ML TinyML QVGA Cam LCD\", \"price_sgd\": 98},\n  {\"product\": \"Ubiquiti USW-24-POE-EU\", \"price_sgd\": 518},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-PoE-UK\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UWB-XG\", \"price_sgd\": 1860},\n  {\"product\": \"Raspberry Pi CM4 Wireless 4G RAM Lite\", \"price_sgd\": 229},\n  {\"product\": \"Ubiquiti USW-24-PoE-U\", \"price_sgd\": 518},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-U\", \"price_sgd\": 2706},\n  {\"product\": \"Ubiquiti UWB-XG-EU\", \"price_sgd\": 1860},\n  {\"product\": \"Raspberry Pi CM4 with Wireless 8GB\", \"price_sgd\": 199},\n  {\"product\": \"Ubiquiti USW-24-U\", \"price_sgd\": 310},\n  {\"product\": \"Ubiquiti USW-Pro-XG-48-UK\", \"price_sgd\": 2706},\n  {\"product\": \"Ubiquiti UX\", \"price_sgd\": 173},\n  {\"product\": \"Nano Base (B) Board for Raspberry Pi CM4\", \"price_sgd\": 59},\n  {\"product\": \"Ubiquiti USW-48\", \"price_sgd\": 548},\n  {\"product\": \"Ubiquiti USW-Pro-XG-8-PoE\", \"price_sgd\": 692},\n  {\"product\": \"Ubiquiti UX-EU\", \"price_sgd\": 173},\n  {\"product\": \"Nano Base (A) Board for Raspberry Pi CM4\", \"price_sgd\": 49},\n  {\"product\": \"Ubiquiti USW-48-EU\", \"price_sgd\": 548},\n  {\"product\": \"Ubiquiti USW-Pro-XG-8-PoE-EU\", \"price_sgd\": 692},\n  {\"product\": \"Ubiquiti UX-UK\", \"price_sgd\": 173},\n  {\"product\": \"RPi Compute Module 4 (CM4) IO Board\", \"price_sgd\": 89},\n  {\"product\": \"Ubiquiti USW-48-POE\", \"price_sgd\": 807},\n  {\"product\": \"Ubiquiti USW-Pro-XG-8-PoE-U\", \"price_sgd\": 692},\n  {\"product\": \"Ubiquiti UX7\", \"price_sgd\": 269},\n  {\"product\": \"PiTray mini Board for CM4\", \"price_sgd\": 49},\n  {\"product\": \"Ubiquiti USW-48-POE-EU\", \"price_sgd\": 807},\n  {\"product\": \"Ubiquiti USW-Pro-XG-8-PoE-UK\", \"price_sgd\": 692},\n  {\"product\": \"Ubiquiti UX7-EU\", \"price_sgd\": 269},\n  {\"product\": \"Piunora Raspberry Pi CM4 Carrier Board\", \"price_sgd\": 99},\n  {\"product\": \"Ubiquiti USW-48-PoE-U\", \"price_sgd\": 807},\n  {\"product\": \"Ubiquiti USW-Pro-XG-Aggregation\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UX7-UK\", \"price_sgd\": 269},\n  {\"product\": \"Piunora Raspberry Pi CM4 Carrier + Kits\", \"price_sgd\": 249},\n  {\"product\": \"Ubiquiti USW-48-U\", \"price_sgd\": 548},\n  {\"product\": \"Ubiquiti USW-Pro-XG-Aggregation-EU\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UXG-Enterprise\", \"price_sgd\": 2030},\n  {\"product\": \"Razer Acari Ultra Low Friction Mouse Mat\", \"price_sgd\": 85},\n  {\"product\": \"Ubiquiti USW-Aggregation\", \"price_sgd\": 364},\n  {\"product\": \"Ubiquiti USW-Pro-XG-Aggregation-U\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UXG-Enterprise-EU\", \"price_sgd\": 2030},\n  {\"product\": \"Razer Blackwidow V3 TKL Mechanical Kbd\", \"price_sgd\": 155},\n  {\"product\": \"Ubiquiti USW-Aggregation-EU\", \"price_sgd\": 364},\n  {\"product\": \"Ubiquiti USW-Pro-XG-Aggregation-UK\", \"price_sgd\": 3382},\n  {\"product\": \"Ubiquiti UXG-Enterprise-UK\", \"price_sgd\": 2030},\n  {\"product\": \"Tecware EXO L 6400DPI Gaming Mouse\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Aggregation-U\", \"price_sgd\": 364},\n  {\"product\": \"Ubiquiti USW-Ultra\", \"price_sgd\": 146},\n  {\"product\": \"Ubiquiti UXG-Fiber\", \"price_sgd\": 381},\n  {\"product\": \"Spectre Pro 104 Key Mech. Keyboar\", \"price_sgd\": 75},\n  {\"product\": \"Ubiquiti USW-Aggregation-UK\", \"price_sgd\": 364},\n  {\"product\": \"Ubiquiti USW-Ultra-210W\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti UXG-Fiber-EU\", \"price_sgd\": 381},\n  {\"product\": \"Spectre 104 Key Mechanical Keyboa\", \"price_sgd\": 67},\n  {\"product\": \"Ubiquiti USW-Enterprise-24-PoE\", \"price_sgd\": 1083},\n  {\"product\": \"Ubiquiti USW-Ultra-210W-EU\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti UXG-Fiber-UK\", \"price_sgd\": 381},\n  {\"product\": \"Phantom 104 Key Mechanical Keyboa\", \"price_sgd\": 67},\n  {\"product\": \"Ubiquiti USW-Enterprise-24-PoE-EU\", \"price_sgd\": 1083},\n  {\"product\": \"Ubiquiti USW-Ultra-210W-UK\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti UXG-Lite\", \"price_sgd\": 180},\n  {\"product\": \"Phantom 96 Key Mechanical Keyboar\", \"price_sgd\": 67},\n  {\"product\": \"Ubiquiti USW-Enterprise-24-PoE-U\", \"price_sgd\": 1083},\n  {\"product\": \"Ubiquiti USW-Ultra-60W\", \"price_sgd\": 190},\n  {\"product\": \"Ubiquiti UXG-Lite-EU\", \"price_sgd\": 180},\n  {\"product\": \"Phantom 87 Key Mechanical Keyboar\", \"price_sgd\": 56},\n  {\"product\": \"Ubiquiti USW-Enterprise-24-PoE-UK\", \"price_sgd\": 1083},\n  {\"product\": \"Ubiquiti USW-Ultra-60W-EU\", \"price_sgd\": 190},\n  {\"product\": \"Ubiquiti UXG-Lite-UK\", \"price_sgd\": 180},\n  {\"product\": \"Phantom 87 SE, RGB LED, Blue/Brow\", \"price_sgd\": 52},\n  {\"product\": \"Ubiquiti USW-Enterprise-48-PoE\", \"price_sgd\": 2115},\n  {\"product\": \"Ubiquiti USW-Ultra-60W-UK\", \"price_sgd\": 190},\n  {\"product\": \"Ubiquiti UXG-Max\", \"price_sgd\": 271},\n  {\"product\": \"Phantom Low Profile 87 Key Mechan\", \"price_sgd\": 56},\n  {\"product\": \"Ubiquiti USW-Enterprise-48-PoE-EU\", \"price_sgd\": 2115},\n  {\"product\": \"Ubiquiti USW-WAN\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti UXG-Max-EU\", \"price_sgd\": 271},\n  {\"product\": \"HP KM100 Keyboard and Mouse Wired\", \"price_sgd\": 20},\n  {\"product\": \"Ubiquiti USW-Enterprise-48-PoE-U\", \"price_sgd\": 2115},\n  {\"product\": \"Ubiquiti USW-WAN-EU\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti UXG-Max-UK\", \"price_sgd\": 271},\n  {\"product\": \"HP KM200 Keyboard and Mouse Wired\", \"price_sgd\": 30},\n  {\"product\": \"Ubiquiti USW-Enterprise-48-PoE-UK\", \"price_sgd\": 2115},\n  {\"product\": \"Ubiquiti USW-WAN-RJ45\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti UXG-Pro-EU\", \"price_sgd\": 677},\n  {\"product\": \"HP K500F KB MEMBRANE BACKLIT LED\", \"price_sgd\": 24},\n  {\"product\": \"Ubiquiti USW-Enterprise-8-PoE\", \"price_sgd\": 643},\n  {\"product\": \"Ubiquiti USW-WAN-RJ45-EU\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti Wave-AP\", \"price_sgd\": 705},\n  {\"product\": \"HP GK100 MECHANICAL RAINBOW LED\", \"price_sgd\": 44},\n  {\"product\": \"Ubiquiti USW-Enterprise-8-PoE-EU\", \"price_sgd\": 643},\n  {\"product\": \"Ubiquiti USW-WAN-RJ45-U\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti Wave-AP-EU\", \"price_sgd\": 705},\n  {\"product\": \"HP GK400F MECHANICAL RAINBOW LED\", \"price_sgd\": 46},\n  {\"product\": \"Ubiquiti USW-Enterprise-8-PoE-U\", \"price_sgd\": 643},\n  {\"product\": \"Ubiquiti USW-WAN-RJ45-UK\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti Wave-AP-Gen2\", \"price_sgd\": 831},\n  {\"product\": \"HP GK520 MECHANICAL RAINBOW LED\", \"price_sgd\": 60},\n  {\"product\": \"Ubiquiti USW-Enterprise-8-PoE-UK\", \"price_sgd\": 643},\n  {\"product\": \"Ubiquiti USW-WAN-U\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti Wave-AP-Gen2-EU\", \"price_sgd\": 831},\n  {\"product\": \"HP GK200 MECHANICAL RAINBOW LED\", \"price_sgd\": 43},\n  {\"product\": \"Ubiquiti USW-EnterpriseXG-24\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti USW-WAN-UK\", \"price_sgd\": 345},\n  {\"product\": \"Ubiquiti Wave-AP-Gen2-UK\", \"price_sgd\": 831},\n  {\"product\": \"HP GK1100 MEMBRANE KB + MSE BACK\", \"price_sgd\": 34},\n  {\"product\": \"Ubiquiti USW-EnterpriseXG-24-EU\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti UT-G3-Handset\", \"price_sgd\": 145},\n  {\"product\": \"Ubiquiti Wave-AP-Micro\", \"price_sgd\": 668},\n  {\"product\": \"HP H100 HEADSET W/MIC 3.5MM JACK\", \"price_sgd\": 22},\n  {\"product\": \"Ubiquiti USW-EnterpriseXG-24-U\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti UTP-G3-Touch-Enterprise\", \"price_sgd\": 400},\n  {\"product\": \"Ubiquiti Wave-AP-Micro-EU\", \"price_sgd\": 668},\n  {\"product\": \"HP H320GS 7.1 SURROUND HEADSET W\", \"price_sgd\": 40},\n  {\"product\": \"Ubiquiti USW-EnterpriseXG-24-UK\", \"price_sgd\": 1709},\n  {\"product\": \"Ubiquiti UTP-G3-Touch-Pro\", \"price_sgd\": 279},\n  {\"product\": \"Ubiquiti Wave-Fiber-ONU\", \"price_sgd\": 76},\n  {\"product\": \"HP H360GS 7.1 SURROUND HEADSET W\", \"price_sgd\": 45},\n  {\"product\": \"Ubiquiti USW-Flex\", \"price_sgd\": 149},\n  {\"product\": \"Ubiquiti UTP-G3-Touch-Wall\", \"price_sgd\": 534},\n  {\"product\": \"Ubiquiti Wave-Fiber-ONU-20\", \"price_sgd\": 914},\n  {\"product\": \"HP H150 EARPHONE W/MIC 3.5MM JAC\", \"price_sgd\": 22},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-5\", \"price_sgd\": 82},\n  {\"product\": \"Ubiquiti UTR\", \"price_sgd\": 121},\n  {\"product\": \"Ubiquiti Wave-Fiber-ONU-5\", \"price_sgd\": 264},\n  {\"product\": \"HP MP3524 GAMING MSE PAD 35X24CM\", \"price_sgd\": 10},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-5-EU\", \"price_sgd\": 82},\n  {\"product\": \"Ubiquiti UVC-AI-360\", \"price_sgd\": 569},\n  {\"product\": \"Ubiquiti Wave-Fiber-ONU-EU\", \"price_sgd\": 76},\n  {\"product\": \"HP MP7035 GAMING MSE PAD 70X35CM\", \"price_sgd\": 18},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-5-U\", \"price_sgd\": 82},\n  {\"product\": \"Ubiquiti UVC-AI-360-W\", \"price_sgd\": 569},\n  {\"product\": \"Ubiquiti Wave-Fiber-ONU-U\", \"price_sgd\": 76},\n  {\"product\": \"HP MP9040 GAMING MSE PAD 90X40CM\", \"price_sgd\": 22},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-5-UK\", \"price_sgd\": 82},\n  {\"product\": \"Ubiquiti UVC-AI-Bullet\", \"price_sgd\": 576},\n  {\"product\": \"Ubiquiti Wave-Fiber-ONU-UK\", \"price_sgd\": 76},\n  {\"product\": \"SanDisk Extreme PRO SD UHS-II Card Reader/Writer, 2Y SDDR-399-G46\", \"warranty\": \"2Y\", \"price_sgd\": 37},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-8\", \"price_sgd\": 217},\n  {\"product\": \"Ubiquiti UVC-AI-Dome-B\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti Wave-LR\", \"price_sgd\": 524},\n  {\"product\": \"SanDisk Extreme PRO SD UHS-II USB-C Reader/Writer, 2Y SDDR-409-G46\", \"warranty\": \"2Y\", \"price_sgd\": 40},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-8-EU\", \"price_sgd\": 217},\n  {\"product\": \"Ubiquiti UVC-AI-Dome-W\", \"price_sgd\": 542},\n  {\"product\": \"Ubiquiti Wave-LR-EU\", \"price_sgd\": 524},\n  {\"product\": \"SanDisk ImageMate PRO USB-C Reader/Writer SDDR-A631-GNGNN\", \"price_sgd\": 55},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-8-PoE\", \"price_sgd\": 271},\n  {\"product\": \"Ubiquiti UVC-AI-DSLR\", \"price_sgd\": 2283},\n  {\"product\": \"Ubiquiti Wave-MLO5\", \"price_sgd\": 554},\n  {\"product\": \"iD3CHD4KU iDream USB C to HDMI Multiport Adaptor\", \"price_sgd\": 35},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-8-U\", \"price_sgd\": 217},\n  {\"product\": \"Ubiquiti UVC-AI-DSLR-LD\", \"price_sgd\": 2283},\n  {\"product\": \"Ubiquiti Wave-MLO5-EU\", \"price_sgd\": 554},\n  {\"product\": \"Ubiquiti USW-Flex-2.5G-8-UK\", \"price_sgd\": 217},\n  {\"product\": \"Ubiquiti UVC-AI-LPR-B\", \"price_sgd\": 682},\n  {\"product\": \"Ubiquiti Wave-MLO5-UK\", \"price_sgd\": 554},\n  {\"product\": \"Biostar TB360-BTC Pro 9Gen Motherboard\", \"price_sgd\": 336},\n  {\"product\": \"Ubiquiti USW-Flex-3\", \"price_sgd\": 381},\n  {\"product\": \"Ubiquiti UVC-AI-Pro\", \"price_sgd\": 694},\n  {\"product\": \"Ubiquiti Wave-Nano\", \"price_sgd\": 388},\n  {\"product\": \"iD3CHDVU2 iDream 4 in 1 USB C to HDMI Multiport Adaptor\", \"price_sgd\": 49},\n  {\"product\": \"Ubiquiti USW-Flex-Mini\", \"price_sgd\": 53},\n  {\"product\": \"Ubiquiti UVC-AI-Pro-White\", \"price_sgd\": 694},\n  {\"product\": \"Ubiquiti Wave-Pico-EU\", \"price_sgd\": 250},\n  {\"product\": \"Biostar TZ590-BTC Pro 10Gen Motherboard\", \"price_sgd\": 366},\n  {\"product\": \"Ubiquiti USW-Flex-Mini-3\", \"price_sgd\": 129},\n  {\"product\": \"Ubiquiti UVC-AI-PTZ-B\", \"price_sgd\": 1776},\n  {\"product\": \"Ubiquiti Wave-Pro\", \"price_sgd\": 836},\n  {\"product\": \"iD5CHU2CR iDream 5 in 1 USB C to  HDMI Multiport Adaptor\", \"price_sgd\": 55},\n  {\"product\": \"Ubiquiti USW-Flex-Mini-5\", \"price_sgd\": 194},\n  {\"product\": \"Ubiquiti UVC-AI-PTZ-Precision-B\", \"price_sgd\": 2301},\n  {\"product\": \"Ubiquiti WM-W\", \"price_sgd\": 146},\n  {\"product\": \"Afox H81 Motherboard 4 Gen/Asus H81M-k\", \"price_sgd\": 162},\n  {\"product\": \"Ubiquiti USW-Flex-Mini-EU\", \"price_sgd\": 53},\n  {\"product\": \"Ubiquiti UVC-AI-PTZ-Precision-W\", \"price_sgd\": 2301},\n  {\"product\": \"Ubiquiti XR2\", \"price_sgd\": 139},\n  {\"product\": \"iD5CHDLDP iDream 5 in 1 USB C to  HDMI Multiport Adaptor with Lan\", \"price_sgd\": 58},\n  {\"product\": \"Ubiquiti USW-Flex-Mini-U\", \"price_sgd\": 53},\n  {\"product\": \"Ubiquiti UVC-AI-PTZ-W\", \"price_sgd\": 1776},\n  {\"product\": \"Ubiquiti XR5\", \"price_sgd\": 139},\n  {\"product\": \"Asrock z87/ Z270M\", \"price_sgd\": 255},\n  {\"product\": \"Ubiquiti USW-Flex-Mini-UK\", \"price_sgd\": 53},\n  {\"product\": \"Ubiquiti UVC-AI-Theta\", \"price_sgd\": 423},\n  {\"product\": \"Gigabyte H310M-DS2 8th and 9th Gen\", \"price_sgd\": 159},\n  {\"product\": \"iD5CH2U2C iDream 5 in 1 USB C to HDMI Multiport Adaptor\", \"price_sgd\": 59},\n  {\"product\": \"Ubiquiti USW-Flex-Utility\", \"price_sgd\": 75},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-Audio\", \"price_sgd\": 103},\n  {\"product\": \"Edimax EU-4208 USB 2.0 to 10/100Mb\", \"price_sgd\": 18},\n  {\"product\": \"Asrock Z490M Pro 4 10th Gen\", \"price_sgd\": 329},\n  {\"product\": \"Ubiquiti USW-Flex-XG\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-Hub\", \"price_sgd\": 276},\n  {\"product\": \"Edimax EU-4306 V2 USB 3.0 to Gigab\", \"price_sgd\": 22},\n  {\"product\": \"iD8CHUNCR iDream USB C to HDMI Multiport Adaptor\", \"price_sgd\": 79},\n  {\"product\": \"Ubiquiti USW-Flex-XG-EU\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-Lens\", \"price_sgd\": 90},\n  {\"product\": \"Edimax EU-4308 3-Port USB3.0 and\", \"price_sgd\": 30},\n  {\"product\": \"Intel H61 OEM Motherboard 3rd Gen\", \"price_sgd\": 109},\n  {\"product\": \"iDUCT45 iDream USB C to Gigabit Lan Adaptor\", \"price_sgd\": 32},\n  {\"product\": \"Ubiquiti USW-Flex-XG-U\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-Lens-360\", \"price_sgd\": 90},\n  {\"product\": \"Edimax Gigabit Ethernet Adapters\", \"price_sgd\": 0},\n  {\"product\": \"Asus H110M Intel 6th & 7th Gen\", \"price_sgd\": 179},\n  {\"product\": \"iDCHD4K2M  iDream  USB  C  to  HDMI  1.8m Cable\", \"price_sgd\": 36},\n  {\"product\": \"Ubiquiti USW-Flex-XG-UK\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-Lens-LD\", \"price_sgd\": 90},\n  {\"product\": \"Edimax EN-9260TX-E V2 Gigabit PCIe\", \"price_sgd\": 18},\n  {\"product\": \"Gigabyte H81M-DS2 LGA1150 4th gen\", \"price_sgd\": 162},\n  {\"product\": \"iD6CHCRPD iDream 6 in 1 Multiport Adaptor\", \"price_sgd\": 65},\n  {\"product\": \"Ubiquiti USW-Industrial\", \"price_sgd\": 694},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-Pro\", \"price_sgd\": 459},\n  {\"product\": \"Edimax ES-3308P 8P 10/100Mbps SOH\", \"price_sgd\": 13},\n  {\"product\": \"Asus H81M-K 4th Gen Motherboard\", \"price_sgd\": 169},\n  {\"product\": \"iD6CHU3CR iDream 6 in 1 Multiport Adaptor\", \"price_sgd\": 63},\n  {\"product\": \"Ubiquiti USW-Industrial-EU\", \"price_sgd\": 694},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-ProLens110\", \"price_sgd\": 180},\n  {\"product\": \"Edimax ES-1008P V2 8-Port Fast Eth\", \"price_sgd\": 162},\n  {\"product\": \"Gigabyte B460M Gaming HD 10th/11th\", \"price_sgd\": 219},\n  {\"product\": \"iD4CH4P2H iDream 4 in 1Dual HDMI Adaptor\", \"price_sgd\": 87},\n  {\"product\": \"Ubiquiti USW-Industrial-U\", \"price_sgd\": 694},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-ProLens360\", \"price_sgd\": 180},\n  {\"product\": \"Edimax Gigabit Switches\", \"price_sgd\": 0},\n  {\"product\": \"Gigabyte B560 Aorus Pro AX 10th/11th\", \"price_sgd\": 259},\n  {\"product\": \"iD7CH2C7P iDream 7 in 1 Multiport Adaptor\", \"price_sgd\": 79},\n  {\"product\": \"Ubiquiti USW-Lite-16-POE\", \"price_sgd\": 279},\n  {\"product\": \"Ubiquiti UVC-AI-Theta-ProLens50\", \"price_sgd\": 180},\n  {\"product\": \"Edimax ES-5500G V3 Gigabit 5 Ports\", \"price_sgd\": 29},\n  {\"product\": \"Gigabyte H510M H / H410M H 10th/11th\", \"price_sgd\": 165},\n  {\"product\": \"iDHDVGAO iDream HDMI to VGA Adaptor\", \"price_sgd\": 23.9},\n  {\"product\": \"Ubiquiti USW-Lite-16-POE-EU\", \"price_sgd\": 279},\n  {\"product\": \"Ubiquiti UVC-AI-Turret-B\", \"price_sgd\": 542},\n  {\"product\": \"Edimax ES-5800G V3 Gigabit 8 Ports\", \"price_sgd\": 41},\n  {\"product\": \"Asus Prime H410M-A 10th/11th\", \"price_sgd\": 159},\n  {\"product\": \"IDUCACO iDream USB C to Audio Adaptor\", \"price_sgd\": 14.9},\n  {\"product\": \"Ubiquiti USW-Lite-16-POE-U\", \"price_sgd\": 279},\n  {\"product\": \"Ubiquiti UVC-AI-Turret-W\", \"price_sgd\": 542},\n  {\"product\": \"Edimax GS-1016 V2 16P 10/100/1000M\", \"price_sgd\": 105},\n  {\"product\": \"Asus TUF Z390-M Gaming Pro 9th Gen\", \"price_sgd\": 219},\n  {\"product\": \"iDUCH4K60 iDream USB C to 4k HDMI Ada\", \"price_sgd\": 34},\n  {\"product\": \"Ubiquiti USW-Lite-16-PoE-UK\", \"price_sgd\": 279},\n  {\"product\": \"Ubiquiti UVC-Doorbell-Lite-B\", \"price_sgd\": 148},\n  {\"product\": \"Edimax GS-1024 24P 10/100/1000M R\", \"price_sgd\": 142},\n  {\"product\": \"Asrock Z590 EXTREME WIFI 6E 10th/11th\", \"price_sgd\": 353},\n  {\"product\": \"iDUC5PD iDream USB 5 Port Hub\", \"price_sgd\": 32},\n  {\"product\": \"Ubiquiti USW-Lite-8-POE\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti UVC-Doorbell-Lite-W\", \"price_sgd\": 148},\n  {\"product\": \"Edimax GS-1026 V3 24P 10/100/1000M\", \"price_sgd\": 150},\n  {\"product\": \"Asrock Z590 Phantom Gaming 4 10th/11th\", \"price_sgd\": 289},\n  {\"product\": \"iDUTCHD-SE iDream USB C to HDMI Single\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Lite-8-POE-EU\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti UVC-G3-BULLET\", \"price_sgd\": 185},\n  {\"product\": \"Edimax GS-5424G 24-Port Gigabit Po\", \"price_sgd\": 216},\n  {\"product\": \"Asus PRIME H510M-A WIFI 10th/11th\", \"price_sgd\": 192},\n  {\"product\": \"iDUTCDP-SE iDream USB C to Displayport Si\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Lite-8-PoE-U\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti UVC-G3-BULLET-3\", \"price_sgd\": 542},\n  {\"product\": \"Edimax GS-1008P V2 8-Port Gigabit\", \"price_sgd\": 167},\n  {\"product\": \"iDUTC2V-SE iDream USB C to VGA Single\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Lite-8-POE-UK\", \"price_sgd\": 153},\n  {\"product\": \"Ubiquiti UVC-G3-Dome\", \"price_sgd\": 185},\n  {\"product\": \"Edimax GS-1008PL V2 8-port Gigabit\", \"price_sgd\": 131},\n  {\"product\": \"iDUTCMDP-SE iDream USB C to Mini Displayp\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Mission-Critical-EU\", \"price_sgd\": 1353},\n  {\"product\": \"Ubiquiti UVC-G3-DOME-3\", \"price_sgd\": 542},\n  {\"product\": \"Edimax EW-7722UTn V3 300M 2T2R 802\", \"price_sgd\": 18},\n  {\"product\": \"iDUC3A1M iDream USB Cable\", \"price_sgd\": 10.9},\n  {\"product\": \"Ubiquiti USW-Pro-24\", \"price_sgd\": 540},\n  {\"product\": \"Ubiquiti UVC-G3-DOME-EU\", \"price_sgd\": 185},\n  {\"product\": \"Edimax EW-7811Un V2 11n 150M 1T1R\", \"price_sgd\": 11},\n  {\"product\": \"iDUC3A2M iDream USB Cable\", \"price_sgd\": 13.9},\n  {\"product\": \"Ubiquiti USW-Pro-24-EU\", \"price_sgd\": 540},\n  {\"product\": \"Ubiquiti UVC-G3-DOME-U\", \"price_sgd\": 185},\n  {\"product\": \"Edimax EW-7611ULB N150 Wi-Fi BT 4.\", \"price_sgd\": 14},\n  {\"product\": \"iDUC3C1M iDream USB Cable\", \"price_sgd\": 10.9},\n  {\"product\": \"Ubiquiti USW-Pro-24-POE\", \"price_sgd\": 946},\n  {\"product\": \"Ubiquiti UVC-G3-F-C\", \"price_sgd\": 36},\n  {\"product\": \"Edimax EW-7611ULB V2 N150 Wi-Fi BT\", \"price_sgd\": 13},\n  {\"product\": \"iDUC3C2M iDream USB Cable\", \"price_sgd\": 13.9},\n  {\"product\": \"Ubiquiti USW-Pro-24-POE-EU\", \"price_sgd\": 946},\n  {\"product\": \"Ubiquiti UVC-G3-F-C-3\", \"price_sgd\": 80},\n  {\"product\": \"Edimax BT-8500 Bluetooth 5.0 Nano\", \"price_sgd\": 22},\n  {\"product\": \"iDUC5A1M iDream USB Cable\", \"price_sgd\": 19.9},\n  {\"product\": \"Ubiquiti USW-Pro-24-PoE-U\", \"price_sgd\": 946},\n  {\"product\": \"Ubiquiti UVC-G3-F-PENDANT\", \"price_sgd\": 34},\n  {\"product\": \"Edimax EW-7612PIn V2 11n 300M 2T2R\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Pro-24-PoE-UK\", \"price_sgd\": 946},\n  {\"product\": \"Ubiquiti UVC-G3-F-PENDANT-3\", \"price_sgd\": 46},\n  {\"product\": \"Edimax EW-7833AXP Wi-Fi 6 AX3000 P\", \"price_sgd\": 72},\n  {\"product\": \"Ubiquiti USW-Pro-24-U\", \"price_sgd\": 540},\n  {\"product\": \"Ubiquiti UVC-G3-FLEX\", \"price_sgd\": 113},\n  {\"product\": \"Edimax EW-7833UAC1750 Wireless\", \"price_sgd\": 52},\n  {\"product\": \"Ubiquiti USW-Pro-24-UK\", \"price_sgd\": 540},\n  {\"product\": \"Ubiquiti UVC-G3-FLEX-3\", \"price_sgd\": 293},\n  {\"product\": \"Edimax EW-7822UMX AX1800 Wireless\", \"price_sgd\": 55},\n  {\"product\": \"Ubiquiti USW-Pro-48\", \"price_sgd\": 811},\n  {\"product\": \"Ubiquiti UVC-G3-Flex-PWM-Black\", \"price_sgd\": 37},\n  {\"product\": \"Edimax EW-7822UAD AC1200 Wireless\", \"price_sgd\": 30},\n  {\"product\": \"Ubiquiti USW-Pro-48-EU\", \"price_sgd\": 811},\n  {\"product\": \"Ubiquiti UVC-G3-Flex-PWM-Black-3\", \"price_sgd\": 58},\n  {\"product\": \"Edimax EW-7822UAC1200 Wireless\", \"price_sgd\": 39},\n  {\"product\": \"Ubiquiti USW-Pro-48-POE\", \"price_sgd\": 1487},\n  {\"product\": \"Ubiquiti UVC-G3-Flex-PWM-WT\", \"price_sgd\": 37},\n  {\"product\": \"Edimax EW-7822UTC AC1200 Dual-Band\", \"price_sgd\": 27},\n  {\"product\": \"Ubiquiti USW-Pro-48-POE-EU\", \"price_sgd\": 1487},\n  {\"product\": \"Ubiquiti UVC-G3-Flex-PWM-WT-3\", \"price_sgd\": 58},\n  {\"product\": \"Edimax EW-7822ULC AC1200 Dual-Band\", \"price_sgd\": 25},\n  {\"product\": \"Ubiquiti USW-Pro-48-PoE-U\", \"price_sgd\": 1487},\n  {\"product\": \"Ubiquiti UVC-G3-MICRO\", \"price_sgd\": 246},\n  {\"product\": \"Edimax EW-7811UTC AC600 Wireless M\", \"price_sgd\": 19},\n  {\"product\": \"Ubiquiti USW-Pro-48-PoE-UK\", \"price_sgd\": 1487},\n  {\"product\": \"Ubiquiti UVC-G3-MICRO-5\", \"price_sgd\": 1182},\n  {\"product\": \"Edimax EW-7811ULC AC600 Wireless D\", \"price_sgd\": 18},\n  {\"product\": \"Ubiquiti USW-Pro-48-U\", \"price_sgd\": 811},\n  {\"product\": \"Ubiquiti UVC-G3-MICRO-5-EU\", \"price_sgd\": 1182},\n  {\"product\": \"Edimax EW-7811UAC600 Wireless D\", \"price_sgd\": 27},\n  {\"product\": \"Ubiquiti USW-Pro-48-UK\", \"price_sgd\": 811},\n  {\"product\": \"Ubiquiti UVC-G3-MICRO-EU\", \"price_sgd\": 246},\n  {\"product\": \"Edimax EW-7811DAC600 Wi-Fi Dual\", \"price_sgd\": 33},\n  {\"product\": \"Ubiquiti USW-Pro-8-PoE\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-G3-PRO\", \"price_sgd\": 373},\n  {\"product\": \"Edimax EW-7611UCB 2-in-1 AC600 Du\", \"price_sgd\": 26},\n  {\"product\": \"Ubiquiti USW-Pro-8-PoE-EU\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-G3-PRO-3\", \"price_sgd\": 1108},\n  {\"product\": \"Edimax RG21S AC2600 Dual band con\", \"price_sgd\": 115},\n  {\"product\": \"Ubiquiti USW-Pro-8-PoE-U\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-G4 Doorbell Pro PoE Kit\", \"price_sgd\": 542},\n  {\"product\": \"Edimax BR-6478V2 AC1200 Wireles\", \"price_sgd\": 44},\n  {\"product\": \"Ubiquiti USW-Pro-8-PoE-UK\", \"price_sgd\": 407},\n  {\"product\": \"Ubiquiti UVC-G4 Doorbell Pro PoE Kit-White\", \"price_sgd\": 542},\n  {\"product\": \"Edimax EW-7438RPN Mini N300 Univer\", \"price_sgd\": 18},\n  {\"product\": \"Ubiquiti USW-Pro-Aggregation\", \"price_sgd\": 1186},\n  {\"product\": \"Ubiquiti UVC-G4 Doorbell Pro-EU\", \"price_sgd\": 422},\n  {\"product\": \"Edimax IC-7113W 720p Wireless H.26\", \"price_sgd\": 124},\n  {\"product\": \"Beelink Mini S12 Mini PC, Intel 12th Processor N95 (4C/4T, up to 2.9Ghz), 8G DDR4 256G SSD Desktop computer, LAN 1000M/25W TDP/WiFi 5/BT4.2 for Home/Office\", \"price_sgd\": 389},\n  {\"product\": \"Beelink S12 Mini PC, Intel 12th Processor N95 (4C/4T, up to 2.9Ghz), 16G DDR4 500G M.2 SSD Mini Computer, LAN 1000M/25W TDP/WiFi 5/BT4.2\", \"price_sgd\": 429},\n  {\"product\": \"Beelink EQi12 Mini PC, Intel Core i5-1235U (10C/12T,up to 4.4GHz), Mini Desktop Computer 32GB DDR4 500GB M.2 PCIe 4.0 SSD, 4K Dual Display HDMI*2/WiFi 6/BT5.2\", \"price_sgd\": 829},\n  {\"product\": \"Beelink EQR7 Mini PC, AMD Ryzen 7 7735U (8C/16T up to 4.7GHz), 32GB LPDDR5 1TB M.2 2280 SSD, 4K Dual Display,HDMI*2, LAN 1000M/USB-C/WiFi 6/BT5.2\", \"price_sgd\": 859},\n  {\"product\": \"Beelink  SER8  Mini  PC,  AMD  Ryzen  7  8845HS(8C/16T up to 5.1GHz), 32GB DDR5 1TB PCIe4.0 SSD Mini Gaming PC, 4K Triple\", \"price_sgd\": 999},\n  {\"product\": \"Beelink EQR6 Mini PC, AMD Ryzen 9 6900HX (8C/16T, up to 4.9Ghz), 32G DDR5 RAM 1TB PCIe4.0 SSD Mini Computer, WiFi6, BT5.2, Dual HDMI, Dual 100\", \"price_sgd\": 787},\n  {\"product\": \"Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U (8C/16T,Up to 4.5GHz) 16GB DDR4 500GB M.2 PCIe SSD Mini Desktop 4K\", \"price_sgd\": 569},\n  {\"product\": \"Beelink EQ14 Mini PC, Intel 12th Processor N150 (4C/4T, up to 3.6Ghz), 16G DDR4 500G M.2 SSD Mini Office, 4K Dual Display/Dual\", \"price_sgd\": 539},\n  {\"product\": \"Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U (8C/16T,Up to 4.5GHz) 32GB DDR4 500GB M.2 PCIe SSD Mini Support 4K\", \"price_sgd\": 609},\n  {\"product\": \"Beelink GTi14 Ultra Mini PC, Intel Core Ultra 9 185H (16C/22T up to 5.1GHz), 32GB DDR5 1TB M.2 PCIe4.0 SSD AI Mini Computer, 4K\", \"price_sgd\": 1520},\n  {\"product\": \"Honeywell Air Touch V2 Purifier\", \"price_sgd\": 179},\n  {\"product\": \"Honeywell Air Touch V3 Purifier\", \"price_sgd\": 199},\n  {\"product\": \"Honeywell Air Touch V4 Purifier\", \"price_sgd\": 229},\n  {\"product\": \"Honeywell Air Touch P2 Purifier\", \"price_sgd\": 299},\n  {\"product\": \"Honeywell Air Touch U1 Purifier\", \"price_sgd\": 399},\n  {\"product\": \"Honeywell Air Touch U2 Purifier + Humidif\", \"price_sgd\": 439},\n  {\"product\": \"Canon Lide 300 Flatbed Scanner\", \"price_sgd\": 148},\n  {\"product\": \"Canon Lide 400 Flat Bed Scanner\", \"price_sgd\": 187},\n  {\"product\": \"Epson Perfection V39 II Flatbed Scanner\", \"price_sgd\": 149},\n  {\"product\": \"Fujitsu IX1600 Black ADF Scanner\", \"price_sgd\": 724},\n  {\"product\": \"HP laserjet MFP M236DW\", \"price_sgd\": 218},\n  {\"product\": \"HP Color Laserjet ProMFP 3303FDW\", \"price_sgd\": 549},\n  {\"product\": \"HP Color Laserjet Enterprise M455DN\", \"price_sgd\": 769},\n  {\"product\": \"Brother DCP-1510 Printer\", \"price_sgd\": 159},\n  {\"product\": \"Canon Pixma TS5370a Printer\", \"price_sgd\": 159},\n  {\"product\": \"Canon Pixma TR4670S Printer\", \"price_sgd\": 139},\n  {\"product\": \"Motorola Zebra LS2208 Scanner\", \"price_sgd\": 146},\n  {\"product\": \"Motorola Zebra DS2208 Scanner\", \"price_sgd\": 155},\n  {\"product\": \"Brother Drum DR-2255 Drum Unit\", \"price_sgd\": 109},\n  {\"product\": \"Brother HL-1110 Mono Laser Printer\", \"price_sgd\": 101},\n  {\"product\": \"Brother HL-1210W Mono Laser Wireless\", \"price_sgd\": 111},\n  {\"product\": \"HP Color Laser 150NW\", \"price_sgd\": 399},\n  {\"product\": \"HP Inkjet 2821E AIO (3721 AIO $79)\", \"price_sgd\": 79},\n  {\"product\": \"Canon MG2570S AIO Printer\", \"price_sgd\": 79},\n  {\"product\": \"Canon Pro 200 Printer\", \"price_sgd\": 648},\n  {\"product\": \"Canon MG3670 AIO Printer\", \"price_sgd\": 134},\n  {\"product\": \"Epson LQ310 Dot Matrix 24 Pin Printer\", \"price_sgd\": 369},\n  {\"product\": \"Brother HL-L2460DW\", \"price_sgd\": 238},\n  {\"product\": \"Brother DCP-L2640DW\", \"price_sgd\": 278},\n  {\"product\": \"Brother DCP-L2680DW\", \"price_sgd\": 308},\n  {\"product\": \"Brother MFC-L2805DW\", \"price_sgd\": 368},\n  {\"product\": \"Brother MFC-L2885DW\", \"price_sgd\": 468},\n  {\"product\": \"Brother HL-L3240CDW\", \"price_sgd\": 368},\n  {\"product\": \"Brother HL-L3280CDW\", \"price_sgd\": 408},\n  {\"product\": \"Brother DCP-L3560CDW\", \"price_sgd\": 538},\n  {\"product\": \"Brother MFC-L3760CDW\", \"price_sgd\": 608},\n  {\"product\": \"SK-SH7401 4-Port 4K30 HDMI KVM\", \"price_sgd\": 209},\n  {\"product\": \"ATEN 2 Port USB KVM CS22U\", \"price_sgd\": 49},\n  {\"product\": \"ATEN 2 Port USB HDMI KVM CS692\", \"price_sgd\": 161},\n  {\"product\": \"ATEN 2 Port USB 4K HDMI KVM CS22H\", \"price_sgd\": 169},\n  {\"product\": \"ATEN 2 Port USB HDMI KVM CS22HF\", \"price_sgd\": 129},\n  {\"product\": \"ATEN 2 PORT CS22DP DISPLAY PORT\", \"price_sgd\": 168},\n  {\"product\": \"ATEN 4 Port USB KVM CS64U\", \"price_sgd\": 141},\n  {\"product\": \"ATEN USB to Serial + Cable UC-232A\", \"price_sgd\": 29},\n  {\"product\": \"ATEN USB to Serial + Cable UC-232B\", \"price_sgd\": 39},\n  {\"product\": \"ATEN USB to Parallel Printer UC1284B\", \"price_sgd\": 29},\n  {\"product\": \"ATEN VE829 Wireless Externer\", \"price_sgd\": 556},\n  {\"product\": \"ATEN RS-232 to RS-485/RS-422 IC485S\", \"price_sgd\": 66},\n  {\"product\": \"Aten VC920 Mini DisplayPort to VGA Adapter\", \"price_sgd\": 20},\n  {\"product\": \"ATEN HDMI Splitter VS182a\", \"price_sgd\": 138},\n  {\"product\": \"ATEN HDMI Splitter VS184a\", \"price_sgd\": 245},\n  {\"product\": \"ATEN 2 port VGA Splitter VS0102\", \"price_sgd\": 112},\n  {\"product\": \"ATEN USB2.0 Extender Cable 5M UE250\", \"price_sgd\": 36},\n  {\"product\": \"ATEN USB2.0 Extender Cable 12M UE2120\", \"price_sgd\": 90},\n  {\"product\": \"GMKtec NucBox G5 •  Intel®  N97  Processor (6M Cache, up to 3.60 GHz, 4C/4T, TDP 12W) •     12GB     LPDDR5     4800     Onboard •    512GB     M.2    2242     SATA    SSD 1x    M.2     2242     SATA    Slot • Windows 11 Professional\", \"price_sgd\": 399},\n  {\"product\": \"GMKtec NucBox G3 Plus • Intel® N150 Processor (6M Cache, up to 3.60 GHz, 4C/4T, TDP 6W) •     16GB     DDR4      3200     SO-DIMM (1*16GB,  Max  32GB) •  1TB  M.2  PCIe  Gen3x4  SSD 1x  M.2  2242  SATA  Slot 1x  M.2  2280  PCIe  Slot • Windows 11 Professional\", \"price_sgd\": 419},\n  {\"product\": \"GMKtec  NucBox  G9 •       Intel®     N150      Processor (6M Cache, up to 3.60 GHz, 4C/4T, TDP 6W) •     12GB     LPDDR5     4800     Onboard •                64GB                eMMC •    2TB     M.2    PCIe    Gen3x2     SSD 4x   M.2   2280   PCIe   Gen3x2   Slot •  Windows  11  Professional  |  Ubuntu  (Dual Boot)\", \"price_sgd\": 599},\n  {\"product\": \"GMKtec  NucBox  M3 •  Intel®  Core™  i5-12450H  Processor (12MB Cache, up to 4.4 GHz, 8C/12T, TDP 45W) •  32GB  DDR4  3200  SO-DIMM (2*16GB,  Max  64GB) •    1TB     M.2    PCIe    Gen3x4     SSD 1x    M.2     2242     SATA    Slot 1x    M.2     2280     PCIe    Slot • Windows 11 Professional\", \"price_sgd\": 949},\n  {\"product\": \"GMKtec        NucBox         K7        Plus •   Intel®  Core™   i7-13620H   Processor (24MB Cache, up to 4.9 GHz, 10C/16T, TDP 45W) •  32GB  DDR5  4800  SO-DIMM (2*16GB,    Max       96GB) •    1TB  M.2  PCIe  Gen3x4  SSD 2x  M.2  2280   PCIe    Slot • Windows 11 Professional\", \"price_sgd\": 1049},\n  {\"product\": \"GMKtec      NucBox     K9     •      Intel®    Core™     Ultra    5     Processor    125H (18MB     Cache,    up    to    4.5 GHz,      14C/18T,       TDP      28~65W) •     32GB     DDR5      5600     SO-DIMM (2*16GB,       Max       96GB) •    1TB  M.2  PCIe  Gen4x4  SSD 2x    M.2    2280     PCIe    Slot • Windows 11 Professional\", \"price_sgd\": 1299},\n  {\"product\": \"GMKtec        NucBox         K8        Plus •   AMD   Ryzen™   7   8845HS   Processor (24MB Cache, up to 5.1 GHz, 8C/16T, TDP 35~54W) •  32GB  DDR5  5600  SO-DIMM (2*16GB,  Max  96GB) •  1TB  M.2  PCIe  Gen4x4  SSD 2x  M.2  2280  PCIe  Slot • Windows 11 Professional\", \"price_sgd\": 999},\n  {\"product\": \"GMKtec      NucBox     K11      •     AMD Ryzen™       9       8945HS       Processor (24MB Cache, up to 5.2 GHz, 8C/16T, TDP 35~54W) •     32GB     DDR5      5600     SO-DIMM (2*16GB,       Max       96GB) •    1TB  M.2  PCIe  Gen4x4  SSD 2x    M.2    2280     PCIe    Slot • Windows 11 Professional\", \"price_sgd\": 1299},\n  {\"product\": \"GMKtec  EVO-X1 •  AMD  Ryzen™  AI  9  HX  370  Processor (36MB     Cache,    up    to    5.1 GHz,      12C/24T,       TDP      15~54W) •    32GB     LPDDR5X     7500     Onboard •    1TB     M.2    PCIe    Gen4x4     SSD 2x    M.2    2280     PCIe    Slot • Windows 11 Professional\", \"price_sgd\": 1699},\n  {\"product\": \"GMKtec         EVO-X2        •        AMD Ryzen™     AI    Max+     395     Processor (16 MB L2 Cache / 64 MB L3 Cache, up to 5.1 GHz, 16C/32T, TDP 45~120W, peak at 140W) •  64GB  LPDDR5X  8000  Onboard •  1TB  M.2  PCIe  Gen4x4  SSD 2x  M.2  2280  PCIe  Slot • Windows 11 Professional\", \"price_sgd\": 2599},\n  {\"product\": \"GMKtec         EVO-X2        •        AMD Ryzen™     AI    Max+     395     Processor (16 MB L2 Cache / 64 MB L3 Cache, up to 5.1 GHz, 16C/32T, TDP 45~120W, peak at 140W) •    128GB     LPDDR5X     8000    Onboard •    2TB     M.2    PCIe    Gen4x4     SSD 2x    M.2    2280     PCIe    Slot • Windows 11 Professional\", \"price_sgd\": 3459},\n  {\"product\": \"Planet GT-802 SX Media Convertor\", \"price_sgd\": 180},\n  {\"product\": \"Planet GT-805 Media Convertor\", \"price_sgd\": 185},\n  {\"product\": \"Parallel Print Server LPT1\", \"price_sgd\": 199},\n  {\"product\": \"USB Printer Server USB2.0 (Wireless $229)\", \"price_sgd\": 179},\n  {\"product\": \"Asus  PE1000U  +  MB  +  I/O  board  +  CPU  +  DRAM\", \"price_sgd\": 569},\n  {\"product\": \"Asus  PE200U  +  Intel  i5-8365UE  Dual  LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\", \"price_sgd\": 1599},\n  {\"product\": \"Asus  PE200U  +  Intel  i3-8145UE  Dual  LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\", \"price_sgd\": 1329}\n]}"
+}

@@ -1,0 +1,338 @@
+{
+  "sha256": "6982aed1ea7030784bde673f6cf0a7cf8d8c760dff9130051995827aaea1cd61",
+  "vendor": "bizgram",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI B650I EDGE WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1705.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX B850-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1465.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1775.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF GAMING B650-E WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1640.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PRIME B840-PLUS WIFI-CSM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1468.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI B650M GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1770.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI B650M GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1828.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF GAMING B650-PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1135.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF GAMING B850M-PLUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1170.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus TUF GAMING B650M-E WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1676.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG B650 EDGE WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2069.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DeskPi RackMate T0 Rackmount,10 Inch 4U Server Cabinet RackMate T0 DP-0047",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DeskPi RackMate T1 Rackmount,10 Inch 8U Server Cabinet RackMate T1 DP-0022",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DeskPi RackMate T2 Rackmount,12U Server Cabinet RackMate T2 DP- 0048",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 406.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DeskPi 12 Port Patch Panel, 0.5UCAT6 Network Patch Panel 12 Port Patch Panel DP- 0034",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DeskPi T2 Accessories 1U RackShelf for 12U Server Cabinet 1U RackShelf for T2 DP- 0053",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DeskPi RackMate Accessories RackShelf 10 inch 1U Rack 1U RackShelf for T0 & T1 DP- 0031",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG Z790 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3033.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1670.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MEG X670E GODLIKE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2615.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX B850-F GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2305.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2348.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI B650M PROJECT ZERO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1935.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX B650-A GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2385.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG B760 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1390.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2010.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG Z790 EDGE TI MAX WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4128.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2616.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI Z790 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2066.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MAG B650 TOMAHAWK WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1948.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1908.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG Z790 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2025.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG Z790 CARBON WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1745.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI Z790 GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1772.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI MPG B650 EDGE WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1581.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus ROG STRIX B650E-E GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1888.0
+    }
+  ],
+  "numeric_tokens_in_source": 68,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 36/68 = 0.53",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI B650I EDGE WIFI\",\n      \"price_sgd\": 1705\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG STRIX B850-A GAMING WIFI\",\n      \"price_sgd\": 1465\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MAG B850 TOMAHAWK MAX WIFI\",\n      \"price_sgd\": 1775\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus TUF GAMING B650-E WIFI\",\n      \"price_sgd\": 1640\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus PRIME B840-PLUS WIFI-CSM\",\n      \"price_sgd\": 1468\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI B650M GAMING WIFI\",\n      \"price_sgd\": 1770\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI B650M GAMING WIFI\",\n      \"price_sgd\": 1828\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus TUF GAMING B650-PLUS WIFI\",\n      \"price_sgd\": 1135\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus TUF GAMING B850M-PLUS\",\n      \"price_sgd\": 1170\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus TUF GAMING B650M-E WIFI\",\n      \"price_sgd\": 1676\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MPG B650 EDGE WIFI\",\n      \"price_sgd\": 2069\n    },\n    {\n      \"product\": \"DeskPi RackMate T0 Rackmount,10 Inch 4U Server Cabinet RackMate T0 DP-0047\",\n      \"price_sgd\": 205\n    },\n    {\n      \"product\": \"DeskPi RackMate T1 Rackmount,10 Inch 8U Server Cabinet RackMate T1 DP-0022\",\n      \"price_sgd\": 328\n    },\n    {\n      \"product\": \"DeskPi RackMate T2 Rackmount,12U Server Cabinet RackMate T2 DP- 0048\",\n      \"price_sgd\": 406\n    },\n    {\n      \"product\": \"DeskPi 12 Port Patch Panel, 0.5UCAT6 Network Patch Panel 12 Port Patch Panel DP- 0034\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"DeskPi T2 Accessories 1U RackShelf for 12U Server Cabinet 1U RackShelf for T2 DP- 0053\",\n      \"price_sgd\": 52\n    },\n    {\n      \"product\": \"DeskPi RackMate Accessories RackShelf 10 inch 1U Rack 1U RackShelf for T0 & T1 DP- 0031\",\n      \"price_sgd\": 49\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MAG Z790 TOMAHAWK MAX WIFI\",\n      \"price_sgd\": 3033\n    },\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS TUF GAMING Z890-PLUS WIFI\",\n      \"price_sgd\": 1670\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MEG X670E GODLIKE\",\n      \"price_sgd\": 2615\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG STRIX B850-F GAMING WIFI\",\n      \"price_sgd\": 2305\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MPG B850 EDGE TI WIFI\",\n      \"price_sgd\": 2348\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI B650M PROJECT ZERO\",\n      \"price_sgd\": 1935\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG STRIX B650-A GAMING WIFI\",\n      \"price_sgd\": 2385\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MAG B760 TOMAHAWK WIFI\",\n      \"price_sgd\": 1390\n    },\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG STRIX Z890-A GAMING WIF\",\n      \"price_sgd\": 2010\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MPG Z790 EDGE TI MAX WIFI\",\n      \"price_sgd\": 4128\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MAG Z890 TOMAHAWK WIFI\",\n      \"price_sgd\": 2616\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Z790 GAMING PLUS WIFI\",\n      \"price_sgd\": 2066\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MAG B650 TOMAHAWK WIFI\",\n      \"price_sgd\": 1948\n    },\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG STRIX Z890-I GAMING WIF\",\n      \"price_sgd\": 1908\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MPG Z790 CARBON WIFI\",\n      \"price_sgd\": 2025\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MPG Z790 CARBON WIFI\",\n      \"price_sgd\": 1745\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Z790 GAMING PLUS WIFI\",\n      \"price_sgd\": 1772\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI MPG B650 EDGE WIFI\",\n      \"price_sgd\": 1581\n    },\n    {\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG STRIX B650E-E GAMING WIFI\",\n      \"price_sgd\": 1888\n    }\n  ]\n}"
+}
