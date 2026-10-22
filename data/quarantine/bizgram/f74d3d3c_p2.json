@@ -1,0 +1,878 @@
+{
+  "sha256": "f74d3d3c10083d2ecc47de4a3bcc090597321789ac347b600a7ce83dd3bfaf34",
+  "vendor": "bizgram",
+  "page_number": 2,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1805.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7500F",
+      "warranty": null,
+      "price_sgd": 1963.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9950X3d2",
+      "warranty": null,
+      "price_sgd": 3105.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7700",
+      "warranty": null,
+      "price_sgd": 2034.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7600X",
+      "warranty": null,
+      "price_sgd": 2018.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7700X",
+      "warranty": null,
+      "price_sgd": 2105.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7900X",
+      "warranty": null,
+      "price_sgd": 2257.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7950X",
+      "warranty": null,
+      "price_sgd": 2546.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7500X3D",
+      "warranty": null,
+      "price_sgd": 2083.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7800X3D",
+      "warranty": null,
+      "price_sgd": 2192.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "7950X3D",
+      "warranty": null,
+      "price_sgd": 2535.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9600X",
+      "warranty": null,
+      "price_sgd": 2050.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9700X",
+      "warranty": null,
+      "price_sgd": 2127.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9900X",
+      "warranty": null,
+      "price_sgd": 2290.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9950X",
+      "warranty": null,
+      "price_sgd": 2410.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9800X3D",
+      "warranty": null,
+      "price_sgd": 2399.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9850x3d",
+      "warranty": null,
+      "price_sgd": 2492.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "9950X3D",
+      "warranty": null,
+      "price_sgd": 2699.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "8400F",
+      "warranty": null,
+      "price_sgd": 1925.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "variant": null,
+      "bundle_cpu": "8500G",
+      "warranty": null,
+      "price_sgd": 1990.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1984.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7500F",
+      "warranty": null,
+      "price_sgd": 2137.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9950X3d2",
+      "warranty": null,
+      "price_sgd": 3279.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7700",
+      "warranty": null,
+      "price_sgd": 2208.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7600X",
+      "warranty": null,
+      "price_sgd": 2192.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7700X",
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7900X",
+      "warranty": null,
+      "price_sgd": 2432.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7950X",
+      "warranty": null,
+      "price_sgd": 2721.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7500X3D",
+      "warranty": null,
+      "price_sgd": 2257.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7800X3D",
+      "warranty": null,
+      "price_sgd": 2366.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "7950X3D",
+      "warranty": null,
+      "price_sgd": 2710.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9600X",
+      "warranty": null,
+      "price_sgd": 2225.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9700X",
+      "warranty": null,
+      "price_sgd": 2301.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9900X",
+      "warranty": null,
+      "price_sgd": 2464.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9950X",
+      "warranty": null,
+      "price_sgd": 2584.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9800X3D",
+      "warranty": null,
+      "price_sgd": 2573.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9850x3d",
+      "warranty": null,
+      "price_sgd": 2666.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "9950X3D",
+      "warranty": null,
+      "price_sgd": 2873.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "8400F",
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "AMD 7 Motherboard and CPU DDR5",
+      "brand": "ASUS",
+      "product": "Asus ROG Crosshair X870E Extreme",
+      "variant": null,
+      "bundle_cpu": "8500G",
+      "warranty": null,
+      "price_sgd": 2165.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "Asus",
+      "product": "Asus ROG NUC NUC15JNK Gaming Desktop Computer - Intel Core Ultra 7 275HX - 32 GB - 1 TB SSD - Mini PC - Intel Chip - Windows 11 Home 64-bit - NVIDIA GeForce RTX 5070 Ti - IEEE 802.11be",
+      "variant": "VPN:90AS00I1-M001W0",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3270.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "Asus",
+      "product": "Asus ROG NUC NUC15JNK Gaming Desktop Computer - Intel Core Ultra 7 275HX - 32 GB - 1 TB SSD - Mini PC - Intel Chip - Windows 11 Home 64-bit - NVIDIA GeForce RTX 5070 Ti - IEEE 802.11be",
+      "variant": "VPN:90AS00I1-M001W0",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2700.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 Pro AI",
+      "variant": "RNUC14LNKU7094N3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 559.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 Pro AI",
+      "variant": "RNUC14LNKU7094N3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1892.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "Asus",
+      "product": "Asus NUC 15 Pro C3-100U Intel Graphics Barebone",
+      "variant": "RNUC15CRHI300000I",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 655.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "ASUS",
+      "product": "ASUS NUC 15 PRO C5-210H INTEL GRAPHICS BAREBONE",
+      "variant": "RNUC15CRHC500000I",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 759.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "ASUS",
+      "product": "ASUS NUC 15 PRO C7-240H INTEL GRAPHICS BAREBONE",
+      "variant": "RNUC15CRHC700000I",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 819.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "ASUS",
+      "product": "ASUS NUC 15 PRO U7-255H INTEL ARC GPU BAREBONE",
+      "variant": "RNUC15CRHU700000I",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 715.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "ASUS",
+      "product": "ASUS NUC 15 PRO U5-225H INTEL ARC GPU BAREBONE",
+      "variant": "RNUC15CRHU500000I",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3299.0
+    },
+    {
+      "category": "Asus Intel Mini PC",
+      "brand": "Asus",
+      "product": "Asus Intel NUC RNUC14SRKU710000I Intel® Core™ Ultra 7 155H Processor 8GB 512GB Windows 11 Home Unactivated",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3862.0
+    },
+    {
+      "category": "Gigabyte Intel Mini NUC PC",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Brix GB-BEi3H-1220 Barebone",
+      "variant": "945-14070-0080-000",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 625.0
+    },
+    {
+      "category": "Gigabyte Intel Mini NUC PC",
+      "brand": "Gigabyte",
+      "product": "Gigabyte Brix GB-BEi5H-1240 Barebone",
+      "variant": "810152850435",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "NVIDIA JETSON AGX THOR",
+      "brand": "NVIDIA",
+      "product": "NVIDIA JETSON AGX THOR 128GB DEVELOPER KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5699.0
+    },
+    {
+      "category": "Gigabyte Intel Mini NUC PC",
+      "brand": "Gigabyte",
+      "product": "Gigabyte BRIX GB-BSi7HS-1355 Barebone",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1115.0
+    },
+    {
+      "category": "Gigabyte Intel Mini NUC PC",
+      "brand": "Gigabyte",
+      "product": "Gigabyte BRIX GB-BSi7HS-1260 Barebone",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1185.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry Pi4 RPI4 B 8GB Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry PI 4 4GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry RPI5 B 4GB Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry RPI5 B 8GB Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry RPI5 B 16GB Board",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry PI case / PI USB-C Power/Argon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "Raspberry PI 3, Pi4 Pi5 and Pi400",
+      "brand": "Raspberry",
+      "product": "Raspberry PI Heatsink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "Asus ASCENT GX10",
+      "brand": "ASUS",
+      "product": "ASUS Mini-PC PN65-S7064AD Intel U7-155H 16GB DDR5 512GB SSD TPM Win 11 PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3289.0
+    },
+    {
+      "category": "Asus Ascent GX10 GB10 AI",
+      "brand": "Asus",
+      "product": "Asus Ascent GX10 Compact Desktop AI Supercomputer",
+      "variant": "Config: 4TB with 1 Year On-Site Warranty",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3289.0
+    },
+    {
+      "category": "Asus Ascent GX10 GB10 AI",
+      "brand": "Asus",
+      "product": "Asus Ascent GX10 Compact Desktop AI Supercomputer",
+      "variant": "Config: 1TB with 1 Year On-Site Warranty",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3289.0
+    },
+    {
+      "category": "Asus Ascent GX10 GB10 AI",
+      "brand": "ASUS",
+      "product": "ASUS Ascent GX10 Compact Desktop AI Supercomputer",
+      "variant": "Config: 2TB with 1 Year On-Site Warranty",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3289.0
+    },
+    {
+      "category": "MSI Gaming Desktop PC",
+      "brand": "MSI",
+      "product": "Aorus Master 16, QHD+, 275HX, RTX 5070Ti 12G, DDR5 16GB x 2, M.2 1TB x 1, WIN 11 HOME, BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4499.0
+    },
+    {
+      "category": "MSI Gaming Desktop PC",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GAMING A16, FHD+, i7-13620H, RTX 5050 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "MSI Gaming Desktop PC",
+      "brand": "Aorus",
+      "product": "Aorus Master 16, QHD+, 275HX, RTX 5080 16G, DDR5 16GB x 2, M.2 1TB x 2, WIN 11 HOME, BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5799.0
+    },
+    {
+      "category": "MSI Gaming Desktop PC",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GAMING A16, FHD+, i7-13620H, RTX 5060 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": "MSI Gaming Desktop PC",
+      "brand": "Aorus",
+      "product": "Aorus Master 16, QHD+, 275HX, RTX 5090 24G, DDR5 16GB x 2, M.2 1TB x 2, WIN 11 HOME, BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6999.0
+    },
+    {
+      "category": "LAPTOP",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE AERO X16, FHD+ (WUXGA), RYZEN AI 7 350, RTX 5050 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, GRAY",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1999.0
+    },
+    {
+      "category": "LAPTOP",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE AERO X16, FHD+ (WUXGA), RYZEN AI 7 350, RTX 5050 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, GRAY",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1999.0
+    },
+    {
+      "category": "LAPTOP",
+      "brand": "PANDORA",
+      "product": "PANDORA NVIDIA JETSON ORIN NX SUPER 8GB FAN V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2250.0
+    },
+    {
+      "category": "LAPTOP",
+      "brand": "PANDORA",
+      "product": "PANDORA NVIDIA JETSON ORIN NX SUPER 16GB FAN V1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2550.0
+    },
+    {
+      "category": "GMKTec Full Configured NUC Mini PC",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox G3 16G/1TB/W11P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": "MSI Cubi NUC Mini PC",
+      "brand": "MSI",
+      "product": "MSI Cubi NUC 1MG-281BSG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 559.0
+    },
+    {
+      "category": "GMKTec Full Configured NUC Mini PC",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox M3 32G/1TB/W11P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": "MSI Cubi NUC Mini PC",
+      "brand": "MSI",
+      "product": "MSI Cubi NUC 1MG-280BSG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": "GMKTec Full Configured NUC Mini PC",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K7 Plus 32G/1TB/W11P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1049.0
+    },
+    {
+      "category": "GMKTec Full Configured NUC Mini PC",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K8 Plus 16G/1TB/W11P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1059.0
+    },
+    {
+      "category": "MSI Cubi NUC Mini PC",
+      "brand": "MSI",
+      "product": "MSI Cubi NUC AI 1UMG-054BSG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 759.0
+    },
+    {
+      "category": "GMKTec Full Configured NUC Mini PC",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K9 32G/1TB/W11P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "MSI Cubi NUC Mini PC",
+      "brand": "MSI",
+      "product": "MSI Cubi NUC AI 1UMG-053BSG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1150.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "UNKNOWN",
+      "product": "64GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "UNKNOWN",
+      "product": "128GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "UNKNOWN",
+      "product": "256GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 286.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "SanDisk",
+      "product": "SanDisk Extreme CF, CFXSB 32GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "UNKNOWN",
+      "product": "64GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": "SAPPHIRE EDGE AI 370 BAREBONE",
+      "brand": "UNKNOWN",
+      "product": "128GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "MSI Desktop PRO DP21 14M",
+      "brand": "MSI",
+      "product": "MSI Desktop PRO DP21 14M-1058SG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 929.0
+    },
+    {
+      "category": "MSI Modern AM272P",
+      "brand": "MSI",
+      "product": "MSI Modern AM272P 1M-1279SG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "MSI Desktop PRO DP21 14M",
+      "brand": "MSI",
+      "product": "MSI Desktop PRO DP21 14M-1218SG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": "MSI Modern AM273QP AI",
+      "brand": "MSI",
+      "product": "MSI Modern AM273QP AI 1UM-053SG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1899.0
+    },
+    {
+      "category": "MSI Modern AM273QP AI",
+      "brand": "MSI",
+      "product": "MSI Modern AM273QP AI 1UM-253SG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1899.0
+    }
+  ],
+  "numeric_tokens_in_source": 2663,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 96/2663 = 0.04",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"price_sgd\": 1805\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7500F\",\n      \"price_sgd\": 1963\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9950X3d2\",\n      \"price_sgd\": 3105\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7700\",\n      \"price_sgd\": 2034\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7600X\",\n      \"price_sgd\": 2018\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7700X\",\n      \"price_sgd\": 2105\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7900X\",\n      \"price_sgd\": 2257\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7950X\",\n      \"price_sgd\": 2546\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7500X3D\",\n      \"price_sgd\": 2083\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7800X3D\",\n      \"price_sgd\": 2192\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"7950X3D\",\n      \"price_sgd\": 2535\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9600X\",\n      \"price_sgd\": 2050\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9700X\",\n      \"price_sgd\": 2127\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9900X\",\n      \"price_sgd\": 2290\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9950X\",\n      \"price_sgd\": 2410\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9800X3D\",\n      \"price_sgd\": 2399\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9850x3d\",\n      \"price_sgd\": 2492\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"9950X3D\",\n      \"price_sgd\": 2699\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"8400F\",\n      \"price_sgd\": 1925\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG CROSSHAIR X870E GLACIAL\",\n      \"bundle_cpu\": \"8500G\",\n      \"price_sgd\": 1990\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"price_sgd\": 1984\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7500F\",\n      \"price_sgd\": 2137\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9950X3d2\",\n      \"price_sgd\": 3279\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7700\",\n      \"price_sgd\": 2208\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7600X\",\n      \"price_sgd\": 2192\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7700X\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7900X\",\n      \"price_sgd\": 2432\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7950X\",\n      \"price_sgd\": 2721\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7500X3D\",\n      \"price_sgd\": 2257\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7800X3D\",\n      \"price_sgd\": 2366\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"7950X3D\",\n      \"price_sgd\": 2710\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9600X\",\n      \"price_sgd\": 2225\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9700X\",\n      \"price_sgd\": 2301\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9900X\",\n      \"price_sgd\": 2464\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9950X\",\n      \"price_sgd\": 2584\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9800X3D\",\n      \"price_sgd\": 2573\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9850x3d\",\n      \"price_sgd\": 2666\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"9950X3D\",\n      \"price_sgd\": 2873\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"8400F\",\n      \"price_sgd\": 2099\n    },\n    {\n      \"category\": \"AMD 7 Motherboard and CPU DDR5\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ROG Crosshair X870E Extreme\",\n      \"bundle_cpu\": \"8500G\",\n      \"price_sgd\": 2165\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG NUC NUC15JNK Gaming Desktop Computer - Intel Core Ultra 7 275HX - 32 GB - 1 TB SSD - Mini PC - Intel Chip - Windows 11 Home 64-bit - NVIDIA GeForce RTX 5070 Ti - IEEE 802.11be\",\n      \"variant\": \"VPN:90AS00I1-M001W0\",\n      \"price_sgd\": 3270\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG NUC NUC15JNK Gaming Desktop Computer - Intel Core Ultra 7 275HX - 32 GB - 1 TB SSD - Mini PC - Intel Chip - Windows 11 Home 64-bit - NVIDIA GeForce RTX 5070 Ti - IEEE 802.11be\",\n      \"variant\": \"VPN:90AS00I1-M001W0\",\n      \"price_sgd\": 2700\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 14 Pro AI\",\n      \"variant\": \"RNUC14LNKU7094N3\",\n      \"price_sgd\": 559\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 14 Pro AI\",\n      \"variant\": \"RNUC14LNKU7094N3\",\n      \"price_sgd\": 1892\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus NUC 15 Pro C3-100U Intel Graphics Barebone\",\n      \"variant\": \"RNUC15CRHI300000I\",\n      \"price_sgd\": 655\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 15 PRO C5-210H INTEL GRAPHICS BAREBONE\",\n      \"variant\": \"RNUC15CRHC500000I\",\n      \"price_sgd\": 759\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 15 PRO C7-240H INTEL GRAPHICS BAREBONE\",\n      \"variant\": \"RNUC15CRHC700000I\",\n      \"price_sgd\": 819\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 15 PRO U7-255H INTEL ARC GPU BAREBONE\",\n      \"variant\": \"RNUC15CRHU700000I\",\n      \"price_sgd\": 715\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 15 PRO U5-225H INTEL ARC GPU BAREBONE\",\n      \"variant\": \"RNUC15CRHU500000I\",\n      \"price_sgd\": 3299\n    },\n    {\n      \"category\": \"Asus Intel Mini PC\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus Intel NUC RNUC14SRKU710000I Intel® Core™ Ultra 7 155H Processor 8GB 512GB Windows 11 Home Unactivated\",\n      \"price_sgd\": 3862\n    },\n    {\n      \"category\": \"Gigabyte Intel Mini NUC PC\",\n      \"brand\": \"Gigabyte\",\n      \"product\": \"Gigabyte Brix GB-BEi3H-1220 Barebone\",\n      \"variant\": \"945-14070-0080-000\",\n      \"price_sgd\": 625\n    },\n    {\n      \"category\": \"Gigabyte Intel Mini NUC PC\",\n      \"brand\": \"Gigabyte\",\n      \"product\": \"Gigabyte Brix GB-BEi5H-1240 Barebone\",\n      \"variant\": \"810152850435\",\n      \"price_sgd\": 789\n    },\n    {\n      \"category\": \"NVIDIA JETSON AGX THOR\",\n      \"brand\": \"NVIDIA\",\n      \"product\": \"NVIDIA JETSON AGX THOR 128GB DEVELOPER KIT\",\n      \"price_sgd\": 5699\n    },\n    {\n      \"category\": \"Gigabyte Intel Mini NUC PC\",\n      \"brand\": \"Gigabyte\",\n      \"product\": \"Gigabyte BRIX GB-BSi7HS-1355 Barebone\",\n      \"price_sgd\": 1115\n    },\n    {\n      \"category\": \"Gigabyte Intel Mini NUC PC\",\n      \"brand\": \"Gigabyte\",\n      \"product\": \"Gigabyte BRIX GB-BSi7HS-1260 Barebone\",\n      \"price_sgd\": 1185\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry Pi4 RPI4 B 8GB Board\",\n      \"price_sgd\": 199\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry PI 4 4GB\",\n      \"price_sgd\": 169\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry RPI5 B 4GB Board\",\n      \"price_sgd\": 229\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry RPI5 B 8GB Board\",\n      \"price_sgd\": 359\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry RPI5 B 16GB Board\",\n      \"price_sgd\": 599\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry PI case / PI USB-C Power/Argon\",\n      \"price_sgd\": 40\n    },\n    {\n      \"category\": \"Raspberry PI 3, Pi4 Pi5 and Pi400\",\n      \"brand\": \"Raspberry\",\n      \"product\": \"Raspberry PI Heatsink\",\n      \"price_sgd\": 30\n    },\n    {\n      \"category\": \"Asus ASCENT GX10\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Mini-PC PN65-S7064AD Intel U7-155H 16GB DDR5 512GB SSD TPM Win 11 PRO\",\n      \"price_sgd\": 3289\n    },\n    {\n      \"category\": \"Asus Ascent GX10 GB10 AI\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus Ascent GX10 Compact Desktop AI Supercomputer\",\n      \"variant\": \"Config: 4TB with 1 Year On-Site Warranty\",\n      \"price_sgd\": 3289\n    },\n    {\n      \"category\": \"Asus Ascent GX10 GB10 AI\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus Ascent GX10 Compact Desktop AI Supercomputer\",\n      \"variant\": \"Config: 1TB with 1 Year On-Site Warranty\",\n      \"price_sgd\": 3289\n    },\n    {\n      \"category\": \"Asus Ascent GX10 GB10 AI\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Ascent GX10 Compact Desktop AI Supercomputer\",\n      \"variant\": \"Config: 2TB with 1 Year On-Site Warranty\",\n      \"price_sgd\": 3289\n    },\n    {\n      \"category\": \"MSI Gaming Desktop PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"Aorus Master 16, QHD+, 275HX, RTX 5070Ti 12G, DDR5 16GB x 2, M.2 1TB x 1, WIN 11 HOME, BLACK\",\n      \"price_sgd\": 4499.00\n    },\n    {\n      \"category\": \"MSI Gaming Desktop PC\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GIGABYTE GAMING A16, FHD+, i7-13620H, RTX 5050 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, BLACK\",\n      \"price_sgd\": 1599.00\n    },\n    {\n      \"category\": \"MSI Gaming Desktop PC\",\n      \"brand\": \"Aorus\",\n      \"product\": \"Aorus Master 16, QHD+, 275HX, RTX 5080 16G, DDR5 16GB x 2, M.2 1TB x 2, WIN 11 HOME, BLACK\",\n      \"price_sgd\": 5799.00\n    },\n    {\n      \"category\": \"MSI Gaming Desktop PC\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GIGABYTE GAMING A16, FHD+, i7-13620H, RTX 5060 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, BLACK\",\n      \"price_sgd\": 1699.00\n    },\n    {\n      \"category\": \"MSI Gaming Desktop PC\",\n      \"brand\": \"Aorus\",\n      \"product\": \"Aorus Master 16, QHD+, 275HX, RTX 5090 24G, DDR5 16GB x 2, M.2 1TB x 2, WIN 11 HOME, BLACK\",\n      \"price_sgd\": 6999.00\n    },\n    {\n      \"category\": \"LAPTOP\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GIGABYTE AERO X16, FHD+ (WUXGA), RYZEN AI 7 350, RTX 5050 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, GRAY\",\n      \"price_sgd\": 1999.00\n    },\n    {\n      \"category\": \"LAPTOP\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GIGABYTE AERO X16, FHD+ (WUXGA), RYZEN AI 7 350, RTX 5050 8G, DDR5 16GB x 1, M.2 1TB x 1, WIN 11 HOME, GRAY\",\n      \"price_sgd\": 1999.00\n    },\n    {\n      \"category\": \"LAPTOP\",\n      \"brand\": \"PANDORA\",\n      \"product\": \"PANDORA NVIDIA JETSON ORIN NX SUPER 8GB FAN V1\",\n      \"price_sgd\": 2250.00\n    },\n    {\n      \"category\": \"LAPTOP\",\n      \"brand\": \"PANDORA\",\n      \"product\": \"PANDORA NVIDIA JETSON ORIN NX SUPER 16GB FAN V1\",\n      \"price_sgd\": 2550.00\n    },\n    {\n      \"category\": \"GMKTec Full Configured NUC Mini PC\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox G3 16G/1TB/W11P\",\n      \"price_sgd\": 479\n    },\n    {\n      \"category\": \"MSI Cubi NUC Mini PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Cubi NUC 1MG-281BSG\",\n      \"price_sgd\": 559\n    },\n    {\n      \"category\": \"GMKTec Full Configured NUC Mini PC\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox M3 32G/1TB/W11P\",\n      \"price_sgd\": 799\n    },\n    {\n      \"category\": \"MSI Cubi NUC Mini PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Cubi NUC 1MG-280BSG\",\n      \"price_sgd\": 859\n    },\n    {\n      \"category\": \"GMKTec Full Configured NUC Mini PC\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K7 Plus 32G/1TB/W11P\",\n      \"price_sgd\": 1049\n    },\n    {\n      \"category\": \"GMKTec Full Configured NUC Mini PC\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K8 Plus 16G/1TB/W11P\",\n      \"price_sgd\": 1059\n    },\n    {\n      \"category\": \"MSI Cubi NUC Mini PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Cubi NUC AI 1UMG-054BSG\",\n      \"price_sgd\": 759\n    },\n    {\n      \"category\": \"GMKTec Full Configured NUC Mini PC\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K9 32G/1TB/W11P\",\n      \"price_sgd\": 1199\n    },\n    {\n      \"category\": \"MSI Cubi NUC Mini PC\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Cubi NUC AI 1UMG-053BSG\",\n      \"price_sgd\": 999\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"price_sgd\": 1150\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"UNKNOWN\",\n      \"product\": \"64GB\",\n      \"price_sgd\": 95\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"UNKNOWN\",\n      \"product\": \"128GB\",\n      \"price_sgd\": 165\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"UNKNOWN\",\n      \"product\": \"256GB\",\n      \"price_sgd\": 286\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"SanDisk\",\n      \"product\": \"SanDisk Extreme CF, CFXSB 32GB\",\n      \"price_sgd\": 52\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"UNKNOWN\",\n      \"product\": \"64GB\",\n      \"price_sgd\": 72\n    },\n    {\n      \"category\": \"SAPPHIRE EDGE AI 370 BAREBONE\",\n      \"brand\": \"UNKNOWN\",\n      \"product\": \"128GB\",\n      \"price_sgd\": 105\n    },\n    {\n      \"category\": \"MSI Desktop PRO DP21 14M\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Desktop PRO DP21 14M-1058SG\",\n      \"price_sgd\": 929\n    },\n    {\n      \"category\": \"MSI Modern AM272P\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Modern AM272P 1M-1279SG\",\n      \"price_sgd\": 1199\n    },\n    {\n      \"category\": \"MSI Desktop PRO DP21 14M\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Desktop PRO DP21 14M-1218SG\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"category\": \"MSI Modern AM273QP AI\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Modern AM273QP AI 1UM-053SG\",\n      \"price_sgd\": 1899\n    },\n    {\n      \"category\": \"MSI Modern AM273QP AI\",\n      \"brand\": \"MSI\",\n      \"product\": \"MSI Modern AM273QP AI 1UM-253SG\",\n      \"price_sgd\": 1899\n    }\n  ]\n}"
+}

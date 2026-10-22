@@ -1,0 +1,5468 @@
+{
+  "sha256": "265c4479b5ccbed88bf0d1017fbb43be4577e9f0cfecdae7b1079326a9ac7d4a",
+  "vendor": "bizgram",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-48-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-8-PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Pro-XG-Aggregation",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3382.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-210W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-Ultra-60W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 190.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-RJ45-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-RJ45-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti USW-WAN-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UT-G3-Handset",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTP-G3-Touch-Enterprise",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 400.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTP-G3-Touch-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTP-G3-Touch-Wall",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 534.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UTR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-360-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Bullet",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Dome-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Dome-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-DSLR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2283.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-DSLR-LD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2283.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-LPR-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 682.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Pro-White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1776.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-Precision-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2301.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-Precision-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2301.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-PTZ-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1776.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 423.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Audio",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Hub",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 276.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Lens",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Lens-360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Lens-LD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-ProLens110",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-ProLens360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Theta-ProLens50",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Turret-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-AI-Turret-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-Doorbell-Lite-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-Doorbell-Lite-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-BULLET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-BULLET-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Dome",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-DOME-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-DOME-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-DOME-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-C",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-C-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-PENDANT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-F-PENDANT-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-FLEX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-Black-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-WT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-Flex-PWM-WT-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1182.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-MICRO-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G3-PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 373.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4 Doorbell Pro PoE Kit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4 Doorbell Pro PoE Kit-White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 542.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4 Doorbell Pro-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 422.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-BULLET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Bullet-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 796.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Brick",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Concrete",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Fabric",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Silver",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-DB-Cover-Wood",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Dome-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 770.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Doorbell-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-Doorbell-PS-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-INS-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-IRExtender",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 626.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-PRO-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1864.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G4-PTZ",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2436.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Bullet",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 184.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Bullet-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 502.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 254.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome-3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 727.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Dome-Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Flex",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 512.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-PTZ",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 390.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-PTZ-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 390.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G5-Turret-Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-180-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 415.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Bullet-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Bullet-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Dome-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Dome-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Entry",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 337.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-INS-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-INS-W-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-INS-W-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-360-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 685.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-360-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 685.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Bullet-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 653.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Bullet-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 653.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Dome-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Turret-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Pro-Turret-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-PTZ-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-PTZ-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Turret-B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UVC-G6-Turret-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UWB-XG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1860.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UWB-XG-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1860.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 173.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UX7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Enterprise-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2030.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Fiber",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Lite-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Max",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti UXG-Pro-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 677.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 705.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Gen2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 831.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-AP-Micro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-20",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 914.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Fiber-ONU-UK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-LR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 524.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-LR-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 524.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-MLO5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-MLO5-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Nano",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Pico-EU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti Wave-Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 836.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti WM-W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti XR2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ubiquiti XR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EU-4208 USB 2.0 to 10/100Mb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EU-4306 V2 USB 3.0 to Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EU-4308 3-Port USB3.0 and",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EN-9260TX-E V2 Gigabit PCIe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-3308P 8P 10/100Mbps SOH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-1008P V2 8-Port Fast Eth",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-5500G V3 Gigabit 5 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax ES-5800G V3 Gigabit 8 Ports",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1016 V2 16P 10/100/1000M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1024 24P 10/100/1000M R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1026 V3 24P 10/100/1000M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 150.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5424G 24-Port Gigabit Po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1008P V2 8-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-1008PL V2 8-port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7722UTn V3 300M 2T2R 802",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811Un V2 11n 150M 1T1R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7611ULB N150 Wi-Fi BT 4.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7611ULB V2 N150 Wi-Fi BT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax BT-8500 Bluetooth 5.0 Nano",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7612PIn V2 11n 300M 2T2R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7833AXP Wi-Fi 6 AX3000 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7833UAC1750 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UMX AX1800 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UAD AC1200 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UAC1200 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822UTC AC1200 Dual-Band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7822ULC AC1200 Dual-Band",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811UTC AC600 Wireless M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811ULC AC600 Wireless D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811UAC600 Wireless D",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7811DAC600 Wi-Fi Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7611UCB 2-in-1 AC600 Du",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax RG21S AC2600 Dual band con",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax BR-6478V2 AC1200 Wireles",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax EW-7438RPN Mini N300 Univer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax IC-7113W 720p Wireless H.26",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax IEW-7811UTC AC600 Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax PrimeAX 123 AX1800 Wi-Fi 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 456.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax Office 123 Simple and Secur",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 447.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1300 Office 1-2-3 Master",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1300 Office +1 Office +1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP1300 Office +1 Office+1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax APC500 Wireless Acess Point",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax WAP1750 AC1750 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP1750 1750 Long Range",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP1300 1300 outdoor AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax OAP900 Long Range 802.11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1750 AC1750 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 234.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1300 AC1300 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP1200 AC1200 Long Range 8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 122.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax CAP300 2x2 N300 Ceiling-Mou",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax IAP1200 AC1200 In-Wall Dual",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-101IT IEEE 802.3at Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-103IT IEEE 802.3af/at/bt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-101ST IEEE 802.3at Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GP-101ET IEEE 802.3at PoE E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5208PLG V2 10-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5216PLC Surveillance Lon",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5424PLC V3 Surveillance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 580.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5424PLX V2 Surveillance",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 731.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Edimax GS-5654PLX V2 54-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 939.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox G5 • Intel® N97 Processor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox M3 • Intel® Core™ i5-12450H Processor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 849.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K7 Plus • Intel® Core™ i7-13620H Processor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1119.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K15 • Intel® Core™ Ultra 5 Processor 125U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec NucBox K11 • AMD Ryzen™ 9 8945HS Processor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec EVO-X1 AI Mini PC • AMD Ryzen™ AI 9 HX 370 Processor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "GMKtec EVO-X2 AI Mini PC • AMD Ryzen™ AI Max+ 395 Processor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4099.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink Mini S12 Mini PC, Intel 12th Processor N95",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink S12 Mini PC, Intel 12th Processor N95",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink Mini S12 Mini PC, Intel 12th Processor N100",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink Mini S13 Mini PC, Intel 12th Processor N150",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 639.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 659.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 759.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink GTi14 Ultra Mini PC, Intel Core Ultra 9 185H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1620.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQi12 Mini PC, Intel Core i5-1235U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 879.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQR7 Mini PC, AMD Ryzen 7 7735U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink SER8 Mini PC, AMD Ryzen 7 8845HS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Beelink EQR6 Mini PC, AMD Ryzen 9 6900HX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch V2 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch V3 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch V4 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch P2 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch U1 Purifier",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Honeywell Air Touch U2 Purifier + Humidif",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Lide 300 Flatbed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Lide 400 Flat Bed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Epson Perfection V39 II Flatbed Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Fujitsu IX1600 Black ADF Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 724.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP laserjet MFP M236DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Color Laserjet ProMFP 3303FDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Color Laserjet Enterprise M455DN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 769.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-1510 Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Pixma TS5370a Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Pixma TR4670S Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Motorola Zebra LS2208 Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Motorola Zebra DS2208 Scanner",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother Drum DR-2255 Drum Unit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-1110 Mono Laser Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-1210W Mono Laser Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Color Laser 150NW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP Inkjet 2821E AIO (3721 AIO $79)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon MG2570S AIO Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon Pro 200 Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Canon MG3670 AIO Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Epson LQ310 Dot Matrix 24 Pin Printer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-L2460DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-L2640DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-L2680DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother MFC-L2805DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother MFC-L2885DW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-L3240CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother HL-L3280CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother DCP-L3560CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Brother MFC-L3760CDW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SK-SH7401 4-Port 4K30 HDMI KVM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB KVM CS22U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB HDMI KVM CS692",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 161.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB 4K HDMI KVM CS22H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 Port USB HDMI KVM CS22HF",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 PORT CS22DP DISPLAY PORT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 4 Port USB KVM CS64U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB to Serial + Cable UC-232A",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB to Serial + Cable UC-232B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Planet GT-802 SX Media Convertor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Planet GT-805 Media Convertor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Parallel Print Server LPT1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "USB Printer Server USB2.0 (Wireless $229)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG STRIX IMPACT III RGB GAMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG STRIX IMPACT II RGB GAMIN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS TUF GAMING M4 WIRELESS GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS TUF GAMING M3 GEN II GAMING M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG BALTEUS QI WIRELESS CHARG",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 160.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG MOONSTONE ACE L TEMPERED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG SCABBARD II GAMING MOUSEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG SCABBARD II MEDIUM GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG SCABBARD GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG HONE ACE AIMLAB EDITION M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG HONE ACE AIMLAB EDITION M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG SHEATH GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS CERBERUS PAD MINI RED GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS TUF GAMING P3 GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS TUF GAMING P1 GAMING MOUSEMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG STRIX SCOPE NX TKL GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG STRIX GO CORE ML GAMING H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG CETRA II CORE ML GAMING E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG STRIX IMPACT II ML RGB GA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG STRIX GO EP WIRELESS GAMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 244.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG DESTRIER ERGO GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG CHARIOT RGB GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG CHARIOT CORE GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG AETHON GAMING CHAIR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ASUS ROG COSMIC FLOORMAT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "VIVE PRO EYE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "VIVE FOCUS 3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2039.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "OCULUS QUEST 2 256GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DF18CB8700CRSP3+2 Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NV7B41201AS/SP76L Built-in",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1715.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NV7B4430ZAB/SP76L Built-In",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2220.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NV7B6675CAA/SP76L Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3128.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NZ63B4026AK/SP60cm Inductio",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1614.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NZ63B5056AK/SPInduction Hob",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2018.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NZ64B5067YY/SPBespoke Induc2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 624.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NK24M1030IS/UR60cm Telescop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 504.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NK36CB665WWHSP90 Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1816.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NK36M1030IS/UR90cm Telescop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung NK36C5703TS/SP90cm Wall-m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DW60A6092FS/SPDishwasher Fr",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1332.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MC32DB7746KCSP32L Bespoke M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 749.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MC35R8088LC/SP35L Bespoke M9",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MC28A5137CK/SP28L Microwave",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MG23K3513AK/SP23L Grill Mic",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 211.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MG30T5018CW/SP30L Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MS23DG4504AGSP 23L Microwav",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MS23K3513AK/SP23L Microwave",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 181.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung MS30T5018AK/SP30L Bespoke M2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RB34T6054B1/SS325L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1433.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RB45DG600EB1SS458L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1483.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RB34C7B5CAP/SS344L Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1999.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RB43DG6005B1SS427L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RB43DG6005S9SS427L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1399.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RF59A70T4S9/SS649L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3027.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RF49C5103B1/SS550L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1799.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RF49C5103S9/SS550L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1799.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RF59C7664B1/SS648L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3799.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RF59C7004B1/SS649L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RR39M71357F/SS385L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1836.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RZ32M71157F/SS315L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1836.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RZ32T7443AP/SS323L Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1685.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RS70F65Q3FSS655L Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RS70F65Q3TSS655L Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RS70F65K3FSS635L Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RS80F65J3BSS655L Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RS90F65D3FSS615L Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3999.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RT62K705JBS/SS620L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1988.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RT53DG7A6CB1SS530L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RT53DG7A6CS9SS530L Refriger",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung RT42CB6688B1SSRefrigerator",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung VS20B75AER1/SP200W Jet 75E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 504.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung VS80F28DAS/SP280W Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung VS90F40DAK/SP400W Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung VR7MD96514G/SP70W Bespoke",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1799.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DV10BB9440GBSP10kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2049.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DV10BB9440GHSP10kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2049.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DV10DB94A0GDSP10kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DV90BB7440GESPBespoke AI La",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung DV90T6240LE/SPBespoke AI La",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD11DB8B85GHSP11kg/7kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1899.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD12BB944DGBSP12kg/8kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2139.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD25DB8995BZSP25kg/15kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD11DB9B84GDSP11kg/7kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2149.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD90T634DBN/SPBespoke AI La",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1241.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD80TA046BE/SPLaundry",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1039.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WD90F21BCSSPBespoke AI Laun",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW11DB9B84GDSP11kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1949.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW11CB944DGHSP11kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW12BB944DGBSP12kg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1968.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW90DB8U94GBSPBespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW90DB7U94GESPBespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW90DG6U34LESPBespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WW80FG3M05AWSPFront-load Wa8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WA10CG4546BVSP10kg Laundry",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WA80F13S5CSP13kg Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1049.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WA80F13B6BSP13kg Bespoke AI1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WA80F15B6BSP15kg Bespoke AI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Samsung WA80CG4546BVSP8kg Laundry T",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB to Parallel Printer UC1284B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN VE829 Wireless Externer",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 556.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN RS-232 to RS-485/RS-422 IC485S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Aten VC920 Mini DisplayPort to VGA Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN HDMI Splitter VS182a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN HDMI Splitter VS184a",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN 2 port VGA Splitter VS0102",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB2.0 Extender Cable 5M UE250",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATEN USB2.0 Extender Cable 12M UE2120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Biostar TB360-BTC Pro 9Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Biostar TZ590-BTC Pro 10Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 366.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Afox H81 Motherboard 4 Gen/Asus H81M-k",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Asrock z87/ Z270M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Gigabyte H310M-DS2 8th and 9th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Asrock Z490M Pro 4 10th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Intel H61 OEM Motherboard 3rd Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Asus H110M Intel 6th & 7th Gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Gigabyte H81M-DS2 LGA1150 4th gen",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Asus H81M-K 4th Gen Motherboard",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Gigabyte B460M Gaming HD 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Gigabyte B560 Aorus Pro AX 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Gigabyte H510M H / H410M H 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Intel Motherboard / AMD Motherboard",
+      "brand": null,
+      "product": "Asus Prime H410M-A 10th/11th",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "3x M.2 2280 PCIe Slot”",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "2x M.2 2280 PCIe Slot”",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "2x M.2 2280 PCIe Slot”",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "TERMINAL B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "6934177723162",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Automatic Soap Dispenser (Blue) BHR9362GL 6941812737996",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Automatic Soap Dispenser (Pink) BHR9301GL 6941812754450",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Automatic Soap Dispenser 1S BHR8853GL 6941812792193",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Nose Hair Trimmer BHR8997GL 6941812796436",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Electric Toothbrush T302 (Dark Blue) BHR7647GL 6941812745427",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Electric Toothbrush T302 (Silver Gray) BHR7595GL 6941812743782",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Smart Electric Toothbrush T501 (Dark Grey) BHR7792GL 6941812751954",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi Smart Electric Toothbrush T501 (White) BHR7791GL 6941812751961",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Xiaomi WaterOrico UTJ-U3 USB A TO GIGA LAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico CLH-3AR TYPE C TO 3*PORT US",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico HR01-U3 USB A TO 3*PORT USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico CRS-31 CARD READER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico DUK-5P 5 PORT USB 2.4A CHAR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico DUK-10P 10 PORT USB 2.4A CH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico PUG-C6-MTM LAN EXTENSION AD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico ST2 TOOLKIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XC-R45 TYPE C TO GIGABIT LA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XC-304 6 IN 1 DOCKING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XD-312",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico XD-313 TYPE C TO HDMI/USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico SC2 USB TO AUDIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 17.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Orico TCM2-C3 TYPE C TO NVME ENCL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCI OEM Sound Card Creative/CMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Creative USB sound card Play 4 etc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Razer Acari Ultra Low Friction Mouse Mat",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Razer Blackwidow V3 TKL Mechanical Kbd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Tecware EXO L 6400DPI Gaming Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Spectre Pro 104 Key Mech. Keyboar",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Spectre 104 Key Mechanical Keyboa",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 104 Key Mechanical Keyboa",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 96 Key Mechanical Keyboar",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 87 Key Mechanical Keyboar",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom 87 SE, RGB LED, Blue/Brow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Phantom Low Profile 87 Key Mechan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP KM100 Keyboard and Mouse Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP KM200 Keyboard and Mouse Wired",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SanDisk Extreme PRO SD UHS-II Card Reader/Writer, 2Y SDDR-399-G46",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SanDisk Extreme PRO SD UHS-II USB-C Reader/Writer, 2Y SDDR-409-G46",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SanDisk ImageMate PRO USB-C Reader/Writer SDDR-A631-GNGNN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD3CHD4KU iDream USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD3CHDVU2 iDream 4 in 1 USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD5CHU2CR iDream 5 in 1 USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD5CHDLDP iDream 5 in 1 USB C to HDMI Multiport Adaptor with Lan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD5CH2U2C iDream 5 in 1 USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD8CHUNCR iDream USB C to HDMI Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUCT45 iDream USB C to Gigabit Lan Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDCHD4K2M iDream USB C to HDMI 1.8m Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD6CHCRPD iDream 6 in 1 Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD6CHU3CR iDream 6 in 1 Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD4CH4P2H iDream 4 in 1Dual HDMI Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iD7CH2C7P iDream 7 in 1 Multiport Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDHDVGAO iDream HDMI to VGA Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "IDUCACO iDream USB C to Audio Adaptor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUCH4K60 iDream USB C to 4k HDMI Ada",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTC5PD iDream USB 5 Port Hub",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTCHD-SE iDream USB C to HDMI Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTCDP-SE iDream USB C to Displayport Si",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTC2V-SE iDream USB C to VGA Single",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDUTCMDP-SE iDream USB C to Mini Displayp",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDuc3a1M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDuc3a2M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDuc3c1M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDuc3c2M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 13.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "iDuc5a1M iDream USB Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES226GC-P 26-Port Gigabi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 687.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES205GC 5-Port Gigabit S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES208GC 8-Port Gigabit S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES216GC-V2 16-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 233.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES216GC 16-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 234.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES224GC-V2 24-Port Gig",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES224GC 24-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3100-8GT2SFP-P 8-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3100-8GT2SFP 8-Port G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 267.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3100-24GT4SFP-P-V2 24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 820.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3100-24GT4SFP-V2 24-P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 363.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3100-48GT4SFP-P 48 ×",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2027.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3200-24GT4XS-P 24-Por",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1497.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3200-24GT4XS 24-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 783.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3200-24SFP/8GT4XS 24-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1215.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3200-48GT4XS-P 48-Por",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2591.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS3200-48GT4XS 48-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1380.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NIS3100-8GT4SFP-HP L2 In",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1035.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NIS3100-8GT2SFP-HP L2 In",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 867.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NIS3100-4GT2SFP-HP L2 In",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 755.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie NIS-GE-SFP-550M-MM850 1000B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie NIS-GE-SFP-10KM-SM1310 1000",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie NIS-GE-SFP-20KM-SM1550-BIDI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie NIS-GE-SFP-20KM-SM1310-BIDI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NIS-PA120-48 AC/DC 120W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NIS-PA240-48 AC/DC 240W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 221.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5100-24GT4SFP 24-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 620.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5100-24GT4SFP-P 24 ×",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1222.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5100-48GT4SFP 48-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1151.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5200-24SFP/8GT4XS 24-",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1617.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5200-24GT4XS 24-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 878.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5200-24GT4XS-P 24 × 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1222.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5200-48GT4XS 48-Port",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1613.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5200-48GT4XS-UP 48 ×",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2380.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS5300-8MG2XS-UP REYEE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS6002 1U Two-Slot Mo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1000.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M6000-24GT2XS 24 Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 596.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M6000-24SFP2XS 24 Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 904.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M6000-16GT8SFP2XS 16 Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 664.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M6000-16SFP8GT2XS 16 Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-PA150I-FS RG-NBS6002 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS7003 4U Three-Slot",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1544.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBS7006 9U Six-Slot Mo",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3067.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-PA300I-FS RG-NBS7003 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-PA460I-FS RG-NBS7003 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 871.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-PA600I-FS RG-NBS7006 P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 888.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7006-CM RG-NBS7006 Super",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1446.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-24GT2XS-EA 24 Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1557.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-48GT2XS-EA 48 Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2276.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-24SFP2XS-EA 24 Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2276.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-48SFP2XS-EA 48 Giga",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2947.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-24GT24SFP2XS-EA 24",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2678.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-8XS-EA 8 10-Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2276.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie M7000-16XS-EA 16 10-gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2947.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2260(G) AX1800 Wi-Fi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 291.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2200(E) AC1300 Dual B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2200(F) AC1300 Dual B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP1200(F) AC1300 Dual B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP1200(P) AC1300 Dual B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP1200(P)-MNT Universal",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP1201 AC1300 Dual Ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP1261 AX3000 Wi-Fi 6 d",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 181.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP1260 AX3000 Wi-Fi 6 d",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 237.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie 10*RG-RAP1260(Black Cover)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie 10*RG-RAP1260(Gold Cover) P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie 10*RG-RAP1260(Rose-Gold Cov",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie 10*RG-RAP1260(Silver Cover)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie 10*RG-RAP1260(Gray Cover) P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2266 AX3000 Wi-Fi 6 d",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2260 AX3000 Wi-Fi 6 d",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 266.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2260(E) AX3200 Wi-Fi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 461.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP2260(H) AX6000 Wi-Fi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP73HD BE19000 Wi-Fi 7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1566.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP52-OD AC1300 Dual Ban",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 192.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP6262(G) AX1800 Dual B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 348.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP6260(G) AX1800 Wi-Fi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP6202(G) AC1300 Dual B",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 282.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP6262 AX3000 Wi-Fi 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP6260(H) AX6000 Wi-Fi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 637.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RAP6260(H)-D AX6000 Wi-F",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 637.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-AirMetro460F Wireless br",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-AirMetro460G Wireless br",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-AirMetro550G-B Wireless",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ANT13-360 A supporting O",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 393.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ANT16S-120 A supporting",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 197.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ANT20S-90 A supporting S",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 314.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EST350 V2 Two devices pa",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 337.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EST310 V2 Two devices pa",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EST100-E Two devices pai",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG105GW(T) Desktop All-i",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 181.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG105G V2 5-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG105G-P V2 5-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 216.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG209GS Desktop 9-port c",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG210G-E 10-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 430.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG210G-P 10-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 321.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG305GH-P-E Desktop 5-po",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 371.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG310GH-E Rack-mountable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 417.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG310GH-P-E Desktop 10-p",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 461.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EG105GW-X AX3000 Dual Ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 293.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBR6120-E 5x10/100/1000",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 462.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBR6205-E 8x10/100/1000",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1021.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBR6210-E 8x10/100/1000",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1301.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBR6215-E 8x10/100/1000",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1589.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-NBR-HDD-1T 1TB HDD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW3200GX PRO 3200Mbps Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW1800GX PRO 1800Mbps Wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW1200G Pro 1300M dual-b",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-M18 1800M Wi-Fi 6 Dual-b",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-M18(2PACK) 1800M Wi-Fi 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-M32 3200M Wi-Fi 6 Dual-b",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-M32(2PACK) 3200M Wi-Fi 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 420.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW1200 1200M dual-band M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW300 PRO 300M 11N Wirel",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW1200R 1200Mbps Dual-ba",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-EW300R RG-EW300R—300Mbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-POE-50-60W-MG 1-port PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-E-130(GE) 1-port PoE ada",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-E-120(GE) 1-port PoE ada",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-POE-AT30 1-port PoE adap",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-POE-AF15 1-port PoE adap",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-RuijieCloud-OP-LIC-1Y-1K",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 16800.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES05 5-Port 10/100 Mbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES08 8-Port 10/100 Mbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES05G 5-Port Gigabit unm",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES08G 8-Port Gigabit unm",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES105GD 5-Port Gigabit u",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES108GD 8-Port Gigabit u",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES116G 16-Port 10/100/10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES124GD 24-Port 10/100/1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES110D-P 8-Port 100Mbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES110GDS-P 8 x 1000M cop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 203.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES118S-LP 16-Port 100Mbp",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES118GS-P 16 x 1000M cop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 375.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES106D-P V2 4*10/100Mbps",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES126S-P V2 24*10/100Mbp",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 377.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES126S-LP V2 24*10/100Mb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES205GC-P 5-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES206GC-P 6-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES206GS-P 6-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 140.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES209GC-P 9-Port Gigabit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 230.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES210GC-LP 10-Port Gigab",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES210GS-P 10-Port Gigabi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 270.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ruijie RG-ES218GC-P 18-Port Gigabi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 482.0
+    }
+  ],
+  "numeric_tokens_in_source": 172,
+  "status": "quarantined",
+  "quarantine_reason": "row_count_plausible: 606 rows, limit 349",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"product\": \"Ubiquiti USW-Pro-XG-48-UK\",\n      \"price_sgd\": 2706\n    },\n    {\n      \"product\": \"Ubiquiti USW-Pro-XG-8-PoE\",\n      \"price_sgd\": 712\n    },\n    {\n      \"product\": \"Ubiquiti USW-Pro-XG-Aggregation\",\n      \"price_sgd\": 3382\n    },\n    {\n      \"product\": \"Ubiquiti USW-Ultra\",\n      \"price_sgd\": 146\n    },\n    {\n      \"product\": \"Ubiquiti USW-Ultra-210W\",\n      \"price_sgd\": 271\n    },\n    {\n      \"product\": \"Ubiquiti USW-Ultra-60W\",\n      \"price_sgd\": 190\n    },\n    {\n      \"product\": \"Ubiquiti USW-WAN-RJ45-U\",\n      \"price_sgd\": 345\n    },\n    {\n      \"product\": \"Ubiquiti USW-WAN-RJ45-UK\",\n      \"price_sgd\": 345\n    },\n    {\n      \"product\": \"Ubiquiti USW-WAN-UK\",\n      \"price_sgd\": 345\n    },\n    {\n      \"product\": \"Ubiquiti UT-G3-Handset\",\n      \"price_sgd\": 145\n    },\n    {\n      \"product\": \"Ubiquiti UTP-G3-Touch-Enterprise\",\n      \"price_sgd\": 400\n    },\n    {\n      \"product\": \"Ubiquiti UTP-G3-Touch-Pro\",\n      \"price_sgd\": 279\n    },\n    {\n      \"product\": \"Ubiquiti UTP-G3-Touch-Wall\",\n      \"price_sgd\": 534\n    },\n    {\n      \"product\": \"Ubiquiti UTR\",\n      \"price_sgd\": 121\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-360\",\n      \"price_sgd\": 569\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-360-W\",\n      \"price_sgd\": 569\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Bullet\",\n      \"price_sgd\": 576\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Dome-B\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Dome-W\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-DSLR\",\n      \"price_sgd\": 2283\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-DSLR-LD\",\n      \"price_sgd\": 2283\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-LPR-B\",\n      \"price_sgd\": 682\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Pro\",\n      \"price_sgd\": 694\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Pro-White\",\n      \"price_sgd\": 694\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-PTZ-B\",\n      \"price_sgd\": 1776\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-PTZ-Precision-B\",\n      \"price_sgd\": 2301\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-PTZ-Precision-W\",\n      \"price_sgd\": 2301\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-PTZ-W\",\n      \"price_sgd\": 1776\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta\",\n      \"price_sgd\": 423\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-Audio\",\n      \"price_sgd\": 103\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-Hub\",\n      \"price_sgd\": 276\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-Lens\",\n      \"price_sgd\": 90\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-Lens-360\",\n      \"price_sgd\": 90\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-Lens-LD\",\n      \"price_sgd\": 90\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-Pro\",\n      \"price_sgd\": 459\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-ProLens110\",\n      \"price_sgd\": 180\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-ProLens360\",\n      \"price_sgd\": 180\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Theta-ProLens50\",\n      \"price_sgd\": 180\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Turret-B\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-AI-Turret-W\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-Doorbell-Lite-B\",\n      \"price_sgd\": 148\n    },\n    {\n      \"product\": \"Ubiquiti UVC-Doorbell-Lite-W\",\n      \"price_sgd\": 148\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-BULLET\",\n      \"price_sgd\": 185\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-BULLET-3\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-Dome\",\n      \"price_sgd\": 185\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-DOME-3\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-DOME-EU\",\n      \"price_sgd\": 185\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-DOME-U\",\n      \"price_sgd\": 185\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-F-C\",\n      \"price_sgd\": 36\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-F-C-3\",\n      \"price_sgd\": 80\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-F-PENDANT\",\n      \"price_sgd\": 34\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-F-PENDANT-3\",\n      \"price_sgd\": 46\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-FLEX\",\n      \"price_sgd\": 113\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-Flex-PWM-Black\",\n      \"price_sgd\": 37\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-Flex-PWM-Black-3\",\n      \"price_sgd\": 58\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-Flex-PWM-WT\",\n      \"price_sgd\": 37\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-Flex-PWM-WT-3\",\n      \"price_sgd\": 58\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-MICRO\",\n      \"price_sgd\": 246\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-MICRO-5\",\n      \"price_sgd\": 1182\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-MICRO-EU\",\n      \"price_sgd\": 246\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G3-PRO\",\n      \"price_sgd\": 373\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4 Doorbell Pro PoE Kit\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4 Doorbell Pro PoE Kit-White\",\n      \"price_sgd\": 542\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4 Doorbell Pro-EU\",\n      \"price_sgd\": 422\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-BULLET\",\n      \"price_sgd\": 269\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-Bullet-3\",\n      \"price_sgd\": 796\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-DB-Cover-Black\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-DB-Cover-Brick\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-DB-Cover-Concrete\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-DB-Cover-Fabric\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-DB-Cover-Silver\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-DB-Cover-Wood\",\n      \"price_sgd\": 31\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-Dome-3\",\n      \"price_sgd\": 770\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-Doorbell-EU\",\n      \"price_sgd\": 269\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-Doorbell-PS-EU\",\n      \"price_sgd\": 50\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-INS-EU\",\n      \"price_sgd\": 153\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-IRExtender\",\n      \"price_sgd\": 109\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-PRO\",\n      \"price_sgd\": 626\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-PRO-3\",\n      \"price_sgd\": 1864\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G4-PTZ\",\n      \"price_sgd\": 2436\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Bullet\",\n      \"price_sgd\": 184\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Bullet-3\",\n      \"price_sgd\": 502\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Dome\",\n      \"price_sgd\": 254\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Dome-3\",\n      \"price_sgd\": 727\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Dome-Ultra\",\n      \"price_sgd\": 127\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Flex\",\n      \"price_sgd\": 185\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Pro\",\n      \"price_sgd\": 512\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-PTZ\",\n      \"price_sgd\": 390\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-PTZ-B\",\n      \"price_sgd\": 390\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G5-Turret-Ultra\",\n      \"price_sgd\": 127\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-180-B\",\n      \"price_sgd\": 415\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Bullet-B\",\n      \"price_sgd\": 275\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Bullet-W\",\n      \"price_sgd\": 275\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Dome-B\",\n      \"price_sgd\": 295\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Dome-W\",\n      \"price_sgd\": 295\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Entry\",\n      \"price_sgd\": 337\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-INS-W\",\n      \"price_sgd\": 246\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-INS-W-EU\",\n      \"price_sgd\": 246\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-INS-W-UK\",\n      \"price_sgd\": 246\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-360-B\",\n      \"price_sgd\": 685\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-360-W\",\n      \"price_sgd\": 685\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-Bullet-B\",\n      \"price_sgd\": 653\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-Bullet-W\",\n      \"price_sgd\": 653\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-Dome-W\",\n      \"price_sgd\": 576\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-Turret-B\",\n      \"price_sgd\": 660\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Pro-Turret-W\",\n      \"price_sgd\": 660\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-PTZ-B\",\n      \"price_sgd\": 551\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-PTZ-W\",\n      \"price_sgd\": 551\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Turret-B\",\n      \"price_sgd\": 275\n    },\n    {\n      \"product\": \"Ubiquiti UVC-G6-Turret-W\",\n      \"price_sgd\": 275\n    },\n    {\n      \"product\": \"Ubiquiti UWB-XG\",\n      \"price_sgd\": 1860\n    },\n    {\n      \"product\": \"Ubiquiti UWB-XG-EU\",\n      \"price_sgd\": 1860\n    },\n    {\n      \"product\": \"Ubiquiti UX\",\n      \"price_sgd\": 173\n    },\n    {\n      \"product\": \"Ubiquiti UX7\",\n      \"price_sgd\": 269\n    },\n    {\n      \"product\": \"Ubiquiti UXG-Enterprise-UK\",\n      \"price_sgd\": 2030\n    },\n    {\n      \"product\": \"Ubiquiti UXG-Fiber\",\n      \"price_sgd\": 381\n    },\n    {\n      \"product\": \"Ubiquiti UXG-Lite-UK\",\n      \"price_sgd\": 180\n    },\n    {\n      \"product\": \"Ubiquiti UXG-Max\",\n      \"price_sgd\": 271\n    },\n    {\n      \"product\": \"Ubiquiti UXG-Pro-EU\",\n      \"price_sgd\": 677\n    },\n    {\n      \"product\": \"Ubiquiti Wave-AP\",\n      \"price_sgd\": 705\n    },\n    {\n      \"product\": \"Ubiquiti Wave-AP-Gen2\",\n      \"price_sgd\": 831\n    },\n    {\n      \"product\": \"Ubiquiti Wave-AP-Micro\",\n      \"price_sgd\": 668\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Fiber-ONU\",\n      \"price_sgd\": 76\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Fiber-ONU-20\",\n      \"price_sgd\": 914\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Fiber-ONU-5\",\n      \"price_sgd\": 264\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Fiber-ONU-EU\",\n      \"price_sgd\": 76\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Fiber-ONU-U\",\n      \"price_sgd\": 76\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Fiber-ONU-UK\",\n      \"price_sgd\": 76\n    },\n    {\n      \"product\": \"Ubiquiti Wave-LR\",\n      \"price_sgd\": 524\n    },\n    {\n      \"product\": \"Ubiquiti Wave-LR-EU\",\n      \"price_sgd\": 524\n    },\n    {\n      \"product\": \"Ubiquiti Wave-MLO5\",\n      \"price_sgd\": 554\n    },\n    {\n      \"product\": \"Ubiquiti Wave-MLO5-EU\",\n      \"price_sgd\": 554\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Nano\",\n      \"price_sgd\": 388\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Pico-EU\",\n      \"price_sgd\": 250\n    },\n    {\n      \"product\": \"Ubiquiti Wave-Pro\",\n      \"price_sgd\": 836\n    },\n    {\n      \"product\": \"Ubiquiti WM-W\",\n      \"price_sgd\": 146\n    },\n    {\n      \"product\": \"Ubiquiti XR2\",\n      \"price_sgd\": 139\n    },\n    {\n      \"product\": \"Ubiquiti XR5\",\n      \"price_sgd\": 139\n    },\n    {\n      \"product\": \"Edimax EU-4208 USB 2.0 to 10/100Mb\",\n      \"price_sgd\": 18\n    },\n    {\n      \"product\": \"Edimax EU-4306 V2 USB 3.0 to Gigab\",\n      \"price_sgd\": 22\n    },\n    {\n      \"product\": \"Edimax EU-4308 3-Port USB3.0 and\",\n      \"price_sgd\": 30\n    },\n    {\n      \"product\": \"Edimax EN-9260TX-E V2 Gigabit PCIe\",\n      \"price_sgd\": 18\n    },\n    {\n      \"product\": \"Edimax ES-3308P 8P 10/100Mbps SOH\",\n      \"price_sgd\": 13\n    },\n    {\n      \"product\": \"Edimax ES-1008P V2 8-Port Fast Eth\",\n      \"price_sgd\": 162\n    },\n    {\n      \"product\": \"Edimax ES-5500G V3 Gigabit 5 Ports\",\n      \"price_sgd\": 29\n    },\n    {\n      \"product\": \"Edimax ES-5800G V3 Gigabit 8 Ports\",\n      \"price_sgd\": 41\n    },\n    {\n      \"product\": \"Edimax GS-1016 V2 16P 10/100/1000M\",\n      \"price_sgd\": 105\n    },\n    {\n      \"product\": \"Edimax GS-1024 24P 10/100/1000M R\",\n      \"price_sgd\": 142\n    },\n    {\n      \"product\": \"Edimax GS-1026 V3 24P 10/100/1000M\",\n      \"price_sgd\": 150\n    },\n    {\n      \"product\": \"Edimax GS-5424G 24-Port Gigabit Po\",\n      \"price_sgd\": 216\n    },\n    {\n      \"product\": \"Edimax GS-1008P V2 8-Port Gigabit\",\n      \"price_sgd\": 167\n    },\n    {\n      \"product\": \"Edimax GS-1008PL V2 8-port Gigabit\",\n      \"price_sgd\": 131\n    },\n    {\n      \"product\": \"Edimax EW-7722UTn V3 300M 2T2R 802\",\n      \"price_sgd\": 18\n    },\n    {\n      \"product\": \"Edimax EW-7811Un V2 11n 150M 1T1R\",\n      \"price_sgd\": 11\n    },\n    {\n      \"product\": \"Edimax EW-7611ULB N150 Wi-Fi BT 4.\",\n      \"price_sgd\": 14\n    },\n    {\n      \"product\": \"Edimax EW-7611ULB V2 N150 Wi-Fi BT\",\n      \"price_sgd\": 13\n    },\n    {\n      \"product\": \"Edimax BT-8500 Bluetooth 5.0 Nano\",\n      \"price_sgd\": 22\n    },\n    {\n      \"product\": \"Edimax EW-7612PIn V2 11n 300M 2T2R\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"Edimax EW-7833AXP Wi-Fi 6 AX3000 P\",\n      \"price_sgd\": 72\n    },\n    {\n      \"product\": \"Edimax EW-7833UAC1750 Wireless\",\n      \"price_sgd\": 52\n    },\n    {\n      \"product\": \"Edimax EW-7822UMX AX1800 Wireless\",\n      \"price_sgd\": 55\n    },\n    {\n      \"product\": \"Edimax EW-7822UAD AC1200 Wireless\",\n      \"price_sgd\": 30\n    },\n    {\n      \"product\": \"Edimax EW-7822UAC1200 Wireless\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Edimax EW-7822UTC AC1200 Dual-Band\",\n      \"price_sgd\": 27\n    },\n    {\n      \"product\": \"Edimax EW-7822ULC AC1200 Dual-Band\",\n      \"price_sgd\": 25\n    },\n    {\n      \"product\": \"Edimax EW-7811UTC AC600 Wireless M\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"Edimax EW-7811ULC AC600 Wireless D\",\n      \"price_sgd\": 18\n    },\n    {\n      \"product\": \"Edimax EW-7811UAC600 Wireless D\",\n      \"price_sgd\": 27\n    },\n    {\n      \"product\": \"Edimax EW-7811DAC600 Wi-Fi Dual\",\n      \"price_sgd\": 33\n    },\n    {\n      \"product\": \"Edimax EW-7611UCB 2-in-1 AC600 Du\",\n      \"price_sgd\": 26\n    },\n    {\n      \"product\": \"Edimax RG21S AC2600 Dual band con\",\n      \"price_sgd\": 115\n    },\n    {\n      \"product\": \"Edimax BR-6478V2 AC1200 Wireles\",\n      \"price_sgd\": 44\n    },\n    {\n      \"product\": \"Edimax EW-7438RPN Mini N300 Univer\",\n      \"price_sgd\": 18\n    },\n    {\n      \"product\": \"Edimax IC-7113W 720p Wireless H.26\",\n      \"price_sgd\": 124\n    },\n    {\n      \"product\": \"Edimax IEW-7811UTC AC600 Wireless\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Edimax PrimeAX 123 AX1800 Wi-Fi 6\",\n      \"price_sgd\": 456\n    },\n    {\n      \"product\": \"Edimax Office 123 Simple and Secur\",\n      \"price_sgd\": 447\n    },\n    {\n      \"product\": \"Edimax CAP1300 Office 1-2-3 Master\",\n      \"price_sgd\": 149\n    },\n    {\n      \"product\": \"Edimax CAP1300 Office +1 Office +1\",\n      \"price_sgd\": 149\n    },\n    {\n      \"product\": \"Edimax OAP1300 Office +1 Office+1\",\n      \"price_sgd\": 206\n    },\n    {\n      \"product\": \"Edimax APC500 Wireless Acess Point\",\n      \"price_sgd\": 290\n    },\n    {\n      \"product\": \"Edimax WAP1750 AC1750 Long Range 8\",\n      \"price_sgd\": 251\n    },\n    {\n      \"product\": \"Edimax OAP1750 1750 Long Range\",\n      \"price_sgd\": 635\n    },\n    {\n      \"product\": \"Edimax OAP1300 1300 outdoor AP\",\n      \"price_sgd\": 207\n    },\n    {\n      \"product\": \"Edimax OAP900 Long Range 802.11\",\n      \"price_sgd\": 165\n    },\n    {\n      \"product\": \"Edimax CAP1750 AC1750 Long Range 8\",\n      \"price_sgd\": 234\n    },\n    {\n      \"product\": \"Edimax CAP1300 AC1300 Long Range 8\",\n      \"price_sgd\": 149\n    },\n    {\n      \"product\": \"Edimax CAP1200 AC1200 Long Range 8\",\n      \"price_sgd\": 122\n    },\n    {\n      \"product\": \"Edimax CAP300 2x2 N300 Ceiling-Mou\",\n      \"price_sgd\": 88\n    },\n    {\n      \"product\": \"Edimax IAP1200 AC1200 In-Wall Dual\",\n      \"price_sgd\": 110\n    },\n    {\n      \"product\": \"Edimax GP-101IT IEEE 802.3at Gigab\",\n      \"price_sgd\": 35\n    },\n    {\n      \"product\": \"Edimax GP-103IT IEEE 802.3af/at/bt\",\n      \"price_sgd\": 92\n    },\n    {\n      \"product\": \"Edimax GP-101ST IEEE 802.3at Gigab\",\n      \"price_sgd\": 25\n    },\n    {\n      \"product\": \"Edimax GP-101ET IEEE 802.3at PoE E\",\n      \"price_sgd\": 50\n    },\n    {\n      \"product\": \"Edimax GS-5208PLG V2 10-Port Gigab\",\n      \"price_sgd\": 182\n    },\n    {\n      \"product\": \"Edimax GS-5216PLC Surveillance Lon\",\n      \"price_sgd\": 469\n    },\n    {\n      \"product\": \"Edimax GS-5424PLC V3 Surveillance\",\n      \"price_sgd\": 580\n    },\n    {\n      \"product\": \"Edimax GS-5424PLX V2 Surveillance\",\n      \"price_sgd\": 731\n    },\n    {\n      \"product\": \"Edimax GS-5654PLX V2 54-Port Gigab\",\n      \"price_sgd\": 939\n    },\n    {\n      \"product\": \"GMKtec NucBox G5 • Intel® N97 Processor\",\n      \"price_sgd\": 469\n    },\n    {\n      \"product\": \"GMKtec NucBox M3 • Intel® Core™ i5-12450H Processor\",\n      \"price_sgd\": 849\n    },\n    {\n      \"product\": \"GMKtec NucBox K7 Plus • Intel® Core™ i7-13620H Processor\",\n      \"price_sgd\": 1119\n    },\n    {\n      \"product\": \"GMKtec NucBox K15 • Intel® Core™ Ultra 5 Processor 125U\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"product\": \"GMKtec NucBox K11 • AMD Ryzen™ 9 8945HS Processor\",\n      \"price_sgd\": 1329\n    },\n    {\n      \"product\": \"GMKtec EVO-X1 AI Mini PC • AMD Ryzen™ AI 9 HX 370 Processor\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"product\": \"GMKtec EVO-X2 AI Mini PC • AMD Ryzen™ AI Max+ 395 Processor\",\n      \"price_sgd\": 4099\n    },\n    {\n      \"product\": \"Beelink Mini S12 Mini PC, Intel 12th Processor N95\",\n      \"price_sgd\": 429\n    },\n    {\n      \"product\": \"Beelink S12 Mini PC, Intel 12th Processor N95\",\n      \"price_sgd\": 479\n    },\n    {\n      \"product\": \"Beelink Mini S12 Mini PC, Intel 12th Processor N100\",\n      \"price_sgd\": 589\n    },\n    {\n      \"product\": \"Beelink Mini S13 Mini PC, Intel 12th Processor N150\",\n      \"price_sgd\": 639\n    },\n    {\n      \"product\": \"Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U\",\n      \"price_sgd\": 659\n    },\n    {\n      \"product\": \"Beelink SER5 Pro Mini PC, AMD Ryzen 7 5825U\",\n      \"price_sgd\": 759\n    },\n    {\n      \"product\": \"Beelink GTi14 Ultra Mini PC, Intel Core Ultra 9 185H\",\n      \"price_sgd\": 1620\n    },\n    {\n      \"product\": \"Beelink EQi12 Mini PC, Intel Core i5-1235U\",\n      \"price_sgd\": 879\n    },\n    {\n      \"product\": \"Beelink EQR7 Mini PC, AMD Ryzen 7 7735U\",\n      \"price_sgd\": 899\n    },\n    {\n      \"product\": \"Beelink SER8 Mini PC, AMD Ryzen 7 8845HS\",\n      \"price_sgd\": 999\n    },\n    {\n      \"product\": \"Beelink EQR6 Mini PC, AMD Ryzen 9 6900HX\",\n      \"price_sgd\": 859\n    },\n    {\n      \"product\": \"Honeywell Air Touch V2 Purifier\",\n      \"price_sgd\": 179\n    },\n    {\n      \"product\": \"Honeywell Air Touch V3 Purifier\",\n      \"price_sgd\": 199\n    },\n    {\n      \"product\": \"Honeywell Air Touch V4 Purifier\",\n      \"price_sgd\": 229\n    },\n    {\n      \"product\": \"Honeywell Air Touch P2 Purifier\",\n      \"price_sgd\": 299\n    },\n    {\n      \"product\": \"Honeywell Air Touch U1 Purifier\",\n      \"price_sgd\": 399\n    },\n    {\n      \"product\": \"Honeywell Air Touch U2 Purifier + Humidif\",\n      \"price_sgd\": 439\n    },\n    {\n      \"product\": \"Canon Lide 300 Flatbed Scanner\",\n      \"price_sgd\": 148\n    },\n    {\n      \"product\": \"Canon Lide 400 Flat Bed Scanner\",\n      \"price_sgd\": 187\n    },\n    {\n      \"product\": \"Epson Perfection V39 II Flatbed Scanner\",\n      \"price_sgd\": 149\n    },\n    {\n      \"product\": \"Fujitsu IX1600 Black ADF Scanner\",\n      \"price_sgd\": 724\n    },\n    {\n      \"product\": \"HP laserjet MFP M236DW\",\n      \"price_sgd\": 218\n    },\n    {\n      \"product\": \"HP Color Laserjet ProMFP 3303FDW\",\n      \"price_sgd\": 549\n    },\n    {\n      \"product\": \"HP Color Laserjet Enterprise M455DN\",\n      \"price_sgd\": 769\n    },\n    {\n      \"product\": \"Brother DCP-1510 Printer\",\n      \"price_sgd\": 159\n    },\n    {\n      \"product\": \"Canon Pixma TS5370a Printer\",\n      \"price_sgd\": 159\n    },\n    {\n      \"product\": \"Canon Pixma TR4670S Printer\",\n      \"price_sgd\": 139\n    },\n    {\n      \"product\": \"Motorola Zebra LS2208 Scanner\",\n      \"price_sgd\": 146\n    },\n    {\n      \"product\": \"Motorola Zebra DS2208 Scanner\",\n      \"price_sgd\": 155\n    },\n    {\n      \"product\": \"Brother Drum DR-2255 Drum Unit\",\n      \"price_sgd\": 109\n    },\n    {\n      \"product\": \"Brother HL-1110 Mono Laser Printer\",\n      \"price_sgd\": 101\n    },\n    {\n      \"product\": \"Brother HL-1210W Mono Laser Wireless\",\n      \"price_sgd\": 111\n    },\n    {\n      \"product\": \"HP Color Laser 150NW\",\n      \"price_sgd\": 399\n    },\n    {\n      \"product\": \"HP Inkjet 2821E AIO (3721 AIO $79)\",\n      \"price_sgd\": 79\n    },\n    {\n      \"product\": \"Canon MG2570S AIO Printer\",\n      \"price_sgd\": 79\n    },\n    {\n      \"product\": \"Canon Pro 200 Printer\",\n      \"price_sgd\": 648\n    },\n    {\n      \"product\": \"Canon MG3670 AIO Printer\",\n      \"price_sgd\": 134\n    },\n    {\n      \"product\": \"Epson LQ310 Dot Matrix 24 Pin Printer\",\n      \"price_sgd\": 369\n    },\n    {\n      \"product\": \"Brother HL-L2460DW\",\n      \"price_sgd\": 238\n    },\n    {\n      \"product\": \"Brother DCP-L2640DW\",\n      \"price_sgd\": 278\n    },\n    {\n      \"product\": \"Brother DCP-L2680DW\",\n      \"price_sgd\": 308\n    },\n    {\n      \"product\": \"Brother MFC-L2805DW\",\n      \"price_sgd\": 368\n    },\n    {\n      \"product\": \"Brother MFC-L2885DW\",\n      \"price_sgd\": 468\n    },\n    {\n      \"product\": \"Brother HL-L3240CDW\",\n      \"price_sgd\": 368\n    },\n    {\n      \"product\": \"Brother HL-L3280CDW\",\n      \"price_sgd\": 408\n    },\n    {\n      \"product\": \"Brother DCP-L3560CDW\",\n      \"price_sgd\": 538\n    },\n    {\n      \"product\": \"Brother MFC-L3760CDW\",\n      \"price_sgd\": 608\n    },\n    {\n      \"product\": \"SK-SH7401 4-Port 4K30 HDMI KVM\",\n      \"price_sgd\": 209\n    },\n    {\n      \"product\": \"ATEN 2 Port USB KVM CS22U\",\n      \"price_sgd\": 49\n    },\n    {\n      \"product\": \"ATEN 2 Port USB HDMI KVM CS692\",\n      \"price_sgd\": 161\n    },\n    {\n      \"product\": \"ATEN 2 Port USB 4K HDMI KVM CS22H\",\n      \"price_sgd\": 169\n    },\n    {\n      \"product\": \"ATEN 2 Port USB HDMI KVM CS22HF\",\n      \"price_sgd\": 129\n    },\n    {\n      \"product\": \"ATEN 2 PORT CS22DP DISPLAY PORT\",\n      \"price_sgd\": 168\n    },\n    {\n      \"product\": \"ATEN 4 Port USB KVM CS64U\",\n      \"price_sgd\": 141\n    },\n    {\n      \"product\": \"ATEN USB to Serial + Cable UC-232A\",\n      \"price_sgd\": 29\n    },\n    {\n      \"product\": \"ATEN USB to Serial + Cable UC-232B\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Planet GT-802 SX Media Convertor\",\n      \"price_sgd\": 180\n    },\n    {\n      \"product\": \"Planet GT-805 Media Convertor\",\n      \"price_sgd\": 185\n    },\n    {\n      \"product\": \"Parallel Print Server LPT1\",\n      \"price_sgd\": 199\n    },\n    {\n      \"product\": \"USB Printer Server USB2.0 (Wireless $229)\",\n      \"price_sgd\": 179\n    },\n    {\n      \"product\": \"ASUS ROG STRIX IMPACT III RGB GAMI\",\n      \"price_sgd\": 68\n    },\n    {\n      \"product\": \"ASUS ROG STRIX IMPACT II RGB GAMIN\",\n      \"price_sgd\": 53\n    },\n    {\n      \"product\": \"ASUS TUF GAMING M4 WIRELESS GAMING\",\n      \"price_sgd\": 68\n    },\n    {\n      \"product\": \"ASUS TUF GAMING M3 GEN II GAMING M\",\n      \"price_sgd\": 30\n    },\n    {\n      \"product\": \"ASUS ROG BALTEUS QI WIRELESS CHARG\",\n      \"price_sgd\": 160\n    },\n    {\n      \"product\": \"ASUS ROG MOONSTONE ACE L TEMPERED\",\n      \"price_sgd\": 129\n    },\n    {\n      \"product\": \"ASUS ROG SCABBARD II GAMING MOUSEM\",\n      \"price_sgd\": 60\n    },\n    {\n      \"product\": \"ASUS ROG SCABBARD II MEDIUM GAMING\",\n      \"price_sgd\": 34\n    },\n    {\n      \"product\": \"ASUS ROG SCABBARD GAMING MOUSEMAT\",\n      \"price_sgd\": 60\n    },\n    {\n      \"product\": \"ASUS ROG HONE ACE AIMLAB EDITION M\",\n      \"price_sgd\": 68\n    },\n    {\n      \"product\": \"ASUS ROG HONE ACE AIMLAB EDITION M\",\n      \"price_sgd\": 45\n    },\n    {\n      \"product\": \"ASUS ROG SHEATH GAMING MOUSEMAT\",\n      \"price_sgd\": 53\n    },\n    {\n      \"product\": \"ASUS CERBERUS PAD MINI RED GAMING\",\n      \"price_sgd\": 11\n    },\n    {\n      \"product\": \"ASUS TUF GAMING P3 GAMING MOUSEMAT\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"ASUS TUF GAMING P1 GAMING MOUSEMAT\",\n      \"price_sgd\": 15\n    },\n    {\n      \"product\": \"ASUS ROG STRIX SCOPE NX TKL GAMING\",\n      \"price_sgd\": 175\n    },\n    {\n      \"product\": \"ASUS ROG STRIX GO CORE ML GAMING H\",\n      \"price_sgd\": 121\n    },\n    {\n      \"product\": \"ASUS ROG CETRA II CORE ML GAMING E\",\n      \"price_sgd\": 76\n    },\n    {\n      \"product\": \"ASUS ROG STRIX IMPACT II ML RGB GA\",\n      \"price_sgd\": 60\n    },\n    {\n      \"product\": \"ASUS ROG STRIX GO EP WIRELESS GAMI\",\n      \"price_sgd\": 244\n    },\n    {\n      \"product\": \"ASUS ROG DESTRIER ERGO GAMING CHAIR\",\n      \"price_sgd\": 1099\n    },\n    {\n      \"product\": \"ASUS ROG CHARIOT RGB GAMING CHAIR\",\n      \"price_sgd\": 699\n    },\n    {\n      \"product\": \"ASUS ROG CHARIOT CORE GAMING CHAIR\",\n      \"price_sgd\": 499\n    },\n    {\n      \"product\": \"ASUS ROG AETHON GAMING CHAIR\",\n      \"price_sgd\": 399\n    },\n    {\n      \"product\": \"ASUS ROG COSMIC FLOORMAT\",\n      \"price_sgd\": 89\n    },\n    {\n      \"product\": \"VIVE PRO EYE\",\n      \"price_sgd\": 2199\n    },\n    {\n      \"product\": \"VIVE FOCUS 3\",\n      \"price_sgd\": 2039\n    },\n    {\n      \"product\": \"OCULUS QUEST 2 256GB\",\n      \"price_sgd\": 899\n    },\n    {\n      \"product\": \"Samsung DF18CB8700CRSP3+2 Bespoke\",\n      \"price_sgd\": 2699\n    },\n    {\n      \"product\": \"Samsung NV7B41201AS/SP76L Built-in\",\n      \"price_sgd\": 1715\n    },\n    {\n      \"product\": \"Samsung NV7B4430ZAB/SP76L Built-In\",\n      \"price_sgd\": 2220\n    },\n    {\n      \"product\": \"Samsung NV7B6675CAA/SP76L Bespoke\",\n      \"price_sgd\": 3128\n    },\n    {\n      \"product\": \"Samsung NZ63B4026AK/SP60cm Inductio\",\n      \"price_sgd\": 1614\n    },\n    {\n      \"product\": \"Samsung NZ63B5056AK/SPInduction Hob\",\n      \"price_sgd\": 2018\n    },\n    {\n      \"product\": \"Samsung NZ64B5067YY/SPBespoke Induc2\",\n      \"price_sgd\": 624\n    },\n    {\n      \"product\": \"Samsung NK24M1030IS/UR60cm Telescop\",\n      \"price_sgd\": 504\n    },\n    {\n      \"product\": \"Samsung NK36CB665WWHSP90 Bespoke\",\n      \"price_sgd\": 1816\n    },\n    {\n      \"product\": \"Samsung NK36M1030IS/UR90cm Telescop\",\n      \"price_sgd\": 605\n    },\n    {\n      \"product\": \"Samsung NK36C5703TS/SP90cm Wall-m\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"product\": \"Samsung DW60A6092FS/SPDishwasher Fr\",\n      \"price_sgd\": 1332\n    },\n    {\n      \"product\": \"Samsung MC32DB7746KCSP32L Bespoke M\",\n      \"price_sgd\": 749\n    },\n    {\n      \"product\": \"Samsung MC35R8088LC/SP35L Bespoke M9\",\n      \"price_sgd\": 48\n    },\n    {\n      \"product\": \"Samsung MC28A5137CK/SP28L Microwave\",\n      \"price_sgd\": 499\n    },\n    {\n      \"product\": \"Samsung MG23K3513AK/SP23L Grill Mic\",\n      \"price_sgd\": 211\n    },\n    {\n      \"product\": \"Samsung MG30T5018CW/SP30L Bespoke\",\n      \"price_sgd\": 343\n    },\n    {\n      \"product\": \"Samsung MS23DG4504AGSP 23L Microwav\",\n      \"price_sgd\": 201\n    },\n    {\n      \"product\": \"Samsung MS23K3513AK/SP23L Microwave\",\n      \"price_sgd\": 181\n    },\n    {\n      \"product\": \"Samsung MS30T5018AK/SP30L Bespoke M2\",\n      \"price_sgd\": 72\n    },\n    {\n      \"product\": \"Samsung RB34T6054B1/SS325L Refriger\",\n      \"price_sgd\": 1433\n    },\n    {\n      \"product\": \"Samsung RB45DG600EB1SS458L Refriger\",\n      \"price_sgd\": 1483\n    },\n    {\n      \"product\": \"Samsung RB34C7B5CAP/SS344L Bespoke\",\n      \"price_sgd\": 1999\n    },\n    {\n      \"product\": \"Samsung RB43DG6005B1SS427L Refriger\",\n      \"price_sgd\": 1399\n    },\n    {\n      \"product\": \"Samsung RB43DG6005S9SS427L Refriger\",\n      \"price_sgd\": 1399\n    },\n    {\n      \"product\": \"Samsung RF59A70T4S9/SS649L Refriger\",\n      \"price_sgd\": 3027\n    },\n    {\n      \"product\": \"Samsung RF49C5103B1/SS550L Refriger\",\n      \"price_sgd\": 1799\n    },\n    {\n      \"product\": \"Samsung RF49C5103S9/SS550L Refriger\",\n      \"price_sgd\": 1799\n    },\n    {\n      \"product\": \"Samsung RF59C7664B1/SS648L Refriger\",\n      \"price_sgd\": 3799\n    },\n    {\n      \"product\": \"Samsung RF59C7004B1/SS649L Refriger\",\n      \"price_sgd\": 3599\n    },\n    {\n      \"product\": \"Samsung RR39M71357F/SS385L Refriger\",\n      \"price_sgd\": 1836\n    },\n    {\n      \"product\": \"Samsung RZ32M71157F/SS315L Refriger\",\n      \"price_sgd\": 1836\n    },\n    {\n      \"product\": \"Samsung RZ32T7443AP/SS323L Bespoke\",\n      \"price_sgd\": 1685\n    },\n    {\n      \"product\": \"Samsung RS70F65Q3FSS655L Bespoke AI\",\n      \"price_sgd\": 2199\n    },\n    {\n      \"product\": \"Samsung RS70F65Q3TSS655L Bespoke AI\",\n      \"price_sgd\": 2199\n    },\n    {\n      \"product\": \"Samsung RS70F65K3FSS635L Bespoke AI\",\n      \"price_sgd\": 2699\n    },\n    {\n      \"product\": \"Samsung RS80F65J3BSS655L Bespoke AI\",\n      \"price_sgd\": 3299\n    },\n    {\n      \"product\": \"Samsung RS90F65D3FSS615L Bespoke AI\",\n      \"price_sgd\": 3999\n    },\n    {\n      \"product\": \"Samsung RT62K705JBS/SS620L Refriger\",\n      \"price_sgd\": 1988\n    },\n    {\n      \"product\": \"Samsung RT53DG7A6CB1SS530L Refriger\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"product\": \"Samsung RT53DG7A6CS9SS530L Refriger\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"product\": \"Samsung RT42CB6688B1SSRefrigerator\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"product\": \"Samsung VS20B75AER1/SP200W Jet 75E\",\n      \"price_sgd\": 504\n    },\n    {\n      \"product\": \"Samsung VS80F28DAS/SP280W Bespoke\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"product\": \"Samsung VS90F40DAK/SP400W Bespoke\",\n      \"price_sgd\": 1699\n    },\n    {\n      \"product\": \"Samsung VR7MD96514G/SP70W Bespoke\",\n      \"price_sgd\": 1799\n    },\n    {\n      \"product\": \"Samsung DV10BB9440GBSP10kg\",\n      \"price_sgd\": 2049\n    },\n    {\n      \"product\": \"Samsung DV10BB9440GHSP10kg\",\n      \"price_sgd\": 2049\n    },\n    {\n      \"product\": \"Samsung DV10DB94A0GDSP10kg\",\n      \"price_sgd\": 2199\n    },\n    {\n      \"product\": \"Samsung DV90BB7440GESPBespoke AI La\",\n      \"price_sgd\": 1699\n    },\n    {\n      \"product\": \"Samsung DV90T6240LE/SPBespoke AI La\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"product\": \"Samsung WD11DB8B85GHSP11kg/7kg\",\n      \"price_sgd\": 1899\n    },\n    {\n      \"product\": \"Samsung WD12BB944DGBSP12kg/8kg\",\n      \"price_sgd\": 2139\n    },\n    {\n      \"product\": \"Samsung WD25DB8995BZSP25kg/15kg\",\n      \"price_sgd\": 5499\n    },\n    {\n      \"product\": \"Samsung WD11DB9B84GDSP11kg/7kg\",\n      \"price_sgd\": 2149\n    },\n    {\n      \"product\": \"Samsung WD90T634DBN/SPBespoke AI La\",\n      \"price_sgd\": 1241\n    },\n    {\n      \"product\": \"Samsung WD80TA046BE/SPLaundry\",\n      \"price_sgd\": 1039\n    },\n    {\n      \"product\": \"Samsung WD90F21BCSSPBespoke AI Laun\",\n      \"price_sgd\": 3299\n    },\n    {\n      \"product\": \"Samsung WW11DB9B84GDSP11kg\",\n      \"price_sgd\": 1949\n    },\n    {\n      \"product\": \"Samsung WW11CB944DGHSP11kg\",\n      \"price_sgd\": 1699\n    },\n    {\n      \"product\": \"Samsung WW12BB944DGBSP12kg\",\n      \"price_sgd\": 1968\n    },\n    {\n      \"product\": \"Samsung WW90DB8U94GBSPBespoke AI\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"product\": \"Samsung WW90DB7U94GESPBespoke AI\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"product\": \"Samsung WW90DG6U34LESPBespoke AI\",\n      \"price_sgd\": 1099\n    },\n    {\n      \"product\": \"Samsung WW80FG3M05AWSPFront-load Wa8\",\n      \"price_sgd\": 99\n    },\n    {\n      \"product\": \"Samsung WA10CG4546BVSP10kg Laundry\",\n      \"price_sgd\": 899\n    },\n    {\n      \"product\": \"Samsung WA80F13S5CSP13kg Bespoke AI\",\n      \"price_sgd\": 1049\n    },\n    {\n      \"product\": \"Samsung WA80F13B6BSP13kg Bespoke AI1\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"product\": \"Samsung WA80F15B6BSP15kg Bespoke AI\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"product\": \"Samsung WA80CG4546BVSP8kg Laundry T\",\n      \"price_sgd\": 699\n    },\n    {\n      \"product\": \"ATEN USB to Parallel Printer UC1284B\",\n      \"price_sgd\": 29\n    },\n    {\n      \"product\": \"ATEN VE829 Wireless Externer\",\n      \"price_sgd\": 556\n    },\n    {\n      \"product\": \"ATEN RS-232 to RS-485/RS-422 IC485S\",\n      \"price_sgd\": 66\n    },\n    {\n      \"product\": \"Aten VC920 Mini DisplayPort to VGA Adapter\",\n      \"price_sgd\": 20\n    },\n    {\n      \"product\": \"ATEN HDMI Splitter VS182a\",\n      \"price_sgd\": 138\n    },\n    {\n      \"product\": \"ATEN HDMI Splitter VS184a\",\n      \"price_sgd\": 245\n    },\n    {\n      \"product\": \"ATEN 2 port VGA Splitter VS0102\",\n      \"price_sgd\": 112\n    },\n    {\n      \"product\": \"ATEN USB2.0 Extender Cable 5M UE250\",\n      \"price_sgd\": 36\n    },\n    {\n      \"product\": \"ATEN USB2.0 Extender Cable 12M UE2120\",\n      \"price_sgd\": 90\n    },\n    {\n      \"product\": \"Biostar TB360-BTC Pro 9Gen Motherboard\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 336\n    },\n    {\n      \"product\": \"Biostar TZ590-BTC Pro 10Gen Motherboard\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 366\n    },\n    {\n      \"product\": \"Afox H81 Motherboard 4 Gen/Asus H81M-k\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 162\n    },\n    {\n      \"product\": \"Asrock z87/ Z270M\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 255\n    },\n    {\n      \"product\": \"Gigabyte H310M-DS2 8th and 9th Gen\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 159\n    },\n    {\n      \"product\": \"Asrock Z490M Pro 4 10th Gen\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 329\n    },\n    {\n      \"product\": \"Intel H61 OEM Motherboard 3rd Gen\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 109\n    },\n    {\n      \"product\": \"Asus H110M Intel 6th & 7th Gen\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 179\n    },\n    {\n      \"product\": \"Gigabyte H81M-DS2 LGA1150 4th gen\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 162\n    },\n    {\n      \"product\": \"Asus H81M-K 4th Gen Motherboard\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 169\n    },\n    {\n      \"product\": \"Gigabyte B460M Gaming HD 10th/11th\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 219\n    },\n    {\n      \"product\": \"Gigabyte B560 Aorus Pro AX 10th/11th\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 259\n    },\n    {\n      \"product\": \"Gigabyte H510M H / H410M H 10th/11th\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 165\n    },\n    {\n      \"product\": \"Asus Prime H410M-A 10th/11th\",\n      \"category\": \"Intel Motherboard / AMD Motherboard\",\n      \"price_sgd\": 159\n    },\n    {\n      \"product\": \"3x M.2 2280 PCIe Slot”\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"product\": \"2x M.2 2280 PCIe Slot”\",\n      \"price_sgd\": 1329\n    },\n    {\n      \"product\": \"2x M.2 2280 PCIe Slot”\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"product\": \"5.5P\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"product\": \"5.5P\",\n      \"price_sgd\": 1329\n    },\n    {\n      \"product\": \"TERMINAL B\",\n      \"price_sgd\": 569\n    },\n    {\n      \"product\": \"5.5P\",\n      \"price_sgd\": 829\n    },\n    {\n      \"product\": \"6934177723162\",\n      \"price_sgd\": 7\n    },\n    {\n      \"product\": \"Xiaomi Automatic Soap Dispenser (Blue) BHR9362GL 6941812737996\",\n      \"price_sgd\": 29.9\n    },\n    {\n      \"product\": \"Xiaomi Automatic Soap Dispenser (Pink) BHR9301GL 6941812754450\",\n      \"price_sgd\": 29.9\n    },\n    {\n      \"product\": \"Xiaomi Automatic Soap Dispenser 1S BHR8853GL 6941812792193\",\n      \"price_sgd\": 15.9\n    },\n    {\n      \"product\": \"Xiaomi Nose Hair Trimmer BHR8997GL 6941812796436\",\n      \"price_sgd\": 15.9\n    },\n    {\n      \"product\": \"Xiaomi Electric Toothbrush T302 (Dark Blue) BHR7647GL 6941812745427\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Xiaomi Electric Toothbrush T302 (Silver Gray) BHR7595GL 6941812743782\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Xiaomi Smart Electric Toothbrush T501 (Dark Grey) BHR7792GL 6941812751954\",\n      \"price_sgd\": 59\n    },\n    {\n      \"product\": \"Xiaomi Smart Electric Toothbrush T501 (White) BHR7791GL 6941812751961\",\n      \"price_sgd\": 59\n    },\n    {\n      \"product\": \"Xiaomi WaterOrico UTJ-U3 USB A TO GIGA LAN\",\n      \"price_sgd\": 23\n    },\n    {\n      \"product\": \"Orico CLH-3AR TYPE C TO 3*PORT US\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Orico HR01-U3 USB A TO 3*PORT USB\",\n      \"price_sgd\": 29\n    },\n    {\n      \"product\": \"Orico CRS-31 CARD READER\",\n      \"price_sgd\": 17\n    },\n    {\n      \"product\": \"Orico DUK-5P 5 PORT USB 2.4A CHAR\",\n      \"price_sgd\": 27\n    },\n    {\n      \"product\": \"Orico DUK-10P 10 PORT USB 2.4A CH\",\n      \"price_sgd\": 79\n    },\n    {\n      \"product\": \"Orico PUG-C6-MTM LAN EXTENSION AD\",\n      \"price_sgd\": 8\n    },\n    {\n      \"product\": \"Orico ST2 TOOLKIT\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"Orico XC-R45 TYPE C TO GIGABIT LA\",\n      \"price_sgd\": 27\n    },\n    {\n      \"product\": \"Orico XC-304 6 IN 1 DOCKING\",\n      \"price_sgd\": 85\n    },\n    {\n      \"product\": \"Orico XD-312\",\n      \"price_sgd\": 35\n    },\n    {\n      \"product\": \"Orico XD-313 TYPE C TO HDMI/USB\",\n      \"price_sgd\": 30\n    },\n    {\n      \"product\": \"Orico SC2 USB TO AUDIO\",\n      \"price_sgd\": 17\n    },\n    {\n      \"product\": \"Orico TCM2-C3 TYPE C TO NVME ENCL\",\n      \"price_sgd\": 49\n    },\n    {\n      \"product\": \"PCI OEM Sound Card Creative/CMI\",\n      \"price_sgd\": 25\n    },\n    {\n      \"product\": \"Creative USB sound card Play 4 etc\",\n      \"price_sgd\": 60\n    },\n    {\n      \"product\": \"Razer Acari Ultra Low Friction Mouse Mat\",\n      \"price_sgd\": 85\n    },\n    {\n      \"product\": \"Razer Blackwidow V3 TKL Mechanical Kbd\",\n      \"price_sgd\": 155\n    },\n    {\n      \"product\": \"Tecware EXO L 6400DPI Gaming Mouse\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"Spectre Pro 104 Key Mech. Keyboar\",\n      \"price_sgd\": 75\n    },\n    {\n      \"product\": \"Spectre 104 Key Mechanical Keyboa\",\n      \"price_sgd\": 67\n    },\n    {\n      \"product\": \"Phantom 104 Key Mechanical Keyboa\",\n      \"price_sgd\": 67\n    },\n    {\n      \"product\": \"Phantom 96 Key Mechanical Keyboar\",\n      \"price_sgd\": 67\n    },\n    {\n      \"product\": \"Phantom 87 Key Mechanical Keyboar\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"Phantom 87 SE, RGB LED, Blue/Brow\",\n      \"price_sgd\": 52\n    },\n    {\n      \"product\": \"Phantom Low Profile 87 Key Mechan\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"HP KM100 Keyboard and Mouse Wired\",\n      \"price_sgd\": 20\n    },\n    {\n      \"product\": \"HP KM200 Keyboard and Mouse Wired\",\n      \"price_sgd\": 30\n    },\n    {\n      \"product\": \"SanDisk Extreme PRO SD UHS-II Card Reader/Writer, 2Y SDDR-399-G46\",\n      \"warranty\": \"2Y\",\n      \"price_sgd\": 37\n    },\n    {\n      \"product\": \"SanDisk Extreme PRO SD UHS-II USB-C Reader/Writer, 2Y SDDR-409-G46\",\n      \"warranty\": \"2Y\",\n      \"price_sgd\": 40\n    },\n    {\n      \"product\": \"SanDisk ImageMate PRO USB-C Reader/Writer SDDR-A631-GNGNN\",\n      \"price_sgd\": 55\n    },\n    {\n      \"product\": \"iD3CHD4KU iDream USB C to HDMI Multiport Adaptor\",\n      \"price_sgd\": 35\n    },\n    {\n      \"product\": \"iD3CHDVU2 iDream 4 in 1 USB C to HDMI Multiport Adaptor\",\n      \"price_sgd\": 49\n    },\n    {\n      \"product\": \"iD5CHU2CR iDream 5 in 1 USB C to HDMI Multiport Adaptor\",\n      \"price_sgd\": 55\n    },\n    {\n      \"product\": \"iD5CHDLDP iDream 5 in 1 USB C to HDMI Multiport Adaptor with Lan\",\n      \"price_sgd\": 58\n    },\n    {\n      \"product\": \"iD5CH2U2C iDream 5 in 1 USB C to HDMI Multiport Adaptor\",\n      \"price_sgd\": 59\n    },\n    {\n      \"product\": \"iD8CHUNCR iDream USB C to HDMI Multiport Adaptor\",\n      \"price_sgd\": 79\n    },\n    {\n      \"product\": \"iDUCT45 iDream USB C to Gigabit Lan Adaptor\",\n      \"price_sgd\": 32\n    },\n    {\n      \"product\": \"iDCHD4K2M iDream USB C to HDMI 1.8m Cable\",\n      \"price_sgd\": 36\n    },\n    {\n      \"product\": \"iD6CHCRPD iDream 6 in 1 Multiport Adaptor\",\n      \"price_sgd\": 65\n    },\n    {\n      \"product\": \"iD6CHU3CR iDream 6 in 1 Multiport Adaptor\",\n      \"price_sgd\": 63\n    },\n    {\n      \"product\": \"iD4CH4P2H iDream 4 in 1Dual HDMI Adaptor\",\n      \"price_sgd\": 87\n    },\n    {\n      \"product\": \"iD7CH2C7P iDream 7 in 1 Multiport Adaptor\",\n      \"price_sgd\": 79\n    },\n    {\n      \"product\": \"iDHDVGAO iDream HDMI to VGA Adaptor\",\n      \"price_sgd\": 23.9\n    },\n    {\n      \"product\": \"IDUCACO iDream USB C to Audio Adaptor\",\n      \"price_sgd\": 14.9\n    },\n    {\n      \"product\": \"iDUCH4K60 iDream USB C to 4k HDMI Ada\",\n      \"price_sgd\": 34\n    },\n    {\n      \"product\": \"iDUTC5PD iDream USB 5 Port Hub\",\n      \"price_sgd\": 32\n    },\n    {\n      \"product\": \"iDUTCHD-SE iDream USB C to HDMI Single\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"iDUTCDP-SE iDream USB C to Displayport Si\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"iDUTC2V-SE iDream USB C to VGA Single\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"iDUTCMDP-SE iDream USB C to Mini Displayp\",\n      \"price_sgd\": 19\n    },\n    {\n      \"product\": \"iDuc3a1M iDream USB Cable\",\n      \"price_sgd\": 10.9\n    },\n    {\n      \"product\": \"iDuc3a2M iDream USB Cable\",\n      \"price_sgd\": 13.9\n    },\n    {\n      \"product\": \"iDuc3c1M iDream USB Cable\",\n      \"price_sgd\": 10.9\n    },\n    {\n      \"product\": \"iDuc3c2M iDream USB Cable\",\n      \"price_sgd\": 13.9\n    },\n    {\n      \"product\": \"iDuc5a1M iDream USB Cable\",\n      \"price_sgd\": 19.9\n    },\n    {\n      \"product\": \"Ruijie RG-ES226GC-P 26-Port Gigabi\",\n      \"price_sgd\": 687\n    },\n    {\n      \"product\": \"Ruijie RG-ES205GC 5-Port Gigabit S\",\n      \"price_sgd\": 60\n    },\n    {\n      \"product\": \"Ruijie RG-ES208GC 8-Port Gigabit S\",\n      \"price_sgd\": 80\n    },\n    {\n      \"product\": \"Ruijie RG-ES216GC-V2 16-Port Gigab\",\n      \"price_sgd\": 233\n    },\n    {\n      \"product\": \"Ruijie RG-ES216GC 16-Port Gigabit\",\n      \"price_sgd\": 234\n    },\n    {\n      \"product\": \"Asus PE200U + Intel i5-8365UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"product\": \"Ruijie RG-ES224GC-V2 24-Port Gig\",\n      \"price_sgd\": 311\n    },\n    {\n      \"product\": \"Ruijie RG-ES224GC 24-Port Gigabit\",\n      \"price_sgd\": 311\n    },\n    {\n      \"product\": \"Asus PE200U + Intel i3-8145UE Dual LAN Ports+4*COM+4*USB ADP 120W 20V C6 90D 5.5P\",\n      \"price_sgd\": 1329\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3100-8GT2SFP-P 8-Port\",\n      \"price_sgd\": 458\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3100-8GT2SFP 8-Port G\",\n      \"price_sgd\": 267\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3100-24GT4SFP-P-V2 24\",\n      \"price_sgd\": 820\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3100-24GT4SFP-V2 24-P\",\n      \"price_sgd\": 363\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3100-48GT4SFP-P 48 ×\",\n      \"price_sgd\": 2027\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3200-24GT4XS-P 24-Por\",\n      \"price_sgd\": 1497\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3200-24GT4XS 24-Port\",\n      \"price_sgd\": 783\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3200-24SFP/8GT4XS 24-\",\n      \"price_sgd\": 1215\n    },\n    {\n      \"product\": \"Asus PE100U + MB + I/O board + CPU + DRAM (4GB) + eMMC (16GB) ADP 65W 12V C14 AIOT TERMINAL B\",\n      \"price_sgd\": 569\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3200-48GT4XS-P 48-Por\",\n      \"price_sgd\": 2591\n    },\n    {\n      \"product\": \"Asus PE1000N+ Jetson Nano w/ on-board 4GB memory & 16GB eMMC ADP 65W 19V C6 90D 5.5P\",\n      \"price_sgd\": 829\n    },\n    {\n      \"product\": \"Ruijie RG-NBS3200-48GT4XS 48-Port\",\n      \"price_sgd\": 1380\n    },\n    {\n      \"product\": \"Ruijie RG-NIS3100-8GT4SFP-HP L2 In\",\n      \"price_sgd\": 1035\n    },\n    {\n      \"product\": \"Ruijie RG-NIS3100-8GT2SFP-HP L2 In\",\n      \"price_sgd\": 867\n    },\n    {\n      \"product\": \"Ruijie RG-NIS3100-4GT2SFP-HP L2 In\",\n      \"price_sgd\": 755\n    },\n    {\n      \"product\": \"Ruijie NIS-GE-SFP-550M-MM850 1000B\",\n      \"price_sgd\": 63\n    },\n    {\n      \"product\": \"Ruijie NIS-GE-SFP-10KM-SM1310 1000\",\n      \"price_sgd\": 69\n    },\n    {\n      \"product\": \"Ruijie NIS-GE-SFP-20KM-SM1550-BIDI\",\n      \"price_sgd\": 120\n    },\n    {\n      \"product\": \"Ruijie NIS-GE-SFP-20KM-SM1310-BIDI\",\n      \"price_sgd\": 120\n    },\n    {\n      \"product\": \"Ruijie RG-NIS-PA120-48 AC/DC 120W\",\n      \"price_sgd\": 137\n    },\n    {\n      \"product\": \"Ruijie RG-NIS-PA240-48 AC/DC 240W\",\n      \"price_sgd\": 221\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5100-24GT4SFP 24-Port\",\n      \"price_sgd\": 620\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5100-24GT4SFP-P 24 ×\",\n      \"price_sgd\": 1222\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5100-48GT4SFP 48-Port\",\n      \"price_sgd\": 1151\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5200-24SFP/8GT4XS 24-\",\n      \"price_sgd\": 1617\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5200-24GT4XS 24-Port\",\n      \"price_sgd\": 878\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5200-24GT4XS-P 24 × 1\",\n      \"price_sgd\": 1222\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5200-48GT4XS 48-Port\",\n      \"price_sgd\": 1613\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5200-48GT4XS-UP 48 ×\",\n      \"price_sgd\": 2380\n    },\n    {\n      \"product\": \"Ruijie RG-NBS5300-8MG2XS-UP REYEE\",\n      \"price_sgd\": 1146\n    },\n    {\n      \"product\": \"Ruijie RG-NBS6002 1U Two-Slot Mo\",\n      \"price_sgd\": 1000\n    },\n    {\n      \"product\": \"Ruijie M6000-24GT2XS 24 Gigabit\",\n      \"price_sgd\": 596\n    },\n    {\n      \"product\": \"Ruijie M6000-24SFP2XS 24 Gigabit\",\n      \"price_sgd\": 904\n    },\n    {\n      \"product\": \"Ruijie M6000-16GT8SFP2XS 16 Giga\",\n      \"price_sgd\": 664\n    },\n    {\n      \"product\": \"Ruijie M6000-16SFP8GT2XS 16 Giga\",\n      \"price_sgd\": 837\n    },\n    {\n      \"product\": \"Ruijie RG-PA150I-FS RG-NBS6002 P\",\n      \"price_sgd\": 388\n    },\n    {\n      \"product\": \"Ruijie RG-NBS7003 4U Three-Slot\",\n      \"price_sgd\": 1544\n    },\n    {\n      \"product\": \"Ruijie RG-NBS7006 9U Six-Slot Mo\",\n      \"price_sgd\": 3067\n    },\n    {\n      \"product\": \"Ruijie RG-PA300I-FS RG-NBS7003 P\",\n      \"price_sgd\": 837\n    },\n    {\n      \"product\": \"Ruijie RG-PA460I-FS RG-NBS7003 P\",\n      \"price_sgd\": 871\n    },\n    {\n      \"product\": \"Ruijie RG-PA600I-FS RG-NBS7006 P\",\n      \"price_sgd\": 888\n    },\n    {\n      \"product\": \"Ruijie M7006-CM RG-NBS7006 Super\",\n      \"price_sgd\": 1446\n    },\n    {\n      \"product\": \"Ruijie M7000-24GT2XS-EA 24 Gigab\",\n      \"price_sgd\": 1557\n    },\n    {\n      \"product\": \"Ruijie M7000-48GT2XS-EA 48 Gigab\",\n      \"price_sgd\": 2276\n    },\n    {\n      \"product\": \"Ruijie M7000-24SFP2XS-EA 24 Giga\",\n      \"price_sgd\": 2276\n    },\n    {\n      \"product\": \"Ruijie M7000-48SFP2XS-EA 48 Giga\",\n      \"price_sgd\": 2947\n    },\n    {\n      \"product\": \"Ruijie M7000-24GT24SFP2XS-EA 24\",\n      \"price_sgd\": 2678\n    },\n    {\n      \"product\": \"Ruijie M7000-8XS-EA 8 10-Gigabit\",\n      \"price_sgd\": 2276\n    },\n    {\n      \"product\": \"Ruijie M7000-16XS-EA 16 10-gigab\",\n      \"price_sgd\": 2947\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2260(G) AX1800 Wi-Fi\",\n      \"price_sgd\": 291\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2200(E) AC1300 Dual B\",\n      \"price_sgd\": 168\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2200(F) AC1300 Dual B\",\n      \"price_sgd\": 153\n    },\n    {\n      \"product\": \"Ruijie RG-RAP1200(F) AC1300 Dual B\",\n      \"price_sgd\": 91\n    },\n    {\n      \"product\": \"Ruijie RG-RAP1200(P) AC1300 Dual B\",\n      \"price_sgd\": 245\n    },\n    {\n      \"product\": \"Ruijie RG-RAP1200(P)-MNT Universal\",\n      \"price_sgd\": 48\n    },\n    {\n      \"product\": \"Ruijie RG-RAP1201 AC1300 Dual Ba\",\n      \"price_sgd\": 112\n    },\n    {\n      \"product\": \"Ruijie RG-RAP1261 AX3000 Wi-Fi 6 d\",\n      \"price_sgd\": 181\n    },\n    {\n      \"product\": \"Ruijie RG-RAP1260 AX3000 Wi-Fi 6 d\",\n      \"price_sgd\": 237\n    },\n    {\n      \"product\": \"Ruijie 10*RG-RAP1260(Black Cover)\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"Ruijie 10*RG-RAP1260(Gold Cover) P\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"Ruijie 10*RG-RAP1260(Rose-Gold Cov\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"Ruijie 10*RG-RAP1260(Silver Cover)\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"Ruijie 10*RG-RAP1260(Gray Cover) P\",\n      \"price_sgd\": 56\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2266 AX3000 Wi-Fi 6 d\",\n      \"price_sgd\": 259\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2260 AX3000 Wi-Fi 6 d\",\n      \"price_sgd\": 266\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2260(E) AX3200 Wi-Fi\",\n      \"price_sgd\": 461\n    },\n    {\n      \"product\": \"Ruijie RG-RAP2260(H) AX6000 Wi-Fi\",\n      \"price_sgd\": 529\n    },\n    {\n      \"product\": \"Ruijie RG-RAP73HD BE19000 Wi-Fi 7\",\n      \"price_sgd\": 1566\n    },\n    {\n      \"product\": \"Ruijie RG-RAP52-OD AC1300 Dual Ban\",\n      \"price_sgd\": 192\n    },\n    {\n      \"product\": \"Ruijie RG-RAP6262(G) AX1800 Dual B\",\n      \"price_sgd\": 348\n    },\n    {\n      \"product\": \"Ruijie RG-RAP6260(G) AX1800 Wi-Fi\",\n      \"price_sgd\": 538\n    },\n    {\n      \"product\": \"Ruijie RG-RAP6202(G) AC1300 Dual B\",\n      \"price_sgd\": 282\n    },\n    {\n      \"product\": \"Ruijie RG-RAP6262 AX3000 Wi-Fi 6\",\n      \"price_sgd\": 419\n    },\n    {\n      \"product\": \"Ruijie RG-RAP6260(H) AX6000 Wi-Fi\",\n      \"price_sgd\": 637\n    },\n    {\n      \"product\": \"Ruijie RG-RAP6260(H)-D AX6000 Wi-F\",\n      \"price_sgd\": 637\n    },\n    {\n      \"product\": \"Ruijie RG-AirMetro460F Wireless br\",\n      \"price_sgd\": 135\n    },\n    {\n      \"product\": \"Ruijie RG-AirMetro460G Wireless br\",\n      \"price_sgd\": 165\n    },\n    {\n      \"product\": \"Ruijie RG-AirMetro550G-B Wireless\",\n      \"price_sgd\": 408\n    },\n    {\n      \"product\": \"Ruijie RG-ANT13-360 A supporting O\",\n      \"price_sgd\": 393\n    },\n    {\n      \"product\": \"Ruijie RG-ANT16S-120 A supporting\",\n      \"price_sgd\": 197\n    },\n    {\n      \"product\": \"Ruijie RG-ANT20S-90 A supporting S\",\n      \"price_sgd\": 314\n    },\n    {\n      \"product\": \"Ruijie RG-EST350 V2 Two devices pa\",\n      \"price_sgd\": 337\n    },\n    {\n      \"product\": \"Ruijie RG-EST310 V2 Two devices pa\",\n      \"price_sgd\": 339\n    },\n    {\n      \"product\": \"Ruijie RG-EST100-E Two devices pai\",\n      \"price_sgd\": 130\n    },\n    {\n      \"product\": \"Ruijie RG-EG105GW(T) Desktop All-i\",\n      \"price_sgd\": 181\n    },\n    {\n      \"product\": \"Ruijie RG-EG105G V2 5-Port Gigabit\",\n      \"price_sgd\": 169\n    },\n    {\n      \"product\": \"Ruijie RG-EG105G-P V2 5-Port Gigab\",\n      \"price_sgd\": 216\n    },\n    {\n      \"product\": \"Ruijie RG-EG209GS Desktop 9-port c\",\n      \"price_sgd\": 265\n    },\n    {\n      \"product\": \"Ruijie RG-EG210G-E 10-Port Gigabit\",\n      \"price_sgd\": 430\n    },\n    {\n      \"product\": \"Ruijie RG-EG210G-P 10-Port Gigabit\",\n      \"price_sgd\": 321\n    },\n    {\n      \"product\": \"Ruijie RG-EG305GH-P-E Desktop 5-po\",\n      \"price_sgd\": 371\n    },\n    {\n      \"product\": \"Ruijie RG-EG310GH-E Rack-mountable\",\n      \"price_sgd\": 417\n    },\n    {\n      \"product\": \"Ruijie RG-EG310GH-P-E Desktop 10-p\",\n      \"price_sgd\": 461\n    },\n    {\n      \"product\": \"Ruijie RG-EG105GW-X AX3000 Dual Ba\",\n      \"price_sgd\": 293\n    },\n    {\n      \"product\": \"Ruijie RG-NBR6120-E 5x10/100/1000\",\n      \"price_sgd\": 462\n    },\n    {\n      \"product\": \"Ruijie RG-NBR6205-E 8x10/100/1000\",\n      \"price_sgd\": 1021\n    },\n    {\n      \"product\": \"Ruijie RG-NBR6210-E 8x10/100/1000\",\n      \"price_sgd\": 1301\n    },\n    {\n      \"product\": \"Ruijie RG-NBR6215-E 8x10/100/1000\",\n      \"price_sgd\": 1589\n    },\n    {\n      \"product\": \"Ruijie RG-NBR-HDD-1T 1TB HDD\",\n      \"price_sgd\": 290\n    },\n    {\n      \"product\": \"Ruijie RG-EW3200GX PRO 3200Mbps Wi\",\n      \"price_sgd\": 199\n    },\n    {\n      \"product\": \"Ruijie RG-EW1800GX PRO 1800Mbps Wi\",\n      \"price_sgd\": 168\n    },\n    {\n      \"product\": \"Ruijie RG-EW1200G Pro 1300M dual-b\",\n      \"price_sgd\": 80\n    },\n    {\n      \"product\": \"Ruijie RG-M18 1800M Wi-Fi 6 Dual-b\",\n      \"price_sgd\": 168\n    },\n    {\n      \"product\": \"Ruijie RG-M18(2PACK) 1800M Wi-Fi 6\",\n      \"price_sgd\": 280\n    },\n    {\n      \"product\": \"Ruijie RG-M32 3200M Wi-Fi 6 Dual-b\",\n      \"price_sgd\": 210\n    },\n    {\n      \"product\": \"Ruijie RG-M32(2PACK) 3200M Wi-Fi 6\",\n      \"price_sgd\": 420\n    },\n    {\n      \"product\": \"Ruijie RG-EW1200 1200M dual-band M\",\n      \"price_sgd\": 50\n    },\n    {\n      \"product\": \"Ruijie RG-EW300 PRO 300M 11N Wirel\",\n      \"price_sgd\": 46\n    },\n    {\n      \"product\": \"Ruijie RG-EW1200R 1200Mbps Dual-ba\",\n      \"price_sgd\": 63\n    },\n    {\n      \"product\": \"Ruijie RG-EW300R RG-EW300R—300Mbps\",\n      \"price_sgd\": 28\n    },\n    {\n      \"product\": \"Ruijie RG-POE-50-60W-MG 1-port PoE\",\n      \"price_sgd\": 76\n    },\n    {\n      \"product\": \"Ruijie RG-E-130(GE) 1-port PoE ada\",\n      \"price_sgd\": 75\n    },\n    {\n      \"product\": \"Ruijie RG-E-120(GE) 1-port PoE ada\",\n      \"price_sgd\": 40\n    },\n    {\n      \"product\": \"Ruijie RG-POE-AT30 1-port PoE adap\",\n      \"price_sgd\": 39\n    },\n    {\n      \"product\": \"Ruijie RG-POE-AF15 1-port PoE adap\",\n      \"price_sgd\": 25\n    },\n    {\n      \"product\": \"Ruijie RG-RuijieCloud-OP-Base RG-R\",\n      \"price_sgd\": 33600\n    },\n    {\n      \"product\": \"Ruijie RG-RuijieCloud-OP-Portal-Ba\",\n      \"price_sgd\": 33600\n    },\n    {\n      \"product\": \"Ruijie RG-RuijieCloud-OP-LIC-1Y-1K\",\n      \"price_sgd\": 16800\n    },\n    {\n      \"product\": \"Ruijie RG-ES05 5-Port 10/100 Mbps\",\n      \"price_sgd\": 18\n    },\n    {\n      \"product\": \"Ruijie RG-ES08 8-Port 10/100 Mbps\",\n      \"price_sgd\": 20\n    },\n    {\n      \"product\": \"Ruijie RG-ES05G 5-Port Gigabit unm\",\n      \"price_sgd\": 32\n    },\n    {\n      \"product\": \"Ruijie RG-ES08G 8-Port Gigabit unm\",\n      \"price_sgd\": 47\n    },\n    {\n      \"product\": \"Ruijie RG-ES105GD 5-Port Gigabit u\",\n      \"price_sgd\": 46\n    },\n    {\n      \"product\": \"Ruijie RG-ES108GD 8-Port Gigabit u\",\n      \"price_sgd\": 58\n    },\n    {\n      \"product\": \"Ruijie RG-ES116G 16-Port 10/100/10\",\n      \"price_sgd\": 112\n    },\n    {\n      \"product\": \"Ruijie RG-ES124GD 24-Port 10/100/1\",\n      \"price_sgd\": 179\n    },\n    {\n      \"product\": \"Ruijie RG-ES110D-P 8-Port 100Mbps\",\n      \"price_sgd\": 129\n    },\n    {\n      \"product\": \"Ruijie RG-ES110GDS-P 8 x 1000M cop\",\n      \"price_sgd\": 203\n    },\n    {\n      \"product\": \"Ruijie RG-ES118S-LP 16-Port 100Mbp\",\n      \"price_sgd\": 230\n    },\n    {\n      \"product\": \"Ruijie RG-ES118GS-P 16 x 1000M cop\",\n      \"price_sgd\": 375\n    },\n    {\n      \"product\": \"Ruijie RG-ES106D-P V2 4*10/100Mbps\",\n      \"price_sgd\": 59\n    },\n    {\n      \"product\": \"Ruijie RG-ES126S-P V2 24*10/100Mbp\",\n      \"price_sgd\": 377\n    },\n    {\n      \"product\": \"Ruijie RG-ES126S-LP V2 24*10/100Mb\",\n      \"price_sgd\": 311\n    },\n    {\n      \"product\": \"Ruijie RG-ES205GC-P 5-Port Gigabit\",\n      \"price_sgd\": 125\n    },\n    {\n      \"product\": \"Ruijie RG-ES206GC-P 6-Port Gigabit\",\n      \"price_sgd\": 136\n    },\n    {\n      \"product\": \"Ruijie RG-ES206GS-P 6-Port Gigabit\",\n      \"price_sgd\": 140\n    },\n    {\n      \"product\": \"Ruijie RG-ES209GC-P 9-Port Gigabit\",\n      \"price_sgd\": 230\n    },\n    {\n      \"product\": \"Ruijie RG-ES210GC-LP 10-Port Gigab\",\n      \"price_sgd\": 259\n    },\n    {\n      \"product\": \"Ruijie RG-ES210GS-P 10-Port Gigabi\",\n      \"price_sgd\": 270\n    },\n    {\n      \"product\": \"Ruijie RG-ES218GC-P 18-Port Gigabi\",\n      \"price_sgd\": 482\n    }\n  ]\n}"
+}
