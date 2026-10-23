@@ -1,0 +1,2434 @@
+{
+  "rows": [
+    {
+      "product": "Thermal Grizzly Liquid Metal Applicator",
+      "variant": "3P",
+      "price_sgd": 10
+    },
+    {
+      "product": "Thermal Grizzly Cleaning Wipes",
+      "price_sgd": 16
+    },
+    {
+      "product": "Thermal Grizzly TG Duronaut 2g",
+      "price_sgd": 12
+    },
+    {
+      "product": "Thermal Grizzly Kryonaut",
+      "variant": "11.1 Gramm",
+      "price_sgd": 49
+    },
+    {
+      "product": "Thermal Grizzly Kryonaut Extreme",
+      "variant": "2 Gramm",
+      "price_sgd": 29
+    },
+    {
+      "product": "Thermal Grizzly KryoSheet",
+      "variant": "44 x 37 mm",
+      "price_sgd": 35
+    },
+    {
+      "product": "Thermal Grizzly M.2 SSD Cooler",
+      "variant": "PS5",
+      "price_sgd": 29
+    },
+    {
+      "product": "Grizzly TG Minus Pad Advance",
+      "variant": "120x20x0,5 m",
+      "price_sgd": 28
+    },
+    {
+      "product": "Grizzly TG Minus Pad Basic",
+      "variant": "120x20.5mm 4",
+      "price_sgd": 25
+    },
+    {
+      "product": "Grizzly TG Minus Pad Pro",
+      "variant": "100x100x1,0",
+      "price_sgd": 45
+    },
+    {
+      "product": "Grizzly TG Minus Pad Pro",
+      "variant": "120x20x1,0 mm 2",
+      "price_sgd": 45
+    },
+    {
+      "product": "Thermal Grizzly TG Putty Basic 30g",
+      "price_sgd": 25
+    },
+    {
+      "product": "Thermal Grizzly PhaseSheet",
+      "variant": "50x 40x 0,2mm",
+      "price_sgd": 21
+    },
+    {
+      "product": "CoolerMaster High Performance",
+      "price_sgd": 30
+    },
+    {
+      "product": "Coolermaster Mastergel",
+      "price_sgd": 23
+    },
+    {
+      "product": "Cooler Master Cryofuze Thermal Grease",
+      "price_sgd": 15
+    },
+    {
+      "product": "Noctua NT-H1 3.5G Thermal paste",
+      "price_sgd": 37
+    },
+    {
+      "product": "ARCTIC MX-4",
+      "variant": "20g",
+      "price_sgd": 16.0
+    },
+    {
+      "product": "ARCTIC MX-4",
+      "variant": "45g",
+      "price_sgd": 29.0
+    },
+    {
+      "product": "ARCTIC MX-6",
+      "variant": "4g",
+      "price_sgd": 9.9
+    },
+    {
+      "product": "ARCTIC MX-6",
+      "variant": "8g",
+      "price_sgd": 16.0
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Trend Micro Internet Security 1D1Y",
+      "price_sgd": 15
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Trend Micro Internet Security 1D3Y",
+      "price_sgd": 38
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Mcafee Internet Security 1 User 3 Year",
+      "price_sgd": 38
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Norton 360 Standard 2024 1 Year 1 Device",
+      "price_sgd": 59
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Norton 360 Premium 2024 1-Year 5 Device",
+      "price_sgd": 89
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Norton 360 Premium 2024 1-Year 10device",
+      "price_sgd": 109
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Symantec Endpoint Security 14 = 5 user",
+      "price_sgd": 169
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Symantec Endpoint Security 14 = 10 user",
+      "price_sgd": 299
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Symantec Endpoint Security 14 = 20 user",
+      "price_sgd": 599
+    },
+    {
+      "category": "Antivirus and Security Software",
+      "product": "Symantec Endpoint Security 14 = 50 user",
+      "price_sgd": 1249
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Windows 11 Home 64Bit DVD",
+      "price_sgd": 169
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Windows 11 Professional 64bit DVD",
+      "price_sgd": 228
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Windows 10 Home 64 Bit DVD",
+      "price_sgd": 159
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Windows 10 Professional 64 Bit",
+      "price_sgd": 269
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Windows 7 Professional 64 Bit / 32 Bit",
+      "price_sgd": 269
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Windows 8 Professional 64 Bit / 32 Bit",
+      "price_sgd": 199
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Office Home 2024",
+      "price_sgd": 259
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Office Home and Business 2024",
+      "price_sgd": 359
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Office 365 Personal 1 Device",
+      "price_sgd": 148
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Office 365 Family 6 Device",
+      "price_sgd": 198
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Office Home & Student 2019",
+      "price_sgd": 168
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Office Home & Student 2021",
+      "price_sgd": 179
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Server Standard 2022 OEM",
+      "price_sgd": 1495
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft 5clt User CAL Standard",
+      "price_sgd": 341
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft Standard Svr r2016/19/16/12",
+      "price_sgd": 1586
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft SQL Server Standard 2019 +5Cl",
+      "price_sgd": 4520
+    },
+    {
+      "category": "Software Windows / Office / Server OS/365",
+      "product": "Microsoft SQL Server Standard 2022",
+      "price_sgd": 2650
+    },
+    {
+      "product": "Yubi Key 5C NFC Key USB-C Yubico",
+      "price_sgd": 165
+    },
+    {
+      "product": "Power PDF 5 - Standard, ESD Download",
+      "price_sgd": 189
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "product": "Portable 15.6inch Portable Monitor USB-C",
+      "price_sgd": 425
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "product": "Portable 17inch Portable Monitor",
+      "price_sgd": 657
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "AOC",
+      "product": "AOC E1659FWU 15.6 USB",
+      "price_sgd": 179
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "AOC",
+      "product": "AOC I1601FWUX 15.6 USB-C",
+      "price_sgd": 259
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "AOC",
+      "product": "AOC 16T3E USB-C FHD IPS",
+      "price_sgd": 258
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "ASUS",
+      "product": "ASUS 17.3 ZENSCREEN FOLD OLED QHD PORTABLE MONITOR MQ17QH",
+      "price_sgd": 3699
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MS27UC Smart 4K 27 USB-C Spk",
+      "price_sgd": 649
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB14AC Flat 1920x1080 60Hz",
+      "price_sgd": 309
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB169CK Zenscreen USB C HDMI",
+      "price_sgd": 199
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB166CR Flat 1920x1080 60Hz",
+      "price_sgd": 245
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16ACV Flat 1920x1080 60Hz",
+      "price_sgd": 254
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AHV",
+      "price_sgd": 273
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AHG Flat 1920x1080 144Hz",
+      "price_sgd": 427
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AHT Flat 1920x1080 60Hz",
+      "price_sgd": 438
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AMT Flat 1920x1080 60Hz",
+      "price_sgd": 509
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16AWP Flat 1920x1080 60Hz",
+      "price_sgd": 736
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB16QHG Flat 2560x1600 120Hz",
+      "price_sgd": 654
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MB249C Flat 1920x1080 75Hz",
+      "price_sgd": 539
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus MQ16AH Flat 1920x1080 60Hz",
+      "price_sgd": 618
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Asus",
+      "product": "Asus XG16AHP-W Flat 1920x1080 144Hz",
+      "price_sgd": 752
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Viewsonic",
+      "product": "Viewsonic VA1655 15.6 LED BackLight",
+      "price_sgd": 245
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Viewsonic",
+      "product": "Viewsonic VG1655 15.6 LED BackLight",
+      "price_sgd": 389
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD1655 Touch Screen",
+      "price_sgd": 507
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD1630-3 Touch Screen",
+      "price_sgd": 466
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "MSI",
+      "product": "MSI MP161 15.6 Portable Monitor",
+      "price_sgd": 263
+    },
+    {
+      "category": "Portable Monitor USB Powered / HDMI",
+      "brand": "LG",
+      "product": "LG 16MR70 16-inch Portable Monitor View+",
+      "price_sgd": 489
+    },
+    {
+      "product": "CCTV Monitor BNC RGB 17 Inch AV",
+      "price_sgd": 342
+    },
+    {
+      "product": "CCTV Monitor BNC RGB 19 Inch AV",
+      "price_sgd": 477
+    },
+    {
+      "product": "CCTV Monitor BNC RGB 21 Inch AV",
+      "price_sgd": 612
+    },
+    {
+      "brand": "Dell",
+      "product": "Dell P2426H 23.8 Flat",
+      "price_sgd": 209
+    },
+    {
+      "brand": "Dell",
+      "product": "Dell P2725H 27 Flat",
+      "price_sgd": 249
+    },
+    {
+      "brand": "Dell",
+      "product": "Dell P2726H 27 Flat",
+      "price_sgd": 229
+    },
+    {
+      "brand": "Dell",
+      "product": "Dell E2425HM 23.8 Flat",
+      "price_sgd": 189
+    },
+    {
+      "brand": "AOC",
+      "product": "AOC AM400W Single Monitor Arm/17”-",
+      "price_sgd": 69
+    },
+    {
+      "brand": "AOC",
+      "product": "AOC AM406G Single Monitor Arm/17”-",
+      "price_sgd": 79
+    },
+    {
+      "brand": "AOC",
+      "product": "AOC AM406W Single Monitor Arm/17”-",
+      "price_sgd": 79
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Asus",
+      "product": "Asus VT229H Flat 1920x1080 75Hz",
+      "price_sgd": 358
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Asus",
+      "product": "Asus VT169HR Flat 1366x768 (WXGA ) 60Hz",
+      "price_sgd": 289
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "AOC",
+      "product": "AOC 16T20 Touch Screen Portable 15.6",
+      "price_sgd": 159
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "AOC",
+      "product": "AOC 16T3 Gaming Monitor",
+      "price_sgd": 299
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD1630-3 10-point projec",
+      "price_sgd": 419
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD1655 10-point projecte",
+      "price_sgd": 399
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD2223 10-point IR Touch",
+      "price_sgd": 469
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD2423 10-point IR Touch",
+      "price_sgd": 499
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD2230 10-point projecte",
+      "price_sgd": 599
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD2465 10-point projecte",
+      "price_sgd": 709
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD2455 10-point in-cell",
+      "price_sgd": 849
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic ID2456 10-point PCAP tou",
+      "price_sgd": 1199
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD2760 10-point capacity",
+      "price_sgd": 1169
+    },
+    {
+      "category": "Touch Screen Monitor",
+      "brand": "Viewsonic",
+      "product": "Viewsonic TD3207 10-point capacity",
+      "price_sgd": 1599
+    },
+    {
+      "category": "Internal Optical Drives by Bizgram",
+      "product": "Floppy Disktette 1.44Mb 10Pcs",
+      "price_sgd": 55
+    },
+    {
+      "category": "Internal Optical Drives by Bizgram",
+      "product": "Internal Floppy Drive 1.44MB IDE",
+      "price_sgd": 65
+    },
+    {
+      "category": "Internal Optical Drives by Bizgram",
+      "product": "24X Sata DVDRW for Desktop",
+      "price_sgd": 45
+    },
+    {
+      "category": "Internal Optical Drives by Bizgram",
+      "product": "Internal Ide Dvd Writer for Desktop",
+      "price_sgd": 85
+    },
+    {
+      "category": "Internal Optical Drives by Bizgram",
+      "brand": "LG",
+      "product": "LG /Asus Blu-Ray Writer Int Sata Writer",
+      "price_sgd": 169
+    },
+    {
+      "category": "External USB Optical Drives",
+      "product": "Usb Floppy 1.44Mb Mitsui, Sony, NEC",
+      "price_sgd": 45
+    },
+    {
+      "category": "External USB Optical Drives",
+      "product": "Transcend/Verbatim/Idream DVDRW",
+      "price_sgd": 60
+    },
+    {
+      "category": "External USB Optical Drives",
+      "product": "Idream USB3.0 (Type-C 79) Zen Drive",
+      "price_sgd": 79
+    },
+    {
+      "category": "External USB Optical Drives",
+      "brand": "Asus",
+      "product": "Asus 6X Blu-Ray Writer Sbw-06D2X/Verbat",
+      "price_sgd": 169
+    },
+    {
+      "category": "External USB Optical Drives",
+      "brand": "Asus",
+      "product": "Asus 16X Blu-Ray Writer Bw-16D1H-U USB",
+      "price_sgd": 249
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology Beestation 4TB 3yr",
+      "warranty": "3yr",
+      "price_sgd": 459
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology Beestation 8TB 3yr",
+      "warranty": "3yr",
+      "price_sgd": 959
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ubiquiti UNAS 2 Bay NAS",
+      "price_sgd": 299
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ubiquiti UNAS 4 Bay NAS",
+      "price_sgd": 629
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ubiquiti UNAS Pro 4 Bay NAS",
+      "price_sgd": 999
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Qnap TS-264-8G 2-Bay Desktop NAS,",
+      "price_sgd": 999
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS223J 2 bay",
+      "price_sgd": 349
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS223 2 bay",
+      "price_sgd": 487
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS225+ 2 bay",
+      "price_sgd": 584
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS725+ 2 bay",
+      "price_sgd": 1250
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS423 4 Bay",
+      "price_sgd": 683
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS425+ 4 Bay",
+      "price_sgd": 973
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS925+ 4 Bay",
+      "price_sgd": 1367
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS1525+ 5 Bay",
+      "price_sgd": 1965
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS1621+(DS2422+ 2980)",
+      "price_sgd": 1985
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DS1825+ 8 Bay",
+      "price_sgd": 2597
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DX517 Expansion Bay",
+      "price_sgd": 899
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology DX525 Expansion Bay",
+      "price_sgd": 899
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology RS422+ Rack (RS822+ 1588)",
+      "price_sgd": 1591
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "brand": "Synology",
+      "product": "Synology RS1221+ 8bay RackStation",
+      "price_sgd": 2424
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Asustor Flashtor FS6706T 6-Bay M.2",
+      "price_sgd": 673
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Asustor AS-1102T 2 Bay NAS",
+      "price_sgd": 269
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Asustor AS-6404T 4x (AS6702T $729)",
+      "price_sgd": 852
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DH4300 Plus",
+      "price_sgd": 639
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DH2300",
+      "price_sgd": 389
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DXP2800 2 Bays",
+      "price_sgd": 599
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DXP4800 4 Bays",
+      "price_sgd": 789
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DXP4800Plus 4 Bays",
+      "price_sgd": 869
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DXP6800Pro 6 Bays",
+      "price_sgd": 1539
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DXP8800Plus 8 Bays",
+      "price_sgd": 1739
+    },
+    {
+      "category": "Network Attached Storage NAS-NVR",
+      "product": "Ugreen DXP480T Plus 4 Bays 2.5 / NVME",
+      "price_sgd": 1029
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel AX200 M.2 Wireless Kit with Bluetooth",
+      "price_sgd": 49
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel AX210 PCIE Wireless Kit with Bluetooth",
+      "price_sgd": 56
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel BE201 Wifi 7 PCIE M.2 Card",
+      "price_sgd": 69
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel AX3000 Asus PCIE with Bluetooth",
+      "price_sgd": 55
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel Wired Gigabit CT/MT Lan Card",
+      "price_sgd": 105
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel Dual Port Gigabit CT/MT Lan Card",
+      "price_sgd": 149
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel Quad Port Gigabit CT/MT Lan Card",
+      "price_sgd": 295
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel X540-T2 10G Dual Port PCIE Lan",
+      "price_sgd": 189
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Intel Server Lan 1G 8256 Lan",
+      "price_sgd": 152
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "WIFI Modem 3G Sim Card USB Dongle",
+      "price_sgd": 9
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Huawei E5776 Black 4G CAT6 DUAL Band",
+      "price_sgd": 75
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Aztech MWR638 3G Mobile Wi-Fi Portable",
+      "price_sgd": 15
+    },
+    {
+      "category": "Intel Lan Card / M.2 Wireless Card / 3G modem",
+      "product": "Hame MPR-A1 3G USB Modem",
+      "price_sgd": 10
+    },
+    {
+      "product": "LOGITECH MX ANYWHERE 2S WIRELESS MO",
+      "price_sgd": 101
+    },
+    {
+      "product": "LOGITECH MX MASTER 2S WIRELESS MOUS",
+      "price_sgd": 116
+    },
+    {
+      "product": "LOGITECH MX MASTER 3S WIRELESS MOUS",
+      "price_sgd": 147
+    },
+    {
+      "product": "LOGITECH MX MASTER 4 WIRELESS MOUS",
+      "price_sgd": 195
+    },
+    {
+      "product": "LOGITECH M185 / M187 Wireless Mouse",
+      "price_sgd": 20
+    },
+    {
+      "product": "LOGITECH M221 SILENT WIRELESS MOUSE",
+      "price_sgd": 21
+    },
+    {
+      "product": "LOGITECH M240 SILENT BLUETOOTH MOUSE",
+      "price_sgd": 25
+    },
+    {
+      "product": "LOGITECH M331 SILENT PLUS WIRELESS",
+      "price_sgd": 27
+    },
+    {
+      "product": "LOGITECH M350 PEBBLE BLUETOOTH MOUS",
+      "price_sgd": 35
+    },
+    {
+      "product": "LOGI SIGNATURE M650 WIRELESS MOUS",
+      "price_sgd": 42
+    },
+    {
+      "product": "LOGITECH POP MOUSE WITH EMOJI-BLAST",
+      "price_sgd": 42
+    },
+    {
+      "product": "LOGITECH MX VERTICAL WIRELESS ERGON",
+      "price_sgd": 147
+    },
+    {
+      "product": "LOGITECH ERGO M575 WIRELESS TRACKBA",
+      "price_sgd": 69
+    },
+    {
+      "product": "LOGITECH K120 USB KEYBOARD",
+      "price_sgd": 20
+    },
+    {
+      "product": "LOGI K380S MULTI-DEVICE BT KB LAVEND",
+      "price_sgd": 51
+    },
+    {
+      "product": "LOGITECH K400 PLUS WL TOUCH KEYBOAR",
+      "price_sgd": 56
+    },
+    {
+      "product": "LOGITECH K580 SLIM MULTI-DEVICE BT",
+      "price_sgd": 66
+    },
+    {
+      "product": "LOGI SIGNATURE K650 WIRELESS KEYBOA",
+      "price_sgd": 58
+    },
+    {
+      "product": "LOGITECH K780 MULTI-DEVICE WIRELESS",
+      "price_sgd": 85
+    },
+    {
+      "product": "LOGI POP KEYS WL BT MECH KB",
+      "price_sgd": 131
+    },
+    {
+      "product": "LOGI MX KEYS MINI ILLUMINATED KEYBO",
+      "price_sgd": 139
+    },
+    {
+      "product": "LOGITECH MX KEYS ADVANCED ILLUMINAT",
+      "price_sgd": 155
+    },
+    {
+      "product": "LOGI MX MECHANICAL MINI W/L KB GRAP",
+      "price_sgd": 225
+    },
+    {
+      "product": "LOGI MX MECHANICAL WIRELESS KB GRAP",
+      "price_sgd": 263
+    },
+    {
+      "product": "LOGITECH ERGO K860 WIRELESS SPLIT K",
+      "price_sgd": 178
+    },
+    {
+      "product": "LOGITECH MK120 WIRED COMBO",
+      "price_sgd": 22
+    },
+    {
+      "product": "LOGITECH MK200 WIRED COMBO Multimedia",
+      "price_sgd": 28
+    },
+    {
+      "product": "LOGITECH MK220 WIRELESS COMBO",
+      "price_sgd": 29
+    },
+    {
+      "product": "LOGITECH MK270R WIRELESS COMBO",
+      "price_sgd": 34
+    },
+    {
+      "product": "LOGITECH MK295 SILENT WIRELESS COMB",
+      "price_sgd": 39
+    },
+    {
+      "product": "LOGITECH MK345 WIRELESS COMBO",
+      "warranty": "1Y",
+      "price_sgd": 46
+    },
+    {
+      "product": "LOGITECH MK470 WIRELESS SLIM Blacl",
+      "price_sgd": 72
+    },
+    {
+      "product": "LOGITECH MK540 ADVANCED WIRELESS CO",
+      "price_sgd": 78
+    },
+    {
+      "product": "LOGITECH MK850 PERFORMANCE Wireless",
+      "price_sgd": 159
+    },
+    {
+      "product": "LOGITECH H110 / H111 STEREO HEADSET",
+      "price_sgd": 14
+    },
+    {
+      "product": "LOGITECH H150/ H151 STEREO HEADSET",
+      "price_sgd": 20
+    },
+    {
+      "product": "LOGITECH H340 /H370 USB STEREO headset",
+      "price_sgd": 35
+    },
+    {
+      "product": "LOGITECH H390 USB STEREO HEADSET",
+      "warranty": "2",
+      "price_sgd": 51
+    },
+    {
+      "product": "LOGITECH H540 USB STEREO HEADSET",
+      "warranty": "2",
+      "price_sgd": 61
+    },
+    {
+      "product": "LOGITECH ZONE VIBE 100 WL BT HEADSE",
+      "price_sgd": 123
+    },
+    {
+      "product": "LOGITECH H650e USB STEREO HEADSET",
+      "price_sgd": 112
+    },
+    {
+      "product": "LOGITECH ZONE WIRED TYPE-C ANC H",
+      "price_sgd": 157
+    },
+    {
+      "product": "LOGITECH ZONE WIRELESS TEAMS BT ANC",
+      "price_sgd": 282
+    },
+    {
+      "product": "LOGITECH Spotlight 2 Presenter",
+      "price_sgd": 195
+    },
+    {
+      "product": "Logitech R400 Presenter (R800 $119)",
+      "price_sgd": 60
+    },
+    {
+      "product": "Logitech Spotlight Wireless (R500S $99)",
+      "price_sgd": 165
+    },
+    {
+      "product": "Logitech Usb Powered Stereo S150",
+      "price_sgd": 21
+    },
+    {
+      "product": "Logitech Alto Keys Mechanical Linear KB",
+      "price_sgd": 139
+    },
+    {
+      "product": "Logitech Z313 2.1 Speakers System",
+      "price_sgd": 76
+    },
+    {
+      "product": "Logitech Z407 Bluetooth Speaker",
+      "price_sgd": 129
+    },
+    {
+      "product": "Logitech Brio 4K Ultra Webcam",
+      "price_sgd": 319
+    },
+    {
+      "product": "LOGITECH MX BRIO ULTRA HD 4K Camera",
+      "price_sgd": 349
+    },
+    {
+      "product": "Logitech Conference Connect Camera",
+      "price_sgd": 699
+    },
+    {
+      "product": "Logitech PTZ Camera",
+      "price_sgd": 850
+    },
+    {
+      "product": "Logitech Group Conference Camera",
+      "price_sgd": 1599
+    },
+    {
+      "product": "Logitech Rally Camera",
+      "price_sgd": 1799
+    },
+    {
+      "product": "Logitech Meetup 4K CONFERENCE",
+      "price_sgd": 988
+    },
+    {
+      "product": "Logitech Meetup2 4K CONFERENCE",
+      "price_sgd": 1388
+    },
+    {
+      "product": "Logitech Meetup Expansion Microphone",
+      "price_sgd": 325
+    },
+    {
+      "product": "Corsair Sabre RGB Pro Wireless Mouse",
+      "price_sgd": 79
+    },
+    {
+      "product": "A4Tech FK-11 / KL-5 Mini USB Keyboard",
+      "price_sgd": 19
+    },
+    {
+      "product": "Dell MS116 USB Optical Mouse / Lenovo",
+      "price_sgd": 10
+    },
+    {
+      "product": "Polycom Studio Audio Video Sound Bar",
+      "price_sgd": 1349
+    },
+    {
+      "product": "LOGITECH C920e FULL HD WEBCAM [OEM",
+      "price_sgd": 109
+    },
+    {
+      "product": "LOGITECH C922 PRO HD WEBCAM [OEM",
+      "price_sgd": 159
+    },
+    {
+      "product": "LOGITECH C925e FULL HD WEBCAM [OEM",
+      "price_sgd": 131
+    },
+    {
+      "product": "LOGITECH C930e FULL HD WEBCAM [OEM",
+      "price_sgd": 158
+    },
+    {
+      "product": "LOGITECH BCC950 WEBCAM & SPEAKER",
+      "price_sgd": 279
+    },
+    {
+      "product": "LOGITECH CONFERENCECAM CONNECT",
+      "price_sgd": 699
+    },
+    {
+      "product": "LOGITECH C270 HD WEBCAM",
+      "price_sgd": 38
+    },
+    {
+      "product": "LOGITECH C310 HD WEBCAM",
+      "price_sgd": 43
+    },
+    {
+      "product": "LOGITECH C505 HD WEBCAM",
+      "warranty": "1Y",
+      "price_sgd": 61
+    },
+    {
+      "product": "LOGITECH BRIO 100 FULL HD WEBCAM -",
+      "price_sgd": 50
+    },
+    {
+      "product": "LOGITECH BRIO 300 FULL HD WEBCAM -",
+      "price_sgd": 81
+    },
+    {
+      "product": "LOGITECH BRIO 500 FULL HD WEBCAM -",
+      "price_sgd": 155
+    },
+    {
+      "product": "LOGITECH C922 PRO STREAM FULL HD WE",
+      "price_sgd": 170
+    },
+    {
+      "product": "LOGITECH BRIO 4K WEBCAM WITH HDR [R",
+      "price_sgd": 268
+    },
+    {
+      "product": "Logitech G502 X Plus -",
+      "price_sgd": 197
+    },
+    {
+      "product": "Logitech G705 Wireless Gaming Mouse",
+      "price_sgd": 125
+    },
+    {
+      "product": "Logitech G903 Wireless Gaming Mouse",
+      "price_sgd": 225
+    },
+    {
+      "product": "Logitech G213 PRODIGY GAMING KEYBOARD",
+      "price_sgd": 76
+    },
+    {
+      "product": "Logitech G560 2.1 Speakers Best Selling",
+      "price_sgd": 199
+    },
+    {
+      "product": "Logitech G PRO X Superlight Gaming Mouse",
+      "price_sgd": 184
+    },
+    {
+      "product": "Logitech Logitech Powerplay Wireless Char",
+      "price_sgd": 153
+    },
+    {
+      "product": "Logitech Logitech G PRO X Gaming Headset",
+      "price_sgd": 176
+    },
+    {
+      "product": "Logitech Pro X Wireless Headset",
+      "price_sgd": 254
+    },
+    {
+      "product": "Logitech Wired Gamepad F310 wired",
+      "price_sgd": 48
+    },
+    {
+      "product": "Logitech Wired Gamepad F710 Wireless",
+      "price_sgd": 80
+    },
+    {
+      "product": "Logitech Pico / BOLT Unifying Reciever",
+      "price_sgd": 18
+    },
+    {
+      "product": "Logitech M100R USB Wired Mouse",
+      "price_sgd": 12
+    },
+    {
+      "product": "LOGITECH M720 MULTI-DEVICE WIRELESS",
+      "price_sgd": 64
+    },
+    {
+      "product": "Cisco Spa504g",
+      "price_sgd": 278
+    },
+    {
+      "product": "Cisco Cbs250-8p-e2g",
+      "price_sgd": 218
+    },
+    {
+      "product": "Cisco Cbs250-24p-4g",
+      "price_sgd": 409
+    },
+    {
+      "product": "Cisco Cbs110-24t",
+      "price_sgd": 274
+    },
+    {
+      "product": "Cisco Cbs110-16pp",
+      "price_sgd": 218
+    },
+    {
+      "product": "Cisco SG95-16-sg",
+      "price_sgd": 196
+    },
+    {
+      "product": "Cisco CbS350-16fp2gna",
+      "price_sgd": 599
+    },
+    {
+      "product": "Cisco C1200-48t-4g",
+      "price_sgd": 1062
+    },
+    {
+      "product": "Cisco C1200-48t-4x",
+      "price_sgd": 1450
+    },
+    {
+      "product": "Cisco Cbs250-16t-2g",
+      "price_sgd": 330
+    },
+    {
+      "product": "Cisco Srw248g-k9-ev/sf300-48",
+      "price_sgd": 314
+    },
+    {
+      "product": "Cisco Cbs350-8fp-e-2g-",
+      "price_sgd": 446
+    },
+    {
+      "product": "Cisco C1300-16t-2g",
+      "price_sgd": 532
+    },
+    {
+      "product": "Cisco C1200-8t-e-2g",
+      "price_sgd": 274
+    },
+    {
+      "product": "Cisco C1200-8t-d",
+      "price_sgd": 207
+    },
+    {
+      "product": "Cisco C1200-16t-2g",
+      "price_sgd": 370
+    },
+    {
+      "product": "Cisco Cbs-110-8pp-d",
+      "price_sgd": 174
+    },
+    {
+      "product": "Cisco C1200-24t-4g",
+      "price_sgd": 412
+    },
+    {
+      "product": "Cisco Spa502g",
+      "price_sgd": 207
+    },
+    {
+      "product": "Cisco Spa303-g3",
+      "price_sgd": 162
+    },
+    {
+      "product": "Cisco Spa501g",
+      "price_sgd": 179
+    },
+    {
+      "product": "Cisco Cbs350-48p-4g",
+      "price_sgd": 1064
+    },
+    {
+      "product": "Cisco CBS350-24S-4G",
+      "price_sgd": 640
+    },
+    {
+      "product": "Cisco CBS350-48T-4X",
+      "price_sgd": 1085
+    },
+    {
+      "product": "Cisco CBS350-48P-4X",
+      "price_sgd": 1295
+    },
+    {
+      "product": "HPE Aruba 1430 5G R8R44A",
+      "price_sgd": 74
+    },
+    {
+      "product": "Hpe JL682A Aruba Instant On 1930 24port",
+      "price_sgd": 489
+    },
+    {
+      "product": "Hpe JL683B Aruba Instant On 1930 24",
+      "price_sgd": 695
+    },
+    {
+      "product": "Hpe JL686A Aruba Instant On 1930 48",
+      "price_sgd": 1458
+    },
+    {
+      "product": "Hpe JL807A Aruba Instant On 1960 24",
+      "price_sgd": 1188
+    },
+    {
+      "product": "Hpe JL809A Aruba Instant On 1960 48",
+      "price_sgd": 1967
+    },
+    {
+      "product": "Hpe JL812A Aruba Instant On 1830 24",
+      "price_sgd": 359
+    },
+    {
+      "product": "Hpe JL813A Aruba Instant On 1830 24",
+      "price_sgd": 929
+    },
+    {
+      "product": "Hpe JW047A Aruba AP-220-MNT",
+      "price_sgd": 29
+    },
+    {
+      "product": "Hpe R8N88A Aruba 6000 24G 4SFP Swi",
+      "price_sgd": 855
+    },
+    {
+      "product": "Hpe R9B34A Aruba Instant On AP25 w",
+      "price_sgd": 396
+    },
+    {
+      "product": "Hpe JL815A Aruba Instant On 1830 48port",
+      "price_sgd": 929
+    },
+    {
+      "product": "Hpe R2H28A HPE Aruba AP-505 (RW) U",
+      "price_sgd": 613
+    },
+    {
+      "product": "Hpe R8R46A Aruba IOn 1430 8G POE 6",
+      "price_sgd": 293
+    },
+    {
+      "product": "Hpe R8R49A Aruba IOn 1430 24G Swit",
+      "price_sgd": 244
+    },
+    {
+      "product": "Hpe R9D18A Aruba Instant On 10G SF",
+      "price_sgd": 146
+    },
+    {
+      "product": "Hpe JL686B Hewlett Packard Enterpr",
+      "price_sgd": 1138
+    },
+    {
+      "product": "Hpe JL814A Aruba Instant On 1830 4",
+      "price_sgd": 686
+    },
+    {
+      "product": "Hpe JL684B Aruba Instant On 1930 2",
+      "price_sgd": 910
+    },
+    {
+      "product": "Hpe JL685A Aruba Instant On 1930 4",
+      "price_sgd": 661
+    },
+    {
+      "product": "Hpe R6K64A Aruba instant On",
+      "price_sgd": 276
+    },
+    {
+      "product": "Hpe R8R47A Aruba IOn 1430 16G Swit",
+      "price_sgd": 198
+    },
+    {
+      "product": "Hpe R8R50A Aruba IOn 1430 26G POE",
+      "price_sgd": 295
+    },
+    {
+      "product": "Hpe R8R44A Aruba IOn 1430 5G Switch",
+      "price_sgd": 68
+    },
+    {
+      "product": "Hpe R2X16A Aruba Instant On AP11D",
+      "price_sgd": 284
+    },
+    {
+      "product": "Hpe R6M51A Aruba Instant On AP22",
+      "price_sgd": 356
+    },
+    {
+      "product": "Hpe ARUBA AP32 POE New Model",
+      "price_sgd": 585
+    },
+    {
+      "product": "Hpe R8R45A Aruba IOn 1430 8G Switc",
+      "price_sgd": 125
+    },
+    {
+      "product": "SYNC 10, SY10 USB-A/C WW/ Retail",
+      "price_sgd": 99
+    },
+    {
+      "product": "Sync 20 Teams USB-A/C WW/ Retail",
+      "price_sgd": 143
+    },
+    {
+      "product": "Sync 20+ Teams USB-A/C WW/ Retail",
+      "price_sgd": 222
+    },
+    {
+      "product": "VOYAGER Focus 2 UC, Charge Stand,",
+      "price_sgd": 305
+    },
+    {
+      "product": "VOYAGER Focus UC BT Headset, B825,",
+      "price_sgd": 292
+    },
+    {
+      "product": "VOYAGER 4310/R, Msteams, Headset,",
+      "price_sgd": 140
+    },
+    {
+      "product": "VOYAGER 4320/R, Msteams, Headset,",
+      "price_sgd": 258
+    },
+    {
+      "product": "VOYAGER 5200/R, Headset, no dongle",
+      "price_sgd": 107
+    },
+    {
+      "product": "VOYAGER LEGEND/R, Headset, APAC",
+      "price_sgd": 77
+    },
+    {
+      "product": "POLY Plantronics 5020 Headset",
+      "price_sgd": 99
+    },
+    {
+      "product": "Dell WD19S Thunderbolt Docking Station",
+      "price_sgd": 245
+    },
+    {
+      "product": "Dell WD19TBS Thunderbolt Docking Station",
+      "price_sgd": 290
+    },
+    {
+      "product": "Dell WD22TB4 Docking Station",
+      "price_sgd": 395
+    },
+    {
+      "product": "Jabra Engage 65",
+      "price_sgd": 580
+    },
+    {
+      "product": "Jabra Speak 4S",
+      "price_sgd": 289
+    },
+    {
+      "product": "Jabra Evolve 20 Stereo UC - USB C",
+      "price_sgd": 82
+    },
+    {
+      "product": "Jabra SPEAK 510 Bluetooth Only 7510-1-2",
+      "price_sgd": 229
+    },
+    {
+      "product": "Jabra SPEAK 510+ link 370 UC 7510-MS",
+      "price_sgd": 255
+    },
+    {
+      "product": "Jabra SPEAK 710 MS/ UC + Link 370 7700",
+      "price_sgd": 393
+    },
+    {
+      "product": "Jabra Speak 750 MS/UC USB/BT + 7710",
+      "price_sgd": 477
+    },
+    {
+      "product": "One by Wacom, Small CTL-472/K0-CX",
+      "price_sgd": 68
+    },
+    {
+      "product": "One by Wacom, Medium CTL-672/K0-CX",
+      "price_sgd": 103
+    },
+    {
+      "product": "Wacom One, Small CTC-4110WLW0C",
+      "price_sgd": 110
+    },
+    {
+      "product": "Wacom One, Medium CTC-6110WLW0C",
+      "price_sgd": 182
+    },
+    {
+      "product": "Wacom Intuos S, Black CTL-4100/K0-CX",
+      "price_sgd": 97
+    },
+    {
+      "product": "Wacom Intuos S, BT, CTL-4100WL/K0-CX",
+      "price_sgd": 135
+    },
+    {
+      "product": "Wacom Intuos M, Black CTL-6100/K0-CX",
+      "price_sgd": 186
+    },
+    {
+      "product": "Wacom Intuos M, BT ,CTL-6100WL/K0-CX",
+      "price_sgd": 251
+    },
+    {
+      "product": "Intuos Pro, S PTH-460/K0-CX",
+      "price_sgd": 318
+    },
+    {
+      "product": "Intuos Pro, M PTH-660/K0-CX",
+      "price_sgd": 443
+    },
+    {
+      "product": "Intuos Pro, L PTH-860/K0-CX",
+      "price_sgd": 635
+    },
+    {
+      "product": "Wacom One, Pen Display, 12 DTC-121W0C",
+      "price_sgd": 482
+    },
+    {
+      "product": "Wacom One, Pen Display, 13 DTC-133W0C",
+      "price_sgd": 475
+    },
+    {
+      "product": "Wacom One, Pen, 13 Pen DTH-134W0C",
+      "price_sgd": 730
+    },
+    {
+      "product": "Wacom Cintiq 16 DTK-1660/K1-CA",
+      "price_sgd": 1049
+    },
+    {
+      "product": "Wacom Cintiq 22 DTK-2260/K0-CX",
+      "price_sgd": 1649
+    },
+    {
+      "product": "Elgato Stream Deck XL - Advanced S",
+      "price_sgd": 385
+    },
+    {
+      "product": "Elgato Stream Deck MK.2 - 15 custom",
+      "price_sgd": 230
+    },
+    {
+      "product": "Elgato Stream Deck +",
+      "price_sgd": 302
+    },
+    {
+      "product": "Elgato Green Screen Mouse Mat",
+      "price_sgd": 29
+    },
+    {
+      "product": "Elgato Light Strip",
+      "price_sgd": 109
+    },
+    {
+      "product": "Elgato Stream Key Light Mini - Por",
+      "price_sgd": 150
+    },
+    {
+      "product": "Elgato Prompter, All-in-One Telepr",
+      "price_sgd": 389
+    },
+    {
+      "product": "Elgato Facecam PRO - True 4K60 Ult",
+      "price_sgd": 449
+    },
+    {
+      "product": "Elgato Cam Link 4K",
+      "price_sgd": 169
+    },
+    {
+      "product": "Elgato HD60 X External Game Captur",
+      "price_sgd": 300
+    },
+    {
+      "product": "Elgato Wave:3 Microphone - Premium",
+      "price_sgd": 239
+    },
+    {
+      "product": "Microsoft Sculpt Ergonomic Desktop L5V",
+      "price_sgd": 215
+    },
+    {
+      "product": "Microsoft Sculpt Comfort Desktop L3V",
+      "price_sgd": 103
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BR500CI-AS Back-UPS RS 500",
+      "price_sgd": 132
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BV500i-MS 500VA Easy UPS",
+      "price_sgd": 101
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Apc BX625Ci-Ms Ups 625Va",
+      "price_sgd": 124
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Apc BK-650AS Usb 650Va/ NAS Cable",
+      "price_sgd": 215
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Apc BVX700LUI-MS Easy UPS 700va",
+      "price_sgd": 128
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BVX900LI-MS Easy UPS 900VA",
+      "price_sgd": 199
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BV1000I-MS 1000VA UPS",
+      "price_sgd": 161
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BVX1200LI-MS Easy UPS 1200VA",
+      "price_sgd": 225
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BX2200MI-MS Back-UPS 2200VA",
+      "price_sgd": 478
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BX950-MS 900VA UPS",
+      "price_sgd": 268
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BX750MI-MS 750VA UPS",
+      "price_sgd": 222
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BR650MI Back UP Pro UPS LCD",
+      "price_sgd": 340
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BR900GI/BR900MI 900VA UPS",
+      "price_sgd": 480
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BR1300MI 1300VA UPS / BR1200GI",
+      "price_sgd": 709
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC BX1600MI Backup UPS 1600VA",
+      "price_sgd": 498
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco 1941 w/2 GE,2 EHWIC slots,",
+      "price_sgd": 459
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco CBS110-5T-D 5 Port Gigabit",
+      "price_sgd": 69
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Ubiquiti UPS-2U-EU",
+      "price_sgd": 511
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Ubiquiti UPS-Tower-EU",
+      "price_sgd": 292
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC RBC2 Replacement Battery",
+      "price_sgd": 95
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco CBS110-8T-D 8 Port Gigabit",
+      "price_sgd": 88
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC RBC17 Replacement Battery /rbc124",
+      "price_sgd": 125
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco CBS110-16T 16-Port Gigabit",
+      "price_sgd": 229
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC RBC123 Replacement Battery",
+      "price_sgd": 148
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco SF300-24pp",
+      "price_sgd": 582
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "APC RBC157 Replacement Battery",
+      "price_sgd": 350
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco Cbs350-24t-4g",
+      "price_sgd": 409
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Eaton 5A700I-UNI 5A 700VA for SG/M",
+      "price_sgd": 99
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco Cbs350-8p-e-2g-",
+      "price_sgd": 498
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Eaton 5A1200I-UNI 5A 1200VA for SG",
+      "price_sgd": 189
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco Cbs110-24pp-",
+      "price_sgd": 297
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Eaton 5E700UI-EA",
+      "price_sgd": 139
+    },
+    {
+      "category": "UPS by Bizgram - Power",
+      "product": "Cisco Cbs350-16p",
+      "price_sgd": 459
+    },
+    {
+      "product": "Eaton 5E900UI-EA",
+      "price_sgd": 189
+    },
+    {
+      "product": "Eaton 5E1200UI-EA",
+      "price_sgd": 269
+    },
+    {
+      "product": "Eaton 5E1600UI-EA 5E Gen2 UPS USB",
+      "price_sgd": 339
+    },
+    {
+      "product": "Eaton 5E2200UI-EA 5E Gen2 UPS USB",
+      "price_sgd": 429
+    },
+    {
+      "product": "Eaton 120V for Ship & Marine 1000VA",
+      "price_sgd": 799
+    },
+    {
+      "product": "PROLiNK 650VA UPS PRO700SFCU",
+      "price_sgd": 119
+    },
+    {
+      "product": "PROLiNK 850VA UPS PRO851FSCU",
+      "price_sgd": 169
+    },
+    {
+      "product": "PROLiNK 1200VA Line Interactive UPS",
+      "price_sgd": 249
+    },
+    {
+      "product": "PROLiNK PRO1500SFCU Line Interactive",
+      "price_sgd": 289
+    },
+    {
+      "product": "PROLiNK PRO2000SFCU Line Interactive",
+      "price_sgd": 389
+    },
+    {
+      "product": "Cat6 / Cat5E 305M UTP Cable Reel Box",
+      "price_sgd": 169
+    },
+    {
+      "product": "Prolink PRO901-ES Online UPS 1K, /Stand-alone LCD DISPLAY RS232, USB, SNMP",
+      "price_sgd": 499
+    },
+    {
+      "product": "Prolink PRO902-ES Online UPS 2K, Stand-alone, PF = 0.9, LCD DISPLAY RS232, USB, SNMP",
+      "price_sgd": 899
+    },
+    {
+      "product": "Prolink PRO903-ES Online UPS 3K, /Stand-alone, PF = 0.9, LCD DISPLAY RS232, USB, SNMP",
+      "price_sgd": 1269
+    },
+    {
+      "category": "PRITTEC MINI PC",
+      "product": "Prittec Mini PC I5-13420H 16GB-D4 512GB NVME SSD , Windows 11 Home",
+      "price_sgd": 739
+    },
+    {
+      "category": "PRITTEC MINI PC",
+      "product": "Prittec Mini PC I7-13620H 16GB-D4 512GB NVME SSD , Windows 11 Home",
+      "price_sgd": 839
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO™ 6000 Blackw 96gb",
+      "price_sgd": 26999
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO™ 6000 Blackw 96gb",
+      "price_sgd": 26999
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO™ 5000 Blackwell",
+      "price_sgd": 14999
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO™ 4500 Blackwell",
+      "price_sgd": 9199.0
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO™ 4000 Blackwell 24G",
+      "price_sgd": 5600
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO 4000 Blackwell SFF",
+      "price_sgd": 4900
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO™ 2000 Blackwell",
+      "price_sgd": 2799
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA A800 PCIe 40 GB Active",
+      "price_sgd": 38999
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 6000 Ada Generation (Ada Lovelace)",
+      "price_sgd": 25899
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 5000 32GB Ada Generation (Ada Lovelace)",
+      "price_sgd": 15599
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 4500 24GB Ada Generation (Ada Lovelace)",
+      "price_sgd": 8999
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 4000 20gb Ada ATX (Ada Lovelace)",
+      "price_sgd": 4499
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 4000 20gb Ada ATX (Ada Lovelace)",
+      "price_sgd": 4399
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 4000 20 GB Ada SFF Low Profile (Ada Lovelace)",
+      "price_sgd": 4299
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 2000 16 GB Ada SFF Low Profile (Ada Lovelace)",
+      "price_sgd": 2349
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX A1000 8GB (Ampere)",
+      "price_sgd": 1449
+    },
+    {
+      "category": "Blackwell NVIDIA Cards Original Nvidia",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX A400 4GB (Ampere)",
+      "price_sgd": 449
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE85(3-pack) BE22000",
+      "price_sgd": 1480
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE85(2-pack) BE22000",
+      "price_sgd": 1017
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE85(1-pack) BE22000",
+      "price_sgd": 565
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE68(3-pack) 8-Stream",
+      "price_sgd": 791
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE68(2-pack) 8-Stream",
+      "price_sgd": 565
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE68(1-pack) 8-Stream",
+      "price_sgd": 283
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE65-5G(1-pack) 9214",
+      "price_sgd": 486
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE65 Pro(3-pack) BE11",
+      "price_sgd": 729
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE65 Pro(2-pack) BE11",
+      "price_sgd": 486
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE65 Pro(1-pack) BE11",
+      "price_sgd": 243
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE25(1-pack) BE5000 W",
+      "price_sgd": 132
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE25(2-pack) BE5000 W",
+      "price_sgd": 264
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco BE25(3-pack) BE5000 W",
+      "price_sgd": 372
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco XE75 Pro(3-pack) AXE5",
+      "price_sgd": 367
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco XE75 Pro(2-pack) AXE5",
+      "price_sgd": 266
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X50-5G(1-pack) 5G AX3",
+      "price_sgd": 249
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X50-4G(1-pack) 4G+ AX",
+      "price_sgd": 147
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X50-PoE(3-pack) AX300",
+      "price_sgd": 410
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X50-Outdoor(1-pack) A",
+      "price_sgd": 170
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X20(3-pack) AX1800 Wh",
+      "price_sgd": 226
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X20(2-pack) AX1800 Wh",
+      "price_sgd": 169
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X20(1-pack) AX1800 Wh",
+      "price_sgd": 84
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X20-4G(1-pack) 4G+ AX",
+      "price_sgd": 139
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X10-4G(1-pack) 4G+ AX",
+      "price_sgd": 98
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X10(3-pack) AX1500 Wh",
+      "price_sgd": 147
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X10(2-pack) AX1500 Wh",
+      "price_sgd": 90
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Deco X10(1-pack) AX1500 Wh",
+      "price_sgd": 45
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE900 BE24000 Quad",
+      "price_sgd": 774
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE805 BE19000 Tri-B",
+      "price_sgd": 565
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer GE800 BE19000 Tri B",
+      "price_sgd": 644
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer GE550 BE9300 Tri-Ba",
+      "price_sgd": 322
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer GE230 Lightning-Fas",
+      "price_sgd": 176
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE800 BE19000 Tri B",
+      "price_sgd": 584
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE600 BE9700 Tri-Ba",
+      "price_sgd": 330
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE550 Pro BE9700 Tr",
+      "price_sgd": 322
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE450 7.2 Gbps Dual",
+      "price_sgd": 243
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE400 BE6500 Dual-B",
+      "price_sgd": 214
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE230 BE3600 Dual-B",
+      "price_sgd": 160
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE3600 BE3600 Dual-",
+      "price_sgd": 160
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer BE220 BE22000 Whole",
+      "price_sgd": 82
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer AX53 AX3000 Dual-Ba",
+      "price_sgd": 110
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer AX12 AX1500 Dual-Ba",
+      "price_sgd": 57
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer C54 AC1200 Dual-Ban",
+      "price_sgd": 32
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TL-WR3602BE BE3600 Dual-Ba",
+      "price_sgd": 160
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TL-WR902AC AC750 Mini Pock",
+      "price_sgd": 56
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TL-WA1201 AC1200 Dual-Band",
+      "price_sgd": 50
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE655BE Next-Gen Wi-Fi 7:",
+      "price_sgd": 242
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE405BE Lightning-Fast 6.5",
+      "price_sgd": 203
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE235BE Lightning-Fast 3.6",
+      "price_sgd": 120
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE225BE 3.6 Gbps Dual-Band",
+      "price_sgd": 102
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE815XE AXE5400 Tri-Band W",
+      "price_sgd": 160
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE705X AX3000 Wi-Fi 6 Rang",
+      "price_sgd": 102
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE505X AX1500 Wi-Fi 6 Rang",
+      "price_sgd": 49
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE305 AC1200 Wi-Fi Range E",
+      "price_sgd": 32
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE205 AC750 Wi-Fi Range Ex",
+      "price_sgd": 30
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link RE200 AC750 Wi-Fi Range Ex",
+      "price_sgd": 28
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TL-WA855RE 300Mbps Wi-Fi R",
+      "price_sgd": 22
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TX401 10 Gigabit PCI Expre",
+      "price_sgd": 71
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TX201 2.5 Gigabit PCI Expr",
+      "price_sgd": 41
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TBE400UH BE6500 Hig",
+      "price_sgd": 80
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TBE550E BE9300 Tri-",
+      "price_sgd": 104
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TBE400E Unparallele",
+      "price_sgd": 64
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TBE230U Ultra-fast",
+      "price_sgd": 64
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX50UH “AX3000 High",
+      "price_sgd": 36
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX50U 3000 Mbps",
+      "price_sgd": 32
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX35U Plus Lightnin",
+      "price_sgd": 32
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX20U Nano AX1800 N",
+      "price_sgd": 28
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX1800U Nano AX1800",
+      "price_sgd": 22
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T4U Plus AC1300 Hig",
+      "price_sgd": 28
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T4U AC1300 High Gai",
+      "price_sgd": 23
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T3U Nano Ultimate W",
+      "price_sgd": 23
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T1300U Nano AC1300",
+      "price_sgd": 15
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T2UB Nano AC600 Nan",
+      "price_sgd": 24
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T600UB Nano AC600 N",
+      "price_sgd": 12
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX1U Nano Lightning",
+      "price_sgd": 11
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TL-WN725N 150Mbps Wi-Fi US",
+      "price_sgd": 9
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX3000E AX3000 Wi-F",
+      "price_sgd": 78
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer TX55E AX3000 Dual B",
+      "price_sgd": 65
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link Archer T5E AC1200 Dual Ban",
+      "price_sgd": 60
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link TG-3468 Gigabit PCI Expres",
+      "price_sgd": 16
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link M8550 Breakthrough 5G Cell",
+      "price_sgd": 469
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link M7750 LTE-Advanced cat11 s",
+      "price_sgd": 140
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link M7450 300Mbps 4G LTE-Advan",
+      "price_sgd": 123
+    },
+    {
+      "category": "Tp-Link , Omada, Vigi Networking",
+      "brand": "TP-Link",
+      "product": "TP-Link 3560500098 Battery Li-ion|",
+      "price_sgd": 19
+    }
+  ]
+}
