@@ -1,0 +1,239 @@
+{
+  "sha256": "1a78c2632e465ba1091cb691d425bcdc2748738d9f62c9ee1342352c6aee90be",
+  "vendor": "dynacore",
+  "page_number": 3,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MOUSE & KEYBOARD | CONTROLLERS |",
+      "brand": "Asus",
+      "product": "Asus ROG Falchion NX Blue Gaming KB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ROG RNUC14SRKU7168A0I Intel U7-155H RTX4060 512GB DDR5 8GB*2 WIN 11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3009.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ROG RNUC14SRKU9189A0I Intel U9-185H RTX4070 1TB DDR5 16GB*2 WIN 11",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2439.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC Performance Intel U7-155H RNUC14SRKU710000I RTX4060 BAREBONE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2379.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC Performance Intel U9-185H RNUC14SRKU910000I RTX4070 BAREBONE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 Pro Intel C3 RNUC14RVHI300000I Barebone Kit | Intel Core 3-100U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 709.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 Pro Intel U5 RNUC14RVHU500000I Barebone Kit | Intel Core U5-125H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 945.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 Pro Intel U7 RNUC14RVHU700000I Barebone Kit | Intel Core U7-155H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1149.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 Pro+ Intel U9 RNUC14RVSU900000I Barebone Kit | Intel Core U9-185H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 509.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 13 Pro Intel i3 RNUC13ANHI300000I Barebone Kit | Intel Core i3-1315U",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 13 Pro Intel i5 RNUC13ANHI500000I Barebone Kit | Intel Core i5-1340P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS NUC 13 Pro Intel i7 RNUC13ANHI700000I Barebone Kit | Intel Core i7-1360P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS PN63-S1-B-S7033MD (i7-11370H/DDR4/M.2 SSD/WIFI6+BT)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1239.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN65-S5014AD Intel U5-125H 1 6 G B DDR5 512GB SSD TPM Win 11 PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1589.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN65-S7064AD Intel U7-155H 1 6 G B DDR5 512GB SSD TPM Win 11 PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 979.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN64-E1-B-S7047MD Barebone | Intel i7-13700H | D5 Max 32Gx2 | M.2x2 SATAx1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN65-B-S5008MD Barebone | I n te l U 5 - 125H | D5 Max 32Gx2 | M.2x2 S A T A x 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1049.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN65-B-S7009MD Barebone | I n te l U 7 - 155H | D5 Max 32Gx2 | M.2x2 S A T A x 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN65-B-S5028MD Barebone | I n te l U 5 - 125H | D5 Max 32Gx2 | M.2x2 S A T A x 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "PN65-B-S7029MD Barebone | I n te l U 7 - 155H | D5 Max 32Gx2 | M.2x2 S A T A x 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AMD",
+      "product": "PN53-S1-B-S5012MD Barebone | AMD R5 7530H | D4 Max 32Gx2 | M.2x1 SATAx1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AMD",
+      "product": "PN53-S1-B-S7012MD Barebone | AMD R7 7730H | D4 Max 32Gx2 | M.2x1 SATAx1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 695.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AMD",
+      "product": "PN53-B-S5083MD Barebone | A M D R 5 7 535H | D5 Max 32Gx2 | M.2x2 S A T A x 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AMD",
+      "product": "PN53-B-S7082MD Barebone | A M D R 7 7 735H | D5 Max 32Gx2 | M.2x2 S A T A x 1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "Prittec",
+      "product": "PRITTEC F8 MINI PC COMPLETE SET (i5-13420H / 1 6 G B x 1 D 4 / 5 1 2 G B / W I N 1 1 - P R O / W I F I 6)3YRS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 769.0
+    }
+  ],
+  "numeric_tokens_in_source": 274,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 25/274 = 0.09",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"MOUSE & KEYBOARD | CONTROLLERS |\", \"brand\": \"Asus\", \"product\": \"Asus ROG Falchion NX Blue Gaming KB\", \"price_sgd\": 169},\n  {\"category\": \"MOUSE & KEYBOARD | CONTROLLERS |\", \"brand\": \"Acer\", \"product\": \"Acer Nitro 25\\\"XV252Q LV 165Hz 0.5MS\", \"price_sgd\": 99241},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS AI NUC MINI PC with Next-generation Intel® Core™ Ultra with GPU NPU CPU AI engine architecture\", \"price_sgd\": 0},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ROG RNUC14SRKU7168A0I Intel U7-155H RTX4060 512GB DDR5 8GB*2 WIN 11\", \"price_sgd\": 3009},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ROG RNUC14SRKU9189A0I Intel U9-185H RTX4070 1TB DDR5 16GB*2 WIN 11\", \"price_sgd\": 2439},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC Performance Intel U7-155H RNUC14SRKU710000I RTX4060 BAREBONE\", \"price_sgd\": 2379},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC Performance Intel U9-185H RNUC14SRKU910000I RTX4070 BAREBONE\", \"price_sgd\": 549},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 14 Pro Intel C3 RNUC14RVHI300000I Barebone Kit | Intel Core 3-100U\", \"price_sgd\": 709},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 14 Pro Intel U5 RNUC14RVHU500000I Barebone Kit | Intel Core U5-125H\", \"price_sgd\": 945},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 14 Pro Intel U7 RNUC14RVHU700000I Barebone Kit | Intel Core U7-155H\", \"price_sgd\": 1149},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 14 Pro+ Intel U9 RNUC14RVSU900000I Barebone Kit | Intel Core U9-185H\", \"price_sgd\": 509},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 13 Pro Intel i3 RNUC13ANHI300000I Barebone Kit | Intel Core i3-1315U\", \"price_sgd\": 669},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 13 Pro Intel i5 RNUC13ANHI500000I Barebone Kit | Intel Core i5-1340P\", \"price_sgd\": 859},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 13 Pro Intel i7 RNUC13ANHI700000I Barebone Kit | Intel Core i7-1360P\", \"price_sgd\": 789},\n  {\"category\": \"MONITORS\", \"brand\": \"Intel\", \"product\": \"INTEL RNUC12WSHi70000 NUC 12 PRO KIT(i7-1260P/DDR4/IRIS Xe)\", \" price_sgd\": 799},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PN63-S1-B-S7033MD (i7-11370H/DDR4/M.2 SSD/WIFI6+BT)\", \"price_sgd\": 1239},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN65-S5014AD Intel U5-125H 1 6 G B DDR5 512GB SSD TPM Win 11 PRO\", \"price_sgd\": 1589},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN65-S7064AD Intel U7-155H 1 6 G B DDR5 512GB SSD TPM Win 11 PRO\", \"price_sgd\": 979},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN64-E1-B-S7047MD Barebone | Intel i7-13700H | D5 Max 32Gx2 | M.2x2 SATAx1\", \"price_sgd\": 779},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN65-B-S5008MD Barebone | I n te l U 5 - 125H | D5 Max 32Gx2 | M.2x2 S A T A x 1\", \"price_sgd\": 1049},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN65-B-S7009MD Barebone | I n te l U 7 - 155H | D5 Max 32Gx2 | M.2x2 S A T A x 1\", \"price_sgd\": 829},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN65-B-S5028MD Barebone | I n te l U 5 - 125H | D5 Max 32Gx2 | M.2x2 S A T A x 1\", \"price_sgd\": 1099},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"PN65-B-S7029MD Barebone | I n te l U 7 - 155H | D5 Max 32Gx2 | M.2x2 S A T A x 1\", \"price_sgd\": 569},\n  {\"category\": \"MONITORS\", \"brand\": \"AMD\", \"product\": \"PN53-S1-B-S5012MD Barebone | AMD R5 7530H | D4 Max 32Gx2 | M.2x1 SATAx1\", \"price_sgd\": 649},\n  {\"category\": \"MONITORS\", \"brand\": \"AMD\", \"product\": \"PN53-S1-B-S7012MD Barebone | AMD R7 7730H | D4 Max 32Gx2 | M.2x1 SATAx1\", \"price_sgd\": 695},\n  {\"category\": \"MONITORS\", \"brand\": \"AMD\", \"product\": \"PN53-B-S5083MD Barebone | A M D R 5 7 535H | D5 Max 32Gx2 | M.2x2 S A T A x 1\", \"price_sgd\": 779},\n  {\"category\": \"MONITORS\", \"brand\": \"AMD\", \"product\": \"PN53-B-S7082MD Barebone | A M D R 7 7 735H | D5 Max 32Gx2 | M.2x2 S A T A x 1\", \"price_sgd\": 669},\n  {\"category\": \"MONITORS\", \"brand\": \"Prittec\", \"product\": \"PRITTEC F8 MINI PC COMPLETE SET (i5-13420H / 1 6 G B x 1 D 4 / 5 1 2 G B / W I N 1 1 - P R O / W I F I 6)3YRS\", \"price_sgd\": 769}\n]}"
+}
