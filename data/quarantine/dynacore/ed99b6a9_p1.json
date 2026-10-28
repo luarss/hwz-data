@@ -1,0 +1,194 @@
+{
+  "sha256": "ed99b6a992208de8e549d592047386bf5e06048dbfdf98181a229455db2aa6bc",
+  "vendor": "dynacore",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "NVIDIA GRAPHICS CARDS",
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5070 12G Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "NVIDIA GRAPHICS CARDS",
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5070 O12G Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1149.0
+    },
+    {
+      "category": "NVIDIA GRAPHICS CARDS",
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5070 O12G Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i3-14100F",
+      "warranty": null,
+      "price_sgd": 490.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i3-14100",
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-12400",
+      "warranty": null,
+      "price_sgd": 497.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-13400F",
+      "warranty": null,
+      "price_sgd": 784.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-13700K+",
+      "warranty": null,
+      "price_sgd": 716.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-14400F",
+      "warranty": null,
+      "price_sgd": 447.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-14400",
+      "warranty": null,
+      "price_sgd": 476.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-14600KF",
+      "warranty": null,
+      "price_sgd": 515.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-14600K",
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i7-13700KF",
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i7-14700F",
+      "warranty": null,
+      "price_sgd": 707.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i7-14700",
+      "warranty": null,
+      "price_sgd": 744.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i7-14700KF",
+      "warranty": null,
+      "price_sgd": 760.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i7-14700K",
+      "warranty": null,
+      "price_sgd": 770.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i9-14900KF",
+      "warranty": null,
+      "price_sgd": 907.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i9-14900K",
+      "warranty": null,
+      "price_sgd": 940.0
+    },
+    {
+      "category": "MOTHERBOARD & CPU FULL PC BUNDLE**",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z790-BTF WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14900KS",
+      "warranty": null,
+      "price_sgd": 1250.0
+    }
+  ],
+  "numeric_tokens_in_source": 2538,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 20/2538 = 0.01",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GT730 2GB GDDR5\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GT730 4HDMI 2GB GDDR5\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX3070 O8G V2 Gaming Triple Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual GTX1650 4GB Low Profile GDDR5\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4060 O8GB Twin Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus ATS RTX4060 O8GB Gaming V2 OC GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Proart RTX4060 O8G Triple Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4060 8GB Triple Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4060Ti O8G Twin Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4060Ti O8G White Twin Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Prime RTX4060Ti O8G OC Triple Fan GDDR6\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4060Ti O8G Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4060Ti OC 8GB Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4070 O12G Twin Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4070 O12G White Edition Twin Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070 12G Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070 O12G Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4070 O12G Gaming Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"ASUS DUAL RTX4070 SUPER O12G EVO Twin Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4070 SUPER 12G Twin Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4070 SUPER O12G Twin Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Dual RTX4070 SUPER O12G White Twin Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Prime RTX4070 Super O12G OC Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070 SUPER O12Gb Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4070 SUPER O12G Gaming Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4070Ti O12G Gaming Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070Ti O12Gb OC Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070Ti 12Gb Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Proart RTX4070Ti O12G Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"ASUS TUF GAMING RTX4070Ti SUPER O16G BTF WHITE TRIPLE FAN GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070Ti SUPER O16Gb Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming RTX4070Ti SUPER O16Gb White Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4070Ti SUPER O16G Gaming Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Proart RTX4070Ti SUPER O16G Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Strix RTX4080 O16G Gaming OC Triple Fan GDDR6X\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5070 12G Triple Fan OC GDDR7\", \"price_sgd\": 1099},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5070 O12G Triple Fan OC GDDR7\", \"price_sgd\": 1149},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5070 O12G Gaming Triple Fan GDDR7\", \"price_sgd\": 1299},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5070Ti O16G Triple Fan OC GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5070Ti O16G Gaming Triple Fan GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5080 O16G Triple Fan OC GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5080 O16G Gaming Triple Fan GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Rog Astral RTX5080 O16G Gaming OC Triple Fan GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5090 O32G Gaming OC Triple Fan GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Rog Astral RTX5090 O32G Gaming OC Triple Fan GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Rog Astral LC RTX5090 O32G Gaming OC GDDR7\", \"price_sgd\": null},\n  {\"category\": \"NVIDIA GRAPHICS CARDS\", \"brand\": \"Asus\", \"product\": \"Asus GeForce Rog Astral LC RTX5090 O32G Gaming OC GDDR7\", \"price_sgd\": null},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i3-14100F\", \"price_sgd\": 490},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i3-14100\", \"price_sgd\": 408},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-12400\", \"price_sgd\": 497},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-13400F\", \"price_sgd\": 784},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-13700K+\", \"price_sgd\": 716},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-14400F\", \"price_sgd\": 447},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-14400\", \"price_sgd\": 476},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-14600KF\", \"price_sgd\": 515},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i5-14600K\", \"price_sgd\": 589},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i7-13700KF\", \"price_sgd\": 617},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i7-14700F\", \"price_sgd\": 707},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i7-14700\", \"price_sgd\": 744},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i7-14700KF\", \"price_sgd\": 760},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i7-14700K\", \"price_sgd\": 770},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i9-14900KF\", \"price_sgd\": 907},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"i9-14900K\", \"price_sgd\": 940},\n  {\"category\": \"MOTHERBOARD & CPU FULL PC BUNDLE**\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING Z790-BTF WIFI D5\", \"bundle_cpu\": \"14900KS\", \"price_sgd\": 1250}\n]}"
+}
