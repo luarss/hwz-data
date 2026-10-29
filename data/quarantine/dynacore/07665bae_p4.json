@@ -1,0 +1,77 @@
+{
+  "sha256": "07665bae83c92a010fb0ad5ca70c91b46c3772e14f223069115d345df9f82791",
+  "vendor": "dynacore",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MOUSE AND KEYBOARD",
+      "brand": "Asus",
+      "product": "Asus ROG Falchion NX Blue Gaming KB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "MOUSE AND KEYBOARD",
+      "brand": "Asus",
+      "product": "Asus ROG Falchion MX CHERRY Blue 65%",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "Lenovo",
+      "product": "Lenovo L27i-40 1080P 100Hz Speaker Ips Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOC",
+      "product": "AOC 34\"CU34G2XP 1440P 180Hz Curved Gaming Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 449.0
+    },
+    {
+      "category": "SPEAKERS",
+      "brand": null,
+      "product": "4W 2.0 USB Speaker",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 21.0
+    },
+    {
+      "category": "WEBCAM",
+      "brand": "Asus",
+      "product": "Asus ROG Eye 1080P Webcam",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": "MOUSEPADS / KB CASE",
+      "brand": "Asus",
+      "product": "Asus Gundam NC09 Gaming Mouse Mat",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    }
+  ],
+  "numeric_tokens_in_source": 245,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 7/245 = 0.03",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"MOUSE AND KEYBOARD\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG Falchion NX Blue Gaming KB\",\n      \"price_sgd\": 169\n    },\n    {\n      \"category\": \"MOUSE AND KEYBOARD\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG Falchion MX CHERRY Blue 65%\",\n      \"price_sgd\": 1\n    },\n    {\n      \"category\": \"MONITORS\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo L27i-40 1080P 100Hz Speaker Ips Monitor\",\n      \"price_sgd\": 1\n    },\n    {\n      \"category\": \"MONITORS\",\n      \"brand\": \"AOC\",\n      \"product\": \"AOC 34\\\"CU34G2XP 1440P 180Hz Curved Gaming Monitor\",\n      \"warranty\": \"3yrs\",\n      \"price_sgd\": 449\n    },\n    {\n      \"category\": \"SPEAKERS\",\n      \"brand\": null,\n      \"product\": \"4W 2.0 USB Speaker\",\n      \"warranty\": \"3yrs\",\n      \"price_sgd\": 21\n    },\n    {\n      \"category\": \"WEBCAM\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus ROG Eye 1080P Webcam\",\n      \"price_sgd\": 101\n    },\n    {\n      \"category\": \"MOUSEPADS / KB CASE\",\n      \"brand\": \"Asus\",\n      \"product\": \"Asus Gundam NC09 Gaming Mouse Mat\",\n      \"price_sgd\": 36\n    }\n  ]\n}"
+}

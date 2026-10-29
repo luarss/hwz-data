@@ -1,0 +1,122 @@
+{
+  "sha256": "9a3ae387042a99a4d71d32404b295b72148a1108f1d84664ccbbb84b137f6288",
+  "vendor": "dynacore",
+  "page_number": 10,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I7-13620H / NVIDIA GEFORCE RTX 4050 / 16GB DDR5 / 512gb Ssd",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I7-13620H / NVIDIA GEFORCE RTX 4050 / 16GB DDR5 / 512gb Ssd",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1398.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I5-13420H / NVIDIA GEFORCE RTX 3050 / 16GB DDR4",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I5-13420H / NVIDIA GEFORCE RTX 3050 / 16GB DDR4",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1069.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 5 PROCESSOR 210H",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1399.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 5 PROCESSOR 210H",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1293.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 7 PROCESSOR 240H",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 7 PROCESSOR 240H",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1405.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA 5 PROCESSOR 125H",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 949.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA 5 PROCESSOR 125H",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 885.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA PROCESSOR 155H",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA PROCESSOR 155H",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1040.0
+    }
+  ],
+  "numeric_tokens_in_source": 21,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 12/21 = 0.57",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI THIN 15 INTEL CORE I7-13620H / NVIDIA GEFORCE RTX 4050 / 16GB DDR5 / 512gb Ssd\",\n      \"variant\": \"Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI THIN 15 INTEL CORE I7-13620H / NVIDIA GEFORCE RTX 4050 / 16GB DDR5 / 512gb Ssd\",\n      \"variant\": \"Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1398\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI THIN 15 INTEL CORE I5-13420H / NVIDIA GEFORCE RTX 3050 / 16GB DDR4\",\n      \"variant\": \"Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1099\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI THIN 15 INTEL CORE I5-13420H / NVIDIA GEFORCE RTX 3050 / 16GB DDR4\",\n      \"variant\": \"Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1069\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER NITRO V 15 INTEL CORE 5 PROCESSOR 210H\",\n      \"variant\": \"Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1399\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER NITRO V 15 INTEL CORE 5 PROCESSOR 210H\",\n      \"variant\": \"Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1293\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER NITRO V 15 INTEL CORE 7 PROCESSOR 240H\",\n      \"variant\": \"Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER NITRO V 15 INTEL CORE 7 PROCESSOR 240H\",\n      \"variant\": \"Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1405\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER ASPIRE GO 14 INTEL CORE ULTRA 5 PROCESSOR 125H\",\n      \"variant\": \"Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 949\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER ASPIRE GO 14 INTEL CORE ULTRA 5 PROCESSOR 125H\",\n      \"variant\": \"Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 885\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER ASPIRE GO 14 INTEL CORE ULTRA PROCESSOR 155H\",\n      \"variant\": \"Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1099\n    },\n    {\n      \"brand\": \"ACER\",\n      \"product\": \"ACER ASPIRE GO 14 INTEL CORE ULTRA PROCESSOR 155H\",\n      \"variant\": \"Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1040\n    }\n  ]\n}"
+}

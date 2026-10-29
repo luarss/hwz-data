@@ -1,0 +1,88 @@
+{
+  "rows": [
+    {
+      "brand": "HP",
+      "product": "HP PRODESK 400 G9 SFF",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 1050
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL OPTIPLEX 7020 SFF",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 999
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL OPTIPLEX 7020 MFF",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 1199
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 3030 MT",
+      "variant": "i7",
+      "warranty": "3Yrs",
+      "price_sgd": 1889
+    },
+    {
+      "brand": "DELL",
+      "product": "NEW DELL PRO TOWER QCT1250i5",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 1099
+    },
+    {
+      "brand": "DELL",
+      "product": "NEW DELL PRO SLIM QCS1250",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 1099
+    },
+    {
+      "brand": "DELL",
+      "product": "NEW DELL PRO TOWER QCT1250i7",
+      "variant": "i7",
+      "warranty": "3Yrs",
+      "price_sgd": 1499
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS S5 SFF S501SER-514500007W",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 1199
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS V500 Mini Tower V500MV-13420H159W",
+      "variant": "i5",
+      "warranty": "1Y",
+      "price_sgd": 749
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG G700 G700TF-07265F154W",
+      "variant": "U7",
+      "warranty": "3Yrs",
+      "price_sgd": 3199
+    },
+    {
+      "brand": "LENOVO",
+      "product": "LENOVO OFFICE DESKTOP SFF IDEACENTRE TOWER - 90XW0012ST",
+      "variant": "i5",
+      "warranty": "3Yrs",
+      "price_sgd": 849
+    },
+    {
+      "brand": "LENOVO",
+      "product": "LENOVO OFFICE DESKTOP SFF IDEACENTRE TOWER - 90XW0011ST",
+      "variant": "i7",
+      "warranty": "3Yrs",
+      "price_sgd": 1149
+    }
+  ]
+}

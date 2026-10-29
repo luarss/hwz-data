@@ -1,0 +1,1697 @@
+{
+  "sha256": "9a3ae387042a99a4d71d32404b295b72148a1108f1d84664ccbbb84b137f6288",
+  "vendor": "dynacore",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MONITORS",
+      "brand": "Dell",
+      "product": "Dell 27\"P2725H 1080P 100Hz IPS Height Adjustable Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF 27\" VG27WQ1B CURVED-WQHD-1440P,165Hz,120%sRGB 1MS GAMING MONITOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOC",
+      "product": "AOC 27\"Q27G4F 1440P QHD 180Hz 0.5MS HEIGHT ADJ IPS GAMING MONITOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOC",
+      "product": "AOC 27\"27G11ZE2 FHD 1080P 240Hz 0.3MS FAST IPS GAMING MONITOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "COOLER MASTER",
+      "product": "COOLER MASTER GM27 FFS 165Hz 1080P IPS GAMING MONITOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "MSI",
+      "product": "MSI MAG 27\"274UPF E2 4K UHD 160Hz HDR RAPID IPS GAMING MONITOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "DELL",
+      "product": "DELL 24\" P2425H Professional IPS USB-C,HDMI,DP,VGA,Height",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "MSI",
+      "product": "MSI MAG 255F E20 200Hz IPS 0.5MS GAMING MONITOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "MSI",
+      "product": "MSI MAG 275QF 27\" 1440P 180hz Gaming Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 27KG3 X1 27\" 1080P 200HZ IPS Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 27KG3U F3 27\" 1440P 320HZ IPS Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 27HC5R X0 27\" 1080P 200HZ VA Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 27HC5R Z1 | 27\" 1080P 280HZ VA Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 32HC5QR X2 | 32\" 1080P 240HZ VA Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 24SB2Y P1 | 24\" 1080P 144HZ IPS Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOPEN",
+      "product": "AOPEN 27SB2U G0 | 27\" 1440P 120HZ IPS Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOC",
+      "product": "AOC 27\" 27G4 A-Sync 180Hz IPS FHD HDMI 2.0 & DP 1.4",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "MONITORS",
+      "brand": "AOC",
+      "product": "AOC Q27G42ZE QHD 240Hz Gaming Monitor 1ms",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG-STRIX-RTX4060-O8G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME-RTX4060TI-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG-STRIX-RTX4090-O24G-BTF-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF-RX7900XT-O20G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1129.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME AMD RADEON RX9070 O16G TRIPLE FAN GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE NITRO+ RX 7900XTX GAMING OC VAPOR-X 24GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1269.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE AMD RADEON NITRO+ RX 7800XT 16GB OC TRIPLE FAN GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE AMD RADEON NITRO+ RX9070 XT GAMING OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE AMD RADEON PULSE RX9070XT GAMING 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 985.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "RTX5060 8GB 2X OC TWIN FAN GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "RTX5070 12GB 2X OC TWIN FAN GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 785.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "RTX5070TI 16GB TRIPLE FAN OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1309.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "GeForce RTX5080 OC 16G TRIPLE FAN GDDR7 GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2029.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG ASTRAL RTX5080 16G GAMING TRIPLE FAN GDDR7 GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2299.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "RTX5090 32GB TRIPLE FAN GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4259.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "RTX5090 32GB TRIPLE FAN GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3999.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE AMD RADEON RTX5060Ti 16G OC TRIPLE FAN GDDR7 GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1085.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE AMD RADEON NITRO+ RX9070XT GAMING OC 16GB TRIPLE FAN GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "AMD",
+      "product": "AMD RADEON RX9070XT 16G OC TRIPLE FAN GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "MSI",
+      "product": "Msi GeForce RTX5060 8Gb Ventus 2X OC White Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 465.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "MSI",
+      "product": "Msi GeForce RTX5060Ti 8Gb Ventus 2X OC Plus Dual Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "UNKNOWN",
+      "product": "GT710 2GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "MSI",
+      "product": "MSI GEFORCE RTX5070 12GB VANGUARD SOC TRIPLE FAN GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "MSI",
+      "product": "MSI GEFORCE RTX5070 12GB VANGUARD SOC LAUNCH EDITION TRIPLE FAN GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "POWERCOLOR",
+      "product": "POWERCOLOR REAPER AMD RADEON RX9060XT 8GB TWIN FAN GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 455.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "GALAX",
+      "product": "GALAX RTX 5070 1-Click OC WHITE 12GB GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 819.0
+    },
+    {
+      "category": "GRAPHIC CARD",
+      "brand": "GALAX",
+      "product": "GALAX RTX 5070 EX Gamer 1-Click OC White 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 869.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "PRITTEC",
+      "product": "PRITTEC MINIPC N150/16GB/512G/WIN 11PRO/WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 248.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "ASUS",
+      "product": "ASUS NUC 15 PRO RNUC15CRHU7 MINIPC BAREBONE TALL BLACKU7 255H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 898.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "PRITTEC",
+      "product": "PRITTEC F8 MINIPC(i5-13420H/16GBx1D4/512G/WIN11-PRO/WIFI6)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "UNKNOWN",
+      "product": "Creepr ARGB GPU Extension Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "EZDIY-FAB",
+      "product": "EZDIY-FAB BLACK/WHITE SLEEVED EXTENSION CABLE KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "Cooler Master",
+      "product": "Cooler Master Hyper 612 Apex 260W TDP Tower heatsink Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT GRAND VISION LCD 240 ARGB BLACK AIO LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 120 DIGITAL ARGB BLACK HEATSINK COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "UNKNOWN",
+      "product": "Creeper ARGB PSU Extension Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "COOLER MASTER",
+      "product": "COOLER MASTER MASTERLIQUID 240L CORE ARGB AIO LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "COOLER MASTER",
+      "product": "COOLER MASTER MASTERLIQUID 360L CORE WHITE ARGB AIO LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X47 BLACK CLASSIC LOW PROFILE COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "LIAN LI",
+      "product": "LIAN LI UNI FAN TL LCD 120 RGB WHITE 3-PACK DAISY CHAIN FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "LIAN LI",
+      "product": "LIAN LI UNI FAN TL LCD 120 RGB WHITE REVERSE BLADE 1-PACK FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS M25-120 G2 D-RGB BLACK 3-PACK REGULAR PWM FANS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME LC 360 ARGB 360MM ALL IN ONE LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X53 CLASSIC BLACK HTPC/ITX LOW PROFILE COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AM5 BLACK SECURE FRAME",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Crucial",
+      "product": "Crucial P310 500Gb 7100MB/s Nvme Gen4 M.2 Ssd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL P3 PLUS 4TB 4800MB/s GEN4 NVME SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 315.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL BX500 2.5\"1TB SATA 6GB/s SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL T500 PRO 2TB 7400MB/s PCIe GEN4 NVMe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "SAMSUNG",
+      "product": "SAMSUNG 990 PRO 2TB 7450MB/s PCIe4.0 NVMe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "SK HYNIX",
+      "product": "SK HYNIX PLATINUM P41 1TB GEN4 NVMe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "TEAMGROUP",
+      "product": "TEAMGROUP MP44L 500GB 5000MB/s GEN4 NVMe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BLADE 2TB 7400MB/s GEN4 NVMe SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Team Group",
+      "product": "Team Group CX2 2.5\"1TB Sata 540MB/s Sata Ssd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "KIOXIA",
+      "product": "KIOXIA EXCERIA PLUS G2 1TB 1050MB/s TYPE-C PORTABLE SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "KIOXIA",
+      "product": "KIOXIA EXCERIA PLUS G2 2TB 1050MB/s TYPE-C PORTABLE SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "ADATA",
+      "product": "ADATA SE880 2TB 2000MB/s USB3.2 GEN2x2 TYPE-C PORTABLE SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Seagate",
+      "product": "Seagate Ultra Touch 4TB Type-C Portable Hdd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 150.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro 1TB 7300MB/s Gen4 Nvme Ssd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Plus G4 1TB 10000MB/s Gen5 Nvme Ssd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Plus G4 2TB 10000MB/s Gen5 Nvme Ssd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "Seagate",
+      "product": "Seagate Expansion 1TB Portable Usb3.0 Hdd",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": "SSD/PORTABLE HDD",
+      "brand": "DynaBook",
+      "product": "DynaBook DB03 USB Flash Drive 256gb Red/Blue/Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "G.SKILL",
+      "product": "G.SKILL FLARE X5 AMD EXPO/INTEL 6000MHz 32GB(16GBx2) CL36 KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "G.SKILL",
+      "product": "G.SKILL FLARE X5 DDR5 6000MHz 32GB(16GBx2) CL30 AMD EXPO KIT",
+      "variant": "32GB(16GBx2)",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "G.SKILL",
+      "product": "G.SKILL FLARE X5 DDR5 6000MHz 64GB(32GBx2) CL30 AMD EXPO KIT",
+      "variant": "64GB(32GBx2)",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 335.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS M5 NEO RGB BLACK D5 6000MHz 32GB(16GBx2) CL36",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 NEO RGB 6000MHz 32GB(16GBx2) CL30 AMD KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6600 INTEL XMP BLACK 32GB(2x16GB)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "TEAM",
+      "product": "TEAM T-FORCE DELTA RGB BLACK DDR5 6000MHz 32GB(16GBx2) CL30 KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "Crucial",
+      "product": "Crucial Pro Overclocking 32GB Kit (2x16GB) DDR5-6000 4800MHz 16GB SINGLE STICK UDIMM CL36 Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "TRANSCEND",
+      "product": "TRANSCEND JM4800ALE-16G DESKTOP RAM",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL 16GB DDR5-5600 SODIMM CL46",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS V 3600MHz 32GB (16GBx2) CL18 KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL PRO DDR5 WHITE 6000MT/s 32GB(16GBx2) CL36 INTEL/AMD EXPO KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "APNX",
+      "product": "APNX C1 WHITE ARGB TYPE-C AIRFLOW TEMPERED GLASS ATX CASING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "Lian Li",
+      "product": "Lian Li SUP01 Black/White CASING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "M.G.",
+      "product": "M.G. Neo Air 2 MidTower White wood texture Case",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS G360 Air MATTEWHITE CASE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "ASUS",
+      "product": "ASUS PRIME AP201 BLACK TG CASE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "RAM / CASING",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE AHT200 M-ATX BLACK CASE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO WIFI7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2199.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO WIFI7",
+      "variant": null,
+      "bundle_cpu": "Ultra 9 285k",
+      "warranty": null,
+      "price_sgd": 1720.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO WIFI7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1799.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO WIFI7",
+      "variant": null,
+      "bundle_cpu": "Ultra 7 265kf",
+      "warranty": null,
+      "price_sgd": 1325.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI CSM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 650.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI CSM",
+      "variant": null,
+      "bundle_cpu": "Ultra 5 245kf",
+      "warranty": null,
+      "price_sgd": 475.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "INTEL",
+      "product": "INTEL i5-14400F 2.5GHz 10CORE/16THREAD 20MB CACHE PROCESSOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "INTEL",
+      "product": "INTEL CORE ULTRA 5 245K 3.5GHz 6+8CORE/14T 24MB CACHE PROCESSOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 380.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1298.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": "Ryzen 7 7800x3D",
+      "warranty": null,
+      "price_sgd": 808.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": "Ryzen 7 9800x3D",
+      "warranty": null,
+      "price_sgd": 992.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI AM5 ITX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI AM5 ITX",
+      "variant": null,
+      "bundle_cpu": "Ryzen 7 7800x3D",
+      "warranty": null,
+      "price_sgd": 875.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "MSI",
+      "product": "MSI B850M GAMING PLUS WIFI AM5 m-ATX MB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 698.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "MSI",
+      "product": "MSI B850M GAMING PLUS WIFI AM5 m-ATX MB",
+      "variant": null,
+      "bundle_cpu": "Ryzen 7 7700",
+      "warranty": null,
+      "price_sgd": 505.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "MSI",
+      "product": "MSI B650M GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "MSI",
+      "product": "MSI B650M GAMING PLUS WIFI",
+      "variant": null,
+      "bundle_cpu": "Ryzen 5 7600",
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1015.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": "Ryzen 7 9700X",
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1488.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI7",
+      "variant": null,
+      "bundle_cpu": "Ultra 7 265k",
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI 7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI 7",
+      "variant": null,
+      "bundle_cpu": "Ultra 5 245k",
+      "warranty": null,
+      "price_sgd": 555.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "variant": null,
+      "bundle_cpu": "Ryzen 7 7800x3D",
+      "warranty": null,
+      "price_sgd": 860.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "variant": null,
+      "bundle_cpu": "Ryzen 9 9900x",
+      "warranty": null,
+      "price_sgd": 1320.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "MSI",
+      "product": "MSI B760M GAMING PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "MSI",
+      "product": "MSI B760M GAMING PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "i5-14400F",
+      "warranty": null,
+      "price_sgd": 370.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": "Ryzen 9 9950x3D",
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1259.0
+    },
+    {
+      "category": "MOTHERBOARD-CPU BUNDLE",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI AM5",
+      "variant": null,
+      "bundle_cpu": "Ryzen 9 9900x",
+      "warranty": null,
+      "price_sgd": 950.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "COOLER MASTER",
+      "product": "COOLER MASTER SK620 RED/BLUE SWITCH RGB 60% MECHANICAL LP KB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING K1 RGB TACTILE MEMBRANE KEYBOARD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH G PRO X RGB GX-BLUE CLICKY MECHANICAL TKL KB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS ROG AZOTH ROG NX STORM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 293.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X901 SCOPE II 96 NX STORM WIRELESS MEC.KB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "GARETHAN",
+      "product": "GARETHAN GE-KM900 WIRELESS KB & MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH MK850 PERFOMANCE WIRELESS KB & MOUSE COMBO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH MK220 WIRELESS KB & MOUSE COMBO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "RAZER",
+      "product": "RAZER VIPER V3 PRO FAKER EDITION RZ01-05120500-R3M1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH G435 HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING H3 GUN METAL 7.1 GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS ROG DELTA S ANIMATE QUAD DAC RGB GAMING HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH H370 USB HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING M3 GEN II WIRED GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX EVOLVE AURA SYNC 7.2K DPI GAMING MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH SIGNATURE M650 M GRAPHITE WIRELESS MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "LOGITECH",
+      "product": "LOGITECH MX ANYWHERE 3S GRAPHITE WIRELESS PERFORMANCE MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "HEADSET/KEYBOARD/MOUSE/MOUSEPAD",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING P1 PORTABLE 260 x 360MM GAMING MOUSE PAD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": "PSU",
+      "brand": "Thermaltake",
+      "product": "Thermaltake Toughpower GT 850W ATX3.1 80+ Gold Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "PSU",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX 1000W 80+ GOLD FULLY MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "PSU",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT TR-SG850 850W ATX3.1 80+ GOLD FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "PSU",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT TR-SG850S-W WHITE 850W 80+ GOLD ATX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SILVERSTONE",
+      "product": "SILVERSTONE TRITON TR750R-750W ATX3.1 80+ GOLD PCIe5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SILVERSTONE",
+      "product": "SILVERSTONE TRITON TR850R-850W ATX3.1 80+ GOLD PCIe5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SILVERSTONE",
+      "product": "SILVERSTONE SX500-G 500W GOLD FULL MODULAR SFX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": "PSU",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE UD1000GM-1000W PCIE 5.0 80+ GOLD FULLY MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": "PSU",
+      "brand": "LIA LI",
+      "product": "LIA LI EDGE EG1000G-1000W ATX3.1 80+ GOLD FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": "PSU",
+      "brand": "LIAN LI",
+      "product": "LIAN LI EDGE1300-1300W BLACK ATX3.0 PCIe5.1 80+ PLATINUM MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 285.0
+    },
+    {
+      "category": "PSU",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT TR-SGFX650 650W White ATX3.1 80+ GOLD BLACK F.MODULAR SFX",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "PSU",
+      "brand": "Msi",
+      "product": "Msi Mag A750GL 750W ATX3.1 80+ Gold Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SILVERSTONE",
+      "product": "SILVERSTONE HELA 1300R-1300W 80+ PLATINUM ATX3.0 PCIe5 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SILVERSTONE",
+      "product": "SILVERSTONE DA1000R-1000W ATX3.0 PCIe5.0 80+ GOLD FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SEASONIC",
+      "product": "SEASONIC FOCUS GX-850W WHITE V4 ATX3.1 80+ GOLD FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SEASONIC",
+      "product": "SEASONIC FOCUS GX-1000W V4 WHITE ATX3.180+ GOLD FULL MODULAR PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "PSU",
+      "brand": "COOLER MASTER",
+      "product": "COOLER MASTER 12+4PIN to 3x8-PIN 12VHPWR PCIe GEN5 600W 90 DEGREE ADAPTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": "PSU",
+      "brand": "SEASONIC",
+      "product": "SEASONIC 12VHPWR CABLE 2x8PIN TO 1x12VHPWR CONNECTOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "ASUS",
+      "product": "ASUS PCE-BE92BT BE9400 TRI BAND WIFI 7 + BLEUTOOTH 5.4 PCIe ADAPTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI XT8 AX6600 2-PACK TRI-BAND WI-FI MESH ROUTHER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 488.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "MSI",
+      "product": "MSI RADIX AX6600 Wi-Fi 6 TRI-BAND GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE58U BE3600 DUAL BAND WIFI 7 EXTENDABLE ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE86U BE6800 DUAL BAND WIFI 7 10GE ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 435.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK Arhcer GE550 BE9300 TRI-BAND WI-FI 7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TAPO TD21 VIDEO DOORBELL CAMERA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK M7350 4G LTE DUAL BAND MOBILE WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK ARCHER AX55 PRO AX3000 WIFI ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 108.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK ARCHER TBE400E BE6500 WIFI 7 BLUETOOTH PCIe ADAPTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK UH6120C USB TYPE-C 6 PORT HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK DECO BE25 (3-PK) BE5000 WIFI 7 MESH SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "UBIQUITI",
+      "product": "UBIQUITI UNIFI U7-PRO-MAX WIFI 7 ACCESS POINT WITH 2.5GBe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX3000 V2 AX3000 Dual Band WiFi 6 Extendable Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING BE6500 DUAL BAND WIFI7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 262.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK UH7020C TYPE-C 7 PORT HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK UH9120C USB TYPE-C 9 PORT HUB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "ROUTER/AP/SWITCH",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TC71 PAN/TILT WIFI CAMERA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    }
+  ],
+  "numeric_tokens_in_source": 347,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 187/347 = 0.54",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"MONITORS\", \"brand\": \"Dell\", \"product\": \"Dell 27\\\"P2725H 1080P 100Hz IPS Height Adjustable Monitor\", \"price_sgd\": 229},\n  {\"category\": \"MONITORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF 27\\\" VG27WQ1B CURVED-WQHD-1440P,165Hz,120%sRGB 1MS GAMING MONITOR\", \"price_sgd\": 215},\n  {\"category\": \"MONITORS\", \"brand\": \"AOC\", \"product\": \"AOC 27\\\"Q27G4F 1440P QHD 180Hz 0.5MS HEIGHT ADJ IPS GAMING MONITOR\", \"price_sgd\": 265},\n  {\"category\": \"MONITORS\", \"brand\": \"AOC\", \"product\": \"AOC 27\\\"27G11ZE2 FHD 1080P 240Hz 0.3MS FAST IPS GAMING MONITOR\", \"price_sgd\": 175},\n  {\"category\": \"MONITORS\", \"brand\": \"COOLER MASTER\", \"product\": \"COOLER MASTER GM27 FFS 165Hz 1080P IPS GAMING MONITOR\", \"price_sgd\": 199},\n  {\"category\": \"MONITORS\", \"brand\": \"MSI\", \"product\": \"MSI MAG 27\\\"274UPF E2 4K UHD 160Hz HDR RAPID IPS GAMING MONITOR\", \"price_sgd\": 469},\n  {\"category\": \"MONITORS\", \"brand\": \"DELL\", \"product\": \"DELL 24\\\" P2425H Professional IPS USB-C,HDMI,DP,VGA,Height\", \"price_sgd\": 175},\n  {\"category\": \"MONITORS\", \"brand\": \"MSI\", \"product\": \"MSI MAG 255F E20 200Hz IPS 0.5MS GAMING MONITOR\", \"price_sgd\": 159},\n  {\"category\": \"MONITORS\", \"brand\": \"MSI\", \"product\": \"MSI MAG 275QF 27\\\" 1440P 180hz Gaming Monitor\", \"price_sgd\": 249},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 27KG3 X1 27\\\" 1080P 200HZ IPS Monitor\", \"price_sgd\": 189},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 27KG3U F3 27\\\" 1440P 320HZ IPS Monitor\", \"price_sgd\": 279},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 27HC5R X0 27\\\" 1080P 200HZ VA Monitor\", \"price_sgd\": 172},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 27HC5R Z1 | 27\\\" 1080P 280HZ VA Monitor\", \"price_sgd\": 209},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 32HC5QR X2 | 32\\\" 1080P 240HZ VA Monitor\", \"price_sgd\": 235},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 24SB2Y P1 | 24\\\" 1080P 144HZ IPS Monitor\", \"price_sgd\": 105},\n  {\"category\": \"MONITORS\", \"brand\": \"AOPEN\", \"product\": \"AOPEN 27SB2U G0 | 27\\\" 1440P 120HZ IPS Monitor\", \"price_sgd\": 172},\n  {\"category\": \"MONITORS\", \"brand\": \"AOC\", \"product\": \"AOC 27\\\" 27G4 A-Sync 180Hz IPS FHD HDMI 2.0 & DP 1.4\", \"price_sgd\": 179},\n  {\"category\": \"MONITORS\", \"brand\": \"AOC\", \"product\": \"AOC Q27G42ZE QHD 240Hz Gaming Monitor 1ms\", \"price_sgd\": 309},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG-STRIX-RTX4060-O8G-GAMING\", \"price_sgd\": 399},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME-RTX4060TI-O8G\", \"price_sgd\": 529},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG-STRIX-RTX4090-O24G-BTF-GAMING\", \"price_sgd\": 2099},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF-RX7900XT-O20G-GAMING\", \"price_sgd\": 1129},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME AMD RADEON RX9070 O16G TRIPLE FAN GDDR6\", \"price_sgd\": 918},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE NITRO+ RX 7900XTX GAMING OC VAPOR-X 24GB GDDR6\", \"price_sgd\": 1269},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE AMD RADEON NITRO+ RX 7800XT 16GB OC TRIPLE FAN GDDR6\", \"price_sgd\": 689},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE AMD RADEON NITRO+ RX9070 XT GAMING OC 16GB GDDR6\", \"price_sgd\": 599},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE AMD RADEON PULSE RX9070XT GAMING 16GB GDDR6\", \"price_sgd\": 985},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"RTX5060 8GB 2X OC TWIN FAN GDDR7\", \"price_sgd\": 429},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"RTX5070 12GB 2X OC TWIN FAN GDDR7\", \"price_sgd\": 785},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"RTX5070TI 16GB TRIPLE FAN OC GDDR7\", \"price_sgd\": 1309},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"GeForce RTX5080 OC 16G TRIPLE FAN GDDR7 GPU\", \"price_sgd\": 2029},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG ASTRAL RTX5080 16G GAMING TRIPLE FAN GDDR7 GPU\", \"price_sgd\": 2299},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"RTX5090 32GB TRIPLE FAN GDDR7\", \"price_sgd\": 4259},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"RTX5090 32GB TRIPLE FAN GDDR7\", \"price_sgd\": 3999},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE AMD RADEON RTX5060Ti 16G OC TRIPLE FAN GDDR7 GPU\", \"price_sgd\": 1085},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE AMD RADEON NITRO+ RX9070XT GAMING OC 16GB TRIPLE FAN GDDR6\", \"price_sgd\": 649},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"AMD\", \"product\": \"AMD RADEON RX9070XT 16G OC TRIPLE FAN GDDR6\", \"price_sgd\": 999},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"MSI\", \"product\": \"Msi GeForce RTX5060 8Gb Ventus 2X OC White Twin Fan GDDR7\", \"price_sgd\": 465},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"MSI\", \"product\": \"Msi GeForce RTX5060Ti 8Gb Ventus 2X OC Plus Dual Fan GDDR7\", \"price_sgd\": 589},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"UNKNOWN\", \"product\": \"GT710 2GB\", \"price_sgd\": 49},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"MSI\", \"product\": \"MSI GEFORCE RTX5070 12GB VANGUARD SOC TRIPLE FAN GDDR7\", \"price_sgd\": 1029},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"MSI\", \"product\": \"MSI GEFORCE RTX5070 12GB VANGUARD SOC LAUNCH EDITION TRIPLE FAN GDDR7\", \"price_sgd\": 1029},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"POWERCOLOR\", \"product\": \"POWERCOLOR REAPER AMD RADEON RX9060XT 8GB TWIN FAN GDDR6\", \"price_sgd\": 455},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"GALAX\", \"product\": \"GALAX RTX 5070 1-Click OC WHITE 12GB GDDR7\", \"price_sgd\": 819},\n  {\"category\": \"GRAPHIC CARD\", \"brand\": \"GALAX\", \"product\": \"GALAX RTX 5070 EX Gamer 1-Click OC White 12GB\", \"price_sgd\": 869},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"PRITTEC\", \"product\": \"PRITTEC MINIPC N150/16GB/512G/WIN 11PRO/WIFI\", \"price_sgd\": 248},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 15 PRO RNUC15CRHU7 MINIPC BAREBONE TALL BLACKU7 255H\", \"price_sgd\": 898},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"PRITTEC\", \"product\": \"PRITTEC F8 MINIPC(i5-13420H/16GBx1D4/512G/WIN11-PRO/WIFI6)\", \"price_sgd\": 599},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"UNKNOWN\", \"product\": \"Creepr ARGB GPU Extension Cable\", \"price_sgd\": 35},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"EZDIY-FAB\", \"product\": \"EZDIY-FAB BLACK/WHITE SLEEVED EXTENSION CABLE KIT\", \"price_sgd\": 15},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"Cooler Master\", \"product\": \"Cooler Master Hyper 612 Apex 260W TDP Tower heatsink Cooler\", \"price_sgd\": 99},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT GRAND VISION LCD 240 ARGB BLACK AIO LIQUID COOLER\", \"price_sgd\": 149},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 120 DIGITAL ARGB BLACK HEATSINK COOLER\", \"price_sgd\": 60},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"UNKNOWN\", \"product\": \"Creeper ARGB PSU Extension Cable\", \"price_sgd\": 35},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"COOLER MASTER\", \"product\": \"COOLER MASTER MASTERLIQUID 240L CORE ARGB AIO LIQUID COOLER\", \"price_sgd\": 62},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"COOLER MASTER\", \"product\": \"COOLER MASTER MASTERLIQUID 360L CORE WHITE ARGB AIO LIQUID COOLER\", \"price_sgd\": 80},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X47 BLACK CLASSIC LOW PROFILE COOLER\", \"price_sgd\": 38},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI UNI FAN TL LCD 120 RGB WHITE 3-PACK DAISY CHAIN FAN\", \"price_sgd\": 118},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI UNI FAN TL LCD 120 RGB WHITE REVERSE BLADE 1-PACK FAN\", \"price_sgd\": 50},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"PHANTEKS\", \"product\": \"PHANTEKS M25-120 G2 D-RGB BLACK 3-PACK REGULAR PWM FANS\", \"price_sgd\": 45},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME LC 360 ARGB 360MM ALL IN ONE LIQUID COOLER\", \"price_sgd\": 145},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X53 CLASSIC BLACK HTPC/ITX LOW PROFILE COOLER\", \"price_sgd\": 40},\n  {\"category\": \"MINI PC/COOLER/FAN/ARGB (GPU/PSU) SLEEVE\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AM5 BLACK SECURE FRAME\", \"price_sgd\": 8},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Crucial\", \"product\": \"Crucial P310 500Gb 7100MB/s Nvme Gen4 M.2 Ssd\", \"price_sgd\": 62},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL P3 PLUS 4TB 4800MB/s GEN4 NVME SSD\", \"price_sgd\": 315},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL BX500 2.5\\\"1TB SATA 6GB/s SSD\", \"price_sgd\": 85},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL T500 PRO 2TB 7400MB/s PCIe GEN4 NVMe SSD\", \"price_sgd\": 185},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"SAMSUNG\", \"product\": \"SAMSUNG 990 PRO 2TB 7450MB/s PCIe4.0 NVMe SSD\", \"price_sgd\": 245},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"SK HYNIX\", \"product\": \"SK HYNIX PLATINUM P41 1TB GEN4 NVMe SSD\", \"price_sgd\": 118},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"TEAMGROUP\", \"product\": \"TEAMGROUP MP44L 500GB 5000MB/s GEN4 NVMe SSD\", \"price_sgd\": 50},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BLADE 2TB 7400MB/s GEN4 NVMe SSD\", \"price_sgd\": 175},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Team Group\", \"product\": \"Team Group CX2 2.5\\\"1TB Sata 540MB/s Sata Ssd\", \"price_sgd\": 75},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA EXCERIA PLUS G2 1TB 1050MB/s TYPE-C PORTABLE SSD\", \"price_sgd\": 99},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA EXCERIA PLUS G2 2TB 1050MB/s TYPE-C PORTABLE SSD\", \"price_sgd\": 155},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"ADATA\", \"product\": \"ADATA SE880 2TB 2000MB/s USB3.2 GEN2x2 TYPE-C PORTABLE SSD\", \"price_sgd\": 195},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Seagate\", \"product\": \"Seagate Ultra Touch 4TB Type-C Portable Hdd\", \"price_sgd\": 150},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro 1TB 7300MB/s Gen4 Nvme Ssd\", \"price_sgd\": 109},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Plus G4 1TB 10000MB/s Gen5 Nvme Ssd\", \"price_sgd\": 159},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Plus G4 2TB 10000MB/s Gen5 Nvme Ssd\", \"price_sgd\": 249},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"Seagate\", \"product\": \"Seagate Expansion 1TB Portable Usb3.0 Hdd\", \"price_sgd\": 68},\n  {\"category\": \"SSD/PORTABLE HDD\", \"brand\": \"DynaBook\", \"product\": \"DynaBook DB03 USB Flash Drive 256gb Red/Blue/Black\", \"price_sgd\": 18},\n  {\"category\": \"RAM / CASING\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL FLARE X5 AMD EXPO/INTEL 6000MHz 32GB(16GBx2) CL36 KIT\", \"price_sgd\": 136},\n  {\"category\": \"RAM / CASING\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL FLARE X5 DDR5 6000MHz 32GB(16GBx2) CL30 AMD EXPO KIT\", \"variant\": \"32GB(16GBx2)\", \"price_sgd\": 185},\n  {\"category\": \"RAM / CASING\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL FLARE X5 DDR5 6000MHz 64GB(32GBx2) CL30 AMD EXPO KIT\", \"variant\": \"64GB(32GBx2)\", \"price_sgd\": 335},\n  {\"category\": \"RAM / CASING\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS M5 NEO RGB BLACK D5 6000MHz 32GB(16GBx2) CL36\", \"price_sgd\": 135},\n  {\"category\": \"RAM / CASING\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 NEO RGB 6000MHz 32GB(16GBx2) CL30 AMD KIT\", \"price_sgd\": 195},\n  {\"category\": \"RAM / CASING\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6600 INTEL XMP BLACK 32GB(2x16GB)\", \"price_sgd\": 149},\n  {\"category\": \"RAM / CASING\", \"brand\": \"TEAM\", \"product\": \"TEAM T-FORCE DELTA RGB BLACK DDR5 6000MHz 32GB(16GBx2) CL30 KIT\", \"price_sgd\": 155},\n  {\"category\": \"RAM / CASING\", \"brand\": \"Crucial\", \"product\": \"Crucial Pro Overclocking 32GB Kit (2x16GB) DDR5-6000 4800MHz 16GB SINGLE STICK UDIMM CL36 Black\", \"price_sgd\": 125},\n  {\"category\": \"RAM / CASING\", \"brand\": \"TRANSCEND\", \"product\": \"TRANSCEND JM4800ALE-16G DESKTOP RAM\", \"variant\": \"16GB\", \"price_sgd\": 58},\n  {\"category\": \"RAM / CASING\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL 16GB DDR5-5600 SODIMM CL46\", \"variant\": \"16GB\", \"price_sgd\": 59},\n  {\"category\": \"RAM / CASING\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS V 3600MHz 32GB (16GBx2) CL18 KIT\", \"price_sgd\": 129},\n  {\"category\": \"RAM / CASING\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL PRO DDR5 WHITE 6000MT/s 32GB(16GBx2) CL36 INTEL/AMD EXPO KIT\", \"price_sgd\": 125},\n  {\"category\": \"RAM / CASING\", \"brand\": \"APNX\", \"product\": \"APNX C1 WHITE ARGB TYPE-C AIRFLOW TEMPERED GLASS ATX CASING\", \"price_sgd\": 79},\n  {\"category\": \"RAM / CASING\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SUP01 Black/White CASING\", \"price_sgd\": 88},\n  {\"category\": \"RAM / CASING\", \"brand\": \"M.G.\", \"product\": \"M.G. Neo Air 2 MidTower White wood texture Case\", \"price_sgd\": 99},\n  {\"category\": \"RAM / CASING\", \"brand\": \"PHANTEKS\", \"product\": \"PHANTEKS G360 Air MATTEWHITE CASE\", \"price_sgd\": 69},\n  {\"category\": \"RAM / CASING\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME AP201 BLACK TG CASE\", \"price_sgd\": 88},\n  {\"category\": \"RAM / CASING\", \"brand\": \"THERMALTAKE\", \"product\": \"THERMALTAKE AHT200 M-ATX BLACK CASE\", \"price_sgd\": 169},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 HERO WIFI7\", \"price_sgd\": 2199},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 HERO WIFI7\", \"bundle_cpu\": \"Ultra 9 285k\", \"price_sgd\": 1720},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 HERO WIFI7\", \"price_sgd\": 1799},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z890 HERO WIFI7\", \"bundle_cpu\": \"Ultra 7 265kf\", \"price_sgd\": 1325},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B860-PLUS WIFI CSM\", \"price_sgd\": 650},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B860-PLUS WIFI CSM\", \"bundle_cpu\": \"Ultra 5 245kf\", \"price_sgd\": 475},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"INTEL\", \"product\": \"INTEL i5-14400F 2.5GHz 10CORE/16THREAD 20MB CACHE PROCESSOR\", \"price_sgd\": 172},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"INTEL\", \"product\": \"INTEL CORE ULTRA 5 245K 3.5GHz 6+8CORE/14T 24MB CACHE PROCESSOR\", \"price_sgd\": 380},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"price_sgd\": 1298},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"bundle_cpu\": \"Ryzen 7 7800x3D\", \"price_sgd\": 808},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"price_sgd\": 1599},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"bundle_cpu\": \"Ryzen 7 9800x3D\", \"price_sgd\": 992},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX B850-I GAMING WIFI AM5 ITX\", \"price_sgd\": 1029},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX B850-I GAMING WIFI AM5 ITX\", \"bundle_cpu\": \"Ryzen 7 7800x3D\", \"price_sgd\": 875},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"MSI\", \"product\": \"MSI B850M GAMING PLUS WIFI AM5 m-ATX MB\", \"price_sgd\": 698},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"MSI\", \"product\": \"MSI B850M GAMING PLUS WIFI AM5 m-ATX MB\", \"bundle_cpu\": \"Ryzen 7 7700\", \"price_sgd\": 505},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"MSI\", \"product\": \"MSI B650M GAMING PLUS WIFI\", \"price_sgd\": 529},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"MSI\", \"product\": \"MSI B650M GAMING PLUS WIFI\", \"bundle_cpu\": \"Ryzen 5 7600\", \"price_sgd\": 368},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B850M AORUS ELITE AX ICE\", \"price_sgd\": 1015},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B850M AORUS ELITE AX ICE\", \"bundle_cpu\": \"Ryzen 7 9700X\", \"price_sgd\": 775},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI7\", \"price_sgd\": 1488},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Z890-I GAMING WIFI7\", \"bundle_cpu\": \"Ultra 7 265k\", \"price_sgd\": 1199},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING B860M-PLUS WIFI 7\", \"price_sgd\": 789},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING B860M-PLUS WIFI 7\", \"bundle_cpu\": \"Ultra 5 245k\", \"price_sgd\": 555},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B850 AORUS ELITE WIFI7 ICE\", \"price_sgd\": 1089},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B850 AORUS ELITE WIFI7 ICE\", \"bundle_cpu\": \"Ryzen 7 7800x3D\", \"price_sgd\": 860},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS PROART X870E-CREATOR WIFI\", \"price_sgd\": 1599},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS PROART X870E-CREATOR WIFI\", \"bundle_cpu\": \"Ryzen 9 9900x\", \"price_sgd\": 1320},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"MSI\", \"product\": \"MSI B760M GAMING PLUS WIFI D5\", \"price_sgd\": 599},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"MSI\", \"product\": \"MSI B760M GAMING PLUS WIFI D5\", \"bundle_cpu\": \"i5-14400F\", \"price_sgd\": 370},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"price_sgd\": 1699},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"bundle_cpu\": \"Ryzen 9 9950x3D\", \"price_sgd\": 1299},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"price_sgd\": 1259},\n  {\"category\": \"MOTHERBOARD-CPU BUNDLE\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING X870-PLUS WIFI AM5\", \"bundle_cpu\": \"Ryzen 9 9900x\", \"price_sgd\": 950},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"COOLER MASTER\", \"product\": \"COOLER MASTER SK620 RED/BLUE SWITCH RGB 60% MECHANICAL LP KB\", \"price_sgd\": 35},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING K1 RGB TACTILE MEMBRANE KEYBOARD\", \"price_sgd\": 35},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH G PRO X RGB GX-BLUE CLICKY MECHANICAL TKL KB\", \"price_sgd\": 149},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG AZOTH ROG NX STORM\", \"price_sgd\": 293},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX X901 SCOPE II 96 NX STORM WIRELESS MEC.KB\", \"price_sgd\": 189},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"GARETHAN\", \"product\": \"GARETHAN GE-KM900 WIRELESS KB & MOUSE\", \"price_sgd\": 15},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH MK850 PERFOMANCE WIRELESS KB & MOUSE COMBO\", \"price_sgd\": 93},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH MK220 WIRELESS KB & MOUSE COMBO\", \"price_sgd\": 25},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"RAZER\", \"product\": \"RAZER VIPER V3 PRO FAKER EDITION RZ01-05120500-R3M1\", \"price_sgd\": 208},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH G435 HEADSET\", \"price_sgd\": 60},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING H3 GUN METAL 7.1 GAMING HEADSET\", \"price_sgd\": 40},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG DELTA S ANIMATE QUAD DAC RGB GAMING HEADSET\", \"price_sgd\": 289},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH H370 USB HEADSET\", \"price_sgd\": 30},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING M3 GEN II WIRED GAMING MOUSE\", \"price_sgd\": 28},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX EVOLVE AURA SYNC 7.2K DPI GAMING MOUSE\", \"price_sgd\": 35},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH SIGNATURE M650 M GRAPHITE WIRELESS MOUSE\", \"price_sgd\": 35},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"LOGITECH\", \"product\": \"LOGITECH MX ANYWHERE 3S GRAPHITE WIRELESS PERFORMANCE MOUSE\", \"price_sgd\": 79},\n  {\"category\": \"HEADSET/KEYBOARD/MOUSE/MOUSEPAD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING P1 PORTABLE 260 x 360MM GAMING MOUSE PAD\", \"price_sgd\": 10},\n  {\"category\": \"PSU\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake Toughpower GT 850W ATX3.1 80+ Gold Full Modular Psu\", \"price_sgd\": 119},\n  {\"category\": \"PSU\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX 1000W 80+ GOLD FULLY MODULAR PSU\", \"price_sgd\": 185},\n  {\"category\": \"PSU\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT TR-SG850 850W ATX3.1 80+ GOLD FULL MODULAR PSU\", \"price_sgd\": 115},\n  {\"category\": \"PSU\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT TR-SG850S-W WHITE 850W 80+ GOLD ATX PSU\", \"price_sgd\": 105},\n  {\"category\": \"PSU\", \"brand\": \"SILVERSTONE\", \"product\": \"SILVERSTONE TRITON TR750R-750W ATX3.1 80+ GOLD PCIe5\", \"price_sgd\": 85},\n  {\"category\": \"PSU\", \"brand\": \"SILVERSTONE\", \"product\": \"SILVERSTONE TRITON TR850R-850W ATX3.1 80+ GOLD PCIe5\", \"price_sgd\": 100},\n  {\"category\": \"PSU\", \"brand\": \"SILVERSTONE\", \"product\": \"SILVERSTONE SX500-G 500W GOLD FULL MODULAR SFX PSU\", \"price_sgd\": 120},\n  {\"category\": \"PSU\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE UD1000GM-1000W PCIE 5.0 80+ GOLD FULLY MODULAR PSU\", \"price_sgd\": 210},\n  {\"category\": \"PSU\", \"brand\": \"LIA LI\", \"product\": \"LIA LI EDGE EG1000G-1000W ATX3.1 80+ GOLD FULL MODULAR PSU\", \"price_sgd\": 205},\n  {\"category\": \"PSU\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI EDGE1300-1300W BLACK ATX3.0 PCIe5.1 80+ PLATINUM MODULAR PSU\", \"price_sgd\": 285},\n  {\"category\": \"PSU\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT TR-SGFX650 650W White ATX3.1 80+ GOLD BLACK F.MODULAR SFX\", \"price_sgd\": 115},\n  {\"category\": \"PSU\", \"brand\": \"Msi\", \"product\": \"Msi Mag A750GL 750W ATX3.1 80+ Gold Full Modular Psu\", \"price_sgd\": 125},\n  {\"category\": \"PSU\", \"brand\": \"SILVERSTONE\", \"product\": \"SILVERSTONE HELA 1300R-1300W 80+ PLATINUM ATX3.0 PCIe5 PSU\", \"price_sgd\": 279},\n  {\"category\": \"PSU\", \"brand\": \"SILVERSTONE\", \"product\": \"SILVERSTONE DA1000R-1000W ATX3.0 PCIe5.0 80+ GOLD FULL MODULAR PSU\", \"price_sgd\": 175},\n  {\"category\": \"PSU\", \"brand\": \"SEASONIC\", \"product\": \"SEASONIC FOCUS GX-850W WHITE V4 ATX3.1 80+ GOLD FULL MODULAR PSU\", \"price_sgd\": 225},\n  {\"category\": \"PSU\", \"brand\": \"SEASONIC\", \"product\": \"SEASONIC FOCUS GX-1000W V4 WHITE ATX3.180+ GOLD FULL MODULAR PSU\", \"price_sgd\": 275},\n  {\"category\": \"PSU\", \"brand\": \"COOLER MASTER\", \"product\": \"COOLER MASTER 12+4PIN to 3x8-PIN 12VHPWR PCIe GEN5 600W 90 DEGREE ADAPTER\", \"price_sgd\": 18},\n  {\"category\": \"PSU\", \"brand\": \"SEASONIC\", \"product\": \"SEASONIC 12VHPWR CABLE 2x8PIN TO 1x12VHPWR CONNECTOR\", \"price_sgd\": 22},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"ASUS\", \"product\": \"ASUS PCE-BE92BT BE9400 TRI BAND WIFI 7 + BLEUTOOTH 5.4 PCIe ADAPTER\", \"price_sgd\": 72},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"ASUS\", \"product\": \"ASUS ZENWIFI XT8 AX6600 2-PACK TRI-BAND WI-FI MESH ROUTHER\", \"price_sgd\": 488},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"MSI\", \"product\": \"MSI RADIX AX6600 Wi-Fi 6 TRI-BAND GAMING ROUTER\", \"price_sgd\": 219},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-BE58U BE3600 DUAL BAND WIFI 7 EXTENDABLE ROUTER\", \"price_sgd\": 175},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-BE86U BE6800 DUAL BAND WIFI 7 10GE ROUTER\", \"price_sgd\": 435},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK Arhcer GE550 BE9300 TRI-BAND WI-FI 7 GAMING ROUTER\", \"price_sgd\": 239},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TAPO TD21 VIDEO DOORBELL CAMERA\", \"price_sgd\": 58},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK M7350 4G LTE DUAL BAND MOBILE WIFI\", \"price_sgd\": 58},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK ARCHER AX55 PRO AX3000 WIFI ROUTER\", \"price_sgd\": 108},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK ARCHER TBE400E BE6500 WIFI 7 BLUETOOTH PCIe ADAPTER\", \"price_sgd\": 56},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK UH6120C USB TYPE-C 6 PORT HUB\", \"price_sgd\": 28},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK DECO BE25 (3-PK) BE5000 WIFI 7 MESH SYSTEM\", \"price_sgd\": 345},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"UBIQUITI\", \"product\": \"UBIQUITI UNIFI U7-PRO-MAX WIFI 7 ACCESS POINT WITH 2.5GBe\", \"price_sgd\": 359},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX3000 V2 AX3000 Dual Band WiFi 6 Extendable Router\", \"price_sgd\": 135},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING BE6500 DUAL BAND WIFI7 GAMING ROUTER\", \"price_sgd\": 262},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK UH7020C TYPE-C 7 PORT HUB\", \"price_sgd\": 28},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK UH9120C USB TYPE-C 9 PORT HUB\", \"price_sgd\": 36},\n  {\"category\": \"ROUTER/AP/SWITCH\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TC71 PAN/TILT WIFI CAMERA\", \"price_sgd\": 24}\n]}"
+}

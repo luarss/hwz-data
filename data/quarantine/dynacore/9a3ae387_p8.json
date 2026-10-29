@@ -1,0 +1,122 @@
+{
+  "sha256": "9a3ae387042a99a4d71d32404b295b72148a1108f1d84664ccbbb84b137f6288",
+  "vendor": "dynacore",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5060 Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 3299.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5060 Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2899.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5070 Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 3999.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5070 Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 3448.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "14\" Price",
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 749.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "14\" Promo Price",
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 698.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "15.6\" Normal Price",
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 749.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "15.6\" Promo Price",
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 698.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "14\" WUXGA Normal Price",
+      "bundle_cpu": null,
+      "warranty": "1 Year",
+      "price_sgd": 869.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "14\" WUXGA Promo Price",
+      "bundle_cpu": null,
+      "warranty": "1 Year",
+      "price_sgd": 755.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "15.3\" WUXGA Normal Price",
+      "bundle_cpu": null,
+      "warranty": "1 Year",
+      "price_sgd": 869.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "15.3\" WUXGA Promo Price",
+      "bundle_cpu": null,
+      "warranty": "1 Year",
+      "price_sgd": 755.0
+    }
+  ],
+  "numeric_tokens_in_source": 22,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 12/22 = 0.55",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG STRIX G16 2025\",\n      \"variant\": \"RTX 5060 Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 3299.0\n    },\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG STRIX G16 2025\",\n      \"variant\": \"RTX 5060 Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 2899.0\n    },\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG STRIX G16 2025\",\n      \"variant\": \"RTX 5070 Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 3999.0\n    },\n    {\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG STRIX G16 2025\",\n      \"variant\": \"RTX 5070 Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 3448.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD SLIM 3\",\n      \"variant\": \"14\\\" Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 749.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD SLIM 3\",\n      \"variant\": \"14\\\" Promo Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 698.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD SLIM 3\",\n      \"variant\": \"15.6\\\" Normal Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 749.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD SLIM 3\",\n      \"variant\": \"15.6\\\" Promo Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 698.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD 3\",\n      \"variant\": \"14\\\" WUXGA Normal Price\",\n      \"warranty\": \"1 Year\",\n      \"price_sgd\": 869.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD 3\",\n      \"variant\": \"14\\\" WUXGA Promo Price\",\n      \"warranty\": \"1 Year\",\n      \"price_sgd\": 755.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD 3\",\n      \"variant\": \"15.3\\\" WUXGA Normal Price\",\n      \"warranty\": \"1 Year\",\n      \"price_sgd\": 869.0\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO IDEAPAD 3\",\n      \"variant\": \"15.3\\\" WUXGA Promo Price\",\n      \"warranty\": \"1 Year\",\n      \"price_sgd\": 755.0\n    }\n  ]\n}"
+}

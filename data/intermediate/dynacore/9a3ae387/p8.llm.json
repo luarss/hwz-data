@@ -1,0 +1,88 @@
+{
+  "rows": [
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5060 Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 3299.0
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5060 Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 2899.0
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5070 Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 3999.0
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX G16 2025",
+      "variant": "RTX 5070 Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 3448.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "14\" Price",
+      "warranty": "3 Years",
+      "price_sgd": 749.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "14\" Promo Price",
+      "warranty": "3 Years",
+      "price_sgd": 698.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "15.6\" Normal Price",
+      "warranty": "3 Years",
+      "price_sgd": 749.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD SLIM 3",
+      "variant": "15.6\" Promo Price",
+      "warranty": "3 Years",
+      "price_sgd": 698.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "14\" WUXGA Normal Price",
+      "warranty": "1 Year",
+      "price_sgd": 869.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "14\" WUXGA Promo Price",
+      "warranty": "1 Year",
+      "price_sgd": 755.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "15.3\" WUXGA Normal Price",
+      "warranty": "1 Year",
+      "price_sgd": 869.0
+    },
+    {
+      "brand": "Lenovo",
+      "product": "LENOVO IDEAPAD 3",
+      "variant": "15.3\" WUXGA Promo Price",
+      "warranty": "1 Year",
+      "price_sgd": 755.0
+    }
+  ]
+}

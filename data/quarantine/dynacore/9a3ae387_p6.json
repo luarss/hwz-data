@@ -1,0 +1,122 @@
+{
+  "sha256": "9a3ae387042a99a4d71d32404b295b72148a1108f1d84664ccbbb84b137f6288",
+  "vendor": "dynacore",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2035.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2499.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2298.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1369.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1699.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING A15",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING A15",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1159.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING A16",
+      "variant": "Normal Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2299.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING A16",
+      "variant": "Promo Price",
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2098.0
+    }
+  ],
+  "numeric_tokens_in_source": 25,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 12/25 = 0.48",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Normal Price\", \"warranty\": \"2 Years\", \"price_sgd\": 2199},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Promo Price\", \"warranty\": \"2 Years\", \"price_sgd\": 2035},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Normal Price\", \"warranty\": \"2 Years\", \"price_sgd\": 2499},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Promo Price\", \"warranty\": \"2 Years\", \"price_sgd\": 2298},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Price\", \"warranty\": \"2 Years\", \"price_sgd\": 1599},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Promo Price\", \"warranty\": \"2 Years\", \"price_sgd\": 1369},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Normal Price\", \"warranty\": \"2 Years\", \"price_sgd\": 1699},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": \"Promo Price\", \"warranty\": \"2 Years\", \"price_sgd\": 1599},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING A15\", \"variant\": \"Normal Price\", \"warranty\": \"2 Years\", \"price_sgd\": 1499},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING A15\", \"variant\": \"Promo Price\", \"warranty\": \"2 Years\", \"price_sgd\": 1159},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING A16\", \"variant\": \"Normal Price\", \"warranty\": \"2 Years\", \"price_sgd\": 2299},\n  {\"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING A16\", \"variant\": \"Promo Price\", \"warranty\": \"2 Years\", \"price_sgd\": 2098}\n]}"
+}

@@ -1,0 +1,512 @@
+{
+  "rows": [
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG Zephyrus G16 GA605KM-QR034W",
+      "variant": "AI7 350/32/1/5060-8/16\"2.5KOLED240",
+      "warranty": "2Y",
+      "price_sgd": 3253.65
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ROG Zephyrus G16 GA605KP-QR037W",
+      "variant": "AI7 350/32/1T/5070-8/16\"2.5KOLED240",
+      "warranty": "2",
+      "price_sgd": 3763.77
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 16X K3605VC-RP422W",
+      "variant": "i5-13420H/16GB/1TB/3050/16\"WUXGA/W11H",
+      "warranty": "2Yr",
+      "price_sgd": 1208.81
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 14 M1407KA-LY078W BLK",
+      "variant": "AI 7 350/16GB/512GB/14\"FHD/AMD/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1340.7
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 16 M1607KA-MB747W BLK",
+      "variant": "AI 7 350/16GB/512G/16\"FHD/AMD/W11H",
+      "warranty": "2YRS",
+      "price_sgd": 1340.7
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S16 OLED M5606KA-RI028W",
+      "variant": "AI 7 350/24GB/1TB/16\"3K-120z/W11",
+      "warranty": "2YR",
+      "price_sgd": 1809.4
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook Pro 15 OLED N6506CU-MA904W",
+      "variant": "U9 285H/24G8+16/1/4050/15.6\"3K",
+      "warranty": "2Y",
+      "price_sgd": 2404.54
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S14 S3407CA-LY729W",
+      "variant": "U7 255H 16C/16G/1T/14\" WUXGA/UHD/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1517.28
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S16 S3607CA-RP002W",
+      "variant": "U7 255H 16C/16GB/1T/16\"WUXGA/UHD/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1517.28
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS S5 SFF S501SER-514500007W",
+      "variant": "i5-14500 14C/16GB/1TB/UHD/WIFI6E/W11H",
+      "warranty": "3YRS",
+      "price_sgd": 1252.41
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S 14 OLED S5406SA-QD149W",
+      "variant": "U7 258V/32G/1T/14\"OLED/ACR/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1978.35
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS VivobookS14 Flip OLED TN3402Y-AKN206WSM",
+      "variant": "R7 7730U/16G/512/14\"TCH2.8",
+      "warranty": "2Y",
+      "price_sgd": 1473.68
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S 14 Flip TN3402Y-ALZ309WSM",
+      "variant": "R5 7430U/16G/512G/14\"TCH/W11H",
+      "warranty": "2Y",
+      "price_sgd": 1208.81
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S 14 Flip TN3402Y-ALZ319WSM BLK",
+      "variant": "R5 7430U/16/512/14\"TCH/W11",
+      "warranty": "2Y",
+      "price_sgd": 1208.81
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ZENBOOK S16 UM5606WA-RK133W",
+      "variant": "RYZEN AI 9/24G/1T/880M/16\"3K-OLED/W11H",
+      "warranty": "2Y",
+      "price_sgd": 2277.01
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Zenbook 14 UX3405CA-PZ504W",
+      "variant": "U7 255H/32GB/1TB/14\"3K-OLED-TOUCH/W11H",
+      "warranty": "2Y",
+      "price_sgd": 1978.35
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS ZENBOOK A14 UX3407QA-QD232W",
+      "variant": "SNPN X126/16GB/1TB/ADRENO/14\"OLED/W11H",
+      "warranty": "2Y",
+      "price_sgd": 1554.34
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Zenbook S 14 OLED UX5406SA-PZ267W",
+      "variant": "U7 258V/32GB/1T/14\"OLED-TCH/W11H",
+      "warranty": "2Y",
+      "price_sgd": 2489.56
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Zenbook Duo UX8406CA-PZ113W",
+      "variant": "U9 285H/16GB/1TB/14\"3K OLED-TOUCH/W11",
+      "warranty": "2Y",
+      "price_sgd": 2658.51
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Gaming V16 V3607VM-RP030W",
+      "variant": "C7 240H/32G/1T/5060-8G/16\"FHD144Hz/W11H",
+      "warranty": "2Y",
+      "price_sgd": 1912.95
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS V500 Mini Tower V500MV-13420H159W DT",
+      "variant": "i5-13420H 8C/8GB/512G/UHD/W11H",
+      "warranty": "1Y",
+      "price_sgd": 813.14
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 14 X1405VA-LY634W BLK",
+      "variant": "i7-13260H/16G/512GB/14\"FHD/UHD/W11H",
+      "warranty": "2Y",
+      "price_sgd": 1076.92
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS VIVOBOOK 14 X1405VA-LY688W",
+      "variant": "i5-13420H 8C/16GB/512G/UHD/14\"FHD/W11H",
+      "warranty": "2Yr",
+      "price_sgd": 901.43
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 14 X1407CA-LY036W BLK",
+      "variant": "U5 225H/16GB/512GB/14\"FHD/INTEL/W11",
+      "warranty": "2YR",
+      "price_sgd": 1165.21
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 14 X1407QA-LY069W",
+      "variant": "SNPN X1 26/16GB/1TB/14\"FHD/ADRENO/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1165.21
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 16 X1605VA-MB1227W BLK",
+      "variant": "i5-13420H/16G/512GB/16\"FHD/UHD/W11",
+      "warranty": "2YR",
+      "price_sgd": 989.72
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 16 X1605VA-MB1504W BK",
+      "variant": "i7-13620H/16GB/512GB/16\"FHD/UHD/W11",
+      "warranty": "2YR",
+      "price_sgd": 1165.21
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 16 X1607CA-MB035W BLK",
+      "variant": "U5 225H/16G/512GB/16\"FHD/INTEL/W11",
+      "warranty": "2YR",
+      "price_sgd": 1165.21
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS Vivobook 16 X1607QA-MB095W",
+      "variant": "SNPN X1 26/16GB/1TB/16\"FHD/ADRENO/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1165.21
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 5440 14 BLUE",
+      "variant": "CORE 5 10C/16G-8x2/1TB/INTEL/14\" FHD+/W11-H",
+      "warranty": "2Yr",
+      "price_sgd": 1216.99372
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 5440 14 BLUE",
+      "variant": "CORE 7 10C/16G-8x2/1TB/INTEL/14\" FHD+/W11-H",
+      "warranty": "2Yr",
+      "price_sgd": 1258.0017
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 5640 16 BLUE",
+      "variant": "CORE 7 10C/16G-8X2/1TB/MX570A/16\"FHD+/W11-H",
+      "warranty": "2Yr",
+      "price_sgd": 1387.0795
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 5640 16 BLUE",
+      "variant": "CORE 7 10C/16G-8X2/1TB/INTEL/16\"FHD+/W11-P",
+      "warranty": "4YRS",
+      "price_sgd": 1538.0009
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL KM5221W DELL PRO WIRELESS KEYBOARD AND MOUSE BLACK",
+      "warranty": "3YRS",
+      "price_sgd": 257.24
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 2IN1 7440 14",
+      "variant": "CORE 5 10C/16G-8X2/1TB/INTE/14\"FHD+TCH/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1358.14
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 2IN1 7440 14",
+      "variant": "CORE 7 10C/16G-8X2/1TB/INTE/14\"FHD+TCH/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1499.5348
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL HYBRID ADP + POWER BANK PH45W17-BA 492-BCCW 45W,12800mAH 7.4&4.5mm SN:",
+      "price_sgd": 305.2
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 27\" AIO EC27250",
+      "variant": "CORE 7 10C/16G/1T/UHD/27\"FHD-TOUCH/W11-H",
+      "warranty": "3Yr",
+      "price_sgd": 1656.9962
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL OPTIPLEX 7020 MFF",
+      "variant": "i5-14500T 14C/8G D5/512G/INTEL/W11PRO/WIFI6+BT",
+      "warranty": "3YRs",
+      "price_sgd": 1085.64
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL PRECISION 3590",
+      "variant": "ULTRA 7 16C/16GB/512GB/RTX A500-4/15.6\"FHD/WIN11P",
+      "warranty": "3YRS",
+      "price_sgd": 2344.59
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL ALIENWARE M16 R2",
+      "variant": "ULTRA 7/32G16x2/1T/4070-8G/16\"QHD+240Hz G-Sy/W11H",
+      "warranty": "2Y",
+      "price_sgd": 3178.44
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL ALIENWARE M18 R2",
+      "variant": "i7-14700HX/16G8x2/1T/4070-8G/18\"QHD+165zG-Sy/W11H",
+      "warranty": "2Y",
+      "price_sgd": 3787.75
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL ALIENWARE M18 R2",
+      "variant": "i9-14900HX/32G16x2/1T/4080-12/18\"QHD+165zG-Sy/W11",
+      "warranty": "2Y",
+      "price_sgd": 4377.44
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL ALIENWARE X16 R2",
+      "variant": "ULTRA 7/16G8X2/1TB/4070-8G/16\"QHD+240Hz G-Sy/W11H",
+      "warranty": "2Y",
+      "price_sgd": 3787.75
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL ALIENWARE X16 R2",
+      "variant": "ULTRA 7/16G8X2/1TB/4070-8G/16\"QHD+240Hz G-Sy/W11H",
+      "warranty": "2Y",
+      "price_sgd": 3578.47
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL XPS13 9345 T",
+      "variant": "Snapdragon X ELITE 12C/32G/1T/A740/13.4\"T-OLED+GPT/W11",
+      "warranty": "2Y",
+      "price_sgd": 2498.28
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL 14 PLUS DB14250",
+      "variant": "ULTRA7 258V 8C/32GB-LP/1TB/INTEL/14\"2.5K/W11-PRO",
+      "warranty": "3YRs",
+      "price_sgd": 1821.0085
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL LATITUDE 3450",
+      "variant": "i5-1335U 10C/8GBx1 DDR5/512GB/14\"FHD/INTEL/W11-PRO",
+      "warranty": "3YRS",
+      "price_sgd": 1036.59
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL LATITUDE 14 3450",
+      "variant": "ULTRA 5 12C/8GBx1 D5/512GB/14\"FHD/INTEL/W11-PRO",
+      "warranty": "3YRS",
+      "price_sgd": 1237.15
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL LATITUDE 3450",
+      "variant": "ULTRA 7 12C/16GBx1 D5/512GB/14\" FHD/INTEL/W11-PRO",
+      "warranty": "3YRS",
+      "price_sgd": 1227.34
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL OPTIPLEX 7020 MT TP",
+      "variant": "i7-14700 20C/16GX 1D5/512GB/INTEL/W11-PRO/DVD",
+      "warranty": "3Yr",
+      "price_sgd": 1363.59
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL LATITUDE TOUCH 7450",
+      "variant": "ULTRA7/16G-OB/512G/INTEL/14\"FHD-TOUCH/W11-PRO",
+      "warranty": "3YR",
+      "price_sgd": 2178.0053
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL G15 5530 BLK",
+      "variant": "i9-13900HX/32G-D5/1TB/4060-8G/15.6\"FHD-165Hz-RGB/W11H",
+      "warranty": "2YS",
+      "price_sgd": 2166.9854
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL XPS 16 9640 TOUCH",
+      "variant": "U7 155H 16C/32GB/1TB/RTX4050-6G/W11P/16.3\"OLED4K",
+      "warranty": "3YS",
+      "price_sgd": 3751.998
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 5330 13 P.SLIVER",
+      "variant": "ULTRA 7/16G-LP/1TB/INTEL/13.3\"QHD+/W11H",
+      "warranty": "2Yr",
+      "price_sgd": 1498.75
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON AIO 5430",
+      "variant": "CORE 7 10C/16GB/1TB/INTEL/23.8\"FHD-TOUCH/W11-H",
+      "warranty": "3YRS",
+      "price_sgd": 1626.28
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON AIO 5430",
+      "variant": "CORE 7 10C/16GB/1TB/INTEL/23.8\"FHD-TOUCH/W11-H",
+      "warranty": "3YRS",
+      "price_sgd": 1498.75
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 2IN1 7440 14",
+      "variant": "CORE 7 10C/16G-8X2/1TB/INTE/14\"FHD+TCH/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1582.68
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 2IN1 7440 14",
+      "variant": "CORE 7 10C/16G-8X2/1TB/INTE/14\"FHD+TCH/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1458.42
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 2IN1 7440 14",
+      "variant": "CORE 5 10C/16G-8X2/1TB/INTE/14\"FHD+TCH/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1494.39
+    },
+    {
+      "brand": "DELL",
+      "product": "DELL INSPIRON 3030 MT-DESKTOP",
+      "variant": "i7-14700F 20C/16G/1TB/3050-8/W11H/WIFI-6",
+      "warranty": "3YS",
+      "price_sgd": 1818.12
+    },
+    {
+      "brand": "HP",
+      "product": "HP PROONE 440 G9 AIO 24\"",
+      "variant": "i5-13500 /8GB/512G/INTEL/23.8\"FHD/W11-P/WIFI",
+      "warranty": "3Yr",
+      "price_sgd": 1036.59
+    },
+    {
+      "brand": "HP",
+      "product": "HP PRODESK 400 G9 SFF DESKTOP",
+      "variant": "i5-14500 14C/8GBx1/512G/INTEL/WIN11-PRO",
+      "warranty": "3YRS",
+      "price_sgd": 733.025
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI KATANA 15 HX B14WGK-208SG",
+      "variant": "i7-14650HX/16G/1TB/5070-8/15.6\"QHD165/W11H",
+      "warranty": "2Y",
+      "price_sgd": 2234.5
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI KATANA 15 HX B14WFK-211SG",
+      "variant": "i9-14900HX/16G/1TB/5060-8/15.6\"QHD165/W11H",
+      "warranty": "2Y",
+      "price_sgd": 2234.5
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI Katana A15 AI B8VG-461SG",
+      "variant": "R7 8845HS/16G/1T/4070-8/15.6\"QHD165z/W11H",
+      "warranty": "2YS",
+      "price_sgd": 2064.46
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI CYBORG 15 A13VFK-1076SG",
+      "variant": "i7-13620H/16G/512G/4060-8GB/15.6\"144z/W11H",
+      "warranty": "2YR",
+      "price_sgd": 1605.57
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI SWORD 16 HX B14VFKG-437",
+      "variant": "i7-14650HX/32G/1T/4060-8G/16\"QHD+240Hz/W11H",
+      "warranty": "2Y",
+      "price_sgd": 2404.54
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI CROSSHAIR 16HX D14VFKG-438",
+      "variant": "i9-14900HX/32G/1T/4060-8/16\"QHD+240/W11H",
+      "warranty": "2Y",
+      "price_sgd": 1958.73
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI THIN 15 B13VE-3031SG",
+      "variant": "i7-13620H/16GB/512GB/4050-6GB/15.6\"144Hz/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1517.28
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI THIN 15 B13UC-3094SG",
+      "variant": "i5-13420H/16GB/512G/3050-4G/15.6\"FHD144Hz/W11H",
+      "warranty": "2YS",
+      "price_sgd": 1098.72
+    },
+    {
+      "brand": "PRITTEC",
+      "product": "PRITTEC F8 MINIPC COMPLETE SET",
+      "variant": "i5-13420H/16GBx1D4/512G/WIN11-PRO/WIFI6",
+      "warranty": "3Yr",
+      "price_sgd": 650.73
+    },
+    {
+      "brand": "PRITTEC",
+      "product": "PRITTEC F8C MINIPC COMPLETE SET",
+      "variant": "N150/16GB x1DDR4/512G/WIN 11-PRO/WIFI5",
+      "warranty": "3Yr",
+      "price_sgd": 311.74
+    }
+  ]
+}

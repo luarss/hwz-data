@@ -1,0 +1,1191 @@
+{
+ "rows": [
+  {
+   "brand": "WD",
+   "product": "WD BLUE 3.5\" 5400RPM",
+   "variant": "1TB",
+   "price_sgd": 81
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLUE 3.5\" 5400RPM",
+   "variant": "2TB",
+   "price_sgd": 122
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLUE 3.5\" 5400RPM",
+   "variant": "4TB",
+   "price_sgd": 133
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLACK 2.5\" 7200RPM",
+   "variant": "1TB",
+   "price_sgd": 95
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLACK 3.5\" 7200RPM",
+   "variant": "2TB",
+   "price_sgd": 121
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLACK 3.5\" 7200RPM",
+   "variant": "4TB",
+   "price_sgd": 180
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLACK 3.5\" 7200RPM",
+   "variant": "6TB",
+   "price_sgd": 246
+  },
+  {
+   "brand": "WD",
+   "product": "WD BLACK 3.5\" 7200RPM",
+   "variant": "8TB",
+   "price_sgd": 418
+  },
+  {
+   "brand": "WD",
+   "product": "WD RED PLUS 3.5\" 7200RPM",
+   "variant": "4TB",
+   "price_sgd": 339
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE FOCUS GX 850W Gold ATX 3.1 PSU White",
+   "price_sgd": 241
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE FOCUS GX 1000W Gold ATX 3.1 PSU White",
+   "price_sgd": 286
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE FOCUS GX 1000W Gold ATX 3.1 PSU v4 Black",
+   "price_sgd": 271
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE VERTEX GX 750W 80+ Gold Gen.5",
+   "price_sgd": 221
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE Prime TX 1600W 80+ Titanium",
+   "price_sgd": 712
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE Prime PX 1600W 80+ Platinum 3.0",
+   "price_sgd": 559
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE PRIME PX 2200W 80+ Platinum 3.1",
+   "price_sgd": 750
+  },
+  {
+   "brand": "SEAGATE",
+   "product": "SEAGATE Prime TX 1600W 80+ Titanium",
+   "price_sgd": 712
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL BX500 SATA 2.5\" SSD",
+   "variant": "240GB",
+   "price_sgd": 31
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL BX500 SATA 2.5\" SSD",
+   "variant": "500GB",
+   "price_sgd": 53
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL BX500 SATA 2.5\" SSD",
+   "variant": "1TB",
+   "price_sgd": 82
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL BX500 SATA 2.5\" SSD",
+   "variant": "2TB",
+   "price_sgd": 162
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL BX500 SATA 2.5\" SSD",
+   "variant": "4TB",
+   "price_sgd": 346
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL MX500 SATA 2.5\" SSD",
+   "variant": "250GB",
+   "price_sgd": 67
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL P3 Plus NVMe M.2 GEN.4 SSD",
+   "variant": "500GB",
+   "price_sgd": 94
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL P3 Plus NVMe M.2 GEN.4 SSD",
+   "variant": "1TB",
+   "price_sgd": 182
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL P3 Plus NVMe M.2 GEN.4 SSD",
+   "variant": "2TB",
+   "price_sgd": 344
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL T705 NVMe M.2 GEN.5 SSD",
+   "variant": "1TB",
+   "price_sgd": 236
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "CRUCIAL",
+   "product": "CRUCIAL T705 NVMe M.2 GEN.5 SSD",
+   "variant": "2TB",
+   "price_sgd": 299
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "DYNABOOK",
+   "product": "DYNABOOK AX5300 NVMe M.2 GEN.4 SSD R3000",
+   "variant": "1TB",
+   "price_sgd": 99
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "DYNABOOK",
+   "product": "DYNABOOK AX7000 NVMe M.2 GEN.4 SSD R4500",
+   "variant": "500GB",
+   "price_sgd": 58
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "DYNABOOK",
+   "product": "DYNABOOK AX7000 NVMe M.2 GEN.4 SSD R4500",
+   "variant": "1TB",
+   "price_sgd": 83
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "DYNABOOK",
+   "product": "DYNABOOK AX7600 NVMe M.2 GEN.4 SSD R7000",
+   "variant": "1TB",
+   "price_sgd": 110
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "DYNABOOK",
+   "product": "DYNABOOK AX7600 NVMe M.2 GEN.4 SSD R7000",
+   "variant": "2TB",
+   "price_sgd": 192
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NS100SATA 2.5\" SSD 520MB/s",
+   "variant": "500GB",
+   "price_sgd": 31
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NS100SATA 2.5\" SSD 520MB/s",
+   "variant": "1TB",
+   "price_sgd": 51
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NS100SATA 2.5\" SSD 520MB/s",
+   "variant": "2TB",
+   "price_sgd": 161
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM620 NVMe M.2 Gen.3 SSD R3500",
+   "variant": "500GB",
+   "price_sgd": 34
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM620 NVMe M.2 Gen.3 SSD R3500",
+   "variant": "1TB",
+   "price_sgd": 53
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM620 NVMe M.2 Gen.3 SSD R3500",
+   "variant": "2TB",
+   "price_sgd": 144
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM790 NVMe M.2 Gen.4 SSD R7400",
+   "variant": "1TB",
+   "price_sgd": 114
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM790 NVMe M.2 Gen.4 SSD R7400",
+   "variant": "2TB",
+   "price_sgd": 186
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM790 NVMe M.2 Gen.4 SSD R7400",
+   "variant": "4TB",
+   "price_sgd": 352
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM790 NVMe M.2 Gen.4 SSD R7400",
+   "variant": "8TB",
+   "price_sgd": 1199
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM1090 NVMe M.2 Gen.5 SSD R14,000",
+   "variant": "1TB",
+   "price_sgd": 179
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM1090 NVMe M.2 Gen.5 SSD R14,000",
+   "variant": "2TB",
+   "price_sgd": 353
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "LEXAR",
+   "product": "LEXAR NM1090 NVMe M.2 Gen.5 SSD R14,000",
+   "variant": "4TB",
+   "price_sgd": 681
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "KIOXIA",
+   "product": "KIOXIA EXCERIA G2 NVMe M.2 GEN.3 SSD R2100",
+   "variant": "1TB",
+   "price_sgd": 81
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "KIOXIA",
+   "product": "KIOXIA EXCERIA PRO NVMe M.2 GEN.4 SSD R7300",
+   "variant": "1TB",
+   "price_sgd": 105
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "KIOXIA",
+   "product": "KIOXIA EXCERIA PLUS G4 NVMe M.2 GEN.5 SSD R14,000",
+   "variant": "1TB",
+   "price_sgd": 149
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "KIOXIA",
+   "product": "KIOXIA EXCERIA PLUS G4 NVMe M.2 GEN.5 SSD R14,000",
+   "variant": "2TB",
+   "price_sgd": 259
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG EVO 870 SATA 2.5\" SSD",
+   "variant": "500GB",
+   "price_sgd": 79
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG EVO 870 SATA 2.5\" SSD",
+   "variant": "1TB",
+   "price_sgd": 129
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG EVO 870 SATA 2.5\" SSD",
+   "variant": "2TB",
+   "price_sgd": 229
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG 980 EVO NVMe M.2 GEN.4 SSD",
+   "variant": "1TB",
+   "price_sgd": 185
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG 980 EVO NVMe M.2 GEN.4 SSD",
+   "variant": "2TB",
+   "price_sgd": 295
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG 990 PRO NVMe M.2 GEN.4. SSD",
+   "variant": "1TB",
+   "price_sgd": 139
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "SAMSUNG",
+   "product": "SAMSUNG 990 PRO NVMe M.2 GEN.4. SSD",
+   "variant": "2TB",
+   "price_sgd": 259
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "WD",
+   "product": "WD BLUE SN580 NVMe M.2 GEN.4 SSD R4150",
+   "variant": "500GB",
+   "price_sgd": 73
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "WD",
+   "product": "WD BLUE SN580 NVMe M.2 GEN.4 SSD R4150",
+   "variant": "1TB",
+   "price_sgd": 100
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "WD",
+   "product": "WD BLUE SN580 NVMe M.2 GEN.4 SSD R4150",
+   "variant": "2TB",
+   "price_sgd": 186
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "WD",
+   "product": "WD BLACK SN770 NVMe M.2 GEN.4 SSD",
+   "variant": "1TB",
+   "price_sgd": 119
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "WD",
+   "product": "WD BLACK SN850X NVMe M.2 GEN.4 SSD",
+   "variant": "1TB",
+   "price_sgd": 119
+  },
+  {
+   "category": "2.5\"/ NVMe M.2 SSD",
+   "brand": "WD",
+   "product": "WD BLACK SN850X NVMe M.2 GEN.4 SSD",
+   "variant": "2TB",
+   "price_sgd": 209
+  },
+  {
+   "brand": "FSP",
+   "product": "FSP HV Pro 550W 80+ Bronze",
+   "price_sgd": 65
+  },
+  {
+   "brand": "FSP",
+   "product": "FSP HV Pro 650W 80+ Bronze",
+   "price_sgd": 73
+  },
+  {
+   "brand": "FSP",
+   "product": "FSP Cannon Pro 2000W Full Modular Gold 3.0",
+   "price_sgd": 468
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI SP 750W 80+ Gold Black [SFX]",
+   "price_sgd": 162
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI SP 750W 80+ Gold White [SFX]",
+   "price_sgd": 162
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI SP 850W 80+ Gold Black [SFX]",
+   "price_sgd": 188
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI SP 850W 80+ Gold White [SFX]",
+   "price_sgd": 188
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 850W 80+ Gold ATX 3.1 [Black]",
+   "price_sgd": 157
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1000W 80+ Gold ATX 3.1 [White]",
+   "price_sgd": 211
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1000W 80+ Gold ATX 3.1 [Black]",
+   "price_sgd": 211
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1300W 80+ Gold ATX 3.1 [White]",
+   "price_sgd": 231
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 850W 80+ Platinum ATX 3.1 [Black]",
+   "price_sgd": 183
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 850W 80+ Platinum ATX 3.1 [White]",
+   "price_sgd": 182
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1000W 80+ Platinum ATX 3.1 [White]",
+   "price_sgd": 238
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1000W 80+ Platinum ATX 3.1 [Black]",
+   "price_sgd": 249
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1300W 80+ Platinum ATX 3.1 [Black]",
+   "price_sgd": 286
+  },
+  {
+   "brand": "LIAN LI",
+   "product": "LIAN LI EDGE 1300W 80+ Platinum ATX 3.1 [White]",
+   "price_sgd": 296
+  },
+  {
+   "brand": "THERMALTAKE",
+   "product": "THERMALTAKE SMART BX3 650W 80+ Bronze",
+   "price_sgd": 79
+  },
+  {
+   "brand": "THERMALTAKE",
+   "product": "THERMALTAKE SMART BX3 750W 80+ Bronze",
+   "price_sgd": 87
+  },
+  {
+   "brand": "THERMALTAKE",
+   "product": "THERMALTAKE TP GT-750W 80+ Gold Gen 3.1",
+   "price_sgd": 125
+  },
+  {
+   "brand": "THERMALRIGHT",
+   "product": "THERMALRIGHT TG 650W 80+ Gold [White] [SFX]",
+   "price_sgd": 149
+  },
+  {
+   "brand": "THERMALRIGHT",
+   "product": "THERMALRIGHT TG 750W 80+ Gold [Black] [SFX]",
+   "price_sgd": 159
+  },
+  {
+   "brand": "THERMALRIGHT",
+   "product": "THERMALRIGHT TG 750W 80+ Gold [Black]",
+   "price_sgd": 119
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS GT 730 2GB D5 (4HDMI)",
+   "price_sgd": 157
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS DUAL RX 5060 8GB OC",
+   "price_sgd": 481
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS PRIME RX 5060 8GB OC",
+   "price_sgd": 523
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS Dual RTX 5060 Ti 8GB OC",
+   "price_sgd": 632
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS Prime RTX 5080 Ti 16GB OC",
+   "price_sgd": 759
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS ROG STRIX RTX 5070 GAMING OC 12GB",
+   "price_sgd": 1255
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS PRIME RTX 5070 12GB OC",
+   "price_sgd": 1029
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS TUF GAMING RTX 5070 12GB OC",
+   "price_sgd": 1119
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS PRIME RTX 5070 Ti 16GB OC",
+   "price_sgd": 1515
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS TUF GAMING RTX 5070 Ti 16GB OC",
+   "price_sgd": 1506
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS ROG STRIX RTX 5070 Ti GAMING OC 12GB",
+   "price_sgd": 1769
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS TUF RTX 5080 16GB GAMING OC",
+   "price_sgd": 2047
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS ROG ASTRAL RTX 5080 16GB GAMING OC",
+   "price_sgd": 2424
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS TUF RTX 5090 32GB GAMING OC",
+   "price_sgd": 4959
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS ROG ASTRAL RTX 5090 GAMING OC 32GB",
+   "price_sgd": 5166
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS PRIME RX 9070 16GB OC",
+   "price_sgd": 1011
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "ASUS",
+   "product": "ASUS TUF GAMING RX 9070 15GB OC",
+   "price_sgd": 1057
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5090 EAGLE OC 8GB",
+   "price_sgd": 485
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5090 Aero 6GB OC",
+   "price_sgd": 534
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Ti Elite 16GB OC",
+   "price_sgd": 801
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5060 Ti EAGLE OC Ice 16GB",
+   "price_sgd": 723
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5060 Ti EAGLE OC 16GB",
+   "price_sgd": 707
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5080 Ti GAMING OC 16GB",
+   "price_sgd": 756
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Eagle 12GB OC",
+   "price_sgd": 937
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Eagle ICE 16GB OC",
+   "price_sgd": 974
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Gaming 12GB OC",
+   "price_sgd": 995
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Aero 12GB OC",
+   "price_sgd": 1039
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Aorus Master 12GB OC",
+   "price_sgd": 1169
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Ti Eagle 16GB OC",
+   "price_sgd": 1399
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Ti EAGLE ICE 16GB OC",
+   "price_sgd": 1415
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Ti Gaming 16GB OC",
+   "price_sgd": 1510
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5070 Ti Aero 16GB OC",
+   "price_sgd": 1531
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5080 Gaming OC 16GB",
+   "price_sgd": 2032
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5090 Aero 16GB OC",
+   "price_sgd": 2143
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5080 Aorus Extremo 16GB",
+   "price_sgd": 2343
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RTX 5090 Aorus Master ICE 36GB",
+   "price_sgd": 4472
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE RX 9070 XT Gaming OC 16GB",
+   "price_sgd": 1075
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 4060 Ventus 2X OC 8GB",
+   "price_sgd": 469
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5060 Shadow 2X OC 12GB",
+   "price_sgd": 859
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Shadow 3X OC 12GB",
+   "price_sgd": 979
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Ventus 2X OC 12GB",
+   "price_sgd": 949
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Ventus 3X OC 12GB",
+   "price_sgd": 969
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Gaming Trio OC 12GB",
+   "price_sgd": 999
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Vanguard Launch Edition OC 16GB",
+   "price_sgd": 1055
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Ti Shadow 2X OC 16GB",
+   "price_sgd": 1250
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Ti Ventus 3X OC 16GB",
+   "price_sgd": 1349
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5080 INSPIRE 3X OC 16GB",
+   "price_sgd": 2099
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5070 Ti Vanguard Launch Edition OC 16GB",
+   "price_sgd": 1539
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5080 Shadow 3X OC 16GB",
+   "price_sgd": 1660
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5080 Ventus 3X OC 16GB",
+   "price_sgd": 1935
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5080 INSPIRE 3X OC 16GB",
+   "price_sgd": 1949
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5080 Gaming Trio OC 16GB",
+   "price_sgd": 1986
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5080 VANGUARD SOC Edition OC 19GB",
+   "price_sgd": 2229
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "MSI",
+   "product": "MSI RTX 5090 Gaming Trio OC 32GB",
+   "price_sgd": 3229
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 7905 XTX Nitro+ OC 24GB",
+   "price_sgd": 1529
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 9070 Pulse 16GB",
+   "price_sgd": 906
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 9070 Pure 16GB",
+   "price_sgd": 950
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 9070 Nitro+ 16GB",
+   "price_sgd": 985
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 9070 XT Pure 16GB",
+   "price_sgd": 1119
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 9070 XT Nitro+ 16GB",
+   "price_sgd": 1119
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "SAPPHIRE",
+   "product": "SAPPHIRE RX 9070 XT Nitro+ 16GB",
+   "price_sgd": 1259
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GALAX",
+   "product": "GALAX RTX 5070 1-Click OC 12GB - [Black]",
+   "price_sgd": 938
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GALAX",
+   "product": "GALAX RTX 5070 1-Click OC 12GB - [White]",
+   "price_sgd": 946
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GALAX",
+   "product": "GALAX RTX 5070 Ti 1-Click OC 16GB - [Black]",
+   "price_sgd": 1383
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GALAX",
+   "product": "GALAX RTX 5070 Ti 1-Click OC 16GB - [White]",
+   "price_sgd": 1400
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "GALAX",
+   "product": "GALAX RTX 5080 1-Click OC 16GB - [Black]",
+   "price_sgd": 1829
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "POWER COLOR",
+   "product": "POWER COLOR RX 7600XT Hellhound 16GB",
+   "price_sgd": 490
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "POWER COLOR",
+   "product": "POWER COLOR RX 7700 XT Fighter 12GB OC",
+   "price_sgd": 584
+  },
+  {
+   "category": "<<<<<<<< GRAPHICS CARD >>>>>>>>",
+   "brand": "POWER COLOR",
+   "product": "POWERCOLOR RX 9070 REAPER 16GB OC",
+   "price_sgd": 999
+  },
+  {
+   "product": "ASUS Intel Core I3 1115G4 MINI PC",
+   "price_sgd": 690
+  },
+  {
+   "product": "ASUS Intel Core I5 11300H MINI PC",
+   "price_sgd": 885
+  },
+  {
+   "product": "ASUS Intel Core I7 11370H MINI PC",
+   "price_sgd": 925
+  },
+  {
+   "product": "ASUS R5 5500U MINI PC",
+   "price_sgd": 753
+  },
+  {
+   "product": "ASUS R7 5700U MINI PC",
+   "price_sgd": 808
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT WINDOW 10 Home 64Bits",
+   "price_sgd": 155
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT Windows 10 Pro 64Bits",
+   "price_sgd": 155
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT Windows 11 Home 64Bits",
+   "price_sgd": 164
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT Windows 11 Pro 64Bits",
+   "price_sgd": 220
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT Home & Student 2016",
+   "price_sgd": 93
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT Home & Student 2019",
+   "price_sgd": 176
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT HOME & Business 2019",
+   "price_sgd": 280
+  },
+  {
+   "brand": "MICROSOFT",
+   "product": "MICROSOFT Home & Student 2021",
+   "price_sgd": 209
+  },
+  {
+   "product": "NEO External USB 2.0 Tray Load DVD Writer",
+   "price_sgd": 15
+  },
+  {
+   "product": "ASUS ZenDrive U6M 8x External DVD Writer [Black]",
+   "price_sgd": 62
+  },
+  {
+   "product": "ASUS ZenDrive U6M 8x External DVD Writer [White]",
+   "price_sgd": 62
+  },
+  {
+   "product": "ASUS External Slim DVD-RW [Black]",
+   "price_sgd": 44
+  },
+  {
+   "product": "ASUS ZenDrive 8x External DVD Writer [Black]",
+   "price_sgd": 62
+  },
+  {
+   "product": "ASUS ZenDrive 8x External DVD Writer [Gold]",
+   "price_sgd": 62
+  },
+  {
+   "product": "ASUS 24X Internal DVD Writer",
+   "price_sgd": 20
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS OEM AX3000 WIFI-6 WIRELESS PCI-E CARD",
+   "price_sgd": 42
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS USB-AC56 AC1300 USB ADATER",
+   "price_sgd": 94
+  },
+  {
+   "product": "LB-LINK BL-WN650BT Wireless USB ADATER",
+   "price_sgd": 18
+  },
+  {
+   "product": "TP-LINK TG-3468 Gigabit PCI-E LAN CARD",
+   "price_sgd": 22
+  },
+  {
+   "product": "TP-LINK AC1300 T3U MINI USB ADATER",
+   "price_sgd": 43
+  },
+  {
+   "product": "TP-LINK AC1300 T4U WiFi USB ADATER",
+   "price_sgd": 55
+  },
+  {
+   "product": "TP-LINK TX555E AX3000 WiFit/bt 5.2 PCI-E CARD",
+   "price_sgd": 47
+  },
+  {
+   "product": "TP-LINK TX3000E AX3000 WiFi 6 PCI-E CARD",
+   "price_sgd": 89
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 24\" VA24EHF 100Hz IPS Gaming Monitor",
+   "price_sgd": 129
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 27\" VA279HG 120Hz IPS Gaming Monitor",
+   "price_sgd": 157
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 27\" VU249CFE-M 100Hz Gaming Monitor",
+   "price_sgd": 201
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 27\" VU27CFE-M 100Hz Gaming Monitor",
+   "price_sgd": 264
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS VQ249Q1R Gaming Monitor",
+   "price_sgd": 222
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 27\" XG27UCS 160Hz Gaming 4K Ips Monitor",
+   "price_sgd": 604
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 27\" XG27UCG 160Hz Gaming 4K Ips Monitor",
+   "price_sgd": 626
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS 27\" VQ27G5QA 180Hz Gaming Monitor",
+   "price_sgd": 283
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS ROG PG27AQDP Swfit OLED 480Hz Monitor",
+   "price_sgd": 2088
+  },
+  {
+   "brand": "ASUS",
+   "product": "ASUS ROG PG27AQDM Swift OLED Monitor",
+   "price_sgd": 1348
+  },
+  {
+   "brand": "AOC",
+   "product": "AOC 27\" 27B1H 60Hz Flatscreen Monitor",
+   "price_sgd": 162
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI 24\" G2422C 180Hz FHD Curved Monitor",
+   "price_sgd": 159
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI 24.5\" G256F 180Hz Fhd Flatscreen Monitor",
+   "price_sgd": 193
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI MAO 275F 180Hz IPS Flatscreen",
+   "price_sgd": 202
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI 27\" MAG 274QRFW 180Hz Curved Wqhd Monitor",
+   "price_sgd": 385
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI 27\" MAG 274QGFW WQHD 180Hz VA 1ms Curved Monitor",
+   "price_sgd": 267
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI 32\" 32G3SC 250Hz Curved Fhd Monitor",
+   "price_sgd": 319
+  },
+  {
+   "brand": "MSI",
+   "product": "MSI 31.5\" G321Q 170Hz Flat WQHD IPS Monitor",
+   "price_sgd": 451
+  },
+  {
+   "brand": "PHILIPS",
+   "product": "PHILIPS 23.8\" 242B1 75Hz IPS Gaming Monitor",
+   "price_sgd": 149
+  },
+  {
+   "brand": "PHILIPS",
+   "product": "PHILIPS 23.8\" 24E1N1100D 100Hz IPS Monitor",
+   "price_sgd": 119
+  },
+  {
+   "brand": "PHILIPS",
+   "product": "PHILIPS 23.8\" 24E1N1200A 100Hz IPS SPK Monitor",
+   "price_sgd": 135
+  },
+  {
+   "brand": "PHILIPS",
+   "product": "PHILIPS 27\" 272V8A 75Hz IPS Flatscreen Monitor",
+   "price_sgd": 159
+  },
+  {
+   "brand": "PHILIPS",
+   "product": "PHILIPS 27\" 27E1N1200A 100Hz IPS SPK Monitor",
+   "price_sgd": 151
+  },
+  {
+   "brand": "GIGABYTE",
+   "product": "GIGABYTE 32\" M32U-EK 144Hz 4K Gaming Monitor",
+   "price_sgd": 720
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+  "sha256": "9a3ae387042a99a4d71d32404b295b72148a1108f1d84664ccbbb84b137f6288",
+  "vendor": "dynacore",
+  "page_number": 9,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION 5 16 GB DDR5 Intel Core i7-14700hx Nvidia Geforce Rtx 5050 (8gb Gddr7) 1 TB SSD 15.1\" Wqxga (2560x1600) Oled Windows 11 Home Normal Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1999.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION 5 16 GB DDR5 Intel Core i7-14700hx Nvidia Geforce Rtx 5050 (8gb Gddr7) 1 TB SSD 15.1\" Wqxga (2560x1600) Oled Windows 11 Home Promo Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 1879.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION 5 32gb Ddr5-5600 Intel Core I9-14900hx 5.8ghz Nvidia Geforce Rtx 5070 1 TB SSD 15.1\" Wqxga (2560x1600) Oled Windows 11 Home Normal Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 2699.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION 5 32gb Ddr5-5600 Intel Core I9-14900hx 5.8ghz Nvidia Geforce Rtx 5070 1 TB SSD 15.1\" Wqxga (2560x1600) Oled Windows 11 Home Promo Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 2537.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION PRO 5 NVIDIA Geforce RTX 5060 (8gb Gddr7) 32gb RAM DDR5-5600 Intel Ultra 9 275hx (up To 5.4ghz) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Normal Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 2799.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION PRO 5 NVIDIA Geforce RTX 5060 (8gb Gddr7) 32gb RAM DDR5-5600 Intel Ultra 9 275hx (up To 5.4ghz) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Promo Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 2631.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION PRO 7I NVIDIA GeForce RTX 5090 (24GB GDDR7) 32GB RAM DDR5-6400 Intel Core Ultra 9 275HX (2.7GHz, 24C/24T) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Normal Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 5599.0
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "LENOVO LEGION PRO 7I NVIDIA GeForce RTX 5090 (24GB GDDR7) 32GB RAM DDR5-6400 Intel Core Ultra 9 275HX (2.7GHz, 24C/24T) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Promo Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 4988.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI KATANA 15 NVIDIA GEFORCE RTX 5070 GPU 8GB GDDR7 Intel Core i7 processor 14650HX 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\" QHD(2560x1440) Windows 11 Home Normal Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2499.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI KATANA 15 NVIDIA GEFORCE RTX 5070 GPU 8GB GDDR7 Intel Core i7 processor 14650HX 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\" QHD(2560x1440) Windows 11 Home Promo Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2238.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI KATANA 15 NVIDIA® GEFORCE RTX™ 5060 GPU, GDDR7 8GB Intel® Core™ i9-14900HX Processor 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\" QHD(2560x1440) Windows 11 Home Normal Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2499.0
+    },
+    {
+      "category": null,
+      "brand": "MSI",
+      "product": "MSI KATANA 15 NVIDIA® GEFORCE RTX™ 5060 GPU, GDDR7 8GB Intel® Core™ i9-14900HX Processor 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\" QHD(2560x1440) Windows 11 Home Promo Price",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2 Years",
+      "price_sgd": 2238.0
+    }
+  ],
+  "numeric_tokens_in_source": 21,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 12/21 = 0.57",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION 5 16 GB DDR5 Intel Core i7-14700hx Nvidia Geforce Rtx 5050 (8gb Gddr7) 1 TB SSD 15.1\\\" Wqxga (2560x1600) Oled Windows 11 Home Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1999\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION 5 16 GB DDR5 Intel Core i7-14700hx Nvidia Geforce Rtx 5050 (8gb Gddr7) 1 TB SSD 15.1\\\" Wqxga (2560x1600) Oled Windows 11 Home Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 1879\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION 5 32gb Ddr5-5600 Intel Core I9-14900hx 5.8ghz Nvidia Geforce Rtx 5070 1 TB SSD 15.1\\\" Wqxga (2560x1600) Oled Windows 11 Home Normal Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 2699\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION 5 32gb Ddr5-5600 Intel Core I9-14900hx 5.8ghz Nvidia Geforce Rtx 5070 1 TB SSD 15.1\\\" Wqxga (2560x1600) Oled Windows 11 Home Promo Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 2537\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION PRO 5 NVIDIA Geforce RTX 5060 (8gb Gddr7) 32gb RAM DDR5-5600 Intel Ultra 9 275hx (up To 5.4ghz) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Normal Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 2799\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION PRO 5 NVIDIA Geforce RTX 5060 (8gb Gddr7) 32gb RAM DDR5-5600 Intel Ultra 9 275hx (up To 5.4ghz) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Promo Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 2631\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION PRO 7I NVIDIA GeForce RTX 5090 (24GB GDDR7) 32GB RAM DDR5-6400 Intel Core Ultra 9 275HX (2.7GHz, 24C/24T) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Normal Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 5599\n    },\n    {\n      \"brand\": \"Lenovo\",\n      \"product\": \"LENOVO LEGION PRO 7I NVIDIA GeForce RTX 5090 (24GB GDDR7) 32GB RAM DDR5-6400 Intel Core Ultra 9 275HX (2.7GHz, 24C/24T) 1TB M.2 2242 PCIe Gen4 TLC SSD 16” WQXGA (2560 x 1600) OLED WINDOWS 11 HOME Promo Price\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 4988\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI KATANA 15 NVIDIA GEFORCE RTX 5070 GPU 8GB GDDR7 Intel Core i7 processor 14650HX 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\\\" QHD(2560x1440) Windows 11 Home Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 2499\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI KATANA 15 NVIDIA GEFORCE RTX 5070 GPU 8GB GDDR7 Intel Core i7 processor 14650HX 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\\\" QHD(2560x1440) Windows 11 Home Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 2238\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI KATANA 15 NVIDIA® GEFORCE RTX™ 5060 GPU, GDDR7 8GB Intel® Core™ i9-14900HX Processor 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\\\" QHD(2560x1440) Windows 11 Home Normal Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 2499\n    },\n    {\n      \"brand\": \"MSI\",\n      \"product\": \"MSI KATANA 15 NVIDIA® GEFORCE RTX™ 5060 GPU, GDDR7 8GB Intel® Core™ i9-14900HX Processor 16GB DDR5 5600MHz RAM 1TB NVMe SSD PCIe Gen4 15.6\\\" QHD(2560x1440) Windows 11 Home Promo Price\",\n      \"warranty\": \"2 Years\",\n      \"price_sgd\": 2238\n    }\n  ]\n}"
+}

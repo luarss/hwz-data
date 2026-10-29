@@ -1,0 +1,88 @@
+{
+  "rows": [
+    {
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I7-13620H / NVIDIA GEFORCE RTX 4050 / 16GB DDR5 / 512gb Ssd",
+      "variant": "Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 1599
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I7-13620H / NVIDIA GEFORCE RTX 4050 / 16GB DDR5 / 512gb Ssd",
+      "variant": "Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 1398
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I5-13420H / NVIDIA GEFORCE RTX 3050 / 16GB DDR4",
+      "variant": "Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 1099
+    },
+    {
+      "brand": "MSI",
+      "product": "MSI THIN 15 INTEL CORE I5-13420H / NVIDIA GEFORCE RTX 3050 / 16GB DDR4",
+      "variant": "Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 1069
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 5 PROCESSOR 210H",
+      "variant": "Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 1399
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 5 PROCESSOR 210H",
+      "variant": "Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 1293
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 7 PROCESSOR 240H",
+      "variant": "Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 1499
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER NITRO V 15 INTEL CORE 7 PROCESSOR 240H",
+      "variant": "Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 1405
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA 5 PROCESSOR 125H",
+      "variant": "Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 949
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA 5 PROCESSOR 125H",
+      "variant": "Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 885
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA PROCESSOR 155H",
+      "variant": "Normal Price",
+      "warranty": "2 Years",
+      "price_sgd": 1099
+    },
+    {
+      "brand": "ACER",
+      "product": "ACER ASPIRE GO 14 INTEL CORE ULTRA PROCESSOR 155H",
+      "variant": "Promo Price",
+      "warranty": "2 Years",
+      "price_sgd": 1040
+    }
+  ]
+}
