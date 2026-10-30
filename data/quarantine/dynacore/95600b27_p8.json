@@ -1,0 +1,68 @@
+{
+  "sha256": "95600b271774d34a5504bc1398a292ce4c7fc68c51296373a3b400dc4bd8a773",
+  "vendor": "dynacore",
+  "page_number": 8,
+  "method": "vision_llm",
+  "provider": "gemini",
+  "model": "gemini-3.8-flash",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ZENBOOK A14",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1529.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ZENBOOK A14",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1529.0
+    },
+    {
+      "category": null,
+      "brand": "LENOVO",
+      "product": "LENOVO IP 5 2IN1 TOUCH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": null,
+      "brand": "LENOVO",
+      "product": "LENOVO YOGA SLIM 7I",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2069.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING A15",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1149.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING F16",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1470.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 1 extra rows (17%): [('ASUS ZENBOOK A14', None, None, 1529)]",
+  "raw_response": "{\"rows\": [\n {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ZENBOOK A14\", \"variant\": null, \"bundle_cpu\": null, \"warranty\": null, \"price_sgd\": 1529},\n {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS ZENBOOK A14\", \"variant\": null, \"bundle_cpu\": null, \"warranty\": null, \"price_sgd\": 1529},\n {\"category\": null, \"brand\": \"LENOVO\", \"product\": \"LENOVO IP 5 2IN1 TOUCH\", \"variant\": null, \"bundle_cpu\": null, \"warranty\": null, \"price_sgd\": 1058},\n {\"category\": null, \"brand\": \"LENOVO\", \"product\": \"LENOVO YOGA SLIM 7I\", \"variant\": null, \"bundle_cpu\": null, \"warranty\": null, \"price_sgd\": 2069},\n {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING A15\", \"variant\": null, \"bundle_cpu\": null, \"warranty\": null, \"price_sgd\": 1149},\n {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING F16\", \"variant\": null, \"bundle_cpu\": null, \"warranty\": null, \"price_sgd\": 1470}\n]}"
+}

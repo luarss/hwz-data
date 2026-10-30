@@ -1,0 +1,95 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 25,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox G9",
+      "variant": "12GB / 64GB / 2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox M3",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K7 Plus",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 902.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K9",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1044.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec EVO-T1 AI Mini PC",
+      "variant": "64GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1519.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K8 Plus",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K12",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 826.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox K11",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1044.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec EVO-X1 AI Mini PC",
+      "variant": "32GB / 1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1424.0
+    }
+  ],
+  "numeric_tokens_in_source": 45,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 9/45 = 0.20",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox G9\",\n      \"variant\": \"12GB / 64GB / 2TB\",\n      \"price_sgd\": 474\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox M3\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 712\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K7 Plus\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 902\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K9\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 1044\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec EVO-T1 AI Mini PC\",\n      \"variant\": \"64GB / 1TB\",\n      \"price_sgd\": 1519\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K8 Plus\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 949\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K12\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 826\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox K11\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 1044\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec EVO-X1 AI Mini PC\",\n      \"variant\": \"32GB / 1TB\",\n      \"price_sgd\": 1424\n    }\n  ]\n}"
+}

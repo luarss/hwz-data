@@ -1,0 +1,32 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 26,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec EVO-X2 AI Mini PC (AMD Ryzen AI Max+ 395 Processor, 64GB LPDDR5X 8000 Onboard, 1TB M.2 PCIe Gen4x4 SSD, Windows 11 Professional)",
+      "variant": "64GB/1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": null,
+      "brand": "GMKtec",
+      "product": "GMKtec EVO-X2 AI Mini PC (AMD Ryzen AI Max+ 395 Processor, 128GB LPDDR5X 8000 Onboard, 2TB M.2 PCIe Gen4x4 SSD, Windows 11 Professional)",
+      "variant": "128GB/2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2849.0
+    }
+  ],
+  "numeric_tokens_in_source": 10,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/10 = 0.20",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec EVO-X2 AI Mini PC (AMD Ryzen AI Max+ 395 Processor, 64GB LPDDR5X 8000 Onboard, 1TB M.2 PCIe Gen4x4 SSD, Windows 11 Professional)\",\n      \"variant\": \"64GB/1TB\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec EVO-X2 AI Mini PC (AMD Ryzen AI Max+ 395 Processor, 128GB LPDDR5X 8000 Onboard, 2TB M.2 PCIe Gen4x4 SSD, Windows 11 Professional)\",\n      \"variant\": \"128GB/2TB\",\n      \"price_sgd\": 2849\n    }\n  ]\n}"
+}

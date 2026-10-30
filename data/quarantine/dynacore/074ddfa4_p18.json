@@ -1,0 +1,176 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 18,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "16GB unified memory, 512GB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2089.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2089.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "16GB unified memory, 1TB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2374.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 1TB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2374.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "24GB unified memory, 1TB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2659.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 1TB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2659.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU, 16-core GPU and 16-core Neural Engine",
+      "variant": "24GB unified memory, 512GB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2612.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU and 16-core GPU",
+      "variant": "24GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2612.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU, 20-core GPU and 16-core Neural Engine",
+      "variant": "24GB unified memory, 1TB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3182.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU and 20-core GPU",
+      "variant": "24GB, 1TB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3182.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 Max chip with 14-core CPU, 32-core GPU and 16-core Neural Engine",
+      "variant": "36GB unified memory, 1TB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4322.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "14-inch MacBook Pro: Apple M4 Max chip with 14-core CPU and 32-core GPU",
+      "variant": "36GB, 1TB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4322.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU, 20-core GPU and 16-core Neural Engine",
+      "variant": "24GB unified memory, 512GB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3324.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU and 20-core GPU",
+      "variant": "24GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3324.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU, 20-core GPU and 16-core Neural Engine",
+      "variant": "48GB unified memory, 512GB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3894.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU and 20-core GPU",
+      "variant": "48GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3894.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Max chip with 14-core CPU, 32-core GPU and 16-core Neural Engine",
+      "variant": "36GB unified memory, 1TB SSD storage - Space Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4749.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Max chip with 14-core CPU and 32-core GPU",
+      "variant": "36GB, 1TB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4749.0
+    }
+  ],
+  "numeric_tokens_in_source": 54,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 18/54 = 0.33",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\", \"variant\": \"16GB unified memory, 512GB SSD storage - Space Black\", \"price_sgd\": 2089},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU\", \"variant\": \"16GB, 512GB SSD - Silver\", \"price_sgd\": 2089},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\", \"variant\": \"16GB unified memory, 1TB SSD storage - Space Black\", \"price_sgd\": 2374},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU\", \"variant\": \"16GB, 1TB SSD - Silver\", \"price_sgd\": 2374},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\", \"variant\": \"24GB unified memory, 1TB SSD storage - Space Black\", \"price_sgd\": 2659},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 chip with 10-core CPU and 10-core GPU\", \"variant\": \"24GB, 1TB SSD - Silver\", \"price_sgd\": 2659},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU, 16-core GPU and 16-core Neural Engine\", \"variant\": \"24GB unified memory, 512GB SSD storage - Space Black\", \"price_sgd\": 2612},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 Pro chip with 12-core CPU and 16-core GPU\", \"variant\": \"24GB, 512GB SSD - Silver\", \"price_sgd\": 2612},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU, 20-core GPU and 16-core Neural Engine\", \"variant\": \"24GB unified memory, 1TB SSD storage - Space Black\", \"price_sgd\": 3182},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU and 20-core GPU\", \"variant\": \"24GB, 1TB SSD - Silver\", \"price_sgd\": 3182},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 Max chip with 14-core CPU, 32-core GPU and 16-core Neural Engine\", \"variant\": \"36GB unified memory, 1TB SSD storage - Space Black\", \"price_sgd\": 4322},\n  {\"brand\": \"Apple\", \"product\": \"14-inch MacBook Pro: Apple M4 Max chip with 14-core CPU and 32-core GPU\", \"variant\": \"36GB, 1TB SSD - Silver\", \"price_sgd\": 4322},\n  {\"brand\": \"Apple\", \"product\": \"16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU, 20-core GPU and 16-core Neural Engine\", \"variant\": \"24GB unified memory, 512GB SSD storage - Space Black\", \"price_sgd\": 3324},\n  {\"brand\": \"Apple\", \"product\": \"16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU and 20-core GPU\", \"variant\": \"24GB, 512GB SSD - Silver\", \"price_sgd\": 3324},\n  {\"brand\": \"Apple\", \"product\": \"16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU, 20-core GPU and 16-core Neural Engine\", \"variant\": \"48GB unified memory, 512GB SSD storage - Space Black\", \"price_sgd\": 3894},\n  {\"brand\": \"Apple\", \"product\": \"16-inch MacBook Pro: Apple M4 Pro chip with 14-core CPU and 20-core GPU\", \"variant\": \"48GB, 512GB SSD - Silver\", \"price_sgd\": 3894},\n  {\"brand\": \"Apple\", \"product\": \"16-inch MacBook Pro: Apple M4 Max chip with 14-core CPU, 32-core GPU and 16-core Neural Engine\", \"variant\": \"36GB unified memory, 1TB SSD storage - Space Black\", \"price_sgd\": 4749},\n  {\"brand\": \"Apple\", \"product\": \"16-inch MacBook Pro: Apple M4 Max chip with 14-core CPU and 32-core GPU\", \"variant\": \"36GB, 1TB SSD - Silver\", \"price_sgd\": 4749}\n]}"
+}

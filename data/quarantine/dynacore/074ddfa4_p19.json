@@ -1,0 +1,167 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 19,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Max chip with 16‑core CPU, 40‑core GPU and 16‑core Neural Engine",
+      "variant": "Space Black, 48GB, 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5462.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "16-inch MacBook Pro: Apple M4 Max chip with 16‑core CPU and 40‑core GPU",
+      "variant": "Silver, 48GB, 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5462.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Green",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Green",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD",
+      "variant": "Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display, NT glass: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 256GB SSD, 16GB",
+      "variant": "Silver, Nano-texture glass",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD",
+      "variant": "Green",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD",
+      "variant": "Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD",
+      "variant": "Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 24GB, 512GB SSD",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2564.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 24GB, 512GB SSD",
+      "variant": "Green",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2564.0
+    }
+  ],
+  "numeric_tokens_in_source": 52,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 17/52 = 0.33",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"16-inch MacBook Pro: Apple M4 Max chip with 16‑core CPU, 40‑core GPU and 16‑core Neural Engine\",\n      \"variant\": \"Space Black, 48GB, 1TB SSD\",\n      \"price_sgd\": 5462\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"16-inch MacBook Pro: Apple M4 Max chip with 16‑core CPU and 40‑core GPU\",\n      \"variant\": \"Silver, 48GB, 1TB SSD\",\n      \"price_sgd\": 5462\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Silver\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Green\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Blue\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 8 ‑ core CPU and 8 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Pink\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Silver\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Green\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Blue\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 16GB, 256GB SSD\",\n      \"variant\": \"Pink\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display, NT glass: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 256GB SSD, 16GB\",\n      \"variant\": \"Silver, Nano-texture glass\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD\",\n      \"variant\": \"Silver\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD\",\n      \"variant\": \"Green\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD\",\n      \"variant\": \"Blue\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 16GB, 512GB SSD\",\n      \"variant\": \"Pink\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 24GB, 512GB SSD\",\n      \"variant\": \"Silver\",\n      \"price_sgd\": 2564\n    },\n    {\n      \"category\": \"Apple iMac\",\n      \"brand\": \"Apple\",\n      \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10 ‑ core CPU and 10 ‑ core GPU, 24GB, 512GB SSD\",\n      \"variant\": \"Green\",\n      \"price_sgd\": 2564\n    }\n  ]\n}"
+}

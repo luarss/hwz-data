@@ -1,0 +1,230 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 17,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU, 8-core GPU, 16-core Neural Engine",
+      "variant": "16GB/256GB Sky Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1424.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU",
+      "variant": "16GB, 256GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1424.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU",
+      "variant": "16GB, 256GB SSD - Starlight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1424.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU",
+      "variant": "16GB, 256GB SSD - Midnight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1424.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "16GB/512GB Sky Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Starlight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Midnight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "24GB/512GB Sky Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 512GB SSD - Starlight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 512GB SSD - Midnight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "16GB/256GB Sky Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 256GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 256GB SSD - Starlight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 256GB SSD - Midnight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1709.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "16GB/512GB Sky Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Starlight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "16GB, 512GB SSD - Midnight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1994.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine",
+      "variant": "24GB/512GB Sky Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 512GB SSD - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 512GB SSD - Starlight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Apple Notebook",
+      "brand": "Apple",
+      "product": "15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU",
+      "variant": "24GB, 512GB SSD - Midnight",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    }
+  ],
+  "numeric_tokens_in_source": 48,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 24/48 = 0.50",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU, 8-core GPU, 16-core Neural Engine\",\n      \"variant\": \"16GB/256GB Sky Blue\",\n      \"price_sgd\": 1424\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU\",\n      \"variant\": \"16GB, 256GB SSD - Silver\",\n      \"price_sgd\": 1424\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU\",\n      \"variant\": \"16GB, 256GB SSD - Starlight\",\n      \"price_sgd\": 1424\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 8-core GPU\",\n      \"variant\": \"16GB, 256GB SSD - Midnight\",\n      \"price_sgd\": 1424\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\",\n      \"variant\": \"16GB/512GB Sky Blue\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 512GB SSD - Silver\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 512GB SSD - Starlight\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 512GB SSD - Midnight\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\",\n      \"variant\": \"24GB/512GB Sky Blue\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"24GB, 512GB SSD - Silver\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"24GB, 512GB SSD - Starlight\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"13-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"24GB, 512GB SSD - Midnight\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\",\n      \"variant\": \"16GB/256GB Sky Blue\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 256GB SSD - Silver\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 256GB SSD - Starlight\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 256GB SSD - Midnight\",\n      \"price_sgd\": 1709\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\",\n      \"variant\": \"16GB/512GB Sky Blue\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 512GB SSD - Silver\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 512GB SSD - Starlight\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"16GB, 512GB SSD - Midnight\",\n      \"price_sgd\": 1994\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine\",\n      \"variant\": \"24GB/512GB Sky Blue\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"24GB, 512GB SSD - Silver\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"24GB, 512GB SSD - Starlight\",\n      \"price_sgd\": 2279\n    },\n    {\n      \"category\": \"Apple Notebook\",\n      \"brand\": \"Apple\",\n      \"product\": \"15-inch MacBook Air: Apple M4 chip with 10-core CPU and 10-core GPU\",\n      \"variant\": \"24GB, 512GB SSD - Midnight\",\n      \"price_sgd\": 2279\n    }\n  ]\n}"
+}

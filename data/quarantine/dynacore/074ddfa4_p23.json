@@ -1,0 +1,707 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 23,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "AirPods Max - Midnight",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "AirPods Max - Starlight",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "AirPods Max - Blue",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "AirPods Max - Orange",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "AirPods Max - Purple",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Pencil Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "APPLE PENCIL (USB-C)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Pencil (1st Generation)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Pencil (2nd Generation)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Pencil Tips",
+      "variant": "4 pack",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to Apple Pencil Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Studio Display - Standard Glass - Tilt- and Height-Adjustable Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2754.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Studio Display - Standard Glass - Tilt-Adjustable Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2184.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Studio Display - Standard Glass - VESA Mount Adapter (Stand not included)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2184.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Studio Display - Nano-Texture Glass - Tilt- and Height-Adjustable Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3134.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Studio Display - Nano-Texture Glass - Tilt-Adjustable Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2564.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Studio Display - Nano-Texture Glass - VESA Mount Adapter (Stand not included)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2564.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro Vega II Duo MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6270.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Pro Display XDR - Standard glass",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7029.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Pro Display XDR - Nano-texture glass",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8359.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "VESA Mount Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Pro Stand",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1329.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "20W USB-C Power Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "30W USB-C Power Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "35W Dual USB-C Power Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "70W USB-C Power Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "96W USB-C Power Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "140W USB-C Power Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 123.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple 45W MagSafe 2 Power Adapter (for MacBook Air)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple 85W MagSafe 2 Power Adapter (for MacBook Pro with Retina display)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple World Travel Adapter Kit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Lightning to Digital AV Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 71.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Lightning to USB Cable",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Lightning to USB3 Camera Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Thunderbolt 5 (USB ‑ C) Pro Cable",
+      "variant": "1 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Thunderbolt 4 Pro Cable",
+      "variant": "1.8 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Thunderbolt 4 Pro Cable",
+      "variant": "3 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "60W USB-C Charge Cable",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "240W USB-C Charge Cable",
+      "variant": "2 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to 3.5 mm Headphone Jack Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to 3.5 mm Audio Cable",
+      "variant": "1.2 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to Lightning Cable",
+      "variant": "1m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to Lightning Cable",
+      "variant": "2 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to SD Card Reader",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to USB Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to Lightning Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 43.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C VGA Multiport Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C Digital AV Multiport Adapter",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "USB-C to MagSafe 3 Cable (2m) - Silver",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Power Adapter Extension Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "MagSafe Charger",
+      "variant": "1 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 56.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "MagSafe Charger",
+      "variant": "2 m",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro W6600X MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 998.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro W5700X MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1425.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro Vega II MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3135.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Afterburner Card",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2877.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro W6800X MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3990.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro W6800X Duo MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7125.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro W6900X MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8550.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Radeon Pro W5500X MPX Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 855.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple 2TB SSD Upgrade Kit for Mac Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1425.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple 4TB SSD Upgrade Kit for Mac Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2280.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple 8TB SSD Upgrade Kit for Mac Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3990.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Mac Pro Wheels Kit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Apple Mac Pro Feet Kit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Polishing Cloth",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": null,
+      "brand": "Promise",
+      "product": "PROMISE Pegasus32 R8 32TB RAID System",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4228.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Mouse - White Multi-Touch Surface",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Mouse - Black Multi-Touch Surface",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 123.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Trackpad - White Multi-Touch Surface",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 151.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Trackpad - Black Multi-Touch Surface",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Keyboard - US English",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 123.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Keyboard with Touch ID for Mac models with Apple silicon - US English",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - US English - White Keys",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 227.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - US English - Black Keys",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 256.0
+    },
+    {
+      "category": null,
+      "brand": "Apple",
+      "product": "Magic Keyboard with Numeric Keypad - US English - Silver",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 151.0
+    }
+  ],
+  "numeric_tokens_in_source": 142,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 77/142 = 0.54",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"AirPods Max - Midnight\",\n      \"price_sgd\": 712\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"AirPods Max - Starlight\",\n      \"price_sgd\": 712\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"AirPods Max - Blue\",\n      \"price_sgd\": 712\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"AirPods Max - Orange\",\n      \"price_sgd\": 712\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"AirPods Max - Purple\",\n      \"price_sgd\": 712\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Pencil Pro\",\n      \"price_sgd\": 189\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"APPLE PENCIL (USB-C)\",\n      \"price_sgd\": 113\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Pencil (1st Generation)\",\n      \"price_sgd\": 142\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Pencil (2nd Generation)\",\n      \"price_sgd\": 189\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Pencil Tips\",\n      \"variant\": \"4 pack\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to Apple Pencil Adapter\",\n      \"price_sgd\": 14\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Studio Display - Standard Glass - Tilt- and Height-Adjustable Stand\",\n      \"price_sgd\": 2754\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Studio Display - Standard Glass - Tilt-Adjustable Stand\",\n      \"price_sgd\": 2184\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Studio Display - Standard Glass - VESA Mount Adapter (Stand not included)\",\n      \"price_sgd\": 2184\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Studio Display - Nano-Texture Glass - Tilt- and Height-Adjustable Stand\",\n      \"price_sgd\": 3134\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Studio Display - Nano-Texture Glass - Tilt-Adjustable Stand\",\n      \"price_sgd\": 2564\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Studio Display - Nano-Texture Glass - VESA Mount Adapter (Stand not included)\",\n      \"price_sgd\": 2564\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro Vega II Duo MPX Module\",\n      \"price_sgd\": 6270\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Pro Display XDR - Standard glass\",\n      \"price_sgd\": 7029\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Pro Display XDR - Nano-texture glass\",\n      \"price_sgd\": 8359\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"VESA Mount Adapter\",\n      \"price_sgd\": 265\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Pro Stand\",\n      \"price_sgd\": 1329\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"20W USB-C Power Adapter\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"30W USB-C Power Adapter\",\n      \"price_sgd\": 52\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"35W Dual USB-C Power Adapter\",\n      \"price_sgd\": 75\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"70W USB-C Power Adapter\",\n      \"price_sgd\": 75\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"96W USB-C Power Adapter\",\n      \"price_sgd\": 94\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"140W USB-C Power Adapter\",\n      \"price_sgd\": 123\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple 45W MagSafe 2 Power Adapter (for MacBook Air)\",\n      \"price_sgd\": 94\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple 85W MagSafe 2 Power Adapter (for MacBook Pro with Retina display)\",\n      \"price_sgd\": 94\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple World Travel Adapter Kit\",\n      \"price_sgd\": 43\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Lightning to Digital AV Adapter\",\n      \"price_sgd\": 71\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Lightning to USB Cable\",\n      \"variant\": \"1m\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Lightning to USB3 Camera Adapter\",\n      \"price_sgd\": 57\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Thunderbolt 3 (USB-C) to Thunderbolt 2 Adapter\",\n      \"price_sgd\": 62\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Thunderbolt 5 (USB ‑ C) Pro Cable\",\n      \"variant\": \"1 m\",\n      \"price_sgd\": 85\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Thunderbolt 4 Pro Cable\",\n      \"variant\": \"1.8 m\",\n      \"price_sgd\": 170\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Thunderbolt 4 Pro Cable\",\n      \"variant\": \"3 m\",\n      \"price_sgd\": 208\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"60W USB-C Charge Cable\",\n      \"variant\": \"1m\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"240W USB-C Charge Cable\",\n      \"variant\": \"2 m\",\n      \"price_sgd\": 37\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to 3.5 mm Headphone Jack Adapter\",\n      \"price_sgd\": 14\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to 3.5 mm Audio Cable\",\n      \"variant\": \"1.2 m\",\n      \"price_sgd\": 56\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to Lightning Cable\",\n      \"variant\": \"1m\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to Lightning Cable\",\n      \"variant\": \"2 m\",\n      \"price_sgd\": 43\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to SD Card Reader\",\n      \"price_sgd\": 52\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to USB Adapter\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to Lightning Adapter\",\n      \"price_sgd\": 43\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C VGA Multiport Adapter\",\n      \"price_sgd\": 85\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C Digital AV Multiport Adapter\",\n      \"price_sgd\": 85\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"USB-C to MagSafe 3 Cable (2m) - Silver\",\n      \"price_sgd\": 62\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Power Adapter Extension Cable\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"MagSafe Charger\",\n      \"variant\": \"1 m\",\n      \"price_sgd\": 56\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"MagSafe Charger\",\n      \"variant\": \"2 m\",\n      \"price_sgd\": 75\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro W6600X MPX Module\",\n      \"price_sgd\": 998\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro W5700X MPX Module\",\n      \"price_sgd\": 1425\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro Vega II MPX Module\",\n      \"price_sgd\": 3135\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Afterburner Card\",\n      \"price_sgd\": 2877\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro W6800X MPX Module\",\n      \"price_sgd\": 3990\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro W6800X Duo MPX Module\",\n      \"price_sgd\": 7125\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro W6900X MPX Module\",\n      \"price_sgd\": 8550\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Radeon Pro W5500X MPX Module\",\n      \"price_sgd\": 855\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple 2TB SSD Upgrade Kit for Mac Pro\",\n      \"price_sgd\": 1425\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple 4TB SSD Upgrade Kit for Mac Pro\",\n      \"price_sgd\": 2280\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple 8TB SSD Upgrade Kit for Mac Pro\",\n      \"price_sgd\": 3990\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Mac Pro Wheels Kit\",\n      \"price_sgd\": 949\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Apple Mac Pro Feet Kit\",\n      \"price_sgd\": 379\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Polishing Cloth\",\n      \"price_sgd\": 28\n    },\n    {\n      \"brand\": \"Promise\",\n      \"product\": \"PROMISE Pegasus32 R8 32TB RAID System\",\n      \"price_sgd\": 4228\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Mouse - White Multi-Touch Surface\",\n      \"price_sgd\": 94\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Mouse - Black Multi-Touch Surface\",\n      \"price_sgd\": 123\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Trackpad - White Multi-Touch Surface\",\n      \"price_sgd\": 151\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Trackpad - Black Multi-Touch Surface\",\n      \"price_sgd\": 189\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Keyboard - US English\",\n      \"price_sgd\": 123\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Keyboard with Touch ID for Mac models with Apple silicon - US English\",\n      \"price_sgd\": 189\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - US English - White Keys\",\n      \"price_sgd\": 227\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Keyboard with Touch ID and Numeric Keypad for Mac models with Apple silicon - US English - Black Keys\",\n      \"price_sgd\": 256\n    },\n    {\n      \"brand\": \"Apple\",\n      \"product\": \"Magic Keyboard with Numeric Keypad - US English - Silver\",\n      \"price_sgd\": 151\n    }\n  ]\n}"
+}

@@ -1,0 +1,320 @@
+{
+  "sha256": "074ddfa4beaac246d33fc457bde863660c0d53d6e152007486da8ae1692eb5ab",
+  "vendor": "dynacore",
+  "page_number": 20,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 24GB, 512GB SSD",
+      "variant": "Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2564.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 24GB, 512GB SSD",
+      "variant": "Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2564.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "Mac mini: Apple M4 chip, Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine, 16GB unified memory, 256GB SSD storage",
+      "variant": "16GB / 256GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 807.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "Mac mini: Apple M4 chip, Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine, 16GB unified memory, 512GB SSD storage",
+      "variant": "16GB / 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1092.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "Mac mini: Apple M4 chip, Apple M4 chip with 10 ‑ core CPU, 10 ‑ core GPU, 16 ‑ core Neural Engine, 24GB unified memory, 512GB SSD storage",
+      "variant": "24GB / 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1377.0
+    },
+    {
+      "category": "Apple iMac",
+      "brand": "Apple",
+      "product": "Mac mini: Apple M4 Pro chip, Apple M4 Pro chip with 12 ‑ core CPU, 16 ‑ core GPU, 16 ‑ core Neural Engine, 24GB unified memory, 512GB SSD storage",
+      "variant": "24GB / 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1899.0
+    },
+    {
+      "category": "Apple Mac Studio",
+      "brand": "Apple",
+      "product": "Mac Studio: Apple M4 Max",
+      "variant": "36GB / 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2754.0
+    },
+    {
+      "category": "Apple Mac Studio",
+      "brand": "Apple",
+      "product": "Mac Studio: Apple M3 Ultra",
+      "variant": "96GB / 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5509.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "128GB - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "128GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "128GB - Yellow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "128GB - Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "256GB - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "256GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "256GB - Yellow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "256GB - Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "512GB - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 902.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "512GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 902.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "512GB - Yellow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 902.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi",
+      "variant": "512GB - Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 902.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "128GB - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 693.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "128GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 693.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "128GB - Yellow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 693.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "128GB - Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 693.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "256GB - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 835.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "256GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 835.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "256GB - Yellow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 835.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "256GB - Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 835.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "512GB - Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1120.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "512GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1120.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "512GB - Yellow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1120.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Wi-Fi + Cellular",
+      "variant": "512GB - Pink",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1120.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "128GB - Space Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 854.0
+    },
+    {
+      "category": "Apple iPad",
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "128GB - Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 854.0
+    }
+  ],
+  "numeric_tokens_in_source": 67,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 34/67 = 0.51",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Apple iMac\", \"brand\": \"Apple\", \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 24GB, 512GB SSD\", \"variant\": \"Blue\", \"price_sgd\": 2564},\n  {\"category\": \"Apple iMac\", \"brand\": \"Apple\", \"product\": \"24-inch iMac with Retina 4.5K display: Apple M4 chip with 10‑core CPU and 10‑core GPU, 24GB, 512GB SSD\", \"variant\": \"Pink\", \"price_sgd\": 2564},\n  {\"category\": \"Apple iMac\", \"brand\": \"Apple\", \"product\": \"Mac mini: Apple M4 chip, Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine, 16GB unified memory, 256GB SSD storage\", \"variant\": \"16GB / 256GB SSD\", \"price_sgd\": 807},\n  {\"category\": \"Apple iMac\", \"brand\": \"Apple\", \"product\": \"Mac mini: Apple M4 chip, Apple M4 chip with 10-core CPU, 10-core GPU, 16-core Neural Engine, 16GB unified memory, 512GB SSD storage\", \"variant\": \"16GB / 512GB SSD\", \"price_sgd\": 1092},\n  {\"category\": \"Apple iMac\", \"brand\": \"Apple\", \"product\": \"Mac mini: Apple M4 chip, Apple M4 chip with 10 ‑ core CPU, 10 ‑ core GPU, 16 ‑ core Neural Engine, 24GB unified memory, 512GB SSD storage\", \"variant\": \"24GB / 512GB SSD\", \"price_sgd\": 1377},\n  {\"category\": \"Apple iMac\", \"brand\": \"Apple\", \"product\": \"Mac mini: Apple M4 Pro chip, Apple M4 Pro chip with 12 ‑ core CPU, 16 ‑ core GPU, 16 ‑ core Neural Engine, 24GB unified memory, 512GB SSD storage\", \"variant\": \"24GB / 512GB SSD\", \"price_sgd\": 1899},\n  {\"category\": \"Apple Mac Studio\", \"brand\": \"Apple\", \"product\": \"Mac Studio: Apple M4 Max\", \"variant\": \"36GB / 512GB SSD\", \"price_sgd\": 2754},\n  {\"category\": \"Apple Mac Studio\", \"brand\": \"Apple\", \"product\": \"Mac Studio: Apple M3 Ultra\", \"variant\": \"96GB / 1TB SSD\", \"price_sgd\": 5509},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"128GB - Silver\", \"price_sgd\": 474},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"128GB - Blue\", \"price_sgd\": 474},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"128GB - Yellow\", \"price_sgd\": 474},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"128GB - Pink\", \"price_sgd\": 474},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"256GB - Silver\", \"price_sgd\": 617},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"256GB - Blue\", \"price_sgd\": 617},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"256GB - Yellow\", \"price_sgd\": 617},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"256GB - Pink\", \"price_sgd\": 617},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"512GB - Silver\", \"price_sgd\": 902},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"512GB - Blue\", \"price_sgd\": 902},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"512GB - Yellow\", \"price_sgd\": 902},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi\", \"variant\": \"512GB - Pink\", \"price_sgd\": 902},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"128GB - Silver\", \"price_sgd\": 693},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"128GB - Blue\", \"price_sgd\": 693},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"128GB - Yellow\", \"price_sgd\": 693},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"128GB - Pink\", \"price_sgd\": 693},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"256GB - Silver\", \"price_sgd\": 835},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"256GB - Blue\", \"price_sgd\": 835},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"256GB - Yellow\", \"price_sgd\": 835},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"256GB - Pink\", \"price_sgd\": 835},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"512GB - Silver\", \"price_sgd\": 1120},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"512GB - Blue\", \"price_sgd\": 1120},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"512GB - Yellow\", \"price_sgd\": 1120},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Wi-Fi + Cellular\", \"variant\": \"512GB - Pink\", \"price_sgd\": 1120},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Air Wi-Fi\", \"variant\": \"128GB - Space Grey\", \"price_sgd\": 854},\n  {\"category\": \"Apple iPad\", \"brand\": \"Apple\", \"product\": \"11-inch iPad Air Wi-Fi\", \"variant\": \"128GB - Blue\", \"price_sgd\": 854}\n]}"
+}

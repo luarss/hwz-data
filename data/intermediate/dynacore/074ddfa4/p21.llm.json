@@ -1,0 +1,472 @@
+{
+  "rows": [
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "128GB - Starlight",
+      "price_sgd": 854.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "128GB - Purple",
+      "price_sgd": 854.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "256GB - Space Grey",
+      "price_sgd": 997.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "256GB - Blue",
+      "price_sgd": 997.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "256GB - Starlight",
+      "price_sgd": 997.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "256GB - Purple",
+      "price_sgd": 997.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "512GB - Space Grey",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "512GB - Blue",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "512GB - Starlight",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "512GB - Purple",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "1TB - Space Grey",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "1TB - Blue",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "1TB - Starlight",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi",
+      "variant": "1TB - Purple",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Space Grey",
+      "price_sgd": 1073.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Blue",
+      "price_sgd": 1073.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Starlight",
+      "price_sgd": 1073.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Purple",
+      "price_sgd": 1073.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Space Grey",
+      "price_sgd": 1215.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Blue",
+      "price_sgd": 1215.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Starlight",
+      "price_sgd": 1215.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Purple",
+      "price_sgd": 1215.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Space Grey",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Blue",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Starlight",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Purple",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Space Grey",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Blue",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Starlight",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "11-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Purple",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "128GB - Space Grey",
+      "price_sgd": 1139.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "128GB - Blue",
+      "price_sgd": 1139.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "128GB - Starlight",
+      "price_sgd": 1139.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "128GB - Purple",
+      "price_sgd": 1139.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "256GB - Space Grey",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "256GB - Blue",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "256GB - Starlight",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "256GB - Purple",
+      "price_sgd": 1282.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "512GB - Space Grey",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "512GB - Blue",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "512GB - Starlight",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "512GB - Purple",
+      "price_sgd": 1567.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "1TB - Space Grey",
+      "price_sgd": 1852.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "1TB - Blue",
+      "price_sgd": 1852.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "1TB - Starlight",
+      "price_sgd": 1852.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi",
+      "variant": "1TB - Purple",
+      "price_sgd": 1852.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Space Grey",
+      "price_sgd": 1358.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Blue",
+      "price_sgd": 1358.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Starlight",
+      "price_sgd": 1358.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "128GB - Purple",
+      "price_sgd": 1358.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Space Grey",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Blue",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Starlight",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "256GB - Purple",
+      "price_sgd": 1500.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Space Grey",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Blue",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Starlight",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "512GB - Purple",
+      "price_sgd": 1785.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Space Grey",
+      "price_sgd": 2070.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Blue",
+      "price_sgd": 2070.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Starlight",
+      "price_sgd": 2070.0
+    },
+    {
+      "brand": "Apple",
+      "product": "13-inch iPad Air Wi-Fi + Cellular",
+      "variant": "1TB - Purple",
+      "price_sgd": 2070.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "128GB - Space Grey",
+      "price_sgd": 664.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "128GB - Blue",
+      "price_sgd": 664.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "128GB - Starlight",
+      "price_sgd": 664.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "128GB - Purple",
+      "price_sgd": 664.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "256GB - Space Grey",
+      "price_sgd": 807.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "256GB - Blue",
+      "price_sgd": 807.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "256GB - Starlight",
+      "price_sgd": 807.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "256GB - Purple",
+      "price_sgd": 807.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "512GB - Space Grey",
+      "price_sgd": 1092.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "512GB - Blue",
+      "price_sgd": 1092.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "512GB - Starlight",
+      "price_sgd": 1092.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi",
+      "variant": "512GB - Purple",
+      "price_sgd": 1092.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi + Cellular",
+      "variant": "128GB - Space Grey",
+      "price_sgd": 883.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi + Cellular",
+      "variant": "128GB - Blue",
+      "price_sgd": 883.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi + Cellular",
+      "variant": "128GB - Starlight",
+      "price_sgd": 883.0
+    },
+    {
+      "brand": "Apple",
+      "product": "iPad mini Wi-Fi + Cellular",
+      "variant": "128GB - Purple",
+      "price_sgd": 883.0
+    }
+  ]
+}
