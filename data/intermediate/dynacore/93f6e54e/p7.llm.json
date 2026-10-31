@@ -1,0 +1,214 @@
+{
+  "rows": [
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "LENOVO Legion Pro 5",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5070Ti-12GB 32GB RAM | 1TB SSD 16\" WQXGA OLED 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 3499
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "LENOVO Legion Pro 5",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5070Ti-12GB 32GB RAM | 1TB SSD 16\" WQXGA OLED 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 3349
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "DELL",
+      "product": "DELL Alienware M18 R2",
+      "variant": "Intel Core i9-14900HX GeForce RTX 4080-12GB 32GB RAM | 1TB SSD 18\" QHD+ IPS 165Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 5499
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "DELL",
+      "product": "DELL Alienware M18 R2",
+      "variant": "Intel Core i9-14900HX GeForce RTX 4080-12GB 32GB RAM | 1TB SSD 18\" QHD+ IPS 165Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 4290
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS ROG Strix SCAR 18",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5080-16GB 32GB RAM | 2TB SSD 18\" WQXGA Mini LED 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 6099
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS ROG Strix SCAR 18",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5080-16GB 32GB RAM | 2TB SSD 18\" WQXGA Mini LED 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 5699
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS ROG Strix 16",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5090-24GB 32GB RAM | 2TB SSD 16\" WQXGA Mini LED, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 7299
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS ROG Strix 16",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5090-24GB 32GB RAM | 2TB SSD 16\" WQXGA Mini LED, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 6538
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "MSI",
+      "product": "MSI Vector 18 HX AI",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5080-16GB 32GB RAM | 2TB SSD 18\" 16:10 QHD+ IPS, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 5999
+    },
+    {
+      "category": "FLAGSHIP GAMING LAPTOP",
+      "brand": "MSI",
+      "product": "MSI Vector 18 HX AI",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5080-16GB 32GB RAM | 2TB SSD 18\" 16:10 QHD+ IPS, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 4698
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "MSI",
+      "product": "MSI Katana A15",
+      "variant": "AMD Ryzen 7 8845HS GeForce RTX 4070-8GB 16GB RAM | 1TB SSD 15.6\" QHD IPS 165Hz (2560x1440)",
+      "price_sgd": 2299
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "MSI",
+      "product": "MSI Katana A15",
+      "variant": "AMD Ryzen 7 8845HS GeForce RTX 4070-8GB 16GB RAM | 1TB SSD 15.6\" QHD IPS 165Hz (2560x1440)",
+      "price_sgd": 1898
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "DELL",
+      "product": "DELL Alienware X16 R2",
+      "variant": "Intel Core Ultra 7 155H GeForce RTX 4070-8GB 16GB RAM | 1TB SSD 16\" QHD+ IPS, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 4199
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "DELL",
+      "product": "DELL Alienware X16 R2",
+      "variant": "Intel Core Ultra 7 155H GeForce RTX 4070-8GB 16GB RAM | 1TB SSD 16\" QHD+ IPS, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 3688
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ROG Zephyrus G16",
+      "variant": "AMD Ryzen AI 7 350 GeForce RTX 5070-8GB 32GB RAM | 1TB SSD 16\" 2.5K OLED, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 4299
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ROG Zephyrus G16",
+      "variant": "AMD Ryzen AI 7 350 GeForce RTX 5070-8GB 32GB RAM | 1TB SSD 16\" 2.5K OLED, 240Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 3948
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "Lenovo Legion 7",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5070-8GB 32GB RAM | 1TB SSD 16\" WQXGA OLED, 165Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 3299
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "Lenovo Legion 7",
+      "variant": "Intel Core Ultra 9 275HX GeForce RTX 5070-8GB 32GB RAM | 1TB SSD 16\" WQXGA OLED, 165Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 3058
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "Lenovo Legion 5",
+      "variant": "Intel Core i9-14900HX GeForce RTX 5070-8GB 32GB RAM | 1TB SSD 15.1\" WQXGA OLED, 165Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 2799
+    },
+    {
+      "category": "MAINSTREAM GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "Lenovo Legion 5",
+      "variant": "Intel Core i9-14900HX GeForce RTX 5070-8GB 32GB RAM | 1TB SSD 15.1\" WQXGA OLED, 165Hz (2560x1600), 100% DCI-P3",
+      "price_sgd": 2520
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming A15",
+      "variant": "AMD Ryzen 7 7435HS GeForce RTX 3050-4GB 16GB RAM | 1TB SSD 15.6\" FHD IPS 144Hz (1920x1080)",
+      "price_sgd": 1499
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming A15",
+      "variant": "AMD Ryzen 7 7435HS GeForce RTX 3050-4GB 16GB RAM | 1TB SSD 15.6\" FHD IPS 144Hz (1920x1080)",
+      "price_sgd": 1169
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming F16",
+      "variant": "Intel Core i7-13620H GeForce RTX 4050-6GB 16GB RAM | 1TB SSD 16\" FHD+ IPS 144Hz (1920x1200)",
+      "price_sgd": 1699
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming F16",
+      "variant": "Intel Core i7-13620H GeForce RTX 4050-6GB 16GB RAM | 1TB SSD 16\" FHD+ IPS 144Hz (1920x1200)",
+      "price_sgd": 1499
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "DELL",
+      "product": "DELL G15 5530",
+      "variant": "Intel Core i9-13900HX GeForce RTX 4060-8GB 32GB RAM | 1TB SSD 15.6\" FHD IPS 165Hz (1920x1080), G-SYNC, 100% sRGB",
+      "price_sgd": 2299
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "DELL",
+      "product": "DELL G15 5530",
+      "variant": "Intel Core i9-13900HX GeForce RTX 4060-8GB 32GB RAM | 1TB SSD 15.6\" FHD IPS 165Hz (1920x1080), G-SYNC, 100% sRGB",
+      "price_sgd": 2038
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "Lenovo LOQ 15AHP10",
+      "variant": "AMD Ryzen 7 250 GeForce RTX 5060 8GB 16GB RAM | 1TB SSD 15.6\" FHD IPS 144Hz (1920x1080), G-SYNC, 100% sRGB",
+      "price_sgd": 1899
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "LENOVO",
+      "product": "Lenovo LOQ 15AHP10",
+      "variant": "AMD Ryzen 7 250 GeForce RTX 5060 8GB 16GB RAM | 1TB SSD 15.6\" FHD IPS 144Hz (1920x1080), G-SYNC, 100% sRGB",
+      "price_sgd": 1728
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "MSI",
+      "product": "MSI Cyborg 15 B2RWFKG",
+      "variant": "Intel Core i7 240H GeForce RTX 5060-8GB 16GB RAM | 512G SSD 15.6\" FHD IPS 144Hz (1920x1080)",
+      "price_sgd": 1799
+    },
+    {
+      "category": "ENTRY LEVEL GAMING LAPTOP",
+      "brand": "MSI",
+      "product": "MSI Cyborg 15 B2RWFKG",
+      "variant": "Intel Core i7 240H GeForce RTX 5060-8GB 16GB RAM | 512G SSD 15.6\" FHD IPS 144Hz (1920x1080)",
+      "price_sgd": 1518
+    }
+  ]
+}

@@ -1,0 +1,1166 @@
+{
+  "sha256": "4c315dfd7f18798e60976613956e23c4c6042672aeb6f2c531fc6f8322bd7fde",
+  "vendor": "dynacore",
+  "page_number": 2,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GT710 2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GT730 4HDMI 2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus Dual RTX3050 O6GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 309.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5050 O8G Twin Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 509.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5050 O8G Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 519.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5060 O8G Twin Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 545.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5060 O8G Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 599.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5060 O8G Gaming OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 635.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5060Ti 16G Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 865.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5060Ti O16G Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 885.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5060Ti O16G OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 985.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5060Ti O16G White Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 895.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5060Ti O16G OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 909.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5060Ti O8G OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 719.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5060Ti O8G Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 669.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5070 12G Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 949.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Dual RTX5070 O12G Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 989.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5070 O12G Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1029.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5070 O12G White Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1049.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5070 O12G Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1179.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus Geforce Rog Strix RTX5070 O12G Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1279.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5070Ti O16G Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1549.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5070Ti O16G Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1589.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5070Ti O16G BTF White Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1609.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus Geforce Rog Strix RTX5070Ti O16G Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1639.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Proart RTX5070Ti O16G Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1609.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Proart RTX5080 O16G Triple Fan OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2399.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5080 16G Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1959.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Prime RTX5080 O16G Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2079.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Tuf Gaming RTX5080 O16G Gaming Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2179.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Rog Astral RTX5080 O16G Gaming OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2459.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus GeForce Rog Astral RTX5080 O16G White Gaming OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2489.0
+    },
+    {
+      "category": null,
+      "brand": "Sparkle",
+      "product": "Sparkle Intel ARC B570 Guardian OC 10Gb Twin Fan DDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 345.0
+    },
+    {
+      "category": null,
+      "brand": "Sparkle",
+      "product": "Sparkle Intel ARC B580 Titan OC 12Gb Black Triple Fan DDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 395.0
+    },
+    {
+      "category": null,
+      "brand": "Sparkle",
+      "product": "Sparkle Intel ARC B580 Titan Luna OC 12Gb White Triple Fan DDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 395.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5050 OC LP 8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX 5050 Gaming OC 8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 475.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060 Eagle OC 8GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 539.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060 Eagle OC ICE 8GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 555.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060 Gaming OC 8Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 569.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060 Aero OC 8Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 599.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060 Aorus Elite 8Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 619.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Windforce OC 8Gb Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 649.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Eagle OC 8Gb Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 659.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Eagle OC ICE 8Gb Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Windforce OC 16Gb Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 819.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Eagle OC 16Gb Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 839.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Eagle OC ICE 16GB White Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 855.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Gaming OC 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 875.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Aero OC 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 895.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Aorus Elite 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 915.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Gaming OC 8Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 705.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Aero OC 8Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 725.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5060Ti Aorus Elite 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 909.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070 Windforce OC SFF 12Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 989.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070 Eagle OC SFF 12Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 995.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070 Eagle OC ICE SFF 12Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1015.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070 Gaming OC 12GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1029.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070 Aero OC 12GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1045.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070 Aorus Master 12GB OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1169.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070Ti Windforce OC SFF 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1459.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070Ti Eagle OC SFF 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1529.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070Ti Eagle OC ICE SFF 16Gb Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1539.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070Ti Gaming OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1509.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070Ti Aero OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1519.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5070Ti Aorus Master 16GB OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1599.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5080 Gaming OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2025.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5080 Aero OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2109.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5080 Aorus Master 16GB OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2199.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5080 Aorus Master ICE 16GB OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2249.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GeForce RTX5080 Aorus Xtreem Waterforce 16GB GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2469.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5050 8Gb Shadow 2X OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5050 8Gb Ventus 2X OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060 8Gb Shadow 2X OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 519.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060 8Gb Ventus 2X OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 539.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060 8Gb Ventus 2X OC White Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 555.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060 8Gb Gaming OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 570.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060 8Gb Gaming Trio OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 609.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 8Gb Shadow 2X OC Plus Dual Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 645.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 8Gb Ventus 2X OC Plus Dual Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 662.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 8Gb Inspire 2X OC Dual Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 689.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 8Gb Ventus 3X OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 679.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 8GB Gaming OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 709.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 8GB Gaming Trio OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 719.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 16Gb Shadow 2X OC Plus Dual Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 779.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 16Gb Ventus 2X OC Plus Dual Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 799.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 16Gb Ventus 3X OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 829.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 16GB Gaming Trio OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 872.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5060Ti 16GB VanGuard SOC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 929.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070 12Gb Shadow 2X OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 969.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070 12Gb Ventus 2X OC Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 979.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070 12Gb Ventus 3X OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1009.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070 12Gb Gaming Trio OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1062.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070 12Gb Gaming Trio OC WhiteTriple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1075.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070 12Gb Vanguard SOC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1119.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070Ti 16Gb Shadow 3X OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1379.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070Ti 16Gb Expert OC GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1409.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070Ti 16Gb Ventus 3X OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1439.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070Ti 16Gb Gaming Trio OC Black Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1479.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5070Ti 16Gb Gaming Trio OC White Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1529.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5080 16GB Inspire 3X OC Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1959.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5080 16Gb Ventus 3X OC Plus Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2119.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5080 16Gb Ventus 3X OC White Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2129.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5080 16GB Gaming Trio OC Black Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2209.0
+    },
+    {
+      "category": null,
+      "brand": "Msi",
+      "product": "Msi GeForce RTX5080 16GB Gaming Trio OC White Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2229.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5060 1-Click OC 8GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 509.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5060Ti EX Black 8GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 669.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5060Ti EX White 8GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5060Ti 1-Click OC 16GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5070 1-Click OC 12GB Twin Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 929.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5070 EX-Gamer 1-Click OC Black 12GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 995.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5070 EX-Gamer 1-Click OC White 12GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 999.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5070Ti 1-Click OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1359.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5070Ti EX-Gamer 1-Click OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1389.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5070Ti EX-Gamer 1-Click OC White 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1399.0
+    },
+    {
+      "category": null,
+      "brand": "Galax",
+      "product": "Galax Geforce RTX5080 1-Click OC 16GB Triple Fan GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1859.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX A400 4GB GDDR6 Gpu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 349.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Nvidia Quadro A1000 8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 779.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX 2000 ADA Gen LP 16Gb GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1209.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX 4000 ADA GEN LP 20GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2109.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX 4000 ADA GEN ATX 20GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 2239.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX Pro 2000 BlackWell 16GB GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1499.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX Pro 4000 BlackWell Gen/SFF 24Gb GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 3069.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX Pro 4500 BlackWell Gen 32Gb GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 5189.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX Pro 5000 BlackWell Gen 48Gb GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 9089.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX Pro 5000 BlackWell Gen 72Gb GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 13499.0
+    },
+    {
+      "category": null,
+      "brand": "Leadtek",
+      "product": "Leadtek Nvidia RTX Pro 6000 BlackWell MAX-Q WorkStation 96Gb GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 17159.0
+    },
+    {
+      "category": null,
+      "brand": "NVIDIA",
+      "product": "NVIDIA DGX SPARK AI SUPERCOMPUTER 4TB(940-54242-0007-000)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7599.0
+    }
+  ],
+  "numeric_tokens_in_source": 2370,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 128/2370 = 0.05",
+  "raw_response": "{\"rows\": [\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GT710 2GB GDDR5\", \"warranty\": \"3yrs\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GT730 4HDMI 2GB GDDR5\", \"warranty\": \"3yrs\", \"price_sgd\": 169},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus Dual RTX3050 O6GB Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 309},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5050 O8G Twin Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 509},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5050 O8G Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 519},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5060 O8G Twin Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 545},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5060 O8G Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 599},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5060 O8G Gaming OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 635},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5060Ti 16G Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 865},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5060Ti O16G Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 885},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5060Ti O16G OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 985},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5060Ti O16G White Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 895},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5060Ti O16G OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 909},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5060Ti O8G OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 719},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5060Ti O8G Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 669},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5070 12G Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 949},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Dual RTX5070 O12G Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 989},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5070 O12G Triple Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1029},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5070 O12G White Triple Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1049},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5070 O12G Gaming Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1179},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus Geforce Rog Strix RTX5070 O12G Gaming Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1279},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5070Ti O16G Triple Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1549},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5070Ti O16G Gaming Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1589},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5070Ti O16G BTF White Gaming Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1609},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus Geforce Rog Strix RTX5070Ti O16G Gaming Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1639},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Proart RTX5070Ti O16G Triple Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1609},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Proart RTX5080 O16G Triple Fan OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2399},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5080 16G Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1959},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Prime RTX5080 O16G Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2079},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Tuf Gaming RTX5080 O16G Gaming Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2179},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Rog Astral RTX5080 O16G Gaming OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2459},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus GeForce Rog Astral RTX5080 O16G White Gaming OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2489},\n  {\"category\": null, \"brand\": \"Sparkle\", \"product\": \"Sparkle Intel ARC B570 Guardian OC 10Gb Twin Fan DDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 345},\n  {\"category\": null, \"brand\": \"Sparkle\", \"product\": \"Sparkle Intel ARC B580 Titan OC 12Gb Black Triple Fan DDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 395},\n  {\"category\": null, \"brand\": \"Sparkle\", \"product\": \"Sparkle Intel ARC B580 Titan Luna OC 12Gb White Triple Fan DDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 395},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5050 OC LP 8GB GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 459},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX 5050 Gaming OC  8GB GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 475},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060 Eagle OC 8GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 539},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060 Eagle OC ICE 8GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 555},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060 Gaming OC 8Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 569},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060 Aero OC 8Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 599},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060 Aorus Elite 8Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 619},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Windforce OC 8Gb Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 649},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Eagle OC 8Gb Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 659},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Eagle OC ICE 8Gb Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 699},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Windforce OC 16Gb Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 819},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Eagle OC 16Gb Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 839},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Eagle OC ICE 16GB White Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 855},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Gaming OC 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 875},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Aero OC 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 895},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Aorus Elite 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 915},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Gaming OC 8Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 705},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Aero OC 8Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 725},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5060Ti Aorus Elite 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 909},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070 Windforce OC SFF 12Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 989},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070 Eagle OC SFF 12Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 995},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070 Eagle OC ICE SFF 12Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1015},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070 Gaming OC 12GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1029},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070 Aero OC 12GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1045},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070 Aorus Master 12GB OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1169},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070Ti Windforce OC SFF 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1459},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070Ti Eagle OC SFF 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1529},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070Ti Eagle OC ICE SFF 16Gb Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1539},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070Ti Gaming OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1509},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070Ti Aero OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1519},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5070Ti Aorus Master 16GB OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1599},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5080 Gaming OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2025},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5080 Aero OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2109},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5080 Aorus Master 16GB OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2199},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5080 Aorus Master ICE 16GB OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2249},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GeForce RTX5080 Aorus Xtreem Waterforce 16GB GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2469},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5050 8Gb Shadow 2X OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 439},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5050 8Gb Ventus 2X OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 459},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060 8Gb Shadow 2X OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 519},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060 8Gb Ventus 2X OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 539},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060 8Gb Ventus 2X OC White Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 555},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060 8Gb Gaming OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 570},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060 8Gb Gaming Trio OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 609},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 8Gb Shadow 2X OC Plus Dual Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 645},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 8Gb Ventus 2X OC Plus Dual Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 662},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 8Gb Inspire 2X OC Dual Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 689},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 8Gb Ventus 3X OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 679},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 8GB Gaming OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 709},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 8GB Gaming Trio OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 719},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 16Gb Shadow 2X OC Plus Dual Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 779},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 16Gb Ventus 2X OC Plus Dual Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 799},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 16Gb Ventus 3X OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 829},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 16GB Gaming Trio OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 872},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5060Ti 16GB VanGuard SOC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 929},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070 12Gb Shadow 2X OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 969},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070 12Gb Ventus 2X OC Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 979},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070 12Gb Ventus 3X OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1009},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070 12Gb Gaming Trio OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1062},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070 12Gb Gaming Trio OC WhiteTriple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1075},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070 12Gb Vanguard SOC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1119},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070Ti 16Gb Shadow 3X OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1379},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070Ti 16Gb Expert OC GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1409},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070Ti 16Gb Ventus 3X OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1439},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070Ti 16Gb Gaming Trio OC Black Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1479},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5070Ti 16Gb Gaming Trio OC White Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1529},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5080 16GB Inspire 3X OC Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1959},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5080 16Gb Ventus 3X OC Plus Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2119},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5080 16Gb Ventus 3X OC White Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2129},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5080 16GB Gaming Trio OC Black Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2209},\n  {\"category\": null, \"brand\": \"Msi\", \"product\": \"Msi GeForce RTX5080 16GB Gaming Trio OC White Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 2229},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5060 1-Click OC 8GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 509},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5060Ti EX Black 8GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 669},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5060Ti EX White 8GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 699},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5060Ti 1-Click OC 16GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 729},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5070 1-Click OC 12GB Twin Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 929},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5070 EX-Gamer 1-Click OC Black 12GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 995},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5070 EX-Gamer 1-Click OC White 12GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 999},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5070Ti 1-Click OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1359},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5070Ti EX-Gamer 1-Click OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1389},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5070Ti EX-Gamer 1-Click OC White 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1399},\n  {\"category\": null, \"brand\": \"Galax\", \"product\": \"Galax Geforce RTX5080 1-Click OC 16GB Triple Fan GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1859},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX A400 4GB GDDR6 Gpu\", \"warranty\": \"3yrs\", \"price_sgd\": 349},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Nvidia Quadro A1000 8GB GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 779},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX 2000 ADA Gen LP 16Gb GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1209},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX 4000 ADA GEN LP 20GB GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 2109},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX 4000 ADA GEN ATX 20GB GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 2239},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX Pro 2000 BlackWell 16GB GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 1499},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX Pro 4000 BlackWell Gen/SFF 24Gb GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 3069},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX Pro 4500 BlackWell Gen 32Gb GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 5189},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX Pro 5000 BlackWell Gen 48Gb GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 9089},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX Pro 5000 BlackWell Gen 72Gb GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 13499},\n  {\"category\": null, \"brand\": \"Leadtek\", \"product\": \"Leadtek Nvidia RTX Pro 6000 BlackWell MAX-Q WorkStation 96Gb GDDR7\", \"warranty\": \"3yrs\", \"price_sgd\": 17159},\n  {\"category\": null, \"brand\": \"NVIDIA\", \"product\": \"NVIDIA DGX SPARK AI SUPERCOMPUTER 4TB(940-54242-0007-000)\", \"warranty\": null, \"price_sgd\": 7599}\n]}"
+}

@@ -1,0 +1,13 @@
+{
+  "sha256": "67101145d72cd019b2cb6ba27045845dce9325180485ffa7c7863dbbac01872d",
+  "vendor": "dynacore",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [],
+  "numeric_tokens_in_source": 1,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 0/1 = 0.00; not_empty: no rows extracted",
+  "raw_response": "{\"rows\": []}"
+}

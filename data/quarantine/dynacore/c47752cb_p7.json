@@ -1,0 +1,149 @@
+{
+  "sha256": "c47752cbf41fd7b6b3d6d664663aa400551e6badc8b3c99394566b44904b4525",
+  "vendor": "dynacore",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "LENOVO",
+      "product": "LENOVO IdeaPad Slim 5",
+      "variant": "Intel Core Ultra 7 255H / 32GB RAM / 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1499.0
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S3-07",
+      "variant": "Intel Core Ultra 7 255H / 16GB RAM| 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Zenbook A14 OLED",
+      "variant": "Snapdragon X X1 26 100 / 16GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "Lenovo",
+      "product": "Lenovo Yoga Slim 7i Aura",
+      "variant": "Intel Core Ultra 7 258V / 32GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2399.0
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "ASUS",
+      "product": "Zenbook S 14 OLED",
+      "variant": "Intel Core Ultra 7 258V / 32GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2799.0
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S14 Flip",
+      "variant": "AMD Ryzen 5 7430U / 16GB RAM | 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1249.0
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Lenovo",
+      "product": "Lenovo IdeaPad 5",
+      "variant": "AMD Ryzen 7 8845HS / 16GB RAM | 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Dell",
+      "product": "Dell Inspiron 14 7440 2-in-1",
+      "variant": "Intel Core 5 120U / 16GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1698.0
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Lenovo",
+      "product": "Lenovo Yoga 7 2-in-1",
+      "variant": "Intel Core Ultra 7 155H / 16GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1799.0
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Lenovo",
+      "product": "Lenovo Yoga 7 2-in-1",
+      "variant": "AMD Ryzen AI 7 350 / 24GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "Lenovo",
+      "product": "Lenovo IDEAPAD Slim",
+      "variant": "Intel Core i5-13420H / 8GB RAM | 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "Lenovo",
+      "product": "Lenovo IDEAPAD Slim 5i",
+      "variant": "Intel Core i7-13620H / 16GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook X14/X16",
+      "variant": "Intel Core i7-13620H / 16GB RAM | 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook Copilot+ PC",
+      "variant": "Snapdragon X - X1 26 100 / 16GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook X14 | X16",
+      "variant": "Intel Core Ultra 5 225H / 16GB RAM | 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1199.0
+    }
+  ],
+  "numeric_tokens_in_source": 59,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 15/59 = 0.25",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"PREMIUM HIGH PERFORMANCE LAPTOP\",\n      \"brand\": \"LENOVO\",\n      \"product\": \"LENOVO IdeaPad Slim 5\",\n      \"variant\": \"Intel Core Ultra 7 255H / 32GB RAM / 1TB SSD\",\n      \"price_sgd\": 1499\n    },\n    {\n      \"category\": \"PREMIUM HIGH PERFORMANCE LAPTOP\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Vivobook S3-07\",\n      \"variant\": \"Intel Core Ultra 7 255H / 16GB RAM| 1TB SSD\",\n      \"price_sgd\": 1599\n    },\n    {\n      \"category\": \"PREMIUM HIGH PERFORMANCE LAPTOP\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Zenbook A14 OLED\",\n      \"variant\": \"Snapdragon X X1 26 100 / 16GB RAM | 1TB SSD\",\n      \"price_sgd\": 1699\n    },\n    {\n      \"category\": \"PREMIUM HIGH PERFORMANCE LAPTOP\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo Yoga Slim 7i Aura\",\n      \"variant\": \"Intel Core Ultra 7 258V / 32GB RAM | 1TB SSD\",\n      \"price_sgd\": 2399\n    },\n    {\n      \"category\": \"PREMIUM HIGH PERFORMANCE LAPTOP\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Zenbook S 14 OLED\",\n      \"variant\": \"Intel Core Ultra 7 258V / 32GB RAM | 1TB SSD\",\n      \"price_sgd\": 2799\n    },\n    {\n      \"category\": \"2-in-1 LAPTOPS\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Vivobook S14 Flip\",\n      \"variant\": \"AMD Ryzen 5 7430U / 16GB RAM | 512GB SSD\",\n      \"price_sgd\": 1249\n    },\n    {\n      \"category\": \"2-in-1 LAPTOPS\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo IdeaPad 5\",\n      \"variant\": \"AMD Ryzen 7 8845HS / 16GB RAM | 512GB SSD\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"category\": \"2-in-1 LAPTOPS\",\n      \"brand\": \"Dell\",\n      \"product\": \"Dell Inspiron 14 7440 2-in-1\",\n      \"variant\": \"Intel Core 5 120U / 16GB RAM | 1TB SSD\",\n      \"price_sgd\": 1698\n    },\n    {\n      \"category\": \"2-in-1 LAPTOPS\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo Yoga 7 2-in-1\",\n      \"variant\": \"Intel Core Ultra 7 155H / 16GB RAM | 1TB SSD\",\n      \"price_sgd\": 1799\n    },\n    {\n      \"category\": \"2-in-1 LAPTOPS\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo Yoga 7 2-in-1\",\n      \"variant\": \"AMD Ryzen AI 7 350 / 24GB RAM | 1TB SSD\",\n      \"price_sgd\": 1699\n    },\n    {\n      \"category\": \"GENERAL USAGE LAPTOP\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo IDEAPAD Slim\",\n      \"variant\": \"Intel Core i5-13420H / 8GB RAM | 512GB SSD\",\n      \"price_sgd\": 699\n    },\n    {\n      \"category\": \"GENERAL USAGE LAPTOP\",\n      \"brand\": \"Lenovo\",\n      \"product\": \"Lenovo IDEAPAD Slim 5i\",\n      \"variant\": \"Intel Core i7-13620H / 16GB RAM | 1TB SSD\",\n      \"price_sgd\": 1299\n    },\n    {\n      \"category\": \"GENERAL USAGE LAPTOP\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Vivobook X14/X16\",\n      \"variant\": \"Intel Core i7-13620H / 16GB RAM | 512GB SSD\",\n      \"price_sgd\": 1199\n    },\n    {\n      \"category\": \"GENERAL USAGE LAPTOP\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Vivobook Copilot+ PC\",\n      \"variant\": \"Snapdragon X - X1 26 100 / 16GB RAM | 1TB SSD\",\n      \"price_sgd\": 1199\n    },\n    {\n      \"category\": \"GENERAL USAGE LAPTOP\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS Vivobook X14 | X16\",\n      \"variant\": \"Intel Core Ultra 5 225H / 16GB RAM | 1TB SSD\",\n      \"price_sgd\": 1199\n    }\n  ]\n}"
+}

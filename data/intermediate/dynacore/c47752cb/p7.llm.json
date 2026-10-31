@@ -1,0 +1,109 @@
+{
+  "rows": [
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "LENOVO",
+      "product": "LENOVO IdeaPad Slim 5",
+      "variant": "Intel Core Ultra 7 255H / 32GB RAM / 1TB SSD",
+      "price_sgd": 1499
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S3-07",
+      "variant": "Intel Core Ultra 7 255H / 16GB RAM| 1TB SSD",
+      "price_sgd": 1599
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Zenbook A14 OLED",
+      "variant": "Snapdragon X X1 26 100 / 16GB RAM | 1TB SSD",
+      "price_sgd": 1699
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "Lenovo",
+      "product": "Lenovo Yoga Slim 7i Aura",
+      "variant": "Intel Core Ultra 7 258V / 32GB RAM | 1TB SSD",
+      "price_sgd": 2399
+    },
+    {
+      "category": "PREMIUM HIGH PERFORMANCE LAPTOP",
+      "brand": "ASUS",
+      "product": "Zenbook S 14 OLED",
+      "variant": "Intel Core Ultra 7 258V / 32GB RAM | 1TB SSD",
+      "price_sgd": 2799
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook S14 Flip",
+      "variant": "AMD Ryzen 5 7430U / 16GB RAM | 512GB SSD",
+      "price_sgd": 1249
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Lenovo",
+      "product": "Lenovo IdeaPad 5",
+      "variant": "AMD Ryzen 7 8845HS / 16GB RAM | 512GB SSD",
+      "price_sgd": 1299
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Dell",
+      "product": "Dell Inspiron 14 7440 2-in-1",
+      "variant": "Intel Core 5 120U / 16GB RAM | 1TB SSD",
+      "price_sgd": 1698
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Lenovo",
+      "product": "Lenovo Yoga 7 2-in-1",
+      "variant": "Intel Core Ultra 7 155H / 16GB RAM | 1TB SSD",
+      "price_sgd": 1799
+    },
+    {
+      "category": "2-in-1 LAPTOPS",
+      "brand": "Lenovo",
+      "product": "Lenovo Yoga 7 2-in-1",
+      "variant": "AMD Ryzen AI 7 350 / 24GB RAM | 1TB SSD",
+      "price_sgd": 1699
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "Lenovo",
+      "product": "Lenovo IDEAPAD Slim",
+      "variant": "Intel Core i5-13420H / 8GB RAM | 512GB SSD",
+      "price_sgd": 699
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "Lenovo",
+      "product": "Lenovo IDEAPAD Slim 5i",
+      "variant": "Intel Core i7-13620H / 16GB RAM | 1TB SSD",
+      "price_sgd": 1299
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook X14/X16",
+      "variant": "Intel Core i7-13620H / 16GB RAM | 512GB SSD",
+      "price_sgd": 1199
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook Copilot+ PC",
+      "variant": "Snapdragon X - X1 26 100 / 16GB RAM | 1TB SSD",
+      "price_sgd": 1199
+    },
+    {
+      "category": "GENERAL USAGE LAPTOP",
+      "brand": "ASUS",
+      "product": "ASUS Vivobook X14 | X16",
+      "variant": "Intel Core Ultra 5 225H / 16GB RAM | 1TB SSD",
+      "price_sgd": 1199
+    }
+  ]
+}

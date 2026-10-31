@@ -1,0 +1,100 @@
+{
+  "rows": [
+    {
+      "category": null,
+      "brand": "DELL",
+      "product": "DELL SLIM ECS1250",
+      "variant": "14th Gen Intel Core i5-14400",
+      "warranty": "3Y",
+      "price_sgd": 999
+    },
+    {
+      "category": null,
+      "brand": "DELL",
+      "product": "DELL SLIM ECS1250",
+      "variant": "14th Gen Intel Core i5-14500",
+      "warranty": "3Y",
+      "price_sgd": 1049
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Pro MicroPC QCM1250",
+      "variant": "15th Gen Intel Ultra 5 235T",
+      "warranty": "3Y",
+      "price_sgd": 1149
+    },
+    {
+      "category": null,
+      "brand": "Dell",
+      "product": "Dell Pro MicroPC QCM1250",
+      "variant": "14th Gen Intel i5-14500T",
+      "warranty": "3Y",
+      "price_sgd": 1088
+    },
+    {
+      "category": null,
+      "brand": "DELL",
+      "product": "NEW DELL PRO TOWER QCT1250i5",
+      "variant": "14th Gen Intel Core i5-14500 Vpro",
+      "warranty": "3Y",
+      "price_sgd": 1099
+    },
+    {
+      "category": null,
+      "brand": "LENOVO",
+      "product": "LENOVO THINK CENTRE NEO 30s SFF",
+      "variant": "13th Gen i7-13620H",
+      "warranty": "3Y",
+      "price_sgd": 1199
+    },
+    {
+      "category": null,
+      "brand": "DELL",
+      "product": "NEW DELL PRO TOWER QCT1250i7",
+      "variant": "14th Gen Intel Core i7-14700 Vpro",
+      "warranty": "3Y",
+      "price_sgd": 1499
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS S5 SFF S501SER-514500007W",
+      "variant": "14th Gen Intel Core i5-14500",
+      "warranty": "3Y",
+      "price_sgd": 1199
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS V500 Mini Tower V500MV-13420H159W",
+      "variant": "Intel Core i5-13420",
+      "warranty": "1Y",
+      "price_sgd": 749
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS ROG G700 G700TF-07265F154W",
+      "variant": "14th Gen Intel Ultra 7 265F",
+      "warranty": "3Y",
+      "price_sgd": 3199
+    },
+    {
+      "category": null,
+      "brand": "LENOVO",
+      "product": "LENOVO OFFICE DESKTOP SFF IDEACENTRE SFF - 90XW0012ST",
+      "variant": "13th Gen i5-13420H",
+      "warranty": "3Y",
+      "price_sgd": 799
+    },
+    {
+      "category": null,
+      "brand": "LENOVO",
+      "product": "LENOVO OFFICE DESKTOP SFF IDEACENTRE SFF - 90XW0011ST",
+      "variant": "13th Gen Intel Core i7-13620H",
+      "warranty": "3Y",
+      "price_sgd": 1149
+    }
+  ]
+}

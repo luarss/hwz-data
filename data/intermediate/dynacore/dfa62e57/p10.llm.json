@@ -1,0 +1,20 @@
+{
+  "rows": [
+    {
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "product": "IdeaPad Slim 5 14IRH10",
+      "variant": "83HR0003SB",
+      "warranty": "2 Years",
+      "price_sgd": 1149
+    },
+    {
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "product": "IdeaPad Slim 3 14IRH10",
+      "variant": "83K0005USB",
+      "warranty": "1 Year",
+      "price_sgd": 650
+    }
+  ]
+}
