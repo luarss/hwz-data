@@ -1,0 +1,2543 @@
+{
+  "sha256": "08e041bc7b1c8ee9bf31f6a6bba8b8650f8117cff1b743cdf1e6e5748d9a399c",
+  "vendor": "dynacore",
+  "page_number": 3,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Dual RX9060XT 8Gb Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 479.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Prime RX9060XT O8G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 580.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Dual RX9060XT 16G Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 579.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Prime RX9060XT O16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 639.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Tuf Gaming RX9060XT O16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 759.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Prime RX9070 O16G Evo Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 869.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Tuf Gaming RX9070 O16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Prime RX9070XT O16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 989.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Tuf Gaming RX9070XT O16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1209.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Dual RX7600 O8GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 449.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon RX 7900XT 20Gb Reference Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1175.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Amd Radeon Tuf Gaming RX7900 XT O20G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1200.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Dual Amd Radeon RX 7800XT O16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 719.0
+    },
+    {
+      "category": "AMD RADEON GRAPHICS CARDS",
+      "brand": "ASUS",
+      "product": "Asus Tuf Gaming Amd Radeon RX 7800XT O16G White Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 893.0
+    },
+    {
+      "category": "GIGABYTE (3yrs)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Amd Radeon RX9060XT Gaming OC 8Gb Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 535.0
+    },
+    {
+      "category": "GIGABYTE (3yrs)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Amd Radeon RX9060XT Gaming OC 16Gb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 695.0
+    },
+    {
+      "category": "GIGABYTE (3yrs)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Amd Radeon RX9070 Gaming OC 16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 999.0
+    },
+    {
+      "category": "GIGABYTE (3yrs)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Amd Radeon RX9070XT Gaming OC 16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "GIGABYTE (3yrs)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Amd Radeon RX9070XT Aorus Elite OC 16G Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1179.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "Powercolor Amd Radeon Reaper RX9060XT 8GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 475.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "Powercolor Amd Radeon Reaper White RX9060XT 8GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 479.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "Powercolor Amd Radeon Hellhound RX9060XT 8GB OC Triple Fan DRR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 499.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "Powercolor Amd Radeon Reaper RX9060XT 16GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 605.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "Powercolor Amd Radeon Reaper White RX9060XT 16GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 609.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon HellHound RX9060XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 629.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon HellHound White RX9060XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 639.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon Reaper RX9070 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 879.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon HellHound RX9070 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 899.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon Reaper RX9070XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1069.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon HellHound RX9070XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon HellHound Spectral White RX9070XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1119.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon Red Devil RX9070XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1149.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon Red Devil Spectral White RX9070XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 1189.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "Powercolor Amd Radeon Fighter RX7800XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 699.0
+    },
+    {
+      "category": "POWERCOLOR (3yrs)",
+      "brand": "POWERCOLOR",
+      "product": "PowerColor Amd Radeon HellHound Spectral White RX7800XT 16GB OC Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 739.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pulse RX7600XT Gaming 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 469.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pulse RX9060XT Gaming 8GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 539.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pulse RX9060XT Gaming OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 685.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pure RX9060XT Gaming OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 702.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Nitro+ RX9060XT Gaming OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 719.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Nitro+ RX 7900XTX Vapor-X 24GB OC Triple Fan GDDR8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1189.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pure RX9070 Gaming OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 899.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Nitro+ RX9070 Gaming 16GB OC GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 945.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pulse RX9070XT Gaming OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1039.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Pure RX9070XT Gaming OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon Nitro+ RX9070XT Gaming 16GB OC GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1159.0
+    },
+    {
+      "category": "SAPPHIRE (2yrs)",
+      "brand": "SAPPHIRE",
+      "product": "Sapphire Amd Radeon AI Pro R9700 32GB GDDR6 Gpu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 2189.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Swift Amd Radeon RX9060XT OC Gaming Edition 16GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 579.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Swift Amd Radeon RX9060XT OC White Gaming Edition 16GB Twin Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 579.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Swift Amd Radeon RX9060XT OC Gaming Edition 16GB Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 609.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Swift Amd Radeon RX9060XT OC White Gaming Edition 16GB Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 615.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Swift Amd Radeon RX9070XT OC Gaming Edition 16GB Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Swift Amd Radeon RX9070XT OC White Gaming Edition 16GB Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1039.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Mercury Amd Radeon RX9070XT OC Magnetic Air Rgb 16GB Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1149.0
+    },
+    {
+      "category": "XFX (2yrs)",
+      "brand": "XFX",
+      "product": "XFX Mercury Amd Radeon RX9070XT OC White Magnetic Air Rgb 16GB Triple Fan GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "2yrs",
+      "price_sgd": 1169.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Xpg Gammix S70 Blade 7400MB/s Gen4 Nvme M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Xpg Gammix S70 Blade 7400MB/s Gen4 Nvme M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 579.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Xpg Gammix S70 Blade 7400MB/s Gen4 Nvme M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1189.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Legend 900 Pro 7400MB/s Gen4 Nvme M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Legend 900 Pro 7400MB/s Gen4 Nvme M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Legend 900 Pro 7400MB/s Gen4 Nvme M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Legend 860 6000MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 139.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Legend 860 6000MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 259.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Adata",
+      "product": "Adata Legend 860 6000MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 395.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "Wd Black SN770 5150MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 149.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "Wd Black SN770 5150MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "Wd Black SN770 5150MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 389.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen4 7300MB/s Nvme M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 399.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen4 7300MB/s Nvme M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 749.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen4 7300MB/s Nvme M.2 Ssd",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen4 Heatsink 7300MB/s NVMe M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen4 Heatsink 7300MB/s NVMe M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen4 Heatsink 7300MB/s NVMe M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1139.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial E100 5000MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 140.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial E100 5000MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 229.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial E100 5000MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 339.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 149.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 439.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 798.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T710 Gen5 14900MB/s NVMe M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 339.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T710 Gen5 14900MB/s NVMe M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 799.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T710 Gen5 14900MB/s NVMe M.2 Ssd",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 1239.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T705 Gen5 13600MB/s NVMe M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 319.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T705 Gen5 13600MB/s NVMe M.2 Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 499.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T705 Gen5 13600MB/s NVMe M.2 Ssd",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 1199.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T710 Gen5 14900MB/s HeatSink NVMe M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T710 Gen5 14900MB/s HeatSink NVMe M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 809.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T710 Gen5 14900MB/s HeatSink NVMe M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 629.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro Gen4 Heatsink Nvme M.2 Nmve M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro Gen4 Heatsink Nvme M.2 Nmve M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro Gen4 Heatsink Nvme M.2 Nmve M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 989.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Evo Plus 7250MB/s Gen4 Nvme M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 275.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Evo Plus 7250MB/s Gen4 Nvme M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 609.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Evo Plus 7250MB/s Gen4 Nvme M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 1205.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro Nvme 2.0 7400MB/s Gen4 M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 385.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro Nvme 2.0 7400MB/s Gen4 M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 769.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro Nvme 2.0 7400MB/s Gen4 M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 1299.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro Heatsink Nvme 2.0 7400MB/s M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 395.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro Heatsink Nvme 2.0 7400MB/s M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 769.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro Heatsink Nvme 2.0 7400MB/s M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro 14700MB/s Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro 14700MB/s Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro 14700MB/s Ssd",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1599.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro Heatsink 14700MB/s Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro Heatsink 14700MB/s Ssd",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 839.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro Heatsink 14700MB/s Ssd",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1629.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "SK Hynix",
+      "product": "SK Hynix Platinum P41 SSD 7000MB/s Gen4 NVME M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "SK Hynix",
+      "product": "SK Hynix Platinum P41 SSD 7000MB/s Gen4 NVME M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "SK Hynix",
+      "product": "SK Hynix Platinum P41 SSD 7000MB/s Gen4 NVME M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Team Group",
+      "product": "Team T-Force MP44L 5000MB/s Gen4 Nvme M.2",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 149.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Team Group",
+      "product": "Team T-Force MP44L 5000MB/s Gen4 Nvme M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 209.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Team Group",
+      "product": "TEAM T-FORCE G70 PRO 7400MB/s M.2 GEN4 PCIe NVMe",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Team Group",
+      "product": "TEAM T-FORCE G70 PRO 7400MB/s M.2 GEN4 PCIe NVMe",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Basic 7200MB/s Gen4/Adata Legend 860",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Basic 7200MB/s Gen4/Adata Legend 860",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro 7300MB/s Gen4 Nvme M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Plus G4 10000MB/s Gen5 Nvme M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Plus G4 10000MB/s Gen5 Nvme M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria PRO G2 14900MB/s Gen5 Nvme M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria PRO G2 14900MB/s Gen5 Nvme M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 619.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria PRO G2 14900MB/s Gen5 Nvme M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kingston",
+      "product": "Kingston SNV3S Gen4 Nvme M.2 Ssd",
+      "variant": "500",
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 135.0
+    },
+    {
+      "category": "M.2 NVMe INTERNAL SSD",
+      "brand": "Kingston",
+      "product": "Kingston SNV3S Gen4 Nvme M.2 Ssd",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Cooler Master",
+      "product": "CM MB600L V2 ODD(CM NR600 ODD $116)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master 520 Argb Mesh ATX TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master Elite 502 Argb Black/White TG Casi8n2g",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master TD500 V2 Argb Mesh TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master Haf 700 Argb TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 393.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 3500X Call Of Duty Black TG Atx Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 3500X Rgb Black/White Dual TG Atx Casi1n4g5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair Frame 4000D RS Black TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair Frame 4000D RS Argb Black/White TG AT1X5 9CasinCg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 5000D Airflow Type-C TG casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair iCUE 5000X Rgb TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 243.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 4000D Airflow Rgb Black Edition TG Casin1g69",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 4000D Airflow Rgb White Edition TG Casin1g69",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 7000D Airflow Type-C Tower TG casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 9000D Airflow Rgb Type-C Tower TG casi7n2g5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 725.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 480T Black Airflow TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Corsair",
+      "product": "Corsair 6500X Dual Chamber TG Black/White Cas2in3g8",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "HAVN",
+      "product": "HAVN HS 420 Black Base Edition Blk/Wht",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "HAVN",
+      "product": "HAVN HS 420 VGPU Hybrid structure case Blk/W2h9t9",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "HAVN",
+      "product": "HAVN BF360 Flow Black/White ATX TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "HAVN",
+      "product": "HAVN HS 420 DOOM Hybrid Base Edition TG Casin4g39",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD POP XL Black Argb TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD POP Air Rgb Black TG Tint ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD POP Mini Air Rgb Black/White TG Tint Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Meshify 2 Compact Blackout ATX TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Meshify 3 Black TG Light Tint ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Meshify 3 Ambience Pro Rgb Black TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Meshify 3 XL Black TG Light Tint E-ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Epoch Black/White TG Airflow ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Epoch Black/White RGB Airflow TG ATX Casin1g79",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Torrent Black TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Torrent Black Solid Panel Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD Torrent Black RGB TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 342.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD North Charcoal Black/White Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Fractal Design",
+      "product": "FD North XL Charcoal Black/White Atx Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus A31 Black/White TG Atx Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus Rog Hyperion GR701 BTF EDITION Black TG5 c8a5sing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 585.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus Proart PA401 Wood Black TG Atx Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus Helios GX601 Black TG Tower Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus PROART PA602 ATX T.G Black Case",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus TUF Gaming GT502 Horizon Black/White TG2 C2a5sing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Asus",
+      "product": "Asus Tuf Gaming GT302 Black/White BTF TG Airf1lo8w5 Casi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "HYTE",
+      "product": "HYTE Y70 TG Casing with PCIe4.0 Riser Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "NZXT",
+      "product": "NZXT H5 Flow Rgb 2024 Black/White TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "NZXT",
+      "product": "NZXT H6 Flow Rgb Black/White TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "NZXT",
+      "product": "NZXT H7 Flow Rgb 2024 Black/White TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "NZXT",
+      "product": "NZXT H9 Flow Rgb 2024 Black/White TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks XT View LED Matrix Argb Black/White T1g6 5CasinTgR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks Evolv X2 Led Matrix Black/White Argb T2G85 CasinTgR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 285.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks NV7 Black/White TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks NV5S Black/White DRGB TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks Eclipse G370A DRGB Black TG Airflow A9tx2 CasinTgR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks XT View ATX TG Casing W/ 3 ARGB Fans9",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks Evolv X2 Black/White TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks Evolv S2 Black Drgb Tempered Glass At1x6 C5asing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Phanteks",
+      "product": "Phanteks Evolv S2 White Drgb Tempered Glass A1tx6 5CasinCg",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "MSI",
+      "product": "MSI MEG Prospect 700R Black 4.3\"Touch Panel A4rg3b9 TG CCaos",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Silverstone",
+      "product": "Silverstone Fara 512Z Black Argb TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 100.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "SSUPD",
+      "product": "SSUPD Xhuttle Black/White Panoramic TG Atx Ca2s1in9g",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li SUP01 Black Airflow TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li SUP01 White Airflow TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li Lancool 207 Black Argb TG Airflow Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li Lancool 207 Digital Black TG Airflow Casin1g52",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li Lancool 207 White Argb TG Airflow Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li Lancool 217 INF Black/White Argb TG Cas1in5g5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li Lancool 217 Wood White Airflow TG Casin1g68",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Vision Compact Black/White TG Casin1g45",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li O11D Mini V2 Flow Black/White TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li V100 Argb Black/White TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Dynamic Evo LAMBORGHINI Black TG2 C9a9sing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Dynamic Evo RGB Black TG Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Lian Li",
+      "product": "Lian Li O11 Dynamic Evo XL Black/White TG Casin2g69",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Thermaltake",
+      "product": "Thermaltake View 290 Black Argb Curved TG Atx 1C1a5sing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Thermaltake",
+      "product": "Thermaltake View 290 White Argb Curved TG Atx1 C1a9sing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "Thermaltake",
+      "product": "Thermaltake Tower 600 Black TG ATX Casing",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "ATX/E-ATX CPU CASINGS",
+      "brand": "APNX",
+      "product": "APNX V1 Black/White Dual Chamber TG ATX Casin8g5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair SF1000-1000W ATX3.1 80+ Platinum S3F4X0 Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM1000e-1000W White ATX3.1 Pcie5 8205+9 Gold Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 259.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM750e-750W White ATX3.1 Pcie5 80+1 7G5old Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 169.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM850e-850W White ATX3.1 Pcie5 80+2 0G5old Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 189.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx 850W ATX3.1 Pcie5.1 80+ Gold Fu2l0l 9Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Yrs",
+      "price_sgd": 210.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx 1000W ATX3.1 Pcie5.1 80+ Gold F2u7l9l Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Yrs",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM750e-750W ATX3.1 Pcie5 80+ Gold 1F6u5ll Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 165.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM850e-850W ATX3.1 Pcie5 80+ Gold 1F9u5ll Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 195.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM1000e-1000W ATX3.1 Pcie5 80+ Go2ld4 9Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM1200e-1200W ATX3.1 Pcie5 80+ Go2ld8 5Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 285.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift 850W ATX3.1 80+ Gold Full M21o0dular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 210.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift 1000W ATX3.1 80+ Gold Full2 M79odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift 1200W ATX3.1 80+ Gold Full3 M20odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 320.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li SP750-750W V2 ATX3.1 80+ Gold Fully1 M5o9dular SFX Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 159.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li SP850-850W V2 ATX3.1 80+ Gold Fully1 M8o9dular SFX Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 189.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-750W V4 ATX3.1 Pcie5.1 801+9 5Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 195.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-850W V4 ATX3.1 Pcie5.1 802+0 9Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 209.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX-850W V4 White ATX3.1 Pcie253.91 80+ Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 239.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX 1000W V4 ATX3.1 Pcie5.1 8207+5 Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 275.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus GX 1000W V4 White ATX3.1 Pc2ie859 80+ Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 285.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex GX1000 ATX3.1 Pcie5 80+ Gol2d9 P9su",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "12yrs",
+      "price_sgd": 299.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex GX1200 ATX3.1 Pcie5 80+ Gol3d3 P9su",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "12yrs",
+      "price_sgd": 333.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX-1000W ATX3.1 80+ Platinu3m49 Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "12yrs",
+      "price_sgd": 349.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX-1200W ATX3.1 80+ Platinu4m09 Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "12yrs",
+      "price_sgd": 409.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex PX-1600W ATX3.1 80+ Platinu5m99 Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "12yrs",
+      "price_sgd": 599.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Focus SPX-750W SFX 80+ Platinum F2u6ll9 Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 269.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Vertex TX-1600W ATX3.1 80+ Titaniu7m29 Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "12yrs",
+      "price_sgd": 729.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Seasonic",
+      "product": "Seasonic Prime PX-2200W ATX3.1 Pcie5.1 80+7 P9l9atinum Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermaltake",
+      "product": "Thermaltake ToughPower GT 750W ATX3.1 80+11 G5old Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermaltake",
+      "product": "Thermaltake ToughPower GT 850W ATX3.1 80+12 G9old Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 129.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermaltake",
+      "product": "Thermaltake ToughPower GT 1000W ATX3.1 801+69 Gold Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 169.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermaltake",
+      "product": "Thermaltake Toughpower GT 1200W ATX3.1 801+85 Gold Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermaltake",
+      "product": "Thermaltake Toughpower TF3 1300W ATX3.1 8301+9 Titanium Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "MSI",
+      "product": "Msi MAG A750GL-750W ATX3.0 Pcie5 80+ Gold1 2M2odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 122.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "MSI",
+      "product": "Msi MAG A850GL-850W ATX3.0 Pcie5 80+ Gold1 3M2odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "7yrs",
+      "price_sgd": 132.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "MSI",
+      "product": "MSI MAG A1000GL 1000W ATX3.1 80+ GOLD F1M9 8PCIE 5.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone HELA 850W ATX3.1 Pcie5 Platinum1 M85odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone HELA 1300W ATX3.0 Pcie5 Platinum27 M9odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone Hela 2050W 80+ Platinum Full Mod6u3l2ar Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 632.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone SX500L-500W SFX 80+ Gold Modu1la2r3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 123.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone SX700-700W 80+ Gold Full Modula1r5 P5su",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone Attis 650W 80+ Bronze Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yrs",
+      "price_sgd": 65.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone Triton TR750Rx-750W ATX3.1 80+ 9G0old Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 90.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone Triton TR850Rx-850W ATX3.1 80+1 G0o5ld Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 105.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone Triton 1000W ATX3.1 80+ Gold Mo1d6u9lar Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 169.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone Triton TR850Rz-850W ATX3.1 Mod1u3la5r 80+ Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 135.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Silverstone",
+      "product": "Silverstone DA850R-850W ATX3.1 White 80+ G1o4l5d Full Mod.Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR-SGFX650",
+      "product": "TR-SGFX650 650W ATX3.1 SFX 80+ Gold Full M1o2d5ular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR-SGFX850",
+      "product": "TR-SGFX850 850W ATX3.1 SFX 80+ Gold Full M1o5d5ular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR TG750S 750W Blk/Wht Atx3.0 80+ Gold Psu9 0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR TG850S 850W Blk/Wht Atx3.0 80+ Gold Ps1u1 0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR TR-SG650 650W ATX3.1 80+ Gold Modular P9s5u",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR TR-SG750 750W ATX3.1 80+ Gold Modular 1P1s0u",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR TR-SG850 850W ATX3.1 80+ Gold Modular 1P2s5u",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR KG-650W ATX3.1 80+ Gold Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "TR",
+      "product": "TR KG-850W ATX3.1 80+ Gold Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift White 850W ATX3.1 80+ Gol2d1 F5ull Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 215.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift White 1000W ATX3.1 80+ Go2l8d5 Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 285.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RMx Shift White 1200W ATX3.1 80+ Go3l2d5 Full Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 325.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair HX1200i ATX3.0 Pcie5 Platinum Modula3r8 9Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 389.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li SX850P-850W ATX3.1 80+ Platinum Fu1ll8 M9odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li SX1000P-1000W ATX3.1 80+ Platinum 2F0u9ll Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li SX1200P-1200W ATX3.1 80+ Platinum 2F2u9ll Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Gold 850W ATX3.1 80+ Gold Full M14o9dular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 149.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Gold 1000W ATX3.1 80+ Gold Full1 M85odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Gold 1200W ATX3.1 80+ Gold Full2 M05odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 205.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Platinum Black 850W ATX3.1Modu1l8a5r Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Platinum Black 1000W ATX3.1 80+23 M5odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 235.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Platinum White 1000W ATX3.1 802+4 M5odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 245.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Platinum Black 1300W ATX3.1 80+28 M5odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 285.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Lian Li",
+      "product": "Lian Li Edge Platinum White 1300W ATX3.1 802+9 M9odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10yrs",
+      "price_sgd": 299.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "DarkFlash",
+      "product": "DarkFlash EMT 650W 80+ Bronze ATX Power Su5p5ply",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 55.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "DarkFlash",
+      "product": "DarkFlash PMT 750W Black ATX3.1 80+ Gold Fu9l5l Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 95.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "DarkFlash",
+      "product": "DarkFlash PMT 850W Black ATX3.1 80+ Gold F1u0ll8 Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 108.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "DarkFlash",
+      "product": "DarkFlash PMT 850W White ATX3.1 80+ Gold F1u1l5l Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Gigabyte",
+      "product": "Gigabyte UD850GM-850W ATX3.0 80+ Gold Fu1ll5 M9odular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 115.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Gigabyte",
+      "product": "Gigabyte UD1000GM-1000W ATX3.0 80+ Gold 2F1u0ll Modular Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 210.0
+    }
+  ],
+  "numeric_tokens_in_source": 901,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 281/901 = 0.31",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Dual RX9060XT 8Gb Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 479},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Prime RX9060XT O8G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 580},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Dual RX9060XT 16G Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 579},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Prime RX9060XT O16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 639},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Tuf Gaming RX9060XT O16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 759},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Prime RX9070 O16G Evo Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 869},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Tuf Gaming RX9070 O16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1099},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Prime RX9070XT O16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 989},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Tuf Gaming RX9070XT O16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1209},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Dual RX7600 O8GB Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 449},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon  RX 7900XT 20Gb Reference Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1175},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Amd Radeon Tuf Gaming RX7900 XT O20G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1200},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Dual Amd Radeon RX 7800XT O16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 719},\n  {\"category\": \"AMD RADEON GRAPHICS CARDS\", \"brand\": \"ASUS\", \"product\": \"Asus Tuf Gaming Amd Radeon RX 7800XT O16G White Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 893},\n  {\"category\": \"GIGABYTE (3yrs)\", \"brand\": \"GIGABYTE\", \"product\": \"Gigabyte Amd Radeon RX9060XT Gaming OC 8Gb Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 535},\n  {\"category\": \"GIGABYTE (3yrs)\", \"brand\": \"GIGABYTE\", \"product\": \"Gigabyte Amd Radeon RX9060XT Gaming OC 16Gb\", \"warranty\": \"3yrs\", \"price_sgd\": 695},\n  {\"category\": \"GIGABYTE (3yrs)\", \"brand\": \"GIGABYTE\", \"product\": \"Gigabyte Amd Radeon RX9070 Gaming OC 16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 999},\n  {\"category\": \"GIGABYTE (3yrs)\", \"brand\": \"GIGABYTE\", \"product\": \"Gigabyte Amd Radeon RX9070XT Gaming OC 16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1099},\n  {\"category\": \"GIGABYTE (3yrs)\", \"brand\": \"GIGABYTE\", \"product\": \"Gigabyte Amd Radeon RX9070XT Aorus Elite OC 16G Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1179},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"Powercolor Amd Radeon Reaper RX9060XT 8GB Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 475},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"Powercolor Amd Radeon Reaper White RX9060XT 8GB Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 479},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"Powercolor Amd Radeon Hellhound RX9060XT 8GB OC Triple Fan DRR6\", \"warranty\": \"3yrs\", \"price_sgd\": 499},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"Powercolor Amd Radeon Reaper RX9060XT 16GB Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 605},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"Powercolor Amd Radeon Reaper White RX9060XT 16GB Twin Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 609},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon HellHound RX9060XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 629},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon HellHound White RX9060XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 639},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon Reaper RX9070 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 879},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon HellHound RX9070 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 899},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon Reaper RX9070XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1069},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon HellHound RX9070XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1089},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon HellHound Spectral White RX9070XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1119},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon Red Devil RX9070XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1149},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon Red Devil Spectral White RX9070XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 1189},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"Powercolor Amd Radeon Fighter RX7800XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 699},\n  {\"category\": \"POWERCOLOR (3yrs)\", \"brand\": \"POWERCOLOR\", \"product\": \"PowerColor Amd Radeon HellHound Spectral White RX7800XT 16GB OC Triple Fan GDDR6\", \"warranty\": \"3yrs\", \"price_sgd\": 739},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pulse RX7600XT Gaming 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 469},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pulse RX9060XT Gaming 8GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 539},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pulse RX9060XT Gaming OC 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 685},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pure RX9060XT Gaming OC 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 702},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Nitro+ RX9060XT Gaming OC 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 719},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Nitro+ RX 7900XTX Vapor-X 24GB OC Triple Fan GDDR8\", \"warranty\": \"2yrs\", \"price_sgd\": 1189},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pure RX9070 Gaming OC 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 899},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Nitro+ RX9070 Gaming 16GB OC GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 945},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pulse RX9070XT Gaming OC 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1039},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Pure RX9070XT Gaming OC 16GB GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1099},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon Nitro+ RX9070XT Gaming 16GB OC GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1159},\n  {\"category\": \"SAPPHIRE (2yrs)\", \"brand\": \"SAPPHIRE\", \"product\": \"Sapphire Amd Radeon AI Pro R9700 32GB GDDR6 Gpu\", \"warranty\": \"2yrs\", \"price_sgd\": 2189},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Swift Amd Radeon RX9060XT OC Gaming Edition 16GB Twin Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 579},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Swift Amd Radeon RX9060XT OC White Gaming Edition 16GB Twin Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 579},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Swift Amd Radeon RX9060XT OC Gaming Edition 16GB Triple Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 609},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Swift Amd Radeon RX9060XT OC White Gaming Edition 16GB Triple Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 615},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Swift Amd Radeon RX9070XT OC Gaming Edition 16GB Triple Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1029},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Swift Amd Radeon RX9070XT OC White Gaming Edition 16GB Triple Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1039},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Mercury Amd Radeon RX9070XT OC Magnetic Air Rgb 16GB Triple Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1149},\n  {\"category\": \"XFX (2yrs)\", \"brand\": \"XFX\", \"product\": \"XFX Mercury Amd Radeon RX9070XT OC White Magnetic Air Rgb 16GB Triple Fan GDDR6\", \"warranty\": \"2yrs\", \"price_sgd\": 1169},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Xpg Gammix S70 Blade 7400MB/s Gen4 Nvme M.2\", \"variant\": \"1TB\", \"price_sgd\": 359},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Xpg Gammix S70 Blade 7400MB/s Gen4 Nvme M.2\", \"variant\": \"2TB\", \"price_sgd\": 579},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Xpg Gammix S70 Blade 7400MB/s Gen4 Nvme M.2\", \"variant\": \"4TB\", \"price_sgd\": 1189},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Legend 900 Pro 7400MB/s Gen4 Nvme M.2\", \"variant\": \"1TB\", \"price_sgd\": 279},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Legend 900 Pro 7400MB/s Gen4 Nvme M.2\", \"variant\": \"2TB\", \"price_sgd\": 399},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Legend 900 Pro 7400MB/s Gen4 Nvme M.2\", \"variant\": \"4TB\", \"price_sgd\": 699},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Legend 860 6000MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"500\", \"price_sgd\": 139},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Legend 860 6000MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 259},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Adata\", \"product\": \"Adata Legend 860 6000MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 395},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"Wd Black SN770 5150MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"500\", \"price_sgd\": 149},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"Wd Black SN770 5150MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 249},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"Wd Black SN770 5150MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 389},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen4 7300MB/s Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 399},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen4 7300MB/s Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 749},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen4 7300MB/s Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"4TB\", \"price_sgd\": 1089},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen4 Heatsink 7300MB/s NVMe M.2\", \"variant\": \"1TB\", \"price_sgd\": 439},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen4 Heatsink 7300MB/s NVMe M.2\", \"variant\": \"2TB\", \"price_sgd\": 789},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen4 Heatsink 7300MB/s NVMe M.2\", \"variant\": \"4TB\", \"price_sgd\": 1139},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial E100 5000MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"3yrs\", \"variant\": \"500\", \"price_sgd\": 140},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial E100 5000MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"3yrs\", \"variant\": \"1TB\", \"price_sgd\": 229},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial E100 5000MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"3yrs\", \"variant\": \"2TB\", \"price_sgd\": 339},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"500\", \"price_sgd\": 149},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 249},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 439},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial P310 6600/7100MB/s Nvme Gen4 M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"4TB\", \"price_sgd\": 798},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T710 Gen5 14900MB/s NVMe M.2 Ssd\", \"warranty\": \"5Yrs\", \"variant\": \"1TB\", \"price_sgd\": 339},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T710 Gen5 14900MB/s NVMe M.2 Ssd\", \"warranty\": \"5Yrs\", \"variant\": \"2TB\", \"price_sgd\": 799},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T710 Gen5 14900MB/s NVMe M.2 Ssd\", \"warranty\": \"5Yrs\", \"variant\": \"4TB\", \"price_sgd\": 1239},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T705 Gen5 13600MB/s NVMe M.2 Ssd\", \"warranty\": \"5Yrs\", \"variant\": \"1TB\", \"price_sgd\": 319},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T705 Gen5 13600MB/s NVMe M.2 Ssd\", \"warranty\": \"5Yrs\", \"variant\": \"2TB\", \"price_sgd\": 499},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T705 Gen5 13600MB/s NVMe M.2 Ssd\", \"warranty\": \"5Yrs\", \"variant\": \"4TB\", \"price_sgd\": 1199},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T710 Gen5 14900MB/s HeatSink NVMe M.2\", \"variant\": \"1TB\", \"price_sgd\": 359},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T710 Gen5 14900MB/s HeatSink NVMe M.2\", \"variant\": \"2TB\", \"price_sgd\": 809},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T710 Gen5 14900MB/s HeatSink NVMe M.2\", \"variant\": \"4TB\", \"price_sgd\": 1299},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2\", \"variant\": \"500\", \"price_sgd\": 209},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2\", \"variant\": \"1TB\", \"price_sgd\": 309},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2\", \"variant\": \"2TB\", \"price_sgd\": 629},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro 7400MB/s Gen4 Nvme M.2 Nmve M.2\", \"variant\": \"4TB\", \"price_sgd\": 949},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro Gen4 Heatsink Nvme M.2 Nmve M.2\", \"variant\": \"1TB\", \"price_sgd\": 319},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro Gen4 Heatsink Nvme M.2 Nmve M.2\", \"variant\": \"2TB\", \"price_sgd\": 649},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro Gen4 Heatsink Nvme M.2 Nmve M.2\", \"variant\": \"4TB\", \"price_sgd\": 989},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Evo Plus 7250MB/s Gen4 Nvme M.2\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 275},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Evo Plus 7250MB/s Gen4 Nvme M.2\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 609},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Evo Plus 7250MB/s Gen4 Nvme M.2\", \"warranty\": \"5yrs\", \"variant\": \"4TB\", \"price_sgd\": 1205},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro Nvme 2.0 7400MB/s Gen4 M.2\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 385},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro Nvme 2.0 7400MB/s Gen4 M.2\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 769},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro Nvme 2.0 7400MB/s Gen4 M.2\", \"warranty\": \"5yrs\", \"variant\": \"4TB\", \"price_sgd\": 1299},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro Heatsink Nvme 2.0 7400MB/s M.2\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 395},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro Heatsink Nvme 2.0 7400MB/s M.2\", \"warranty\": \"5yrs\", \"variant\": \"2TB\", \"price_sgd\": 769},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro Heatsink Nvme 2.0 7400MB/s M.2\", \"warranty\": \"5yrs\", \"variant\": \"4TB\", \"price_sgd\": 1029},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro 14700MB/s Ssd\", \"variant\": \"1TB\", \"price_sgd\": 385},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro 14700MB/s Ssd\", \"variant\": \"2TB\", \"price_sgd\": 789},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro 14700MB/s Ssd\", \"variant\": \"4TB\", \"price_sgd\": 1599},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro Heatsink 14700MB/s Ssd\", \"variant\": \"1TB\", \"price_sgd\": 419},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro Heatsink 14700MB/s Ssd\", \"variant\": \"2TB\", \"price_sgd\": 839},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro Heatsink 14700MB/s Ssd\", \"variant\": \"4TB\", \"price_sgd\": 1629},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"SK Hynix\", \"product\": \"SK Hynix Platinum P41 SSD 7000MB/s Gen4 NVME M.2\", \"variant\": \"1TB\", \"price_sgd\": 299},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"SK Hynix\", \"product\": \"SK Hynix Platinum P41 SSD 7000MB/s Gen4 NVME M.2\", \"variant\": \"2TB\", \"price_sgd\": 459},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"SK Hynix\", \"product\": \"SK Hynix Platinum P41 SSD 7000MB/s Gen4 NVME M.2\", \"variant\": \"1TB\", \"price_sgd\": 289},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Team Group\", \"product\": \"Team T-Force MP44L 5000MB/s Gen4 Nvme M.2\", \"warranty\": \"5yrs\", \"variant\": \"500\", \"price_sgd\": 149},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Team Group\", \"product\": \"Team T-Force MP44L 5000MB/s Gen4 Nvme M.2\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 209},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Team Group\", \"product\": \"TEAM T-FORCE G70 PRO 7400MB/s M.2 GEN4 PCIe NVMe\", \"variant\": \"1TB\", \"price_sgd\": 299},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Team Group\", \"product\": \"TEAM T-FORCE G70 PRO 7400MB/s M.2 GEN4 PCIe NVMe\", \"variant\": \"2TB\", \"price_sgd\": 449},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Basic 7200MB/s Gen4/Adata Legend 860\", \"variant\": \"1TB\", \"price_sgd\": 249},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Basic 7200MB/s Gen4/Adata Legend 860\", \"variant\": \"2TB\", \"price_sgd\": 388},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro 7300MB/s Gen4 Nvme M.2 Ssd\", \"warranty\": \"5yrs\", \"variant\": \"1TB\", \"price_sgd\": 279},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Plus G4 10000MB/s Gen5 Nvme M.2\", \"variant\": \"1TB\", \"price_sgd\": 299},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Plus G4 10000MB/s Gen5 Nvme M.2\", \"variant\": \"2TB\", \"price_sgd\": 489},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria PRO G2 14900MB/s Gen5 Nvme M.2\", \"variant\": \"1TB\", \"price_sgd\": 359},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria PRO G2 14900MB/s Gen5 Nvme M.2\", \"variant\": \"2TB\", \"price_sgd\": 619},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria PRO G2 14900MB/s Gen5 Nvme M.2\", \"variant\": \"4TB\", \"price_sgd\": 1029},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kingston\", \"product\": \"Kingston SNV3S Gen4 Nvme M.2 Ssd\", \"warranty\": \"3yrs\", \"variant\": \"500\", \"price_sgd\": 135},\n  {\"category\": \"M.2 NVMe INTERNAL SSD\", \"brand\": \"Kingston\", \"product\": \"Kingston SNV3S Gen4 Nvme M.2 Ssd\", \"warranty\": \"3yrs\", \"variant\": \"1TB\", \"price_sgd\": 249},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Cooler Master\", \"product\": \"CM MB600L V2 ODD(CM NR600 ODD $116)\", \"price_sgd\": 75},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Cooler Master\", \"product\": \"Cooler Master 520 Argb Mesh ATX TG Casing\", \"price_sgd\": 109},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Cooler Master\", \"product\": \"Cooler Master Elite 502 Argb Black/White TG Casi8n2g\", \"price_sgd\": 109},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Cooler Master\", \"product\": \"Cooler Master TD500 V2 Argb Mesh TG Casing\", \"price_sgd\": 119},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Cooler Master\", \"product\": \"Cooler Master Haf 700 Argb TG Casing\", \"price_sgd\": 393},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 3500X Call Of Duty Black TG Atx Casing\", \"price_sgd\": 99},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 3500X Rgb Black/White Dual TG Atx Casi1n4g5\", \"price_sgd\": 145},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair Frame 4000D RS Black TG ATX Casing\", \"price_sgd\": 139},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair Frame 4000D RS Argb Black/White TG AT1X5 9CasinCg\", \"price_sgd\": 159},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 5000D Airflow Type-C TG casing\", \"price_sgd\": 189},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair iCUE 5000X Rgb TG Casing\", \"price_sgd\": 243},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 4000D Airflow Rgb Black Edition TG Casin1g69\", \"price_sgd\": 169},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 4000D Airflow Rgb White Edition TG Casin1g69\", \"price_sgd\": 169},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 7000D Airflow Type-C Tower TG casing\", \"price_sgd\": 305},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 9000D Airflow Rgb Type-C Tower TG casi7n2g5\", \"price_sgd\": 725},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 480T Black Airflow TG Casing\", \"price_sgd\": 80},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Corsair\", \"product\": \"Corsair 6500X Dual Chamber TG Black/White Cas2in3g8\", \"price_sgd\": 238},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"HAVN\", \"product\": \"HAVN HS 420 Black Base Edition  Blk/Wht\", \"price_sgd\": 225},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"HAVN\", \"product\": \"HAVN HS 420 VGPU  Hybrid structure case Blk/W2h9t9\", \"price_sgd\": 299},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"HAVN\", \"product\": \"HAVN BF360 Flow Black/White ATX TG Casing\", \"price_sgd\": 239},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"HAVN\", \"product\": \"HAVN HS 420 DOOM Hybrid Base Edition TG Casin4g39\", \"price_sgd\": 439},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD POP XL Black Argb TG ATX Casing\", \"price_sgd\": 159},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD POP Air Rgb Black TG Tint ATX Casing\", \"price_sgd\": 135},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD POP Mini Air Rgb Black/White TG Tint Casing\", \"price_sgd\": 135},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Meshify 2 Compact Blackout ATX TG Casing\", \"price_sgd\": 182},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Meshify 3 Black TG Light Tint ATX Casing\", \"price_sgd\": 225},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Meshify 3 Ambience Pro Rgb Black TG Casing\", \"price_sgd\": 355},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Meshify 3 XL Black TG Light Tint E-ATX Casing\", \"price_sgd\": 289},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Epoch Black/White TG Airflow ATX Casing\", \"price_sgd\": 158},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Epoch Black/White RGB Airflow TG ATX Casin1g79\", \"price_sgd\": 179},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Torrent Black TG ATX Casing\", \"price_sgd\": 278},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Torrent Black Solid Panel Casing\", \"price_sgd\": 259},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD Torrent Black RGB TG Casing\", \"price_sgd\": 342},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD North Charcoal Black/White Casing\", \"price_sgd\": 215},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Fractal Design\", \"product\": \"FD North XL Charcoal Black/White Atx Casing\", \"price_sgd\": 265},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus A31 Black/White TG Atx Casing\", \"price_sgd\": 79},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus Rog Hyperion GR701 BTF EDITION Black TG5 c8a5sing\", \"price_sgd\": 585},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus Proart PA401 Wood Black TG Atx Casing\", \"price_sgd\": 159},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus Helios GX601 Black TG Tower Casing\", \"price_sgd\": 355},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus PROART PA602 ATX T.G Black Case\", \"price_sgd\": 329},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus TUF Gaming GT502 Horizon Black/White TG2 C2a5sing\", \"price_sgd\": 225},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Asus\", \"product\": \"Asus Tuf Gaming GT302 Black/White BTF TG Airf1lo8w5 Casi\", \"price_sgd\": 185},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"HYTE\", \"product\": \"HYTE Y70 TG Casing with PCIe4.0 Riser Cable\", \"price_sgd\": 299},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"NZXT\", \"product\": \"NZXT H5 Flow Rgb 2024 Black/White TG Casing\", \"price_sgd\": 158},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"NZXT\", \"product\": \"NZXT H6 Flow Rgb Black/White TG Casing\", \"price_sgd\": 195},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"NZXT\", \"product\": \"NZXT H7 Flow Rgb 2024 Black/White TG Casing\", \"price_sgd\": 215},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"NZXT\", \"product\": \"NZXT H9 Flow Rgb 2024 Black/White TG Casing\", \"price_sgd\": 245},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks XT View LED Matrix Argb Black/White T1g6 5CasinTgR\", \"price_sgd\": 165},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks Evolv X2 Led Matrix Black/White Argb T2G85 CasinTgR\", \"price_sgd\": 285},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks NV7 Black/White TG ATX Casing\", \"price_sgd\": 225},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks NV5S Black/White DRGB TG Casing\", \"price_sgd\": 145},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks Eclipse G370A DRGB Black TG Airflow A9tx2 CasinTgR\", \"price_sgd\": 92},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks XT View ATX TG Casing W/ 3 ARGB Fans9\", \"price_sgd\": 99},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks Evolv X2 Black/White TG ATX Casing\", \"price_sgd\": 189},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks Evolv S2 Black Drgb Tempered Glass At1x6 C5asing\", \"price_sgd\": 165},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Phanteks\", \"product\": \"Phanteks Evolv S2 White Drgb Tempered Glass A1tx6 5CasinCg\", \"price_sgd\": 165},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"MSI\", \"product\": \"MSI MEG Prospect 700R Black 4.3\\\"Touch Panel A4rg3b9 TG CCaos\", \"price_sgd\": 439},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Fara 512Z Black Argb TG ATX Casing\", \"price_sgd\": 100},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"SSUPD\", \"product\": \"SSUPD Xhuttle Black/White Panoramic TG Atx Ca2s1in9g\", \"price_sgd\": 219},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SUP01 Black Airflow TG Casing\", \"price_sgd\": 95},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SUP01 White Airflow TG Casing\", \"price_sgd\": 95},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Lancool 207 Black Argb TG Airflow Casing\", \"price_sgd\": 110},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Lancool 207 Digital Black TG Airflow Casin1g52\", \"price_sgd\": 152},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Lancool 207 White Argb TG Airflow Casing\", \"price_sgd\": 110},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Lancool 217 INF Black/White Argb TG Cas1in5g5\", \"price_sgd\": 155},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Lancool 217 Wood White Airflow TG Casin1g68\", \"price_sgd\": 168},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li O11 Vision Compact Black/White TG Casin1g45\", \"price_sgd\": 145},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li O11D Mini V2 Flow Black/White TG Casing\", \"price_sgd\": 148},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li V100 Argb Black/White TG ATX Casing\", \"price_sgd\": 109},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li O11 Dynamic Evo LAMBORGHINI Black TG2 C9a9sing\", \"price_sgd\": 299},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li O11 Dynamic Evo RGB Black TG Casing\", \"price_sgd\": 195},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Lian Li\", \"product\": \"Lian Li O11 Dynamic Evo XL Black/White TG Casin2g69\", \"price_sgd\": 269},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake View 290 Black Argb Curved TG Atx 1C1a5sing\", \"price_sgd\": 115},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake View 290 White Argb Curved TG Atx1 C1a9sing\", \"price_sgd\": 119},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake Tower 600 Black TG ATX Casing\", \"price_sgd\": 225},\n  {\"category\": \"ATX/E-ATX CPU CASINGS\", \"brand\": \"APNX\", \"product\": \"APNX V1 Black/White Dual Chamber TG ATX Casin8g5\", \"price_sgd\": 85},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair SF1000-1000W ATX3.1 80+ Platinum S3F4X0 Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 279},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM1000e-1000W White ATX3.1 Pcie5 8205+9 Gold Full Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 259},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM750e-750W White ATX3.1 Pcie5 80+1 7G5old Full Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 169},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM850e-850W White ATX3.1 Pcie5 80+2 0G5old Full Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 189},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx 850W ATX3.1 Pcie5.1 80+ Gold Fu2l0l 9Modular Psu\", \"warranty\": \"10Yrs\", \"price_sgd\": 210},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx 1000W ATX3.1 Pcie5.1 80+ Gold F2u7l9l Modular Psu\", \"warranty\": \"10Yrs\", \"price_sgd\": 279},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM750e-750W ATX3.1 Pcie5 80+ Gold 1F6u5ll Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 165},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM850e-850W ATX3.1 Pcie5 80+ Gold 1F9u5ll Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 195},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM1000e-1000W ATX3.1 Pcie5 80+ Go2ld4 9Full Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 249},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM1200e-1200W ATX3.1 Pcie5 80+ Go2ld8 5Full Modular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 285},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx Shift 850W ATX3.1 80+ Gold Full M21o0dular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 210},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx Shift 1000W ATX3.1 80+ Gold Full2 M79odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 279},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx Shift 1200W ATX3.1 80+ Gold Full3 M20odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 320},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SP750-750W V2 ATX3.1 80+ Gold Fully1 M5o9dular SFX Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 159},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SP850-850W V2 ATX3.1 80+ Gold Fully1 M8o9dular SFX Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 189},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Focus GX-750W V4 ATX3.1 Pcie5.1 801+9 5Gold Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 195},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Focus GX-850W V4 ATX3.1 Pcie5.1 802+0 9Gold Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 209},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Focus GX-850W V4 White ATX3.1 Pcie253.91 80+ Gold Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 239},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Focus GX 1000W V4 ATX3.1 Pcie5.1 8207+5 Gold Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 275},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Focus GX 1000W V4 White ATX3.1 Pc2ie859 80+ Gold Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 285},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Vertex GX1000 ATX3.1 Pcie5 80+ Gol2d9 P9su\", \"warranty\": \"12yrs\", \"price_sgd\": 299},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Vertex GX1200 ATX3.1 Pcie5 80+ Gol3d3 P9su\", \"warranty\": \"12yrs\", \"price_sgd\": 333},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Vertex PX-1000W ATX3.1 80+ Platinu3m49 Psu\", \"warranty\": \"12yrs\", \"price_sgd\": 349},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Vertex PX-1200W ATX3.1 80+ Platinu4m09 Psu\", \"warranty\": \"12yrs\", \"price_sgd\": 409},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Vertex PX-1600W ATX3.1 80+ Platinu5m99 Psu\", \"warranty\": \"12yrs\", \"price_sgd\": 599},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Focus SPX-750W SFX 80+ Platinum F2u6ll9 Modular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 269},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Vertex TX-1600W ATX3.1 80+ Titaniu7m29 Psu\", \"warranty\": \"12yrs\", \"price_sgd\": 729},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Seasonic\", \"product\": \"Seasonic Prime PX-2200W ATX3.1 Pcie5.1 80+7 P9l9atinum Psu\", \"price_sgd\": 799},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake ToughPower GT 750W ATX3.1 80+11 G5old Full Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 115},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake ToughPower GT 850W ATX3.1 80+12 G9old Full Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 129},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake ToughPower GT 1000W ATX3.1 801+69 Gold Full Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 169},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake Toughpower GT 1200W ATX3.1 801+85 Gold Full Modular Psu\", \"price_sgd\": 185},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermaltake\", \"product\": \"Thermaltake Toughpower TF3 1300W ATX3.1 8301+9 Titanium Full Modular Psu\", \"price_sgd\": 319},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"MSI\", \"product\": \"Msi MAG A750GL-750W ATX3.0 Pcie5 80+ Gold1 2M2odular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 122},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"MSI\", \"product\": \"Msi MAG A850GL-850W ATX3.0 Pcie5 80+ Gold1 3M2odular Psu\", \"warranty\": \"7yrs\", \"price_sgd\": 132},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"MSI\", \"product\": \"MSI MAG A1000GL 1000W ATX3.1 80+ GOLD F1M9 8PCIE 5.1 PSU\", \"price_sgd\": 198},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone HELA 850W ATX3.1 Pcie5 Platinum1 M85odular Psu\", \"price_sgd\": 185},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone HELA 1300W ATX3.0 Pcie5 Platinum27 M9odular Psu\", \"price_sgd\": 279},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Hela 2050W 80+ Platinum Full Mod6u3l2ar Psu\", \"price_sgd\": 632},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone SX500L-500W SFX 80+ Gold Modu1la2r3\", \"warranty\": \"3yrs\", \"price_sgd\": 123},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone SX700-700W 80+ Gold Full Modula1r5 P5su\", \"price_sgd\": 155},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Attis 650W 80+ Bronze Psu\", \"warranty\": \"3yrs\", \"price_sgd\": 65},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Triton TR750Rx-750W ATX3.1 80+ 9G0old Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 90},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Triton TR850Rx-850W ATX3.1 80+1 G0o5ld Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 105},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Triton 1000W ATX3.1 80+ Gold Mo1d6u9lar Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 169},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone Triton TR850Rz-850W ATX3.1 Mod1u3la5r 80+ Gold Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 135},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Silverstone\", \"product\": \"Silverstone DA850R-850W ATX3.1 White 80+ G1o4l5d Full Mod.Psu\", \"price_sgd\": 145},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR-SGFX650\", \"brand\": \"TR-SGFX650\", \"product\": \"TR-SGFX650 650W ATX3.1 SFX 80+ Gold Full M1o2d5ular Psu\", \"price_sgd\": 125},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR-SGFX850\", \"brand\": \"TR-SGFX850\", \"product\": \"TR-SGFX850 850W ATX3.1 SFX 80+ Gold Full M1o5d5ular Psu\", \"price_sgd\": 155},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR TG750S 750W Blk/Wht Atx3.0 80+ Gold Psu9 0\", \"price_sgd\": 90},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR TG850S 850W Blk/Wht Atx3.0 80+ Gold Ps1u1 0\", \"price_sgd\": 110},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR TR-SG650 650W ATX3.1 80+ Gold Modular P9s5u\", \"price_sgd\": 95},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR TR-SG750 750W ATX3.1 80+ Gold Modular 1P1s0u\", \"price_sgd\": 110},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR TR-SG850 850W ATX3.1 80+ Gold Modular 1P2s5u\", \"price_sgd\": 125},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR KG-650W ATX3.1 80+ Gold Modular Psu\", \"price_sgd\": 75},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"TR\", \"product\": \"TR KG-850W ATX3.1 80+ Gold Modular Psu\", \"price_sgd\": 95},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx Shift White 850W ATX3.1 80+ Gol2d1 F5ull Modular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 215},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx Shift White 1000W ATX3.1 80+ Go2l8d5 Full Modular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 285},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RMx Shift White 1200W ATX3.1 80+ Go3l2d5 Full Modular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 325},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair HX1200i ATX3.0 Pcie5 Platinum Modula3r8 9Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 389},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SX850P-850W ATX3.1 80+ Platinum Fu1ll8 M9odular Psu\", \"price_sgd\": 189},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SX1000P-1000W ATX3.1 80+ Platinum 2F0u9ll Modular Psu\", \"price_sgd\": 209},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li SX1200P-1200W ATX3.1 80+ Platinum 2F2u9ll Modular Psu\", \"price_sgd\": 229},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Gold 850W ATX3.1 80+ Gold Full M14o9dular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 149},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Gold 1000W ATX3.1 80+ Gold Full1 M85odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 185},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Gold 1200W ATX3.1 80+ Gold Full2 M05odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 205},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Platinum Black 850W ATX3.1Modu1l8a5r Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 185},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Platinum Black 1000W ATX3.1 80+23 M5odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 235},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Platinum White 1000W ATX3.1 802+4 M5odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 245},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Platinum Black 1300W ATX3.1 80+28 M5odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 285},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Lian Li\", \"product\": \"Lian Li Edge Platinum White 1300W ATX3.1 802+9 M9odular Psu\", \"warranty\": \"10yrs\", \"price_sgd\": 299},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"DarkFlash\", \"product\": \"DarkFlash EMT 650W 80+ Bronze ATX Power Su5p5ply\", \"warranty\": \"5yrs\", \"price_sgd\": 55},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"DarkFlash\", \"product\": \"DarkFlash PMT 750W Black ATX3.1 80+ Gold Fu9l5l Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 95},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"DarkFlash\", \"product\": \"DarkFlash PMT 850W Black ATX3.1 80+ Gold F1u0ll8 Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 108},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"DarkFlash\", \"product\": \"DarkFlash PMT 850W White ATX3.1 80+ Gold F1u1l5l Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 115},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte UD850GM-850W ATX3.0 80+ Gold Fu1ll5 M9odular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 115},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte UD1000GM-1000W ATX3.0 80+ Gold 2F1u0ll Modular Psu\", \"warranty\": \"5yrs\", \"price_sgd\": 210}\n]}"
+}

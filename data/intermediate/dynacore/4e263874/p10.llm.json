@@ -1,0 +1,55 @@
+{
+  "rows": [
+    {
+      "brand": "Intel",
+      "product": "INTEL CORE ULTRA 7 265KF 20C PROCESSOR",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI 7 MB",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "Kingston",
+      "product": "KINGSTON FURY BEAST RGB 6000MT/s 32GB (16GBx2) CL30 KIT",
+      "variant": "32GB (16GBx2)",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "ADATA",
+      "product": "ADATA LEGEND 900 PRO 2TB 7400MB/s GEN4 NVME M.2 SSD",
+      "variant": "2TB",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS TUF RTX5070TI 16GB OC GAMING TRIPLE FAN",
+      "variant": "16GB",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS PRIME LC 360 ARGB BLACK AIO COOLER",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "Corsair",
+      "product": "CORSAIR RM850e-850W ATX3.1 80+ GOLD MODULAR PSU",
+      "price_sgd": 3189
+    },
+    {
+      "brand": "ASUS",
+      "product": "ASUS A31 BLACK TEMPERED GLASS CASING",
+      "price_sgd": 3189
+    },
+    {
+      "product": "ASSEMBLE (WINDOWS 11 UNACTIVATED)",
+      "price_sgd": 3189
+    },
+    {
+      "product": "7 x 120MM ARGB FANS INCLUDED",
+      "price_sgd": 3189
+    }
+  ]
+}
