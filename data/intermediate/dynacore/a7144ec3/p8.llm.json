@@ -1,0 +1,58 @@
+{
+ "rows": [
+  {
+   "category": null,
+   "brand": null,
+   "product": "I5 - 14400F + RTX 5060 8GB",
+   "price_sgd": 1319
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "U5 - 225F + RTX 5060 8GB",
+   "price_sgd": 1509
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "I5 - 14400F + RX9060XT 16GB",
+   "price_sgd": 1549
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "U5 - 225F + RTX 5060Ti 8GB",
+   "price_sgd": 1859
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "U5 - 225F + RTX 5070 12GB",
+   "price_sgd": 2219
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "U5 - 250K PLUS + RX9070XT 16GB",
+   "price_sgd": 2389
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "U7 - 265K + RTX 5070 12GB",
+   "price_sgd": 3069
+  },
+  {
+   "category": null,
+   "brand": null,
+   "product": "U7 - 270K PLUS + RTX 5070TI 16GB",
+   "price_sgd": 3689
+  },
+  {
+   "category": null,
+   "brand": "AMD",
+   "product": "Ryzen 7 7700 + RX9070XT 16GB",
+   "price_sgd": 2279
+  }
+ ]
+}

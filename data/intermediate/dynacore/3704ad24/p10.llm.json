@@ -1,0 +1,82 @@
+{
+  "rows": [
+    {
+      "brand": "AMD",
+      "product": "Ryzen 9 9950X3D + RTX 5090 32GB",
+      "variant": "System 37",
+      "price_sgd": 10308
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 9 9950X3D2 + RTX 5090 Lightning Z",
+      "variant": "System 38",
+      "price_sgd": 14119
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 5 7600 + Integrated Graphics",
+      "variant": "System 39",
+      "price_sgd": 798
+    },
+    {
+      "brand": "Intel",
+      "product": "Core Ultra 5 225 + Integrated Graphics",
+      "variant": "System 40",
+      "price_sgd": 808
+    },
+    {
+      "brand": "Intel",
+      "product": "Core Ultra 5 245K + Integrated Graphics",
+      "variant": "System 41",
+      "price_sgd": 949
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 7 5700G + Integrated Graphics",
+      "variant": "System 42",
+      "price_sgd": 799
+    },
+    {
+      "category": "Monitor Promotion",
+      "brand": "LG",
+      "product": "LG 29U531A-W LG 29-inch UltraWide 21:9 WFHD (2560x1080) IPS",
+      "variant": "Promo",
+      "price_sgd": 199
+    },
+    {
+      "category": "Monitor Promotion",
+      "brand": "LG",
+      "product": "LG 29U531A-W LG 29-inch UltraWide 21:9 WFHD (2560x1080) IPS",
+      "variant": "MSRP",
+      "price_sgd": 329
+    },
+    {
+      "category": "Monitor Promotion",
+      "brand": "Dell",
+      "product": "Dell P2225H 22-inch Dell Pro 22 Plus FHD (1920x1080) IPS",
+      "variant": "Promo",
+      "price_sgd": 165
+    },
+    {
+      "category": "Monitor Promotion",
+      "brand": "Dell",
+      "product": "Dell P2225H 22-inch Dell Pro 22 Plus FHD (1920x1080) IPS",
+      "variant": "MSRP",
+      "price_sgd": 189
+    },
+    {
+      "category": "Monitor Promotion",
+      "brand": "Lenovo",
+      "product": "Lenovo L27-4C 27-inch WFHD (1920x1080) IPS",
+      "variant": "Promo",
+      "price_sgd": 149
+    },
+    {
+      "category": "Monitor Promotion",
+      "brand": "Lenovo",
+      "product": "Lenovo L27-4C 27-inch WFHD (1920x1080) IPS",
+      "variant": "MSRP",
+      "price_sgd": 199
+    }
+  ]
+}

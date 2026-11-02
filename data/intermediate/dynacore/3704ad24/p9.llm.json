@@ -1,0 +1,46 @@
+{
+  "rows": [
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RTX 5070",
+      "price_sgd": 2079
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RX 9070XT",
+      "price_sgd": 2069
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 7 9800X3D + RTX 5080",
+      "price_sgd": 4599
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RTX 5060",
+      "price_sgd": 1579
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Core i5-14400F + RTX 5060 8GB",
+      "price_sgd": 1549
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RTX 5060 8GB",
+      "price_sgd": 1529
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 9 9900X + RTX 5080 16GB",
+      "price_sgd": 5399
+    }
+  ]
+}

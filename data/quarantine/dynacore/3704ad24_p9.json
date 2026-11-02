@@ -1,0 +1,77 @@
+{
+  "sha256": "3704ad24f4968a1ae9374814ebb7c4eb5ae4069b260697894899a29e6292e9d0",
+  "vendor": "dynacore",
+  "page_number": 9,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RTX 5070",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2079.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RX 9070XT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2069.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 7 9800X3D + RTX 5080",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4599.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RTX 5060",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1579.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Core i5-14400F + RTX 5060 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1549.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 5 7500F + RTX 5060 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1529.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "Ryzen 9 9900X + RTX 5080 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5399.0
+    }
+  ],
+  "numeric_tokens_in_source": 17,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 7/17 = 0.41",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": null,\n      \"brand\": \"AMD\",\n      \"product\": \"Ryzen 5 7500F + RTX 5070\",\n      \"price_sgd\": 2079\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AMD\",\n      \"product\": \"Ryzen 5 7500F + RX 9070XT\",\n      \"price_sgd\": 2069\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AMD\",\n      \"product\": \"Ryzen 7 9800X3D + RTX 5080\",\n      \"price_sgd\": 4599\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AMD\",\n      \"product\": \"Ryzen 5 7500F + RTX 5060\",\n      \"price_sgd\": 1579\n    },\n    {\n      \"category\": null,\n      \"brand\": \"Intel\",\n      \"product\": \"Core i5-14400F + RTX 5060 8GB\",\n      \"price_sgd\": 1549\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AMD\",\n      \"product\": \"Ryzen 5 7500F + RTX 5060 8GB\",\n      \"price_sgd\": 1529\n    },\n    {\n      \"category\": null,\n      \"brand\": \"AMD\",\n      \"product\": \"Ryzen 9 9900X + RTX 5080 16GB\",\n      \"price_sgd\": 5399\n    }\n  ]\n}"
+}

@@ -1,0 +1,58 @@
+{
+  "rows": [
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "I5 - 14400F + RTX 5060 8GB",
+      "price_sgd": 1449
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "U5 - 225F + RTX 5060 8GB",
+      "price_sgd": 1639
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "I5 - 14400F + RX9060XT 16GB",
+      "price_sgd": 1659
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "U5 - 225F + RTX 5060TI 8GB",
+      "price_sgd": 1989
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "U5 - 225F + RTX 5070 12GB",
+      "price_sgd": 2329
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "U5 - 250K PLUS + RX9070XT 16GB",
+      "price_sgd": 2389
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "U7 - 265K + RTX 5070 12GB",
+      "price_sgd": 3089
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "Intel",
+      "product": "U7 - 270K PLUS + RTX 5070TI 16GB",
+      "price_sgd": 3789
+    },
+    {
+      "category": "SG61 SPECIAL",
+      "brand": "AMD",
+      "product": "Ryzen 7 7700 + RX9070XT 16GB",
+      "price_sgd": 2089
+    }
+  ]
+}

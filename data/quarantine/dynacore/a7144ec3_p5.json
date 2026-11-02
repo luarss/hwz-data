@@ -1,0 +1,1967 @@
+{
+  "sha256": "a7144ec3b6d75c1a04f96531f8234c05912e68495d96e27fc94d7a9980736d78",
+  "vendor": "dynacore",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "ROTULT-SERF1008LP 8-Port 10/100 Switch with 4-Port POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1008D 8-port 10/100M switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1008P 8-Port 10/100M Desktop Switch with 4-Port POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1016 16-Port 10/100M Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1016D 16-Port 10/100M Desktop Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1024 24-Port 10/100M Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1024D 24-Port 10/100M Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 80.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SF1048 48-Port 10/100M Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 238.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1005D 5-Port Plastic Case Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1005LP 5-Port Gigabit Switch w/4-Port POE+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1008 8-Port Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1008D 8-Port Plastic Case Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1008MP 8-Port Gigabit POE+ Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SL1218MP 16-PORT POE+ Rackmount Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 247.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1008P 8-Port Gigabit Switch 4-Port POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1016 16-Port Gigabit Rackmount Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1016D 16-port Gigabit Desktop Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1016DE 16-Port Gigabit Easy Smart Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 166.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1016PE 16-Port Gigabit POE+ 8-Port POE Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1024 24-Port Gigabit 19-Inch rackmount Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1024D 24-Port Gigabit Rackmount Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1024DE 24-Port Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG1048 48-Port Gigabit Rackmount Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 581.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG105 5-Port Metal Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG105E 5-Port Gigabit Easy Smart Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG108 8-Port Metal Case Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG108E 8-Port Gigabit Easy Smart Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG108PE 8-Port Smart Switch with 4-Port POE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG116 16-Port Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG116E 16-Port Gigabit Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG2008P Jetstream 8-Port Smart Switch w/4-Port PoE+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG3428XPP-M2 24-Port 2.5G 4x10G SFP+ Managed Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1264.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG3428 Jetstream 24-Port Gigabit L2+ managed Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SG3428MP Jetstream 28-Port Gigabit L2+ managed Switch",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 636.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SG3428X TM- L2 24-Port Switch with 10Gbe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 865.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "RE605X AX1800 Dual-Band Wi-Fi Range Extender",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "ARCHER AX55 AX3000 WIFI6 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SM311LM Gigabit SFP Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 51.0
+    },
+    {
+      "category": "TP-LINK NETWORKING/CAMERA",
+      "brand": "TP-LINK",
+      "product": "TL-SM311LS Gigabit SFP Module",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 51.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS XG-C100C V3 10-GIGABIT PCI-E NETWORK ADAPTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS PCE-BE92BT BE9400 TRI BAND WIFI 7 + BLEUETOOTH 5.4 ADAPTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 123.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS PCE-AC56 AC300 W/L PCI-E ADAPTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS QG-U1080 8-PORT 2.5G PORT/2-PORT 10G SFP+ SWITCH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1309.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus Rog GT-AX11000 AX11000 Tri-band Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus Rog Rapture GT-AX6000 Wifi6 Gaming Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 460.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus RT-AXM5400 Dual Band Wifi6 Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus ZenWifi Pro XT12 Tri-Band 2-Pack Wifi Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 950.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus RT-AXE58U GO Wifi7 Travel Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus ZenWifi XD4S AX1800 3-Pack Mini Black Wifi6 Mesh Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "Asus RT-AX86U Pro Wifi6 Dual-Band Wireless Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 306.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ROG RAPTURE GT-AX10000 2-PACK TRI-BAND WIFI6 GAMING MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 512.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ROG RAPTURE GT-AXE16000 WIFI 6E 1600Gbx2 AP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 982.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX57 AX3000 DUAL BAND SMART WIFI 6 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI PRO ET12 AXE11000 TRI-BAND 2-PACK WIFI 6E MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 930.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING TUF-AX6000 DUAL BAND WIFI6 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX5400 DUAL BAND WIFI 6 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 226.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX53U AX1800 DUAL BAND WIFI 6 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI XD4S 2 PACK MESH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ROG RAPTURE GT-AX6000 DUAL BAND WIFI 6 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 442.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-AXE7800 AXE7800 TRI-BAND WIFI 6E 2.5G PORT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 658.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI XT8 AX6600 2-PACK TRI-BAND WI-FI MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 498.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI XT8 AX6600 TRI-BAND 1-PACK WIFI MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI BQ16 BE25000 QUAD-BAND WIFI 7 WHITE 1-PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI BQ16 WHITE 2-PACK WIFI 7 BE25000",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1242.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE88U BE7200 DUAL BAND WIFI 7 DUAL 10G ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 500.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ROG RAPTURE GT-BE98 BE25000 QUAD-BAND WIFI 7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 892.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI WIFI 7 18000 1-PACK TRI-BAND WIFI 7 4-BAY QNAP Nas Storage(2yrs)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3YRS",
+      "price_sgd": 50.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ZENWIFI BT10 BE18000 TRI-BAND WIFI 7 SMART MESH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE58U BE3600 DUAL BAND WIFI 7 EXTENDER ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI BT8 TRI-BAND BE14000 WIFI 7 HOMEMESH 2-PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 755.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI BD4 BE3600 DUAL-BAND 2-PACK WIFI 7 MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 272.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING BE6500 DUAL BAND WIFI 7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 276.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE92U BE9700 TRI-BAND WIFI 7 EXTENDER ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 312.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI BID4 (3YRS) DUAL-BAND 1-PACK WIFI 7 HOME MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3YRS",
+      "price_sgd": 143.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ZENWIFI BD4 BE3600 DUAL-BAND 3-PACK WIFI 7 MESH ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 378.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE86U BE6800 DUAL BAND WIFI 7 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 413.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE82U BE6500 DUAL BAND WIFI7 EXTENDABLE ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 320.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS ROG RAPTURE GT-BE1900 AI TRI-BAND WIFI 7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 815.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS TUF-BE9400 TRI-BAND WIFI-7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS RT-BE5 GO BE3600 DUAL-BAND 4G/5G TRAVEL ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS DUAL-BAND RT-BE50 BE3600 WIFI7 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "ASUS/MSI NETWORKING",
+      "brand": "ASUS",
+      "product": "ASUS GS-BE7200X BE7200 DUAL_BAND WIFI7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 274.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS-223J 2-Bay NAS Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS-223 2-Bay NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 469.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS225+ 2-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 485.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS-423 4-Bay NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 659.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS425+ 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 799.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology NASG725+ 2-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS925+ 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1219.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS-1525+ 5-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "SYNOLOGY RS822RP+ 4-Bay Rack Station",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1949.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "Synology DS-1825+ 8-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2059.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Synology",
+      "product": "SYNOLOGY RS422+ R5 1600/2GB/4-BAY RACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1071.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor Flashtor FS6706T 6-Bay M.2 Nvme Mini PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 679.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor Flashtor FS6712X 12-Bay M.2 Nvme Mini PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1239.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor Flashmaster FS6812RX 12-Bay M.2 Nvme Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2169.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS3302T V2 2GB 2-Bay Nas",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 365.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS3304T V2 2GB 4-Bay Nas",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 502.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS5304T 4GB 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 555.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS6706T 8GB 6-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1159.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS6704T 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 869.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS670 M2TSHG 2-Bay M.2 Nas",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 643.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS6804RT 16GB 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1929.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS6808T 16GB 8-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2479.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Asustor",
+      "product": "Asustor AS6810T 16GB 10-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2709.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F2-221 Dual Core 2-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 380.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F4-423 Quad Core 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 555.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F4-423 Quad Core 4-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F5-221 Dual Core 5-Bay Nas Storage",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 562.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F4-423+ 1GB 4-Bay NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 568.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F4-514 4-Bay NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "NAS STORAGE",
+      "brand": "Terramaster",
+      "product": "Terramaster F4-423",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-LINK KASA SMART WI-FI PLUG SLOIFMF E2R-PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link Tapo C110 3MP Wifi IP Cam",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link Tapo C200 Pan/Tilt Home Wifi IP Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 54.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link Tapo C210 Pan/Tilt Home Wifi IP Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link Kasa Spot KC100 Indoor Full HD Wifi Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link Kasa Spot KC120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link KC200 Full Hd Wifi Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "Tapo TC70 Home Security Wifi Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-Link Tapo C100 Home Wifi IP Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-LINK Tapo L510E Smart WiFi Light Bulb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 11.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TAPO C310 OUTDOOR SECURITY WI-FI CAMERA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3YRS",
+      "price_sgd": 74.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TAPO L900-5 Smart LIGHT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TAPO L920-5 Smart LIGHT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TAPO L510E BULB 2-PACK DIMMERABLE SMART LIGHT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3YRS",
+      "price_sgd": 21.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "TP-LINK",
+      "product": "Tp-Link Tapo C225",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz C3W Colour Night Vision Outdoor Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 151.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz C6P 360° Fisheye Security",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz C3A Wire-Free HD Build-In Battery Home Security Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 253.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz CS-X5C-8APEC NVR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz EZV-BS-113A-APEC Alarm Starter Kit (A1, K2, T1 AND T6. APEC)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 243.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz CS-DP1-A0-4A1WPFBSR Smart Door Viewer Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz C6C Wifi Pan Tilt Home Security Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz C6T RF Edition",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz CS-CV246 Indoor Internet PT Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz PT Camera C6TC CS-CV248",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz CS-CV310(A0-3C2WFRL) 1080P Color Night Vision Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 102.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ezviz",
+      "product": "Ezviz CS-C1C(D0-1D2WFR) Indoor HD Wifi Camera",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 50.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-Dome",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-G3-Bullet",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 214.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-G3-Dome",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 242.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-G3-Micro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-G3-PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 397.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-G3-FLEX Indoor/Outdoor PoE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 117.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-NVR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 366.0
+    },
+    {
+      "category": "IP-CAMERAS",
+      "brand": "Ubiquiti",
+      "product": "Ubiquiti UVC-NVR-2TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 509.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master Notepal CMC3 Silent Up To 15\"",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal CMC3 NB Cooling",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal L1 Slim NB Cooling Pad",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal X-lite II Notebook Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal X-Slim II Notebook Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal Ergostand Easy",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal Ergostand Lite",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 61.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal Ergostand II Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 71.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal Ergostand III Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal A100 Notebook Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "Cooler Master NotePal A200 Dual Notebook Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "CoolerMaster NotePal U3 Plus Notebook Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": "NOTEBOOK COOLERS",
+      "brand": "Cooler Master",
+      "product": "CoolerMaster NotePal X3 Notebook Cooler",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 61.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin F9E400SA3M 4-socket Surge Protector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin F9E600SA3M 6-socket Surge Protector",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin F9H410SA2M 4-socket Surge Master",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin F9S620SA4M 6-socket Surge Master",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin BSV401SA2M 4-socket Surge Plus with USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin BSV604SA2M 6-socket Surge Plus with USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin BSV804SA2M 8-socket Surge Plus with USB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": "SURGE PROTECTORS",
+      "brand": "Belkin",
+      "product": "Belkin F9H110VSACW 1-socket Surge with Modem/Dsl",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "HDD CASING/DOCKING",
+      "brand": "Garethan",
+      "product": "Garethan GE-NC11-Grey Nvme M.2 Type-C Enclosure",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "HDD CASING/DOCKING",
+      "brand": "Orico",
+      "product": "Orico TCM2M-C3 Nvme + NGFF M.2 Type-C Enclosure",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "HDD CASING/DOCKING",
+      "brand": null,
+      "product": "H82-SU3S2-K 8BAY NON-RAID HDD FOR USB3.0 +e-SATA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 336.0
+    },
+    {
+      "category": "HDD CASING/DOCKING",
+      "brand": null,
+      "product": "HUR3-Series 2BAY HDD RAID FOR USB3.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": "HDD CASING/DOCKING",
+      "brand": null,
+      "product": "HFR2-SU3S2-K-SUK 4BAY RAID HDD FOR USB3.0 + e-SATA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "HDD CASING/DOCKING",
+      "brand": null,
+      "product": "HF7-SU317- 4BAY NON-RAID HDD FOR TYPE-C ENCLOSURE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer Mini GC311",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer Portable GL710",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer Portable GC513",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer HD Lite C985E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer HD C985",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer HD 2 GC570",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer EXTREME 2 GC551",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 294.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer ULTRA GC553",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 311.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer 4K GC573",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Gamer BOLT GC555",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 641.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Game Capture HD II C285",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Live Streamer 311 BO311 (Card+Cam+Mic)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 396.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia ExtremeCap UVC BU110",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia ExtremeCap SDI BU111",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 351.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia DarkCrystal HD Capture Pro C027",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia DVD EZMaker 7 C039",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia EzRecorder 130 ER130",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia EzRecorder 310 ER310",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia Video Converter ET110/111/113 VGA to HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia AVerTV Hybrid Volar T2 H831",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "AVerMedia",
+      "product": "AVerMedia AVerTV Nova T2+C A757",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Stream Deck -Mini",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Stream Deck - Live Content",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 224.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Stream Deck XL - Advanced",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 346.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Cam Link 4K (DSLR,Videocam)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 224.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Game Capture HD60s",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Game Capture HD60 S+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 306.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Game Capture HD60 Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Game Capture 4K60 Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 346.0
+    },
+    {
+      "category": "CAPTURE CARDS |SOFTWARES",
+      "brand": "Elgato",
+      "product": "Elgato Key Light Air Professional LED Ring Light",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "APC UPS BX625CI-MS 625VA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "APC UPS BR650Mi 650VA Pro LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "APC UPS BK-650AS USB 650VA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "APC UPS BVX1200LI 1200VA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "APC UPS BR900Mi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "APC UPS BR1500Gi 1500VA AVR LCD 8 Outlets",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 829.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "UPS 1000 1KVA 600W Usb Port Ups",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "UPS | HPE NETWORKING",
+      "brand": "APC",
+      "product": "SMC1500i-2U 1500VA Rackmount",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1100.0
+    },
+    {
+      "category": "LINKSYS/SYNOLOGY/AMPLIFI",
+      "brand": "Linksys",
+      "product": "Linksys EA6350 AC1200 MU-MIMO Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 101.0
+    },
+    {
+      "category": "LINKSYS/SYNOLOGY/AMPLIFI",
+      "brand": "Synology",
+      "product": "Synology RT2600AC Wireless Router",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 312.0
+    },
+    {
+      "category": "LINKSYS/SYNOLOGY/AMPLIFI",
+      "brand": "AmpliFi",
+      "product": "Amplifi HD Router AFi-R",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 352.0
+    },
+    {
+      "category": "LINKSYS/SYNOLOGY/AMPLIFI",
+      "brand": "AmpliFi",
+      "product": "Amplifi HD Router AFi-I",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 234.0
+    },
+    {
+      "category": "LINKSYS/SYNOLOGY/AMPLIFI",
+      "brand": "AmpliFi",
+      "product": "Amplifi HD Mesh Antenna AFi-P-HD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 271.0
+    }
+  ],
+  "numeric_tokens_in_source": 579,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 217/579 = 0.37",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"ROTULT-SERF1008LP 8-Port 10/100 Switch with 4-Port POE\",\n      \"price_sgd\": 64\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1008D 8-port 10/100M switch\",\n      \"price_sgd\": 15\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1008P 8-Port 10/100M Desktop Switch with 4-Port POE\",\n      \"price_sgd\": 64\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1016 16-Port 10/100M Switch\",\n      \"price_sgd\": 64\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1016D 16-Port 10/100M Desktop Switch\",\n      \"price_sgd\": 48\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1024 24-Port 10/100M Switch\",\n      \"price_sgd\": 88\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1024D 24-Port 10/100M Switch\",\n      \"price_sgd\": 80\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SF1048 48-Port 10/100M Switch\",\n      \"price_sgd\": 238\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1005D 5-Port Plastic Case Gigabit Switch\",\n      \"price_sgd\": 20\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1005LP 5-Port Gigabit Switch w/4-Port POE+\",\n      \"price_sgd\": 64\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1008 8-Port Gigabit Switch\",\n      \"price_sgd\": 60\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1008D 8-Port Plastic Case Gigabit Switch\",\n      \"price_sgd\": 23\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1008MP 8-Port Gigabit POE+ Switch\",\n      \"price_sgd\": 146\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK TL-SL1218MP 16-PORT POE+ Rackmount Switch\",\n      \"price_sgd\": 247\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1008P 8-Port Gigabit Switch 4-Port POE\",\n      \"price_sgd\": 55\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1016 16-Port Gigabit Rackmount Switch\",\n      \"price_sgd\": 157\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1016D 16-port Gigabit Desktop Switch\",\n      \"price_sgd\": 110\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1016DE 16-Port Gigabit Easy Smart Switch\",\n      \"price_sgd\": 166\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1016PE 16-Port Gigabit POE+ 8-Port POE Switch\",\n      \"price_sgd\": 268\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1024 24-Port Gigabit 19-Inch rackmount Switch\",\n      \"price_sgd\": 250\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1024D 24-Port Gigabit Rackmount Switch\",\n      \"price_sgd\": 175\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1024DE 24-Port Gigabit Switch\",\n      \"price_sgd\": 223\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG1048 48-Port Gigabit Rackmount Switch\",\n      \"price_sgd\": 581\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG105 5-Port Metal Gigabit Switch\",\n      \"price_sgd\": 24\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG105E 5-Port Gigabit Easy Smart Switch\",\n      \"price_sgd\": 36\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG108 8-Port Metal Case Gigabit Switch\",\n      \"price_sgd\": 32\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG108E 8-Port Gigabit Easy Smart Switch\",\n      \"price_sgd\": 41\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG108PE 8-Port Smart Switch with 4-Port POE\",\n      \"price_sgd\": 93\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG116 16-Port Gigabit Switch\",\n      \"price_sgd\": 89\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG116E 16-Port Gigabit Switch\",\n      \"price_sgd\": 110\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG2008P Jetstream 8-Port Smart Switch w/4-Port PoE+\",\n      \"price_sgd\": 147\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG3428XPP-M2 24-Port 2.5G 4x10G SFP+ Managed Switch\",\n      \"price_sgd\": 1264\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG3428 Jetstream 24-Port Gigabit L2+ managed Switch\",\n      \"price_sgd\": 299\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SG3428MP Jetstream 28-Port Gigabit L2+ managed Switch\",\n      \"price_sgd\": 636\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK TL-SG3428X TM- L2 24-Port Switch with 10Gbe\",\n      \"price_sgd\": 865\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"RE605X AX1800 Dual-Band Wi-Fi Range Extender\",\n      \"price_sgd\": 83\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"ARCHER AX55 AX3000 WIFI6 ROUTER\",\n      \"price_sgd\": 125\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SM311LM Gigabit SFP Module\",\n      \"price_sgd\": 51\n    },\n    {\n      \"category\": \"TP-LINK NETWORKING/CAMERA\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TL-SM311LS Gigabit SFP Module\",\n      \"price_sgd\": 51\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS XG-C100C V3 10-GIGABIT PCI-E NETWORK ADAPTER\",\n      \"price_sgd\": 98\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PCE-BE92BT BE9400 TRI BAND WIFI 7 + BLEUETOOTH 5.4 ADAPTER\",\n      \"price_sgd\": 123\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PCE-AC56 AC300 W/L PCI-E ADAPTER\",\n      \"price_sgd\": 40\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS QG-U1080 8-PORT 2.5G PORT/2-PORT 10G SFP+ SWITCH\",\n      \"price_sgd\": 1309\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus Rog GT-AX11000 AX11000 Tri-band Router\",\n      \"price_sgd\": 635\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus Rog Rapture GT-AX6000 Wifi6 Gaming Router\",\n      \"price_sgd\": 460\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus RT-AXM5400 Dual Band Wifi6 Router\",\n      \"price_sgd\": 235\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ZenWifi Pro XT12 Tri-Band 2-Pack Wifi Router\",\n      \"price_sgd\": 950\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus RT-AXE58U GO Wifi7 Travel Router\",\n      \"price_sgd\": 129\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus ZenWifi XD4S AX1800 3-Pack Mini Black Wifi6 Mesh Router\",\n      \"price_sgd\": 249\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"Asus RT-AX86U Pro Wifi6 Dual-Band Wireless Router\",\n      \"price_sgd\": 306\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG RAPTURE GT-AX10000 2-PACK TRI-BAND WIFI6 GAMING MESH ROUTER\",\n      \"price_sgd\": 512\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG RAPTURE GT-AXE16000 WIFI 6E 1600Gbx2 AP\",\n      \"price_sgd\": 982\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-AX57 AX3000 DUAL BAND SMART WIFI 6 ROUTER\",\n      \"price_sgd\": 139\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI PRO ET12 AXE11000 TRI-BAND 2-PACK WIFI 6E MESH ROUTER\",\n      \"price_sgd\": 930\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS TUF GAMING TUF-AX6000 DUAL BAND WIFI6 GAMING ROUTER\",\n      \"price_sgd\": 250\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-AX5400 DUAL BAND WIFI 6 ROUTER\",\n      \"price_sgd\": 226\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-AX53U AX1800 DUAL BAND WIFI 6 ROUTER\",\n      \"price_sgd\": 75\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI XD4S 2 PACK MESH\",\n      \"price_sgd\": 225\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG RAPTURE GT-AX6000 DUAL BAND WIFI 6 GAMING ROUTER\",\n      \"price_sgd\": 442\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-AXE7800 AXE7800 TRI-BAND WIFI 6E 2.5G PORT\",\n      \"price_sgd\": 658\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI XT8 AX6600 2-PACK TRI-BAND WI-FI MESH ROUTER\",\n      \"price_sgd\": 498\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI XT8 AX6600 TRI-BAND 1-PACK WIFI MESH ROUTER\",\n      \"price_sgd\": 259\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI BQ16 BE25000 QUAD-BAND WIFI 7 WHITE 1-PACK\",\n      \"price_sgd\": 669\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI BQ16 WHITE 2-PACK WIFI 7 BE25000\",\n      \"price_sgd\": 1242\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-BE88U BE7200 DUAL BAND WIFI 7 DUAL 10G ROUTER\",\n      \"price_sgd\": 500\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG RAPTURE GT-BE98 BE25000 QUAD-BAND WIFI 7 GAMING ROUTER\",\n      \"price_sgd\": 892\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI WIFI 7 18000 1-PACK TRI-BAND WIFI 7 4-BAY QNAP Nas Storage(2yrs)\",\n      \"warranty\": \"3YRS\",\n      \"price_sgd\": 50\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ZENWIFI BT10 BE18000 TRI-BAND WIFI 7 SMART MESH\",\n      \"price_sgd\": 918\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-BE58U BE3600 DUAL BAND WIFI 7 EXTENDER ROUTER\",\n      \"price_sgd\": 172\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI BT8 TRI-BAND BE14000 WIFI 7 HOMEMESH 2-PACK\",\n      \"price_sgd\": 755\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI BD4 BE3600 DUAL-BAND 2-PACK WIFI 7 MESH ROUTER\",\n      \"price_sgd\": 272\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS TUF GAMING BE6500 DUAL BAND WIFI 7 GAMING ROUTER\",\n      \"price_sgd\": 276\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-BE92U BE9700 TRI-BAND WIFI 7 EXTENDER ROUTER\",\n      \"price_sgd\": 312\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI BID4 (3YRS) DUAL-BAND 1-PACK WIFI 7 HOME MESH ROUTER\",\n      \"warranty\": \"3YRS\",\n      \"price_sgd\": 143\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ZENWIFI BD4 BE3600 DUAL-BAND 3-PACK WIFI 7 MESH ROUTER\",\n      \"price_sgd\": 378\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-BE86U BE6800 DUAL BAND WIFI 7 ROUTER\",\n      \"price_sgd\": 413\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-BE82U BE6500 DUAL BAND WIFI7 EXTENDABLE ROUTER\",\n      \"price_sgd\": 320\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS ROG RAPTURE GT-BE1900 AI TRI-BAND WIFI 7 GAMING ROUTER\",\n      \"price_sgd\": 815\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS TUF-BE9400 TRI-BAND WIFI-7 GAMING ROUTER\",\n      \"price_sgd\": 290\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RT-BE5 GO BE3600 DUAL-BAND 4G/5G TRAVEL ROUTER\",\n      \"price_sgd\": 127\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS DUAL-BAND RT-BE50 BE3600 WIFI7 ROUTER\",\n      \"price_sgd\": 109\n    },\n    {\n      \"category\": \"ASUS/MSI NETWORKING\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS GS-BE7200X BE7200 DUAL_BAND WIFI7 GAMING ROUTER\",\n      \"price_sgd\": 274\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS-223J 2-Bay NAS Storage\",\n      \"price_sgd\": 299\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS-223 2-Bay NAS\",\n      \"price_sgd\": 469\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS225+ 2-Bay Nas Storage\",\n      \"price_sgd\": 485\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS-423 4-Bay NAS\",\n      \"price_sgd\": 659\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS425+ 4-Bay Nas Storage\",\n      \"price_sgd\": 799\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology NASG725+ 2-Bay Nas Storage\",\n      \"price_sgd\": 1099\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS925+ 4-Bay Nas Storage\",\n      \"price_sgd\": 1219\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS-1525+ 5-Bay Nas Storage\",\n      \"price_sgd\": 1699\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"SYNOLOGY RS822RP+ 4-Bay Rack Station\",\n      \"price_sgd\": 1949\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology DS-1825+ 8-Bay Nas Storage\",\n      \"price_sgd\": 2059\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Synology\",\n      \"product\": \"SYNOLOGY RS422+ R5 1600/2GB/4-BAY RACK\",\n      \"price_sgd\": 1071\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor Flashtor FS6706T 6-Bay M.2 Nvme Mini PC\",\n      \"price_sgd\": 679\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor Flashtor FS6712X 12-Bay M.2 Nvme Mini PC\",\n      \"price_sgd\": 1239\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor Flashmaster FS6812RX 12-Bay M.2 Nvme Nas Storage\",\n      \"price_sgd\": 2169\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS3302T V2 2GB 2-Bay Nas\",\n      \"price_sgd\": 365\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS3304T V2 2GB 4-Bay Nas\",\n      \"price_sgd\": 502\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS5304T 4GB 4-Bay Nas Storage\",\n      \"price_sgd\": 555\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS6706T 8GB 6-Bay Nas Storage\",\n      \"price_sgd\": 1159\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS6704T 4-Bay Nas Storage\",\n      \"price_sgd\": 869\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS670 M2TSHG 2-Bay M.2 Nas\",\n      \"price_sgd\": 643\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS6804RT 16GB 4-Bay Nas Storage\",\n      \"price_sgd\": 1929\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS6808T 16GB 8-Bay Nas Storage\",\n      \"price_sgd\": 2479\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Asustor\",\n      \"product\": \"Asustor AS6810T 16GB 10-Bay Nas Storage\",\n      \"price_sgd\": 2709\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F2-221 Dual Core 2-Bay Nas Storage\",\n      \"price_sgd\": 380\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F4-423 Quad Core 4-Bay Nas Storage\",\n      \"price_sgd\": 555\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F4-423 Quad Core 4-Bay Nas Storage\",\n      \"price_sgd\": 699\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F5-221 Dual Core 5-Bay Nas Storage\",\n      \"price_sgd\": 562\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F4-423+ 1GB 4-Bay NAS\",\n      \"price_sgd\": 568\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F4-514 4-Bay NAS\",\n      \"price_sgd\": 789\n    },\n    {\n      \"category\": \"NAS STORAGE\",\n      \"brand\": \"Terramaster\",\n      \"product\": \"Terramaster F4-423\",\n      \"price_sgd\": 789\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK KASA SMART WI-FI PLUG SLOIFMF E2R-PACK\",\n      \"price_sgd\": 29\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link Tapo C110 3MP Wifi IP Cam\",\n      \"price_sgd\": 53\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link Tapo C200 Pan/Tilt Home Wifi IP Camera\",\n      \"price_sgd\": 54\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link Tapo C210 Pan/Tilt Home Wifi IP Camera\",\n      \"price_sgd\": 64\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link Kasa Spot KC100 Indoor Full HD Wifi Camera\",\n      \"price_sgd\": 113\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link Kasa Spot KC120\",\n      \"price_sgd\": 130\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link KC200 Full Hd Wifi Camera\",\n      \"price_sgd\": 199\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"Tapo TC70 Home Security Wifi Camera\",\n      \"price_sgd\": 47\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-Link Tapo C100 Home Wifi IP Camera\",\n      \"price_sgd\": 37\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK Tapo L510E Smart WiFi Light Bulb\",\n      \"price_sgd\": 11\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK TAPO C310 OUTDOOR SECURITY WI-FI CAMERA\",\n      \"warranty\": \"3YRS\",\n      \"price_sgd\": 74\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK TAPO L900-5 Smart LIGHT\",\n      \"price_sgd\": 25\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK TAPO L920-5 Smart LIGHT\",\n      \"price_sgd\": 36\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"TP-LINK TAPO L510E BULB 2-PACK DIMMERABLE SMART LIGHT\",\n      \"warranty\": \"3YRS\",\n      \"price_sgd\": 21\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"TP-LINK\",\n      \"product\": \"Tp-Link Tapo C225\",\n      \"price_sgd\": 76\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz C3W Colour Night Vision Outdoor Camera\",\n      \"price_sgd\": 151\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz C6P 360° Fisheye Security\",\n      \"price_sgd\": 223\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz C3A Wire-Free HD Build-In Battery Home Security Camera\",\n      \"price_sgd\": 253\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz CS-X5C-8APEC NVR\",\n      \"price_sgd\": 141\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz EZV-BS-113A-APEC Alarm Starter Kit (A1, K2, T1 AND T6. APEC)\",\n      \"price_sgd\": 243\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz CS-DP1-A0-4A1WPFBSR Smart Door Viewer Camera\",\n      \"price_sgd\": 355\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz C6C Wifi Pan Tilt Home Security Camera\",\n      \"price_sgd\": 79\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz C6T RF Edition\",\n      \"price_sgd\": 131\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz CS-CV246 Indoor Internet PT Camera\",\n      \"price_sgd\": 84\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz PT Camera C6TC CS-CV248\",\n      \"price_sgd\": 110\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz CS-CV310(A0-3C2WFRL) 1080P Color Night Vision Camera\",\n      \"price_sgd\": 102\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ezviz\",\n      \"product\": \"Ezviz CS-C1C(D0-1D2WFR) Indoor HD Wifi Camera\",\n      \"price_sgd\": 50\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-Dome\",\n      \"price_sgd\": 152\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-G3-Bullet\",\n      \"price_sgd\": 214\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-G3-Dome\",\n      \"price_sgd\": 242\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-G3-Micro\",\n      \"price_sgd\": 260\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-G3-PRO\",\n      \"price_sgd\": 397\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-G3-FLEX Indoor/Outdoor PoE\",\n      \"price_sgd\": 117\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-NVR\",\n      \"price_sgd\": 366\n    },\n    {\n      \"category\": \"IP-CAMERAS\",\n      \"brand\": \"Ubiquiti\",\n      \"product\": \"Ubiquiti UVC-NVR-2TB\",\n      \"price_sgd\": 509\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master Notepal CMC3 Silent Up To 15\\\"\",\n      \"price_sgd\": 19\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal CMC3 NB Cooling\",\n      \"price_sgd\": 20\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal L1 Slim NB Cooling Pad\",\n      \"price_sgd\": 30\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal X-lite II Notebook Cooler\",\n      \"price_sgd\": 40\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal X-Slim II Notebook Cooler\",\n      \"price_sgd\": 40\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal Ergostand Easy\",\n      \"price_sgd\": 40\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal Ergostand Lite\",\n      \"price_sgd\": 61\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal Ergostand II Cooler\",\n      \"price_sgd\": 71\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal Ergostand III Cooler\",\n      \"price_sgd\": 91\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal A100 Notebook Cooler\",\n      \"price_sgd\": 46\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"Cooler Master NotePal A200 Dual Notebook Cooler\",\n      \"price_sgd\": 57\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CoolerMaster NotePal U3 Plus Notebook Cooler\",\n      \"price_sgd\": 57\n    },\n    {\n      \"category\": \"NOTEBOOK COOLERS\",\n      \"brand\": \"Cooler Master\",\n      \"product\": \"CoolerMaster NotePal X3 Notebook Cooler\",\n      \"price_sgd\": 61\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin F9E400SA3M 4-socket Surge Protector\",\n      \"price_sgd\": 26\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin F9E600SA3M 6-socket Surge Protector\",\n      \"price_sgd\": 36\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin F9H410SA2M 4-socket Surge Master\",\n      \"price_sgd\": 46\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin F9S620SA4M 6-socket Surge Master\",\n      \"price_sgd\": 57\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin BSV401SA2M 4-socket Surge Plus with USB\",\n      \"price_sgd\": 46\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin BSV604SA2M 6-socket Surge Plus with USB\",\n      \"price_sgd\": 67\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin BSV804SA2M 8-socket Surge Plus with USB\",\n      \"price_sgd\": 77\n    },\n    {\n      \"category\": \"SURGE PROTECTORS\",\n      \"brand\": \"Belkin\",\n      \"product\": \"Belkin F9H110VSACW 1-socket Surge with Modem/Dsl\",\n      \"price_sgd\": 20\n    },\n    {\n      \"category\": \"HDD CASING/DOCKING\",\n      \"brand\": \"Garethan\",\n      \"product\": \"Garethan GE-NC11-Grey Nvme M.2 Type-C Enclosure\",\n      \"price_sgd\": 26\n    },\n    {\n      \"category\": \"HDD CASING/DOCKING\",\n      \"brand\": \"Orico\",\n      \"product\": \"Orico TCM2M-C3 Nvme + NGFF M.2 Type-C Enclosure\",\n      \"price_sgd\": 46\n    },\n    {\n      \"category\": \"HDD CASING/DOCKING\",\n      \"product\": \"H82-SU3S2-K 8BAY NON-RAID HDD FOR USB3.0 +e-SATA\",\n      \"price_sgd\": 336\n    },\n    {\n      \"category\": \"HDD CASING/DOCKING\",\n      \"product\": \"HUR3-Series 2BAY HDD RAID FOR USB3.0\",\n      \"price_sgd\": 121\n    },\n    {\n      \"category\": \"HDD CASING/DOCKING\",\n      \"product\": \"HFR2-SU3S2-K-SUK 4BAY RAID HDD FOR USB3.0 + e-SATA\",\n      \"price_sgd\": 198\n    },\n    {\n      \"category\": \"HDD CASING/DOCKING\",\n      \"product\": \"HF7-SU317- 4BAY NON-RAID HDD FOR TYPE-C ENCLOSURE\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer Mini GC311\",\n      \"price_sgd\": 209\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer Portable GL710\",\n      \"price_sgd\": 223\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer Portable GC513\",\n      \"price_sgd\": 280\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer HD Lite C985E\",\n      \"price_sgd\": 137\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer HD C985\",\n      \"price_sgd\": 209\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer HD 2 GC570\",\n      \"price_sgd\": 265\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer EXTREME 2 GC551\",\n      \"price_sgd\": 294\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer ULTRA GC553\",\n      \"price_sgd\": 311\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer 4K GC573\",\n      \"price_sgd\": 355\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Gamer BOLT GC555\",\n      \"price_sgd\": 641\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Game Capture HD II C285\",\n      \"price_sgd\": 198\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Live Streamer 311 BO311 (Card+Cam+Mic)\",\n      \"price_sgd\": 396\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia ExtremeCap UVC BU110\",\n      \"price_sgd\": 305\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia ExtremeCap SDI BU111\",\n      \"price_sgd\": 351\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia DarkCrystal HD Capture Pro C027\",\n      \"price_sgd\": 137\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia DVD EZMaker 7 C039\",\n      \"price_sgd\": 76\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia EzRecorder 130 ER130\",\n      \"price_sgd\": 162\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia EzRecorder 310 ER310\",\n      \"price_sgd\": 264\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia Video Converter ET110/111/113 VGA to HDMI\",\n      \"price_sgd\": 66\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia AVerTV Hybrid Volar T2 H831\",\n      \"price_sgd\": 104\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"AVerMedia\",\n      \"product\": \"AVerMedia AVerTV Nova T2+C A757\",\n      \"price_sgd\": 104\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Stream Deck -Mini\",\n      \"price_sgd\": 142\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Stream Deck - Live Content\",\n      \"price_sgd\": 224\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Stream Deck XL - Advanced\",\n      \"price_sgd\": 346\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Cam Link 4K (DSLR,Videocam)\",\n      \"price_sgd\": 224\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Game Capture HD60s\",\n      \"price_sgd\": 265\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Game Capture HD60 S+\",\n      \"price_sgd\": 306\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Game Capture HD60 Pro\",\n      \"price_sgd\": 295\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Game Capture 4K60 Pro\",\n      \"price_sgd\": 346\n    },\n    {\n      \"category\": \"CAPTURE CARDS |SOFTWARES\",\n      \"brand\": \"Elgato\",\n      \"product\": \"Elgato Key Light Air Professional LED Ring Light\",\n      \"price_sgd\": 251\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"APC UPS BX625CI-MS 625VA\",\n      \"price_sgd\": 105\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"APC UPS BR650Mi 650VA Pro LCD\",\n      \"price_sgd\": 308\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"APC UPS BK-650AS USB 650VA\",\n      \"price_sgd\": 198\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"APC UPS BVX1200LI 1200VA\",\n      \"price_sgd\": 205\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"APC UPS BR900Mi\",\n      \"price_sgd\": 900\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"APC UPS BR1500Gi 1500VA AVR LCD 8 Outlets\",\n      \"price_sgd\": 829\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"UPS 1000 1KVA 600W Usb Port Ups\",\n      \"price_sgd\": 109\n    },\n    {\n      \"category\": \"UPS | HPE NETWORKING\",\n      \"brand\": \"APC\",\n      \"product\": \"SMC1500i-2U 1500VA Rackmount\",\n      \"price_sgd\": 1100\n    },\n    {\n      \"category\": \"LINKSYS/SYNOLOGY/AMPLIFI\",\n      \"brand\": \"Linksys\",\n      \"product\": \"Linksys EA6350 AC1200 MU-MIMO Router\",\n      \"price_sgd\": 101\n    },\n    {\n      \"category\": \"LINKSYS/SYNOLOGY/AMPLIFI\",\n      \"brand\": \"Linksys\",\n      \"product\": \"Linksys Velop Wi-Fi MESH 3-pack AC6468090\",\n      \"price_sgd\": 6468090\n    },\n    {\n      \"category\": \"LINKSYS/SYNOLOGY/AMPLIFI\",\n      \"brand\": \"Synology\",\n      \"product\": \"Synology RT2600AC Wireless Router\",\n      \"price_sgd\": 312\n    },\n    {\n      \"category\": \"LINKSYS/SYNOLOGY/AMPLIFI\",\n      \"brand\": \"AmpliFi\",\n      \"product\": \"Amplifi HD Router AFi-R\",\n      \"price_sgd\": 352\n    },\n    {\n      \"category\": \"LINKSYS/SYNOLOGY/AMPLIFI\",\n      \"brand\": \"AmpliFi\",\n      \"product\": \"Amplifi HD Router AFi-I\",\n      \"price_sgd\": 234\n    },\n    {\n      \"category\": \"LINKSYS/SYNOLOGY/AMPLIFI\",\n      \"brand\": \"AmpliFi\",\n      \"product\": \"Amplifi HD Mesh Antenna AFi-P-HD\",\n      \"price_sgd\": 271\n    }\n  ]\n}"
+}

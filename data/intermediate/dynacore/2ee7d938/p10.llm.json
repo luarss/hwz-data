@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "category": "AI FLAGSHIPS & OFFICE",
+      "brand": "AMD",
+      "product": "RYZEN 9 9950X3D + RTX 5090 32GB",
+      "price_sgd": 9888
+    },
+    {
+      "category": "AI FLAGSHIPS & OFFICE",
+      "brand": "AMD",
+      "product": "RYZEN 9 9950X3D2 + RTX 5090 32GB",
+      "price_sgd": 13699
+    },
+    {
+      "category": "AI FLAGSHIPS & OFFICE",
+      "brand": "AMD",
+      "product": "RYZEN 5 7600 + INTEGRATED GRAPHICS",
+      "price_sgd": 798
+    },
+    {
+      "category": "AI FLAGSHIPS & OFFICE",
+      "brand": "Intel",
+      "product": "U5 225 + INTEGRATED GRAPHICS",
+      "price_sgd": 808
+    },
+    {
+      "category": "AI FLAGSHIPS & OFFICE",
+      "brand": "Intel",
+      "product": "CORE ULTRA 5 245K + INTEGRATED GRAPHICS",
+      "price_sgd": 949
+    },
+    {
+      "category": "AI FLAGSHIPS & OFFICE",
+      "brand": "AMD",
+      "product": "RYZEN 7 5700G + INTEGRATED GRAPHICS",
+      "price_sgd": 799
+    }
+  ]
+}

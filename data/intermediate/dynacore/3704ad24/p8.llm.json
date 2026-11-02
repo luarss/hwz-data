@@ -1,0 +1,58 @@
+{
+  "rows": [
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "I5 - 14400F + RTX 5060 8GB",
+      "price_sgd": 1399
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "U5 - 225F + RTX 5060 8GB",
+      "price_sgd": 1529
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "I5 - 14400F + RTX 5060TI 8GB",
+      "price_sgd": 1659
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "U5 - 225F + RTX 5070 12GB",
+      "price_sgd": 1929
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / AMD Radeon",
+      "product": "U5 - 245K + RX 9060XT 16GB",
+      "price_sgd": 1769
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "U5 - 250K PLUS + RTX 5070 12GB",
+      "price_sgd": 2389
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "U7 - 265K + RTX 5070 12GB",
+      "price_sgd": 2489
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA",
+      "product": "U7 - 270K PLUS + RTX 5070TI 16GB",
+      "price_sgd": 3219
+    },
+    {
+      "category": "Pre-built System",
+      "brand": "Intel / NVIDIA / AMD Radeon",
+      "product": "Ultra 7 265K RTX 5070 / RX9070XT",
+      "price_sgd": 2479
+    }
+  ]
+}
