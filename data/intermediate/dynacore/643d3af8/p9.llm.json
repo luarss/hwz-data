@@ -1,0 +1,49 @@
+{
+  "rows": [
+    {
+      "brand": "AMD",
+      "product": "Ryzen 7 7700 + RX 9070XT 16GB White",
+      "variant": "White",
+      "price_sgd": 2439
+    },
+    {
+      "brand": "INTEL",
+      "product": "Core Ultra 5 225 + Integrated Graphics",
+      "price_sgd": 949
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 7 5700G + Integrated Graphics",
+      "price_sgd": 909
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 7 7800X3D + RTX 5070Ti 16GB ICE",
+      "variant": "ICE",
+      "price_sgd": 3599
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 5 7500X3D + RX 9070XT 16GB",
+      "price_sgd": 2289
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 7 7700 + RTX 5060 8GB White",
+      "variant": "White",
+      "price_sgd": 1849
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 9 9950X3D + RTX5090 Lightning Z",
+      "variant": "Lightning Z",
+      "price_sgd": 12799
+    },
+    {
+      "brand": "AMD",
+      "product": "Ryzen 7 9800X3D + RTX5080 WHITE",
+      "variant": "WHITE",
+      "price_sgd": 5199
+    }
+  ]
+}

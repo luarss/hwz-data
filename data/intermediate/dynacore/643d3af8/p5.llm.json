@@ -1,0 +1,49 @@
+{
+  "rows": [
+    {
+      "variant": "01",
+      "product": "Ryzen 5 5600 + RTX 3060 12GB",
+      "price_sgd": 1309
+    },
+    {
+      "variant": "02",
+      "product": "Ryzen 5 5600 + RTX5060 8GB",
+      "price_sgd": 1479
+    },
+    {
+      "variant": "03",
+      "product": "Ryzen 5 8400F + RTX5060 8GB",
+      "price_sgd": 1599
+    },
+    {
+      "variant": "04",
+      "product": "Ryzen 5 7500F + RX9060XT 16GB",
+      "price_sgd": 1609
+    },
+    {
+      "variant": "05",
+      "product": "Ryzen 5 7500F + RTX 5060 8GB",
+      "price_sgd": 1599
+    },
+    {
+      "variant": "06",
+      "product": "Ryzen 5 7500F + RX9070 GRE 12GB",
+      "price_sgd": 1799
+    },
+    {
+      "variant": "07",
+      "product": "Ryzen 7 7700 + 5060 8GB",
+      "price_sgd": 1689
+    },
+    {
+      "variant": "08",
+      "product": "Ryzen 7 7700 + RX9060XT 16GB",
+      "price_sgd": 1789
+    },
+    {
+      "variant": "09",
+      "product": "Ryzen 7 7700 + 5060TI 8GB",
+      "price_sgd": 1819
+    }
+  ]
+}

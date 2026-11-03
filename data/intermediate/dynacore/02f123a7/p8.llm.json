@@ -1,0 +1,52 @@
+{
+  "rows": [
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / NVIDIA",
+      "product": "i5-14400F + RTX 5060 8GB Bundle",
+      "price_sgd": 1489
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / NVIDIA",
+      "product": "Core Ultra 5 225F + RTX 5060 8GB Bundle",
+      "price_sgd": 1549
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / Radeon",
+      "product": "i5-14400F + RX 9060XT 16GB Bundle",
+      "price_sgd": 1829
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / NVIDIA",
+      "product": "Core Ultra 5 225F + RTX 5060Ti 8GB Bundle",
+      "price_sgd": 1749
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / NVIDIA",
+      "product": "Core Ultra 5 225F + RTX 5070 12GB Bundle",
+      "price_sgd": 2349
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / Radeon",
+      "product": "U5 - 250K PLUS + RX 9070XT 16GB Bundle",
+      "price_sgd": 2699
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / NVIDIA",
+      "product": "U5 - 250K PLUS + RTX 5070 12GB Bundle",
+      "price_sgd": 2939
+    },
+    {
+      "category": "Promotion Bundle",
+      "brand": "Intel / NVIDIA",
+      "product": "U7 - 270K PLUS + RTX 5070Ti 16GB Bundle",
+      "price_sgd": 3869
+    }
+  ]
+}

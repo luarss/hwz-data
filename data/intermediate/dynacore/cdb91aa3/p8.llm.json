@@ -1,0 +1,53 @@
+{
+  "rows": [
+    {
+      "category": "Prebuilt PC",
+      "brand": "AMD",
+      "product": "Ryzen 7 7800X3D + RTX 5070Ti 16GB",
+      "variant": "System 28",
+      "price_sgd": 3559
+    },
+    {
+      "category": "Prebuilt PC",
+      "brand": "Intel",
+      "product": "Core Ultra 5 225 + Integrated Graphics",
+      "variant": "System 29",
+      "price_sgd": 979
+    },
+    {
+      "category": "Prebuilt PC",
+      "brand": "AMD",
+      "product": "Ryzen 7 5700G + Integrated Graphics",
+      "variant": "System 30",
+      "price_sgd": 929
+    },
+    {
+      "category": "Prebuilt PC",
+      "brand": "AMD",
+      "product": "Ryzen 7 7700 + RX9070XT 16GB",
+      "variant": "System 31",
+      "price_sgd": 2299
+    },
+    {
+      "category": "Prebuilt PC",
+      "brand": "AMD",
+      "product": "Ryzen 7 7700 + RTX 5060 8GB",
+      "variant": "System 32",
+      "price_sgd": 1789
+    },
+    {
+      "category": "Prebuilt PC",
+      "brand": "AMD",
+      "product": "Ryzen 9 9950X3D + RTX5090 Lightning Z",
+      "variant": "System 33",
+      "price_sgd": 12389
+    },
+    {
+      "category": "Prebuilt PC",
+      "brand": "AMD",
+      "product": "Ryzen 7 9800X3D + RTX5080 WHITE",
+      "variant": "System 34",
+      "price_sgd": 4529
+    }
+  ]
+}
