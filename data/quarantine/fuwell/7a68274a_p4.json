@@ -1,0 +1,3209 @@
+{
+  "sha256": "7a68274a8c9871831178313a4762125459261f319311f1061bcf3999789f1fdf",
+  "vendor": "fuwell",
+  "page_number": 4,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 2500X Dual Chamber Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 2500X Dual Chamber Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR icc 3000D Airflow TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR icc 3000D Airflow TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR icc 3000D Airflow TG ATX Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 4000D TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 4000D TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000D Airflow TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000D Airflow TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 4000D Airflow RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 4000D Airflow RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000D TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000D TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000D Airflow TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 5000D Airflow RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 5000D Airflow RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 5000D Airflow RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 5000D Airflow RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 335 extra rows (94%): [('CORSAIR iCC 5000D Airflow RGB TG Case', 'Black', None, 196), ('CORSAIR iCC 5000D Airflow RGB TG Case', 'White', None, 196), ('CORSAIR 5000X RGB TG Case', 'Black', None, 196)]",
+  "raw_response": "{\"rows\": [{\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 2500X Dual Chamber Case\", \"variant\": \"Black\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 2500X Dual Chamber Case\", \"variant\": \"White\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR icc 3000D Airflow TG Case\", \"variant\": \"White\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR icc 3000D Airflow TG Case\", \"variant\": \"Black\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR icc 3000D Airflow TG ATX Case\", \"variant\": \"White\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 4000D TG Case\", \"variant\": \"Black\", \"price_sgd\": 118}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 4000D TG Case\", \"variant\": \"White\", \"price_sgd\": 118}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000D Airflow TG Case\", \"variant\": \"White\", \"price_sgd\": 157}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000D Airflow TG Case\", \"variant\": \"Black\", \"price_sgd\": 157}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 4000D Airflow RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 4000D Airflow RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000D TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000D TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000D Airflow TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 5000D Airflow RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 5000D Airflow RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 5000D Airflow RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 5000D Airflow RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 196}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 196}]}"
+}

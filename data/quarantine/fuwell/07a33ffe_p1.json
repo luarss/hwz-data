@@ -1,0 +1,13 @@
+{
+  "sha256": "07a33ffe5caeffef0b08b42621b8b5af65830ea58ab06faf7de1dfc903a7f237",
+  "vendor": "fuwell",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 1230,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 0/1230 = 0.00; not_empty: no rows extracted",
+  "raw_response": null
+}

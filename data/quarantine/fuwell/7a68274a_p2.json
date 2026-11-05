@@ -1,0 +1,3074 @@
+{
+  "sha256": "7a68274a8c9871831178313a4762125459261f319311f1061bcf3999789f1fdf",
+  "vendor": "fuwell",
+  "page_number": 2,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "SOLID STATE DRIVE",
+      "brand": "WD",
+      "product": "WD BLUE 3.5\" 500GBPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 81.0
+    },
+    {
+      "category": "SOLID STATE DRIVE",
+      "brand": "WD",
+      "product": "WD BLACK 2.5\" 7200RPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "SOLID STATE DRIVE",
+      "brand": "WD",
+      "product": "WD BLACK 3.5\" 7200RPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": "SOLID STATE DRIVE",
+      "brand": "WD",
+      "product": "WD RED PLUS 3.5\" 7200RPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 180.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Crucial",
+      "product": "Crucial BX500 SATA 2.5\" SSD",
+      "variant": "240GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 31.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Crucial",
+      "product": "Crucial T700 NVMe SATA 2.5\" SSD",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Crucial",
+      "product": "Crucial P5 Plus NVMe M.2 GEN.4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Crucial",
+      "product": "Crucial T500 NVMe M.2 GEN.5 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Dynamax",
+      "product": "Dynamax AX300 NVMe M.2 GEN.3 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Dynamax",
+      "product": "Dynamax AX300 NVMe M.2 GEN.3 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Dynamax",
+      "product": "Dynamax AX7000 NVMe M.2 GEN.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Dynamax",
+      "product": "Dynamax AX7000 NVMe M.2 GEN.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Lexar",
+      "product": "Lexar NM790 NVMe M.2 Gen.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Lexar",
+      "product": "Lexar NM790 NVMe M.2 Gen.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Lexar",
+      "product": "Lexar NM1090 NVMe M.2 Gen.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Lexar",
+      "product": "Lexar NM1090 NVMe M.2 Gen.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria G2 NVMe M.2 GEN.3 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria G2 NVMe M.2 GEN.3 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro NVMe M.2 GEN.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro NVMe M.2 GEN.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Plus G4 NVMe M.2 GEN.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Plus G4 NVMe M.2 GEN.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Samsung",
+      "product": "Samsung 970 EVO Plus SATA 2.5\" SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Samsung",
+      "product": "Samsung 970 EVO Plus SATA 2.5\" SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO NVMe M.2 GEN.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO NVMe M.2 GEN.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "WD",
+      "product": "WD Blue SN580 NVMe M.2 GEN.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "WD",
+      "product": "WD Blue SN580 NVMe M.2 GEN.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X NVMe M.2 GEN.4 SSD",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "2.5\\\" NVME M.2 SSD",
+      "brand": "WD",
+      "product": "WD Black SN850X NVMe M.2 GEN.4 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS GT 730 DDR 2GB (40W)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS Dual RTX 5060 8GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 451.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS Prime RTX 5060 8GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 523.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS Dual RTX 5060 Ti 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 632.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS Dual RTX 5060 Ti 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 759.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Gaming OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1255.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 5070 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 989.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming RTX 5070 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1119.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming RTX 5070 Ti 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1506.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX RTX 5070 Ti GAMING OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1769.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF RTX 5080 16GB GAMING OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2647.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG ASTRAL RTX 5080 GAMING OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2424.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming RTX 5080 16GB GAMING OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2959.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG ASTRAL RTX 5090 GAMING OC 32GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5166.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 5070 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1911.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming RTX 5070 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1957.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5060 Eagle OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 485.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5060 Aorus 8GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 534.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5060 8GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 501.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5060 Ti Eagle Oc 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 723.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5060 Ti Eagle OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 707.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5060 Ti Gaming OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 758.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Eagle OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 974.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Eagle Ice 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 995.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Aorus Master 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1039.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Ti Eagle 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1399.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Ti Eagle Ice 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Ti Aorus 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1510.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5070 Ti Aorus 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1531.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Aorus 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2462.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Aorus 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2143.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Aorus Extreme 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2432.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5090 Aorus Water 128 GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4472.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5090 Ti Gaming OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 4060 8Vent 2X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 451.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "MSI",
+      "product": "MSI RTX 5070 Ti Ventgard 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 274 extra rows (81%): [('MSI RTX 5070 Ti Ventgard 16GB OC', None, None, 1415)]",
+  "raw_response": "{\"rows\": [{\"category\": \"SOLID STATE DRIVE\", \"brand\": \"WD\", \"product\": \"WD BLUE 3.5\\\" 500GBPM\", \"price_sgd\": 81}, {\"category\": \"SOLID STATE DRIVE\", \"brand\": \"WD\", \"product\": \"WD BLACK 2.5\\\" 7200RPM\", \"price_sgd\": 95}, {\"category\": \"SOLID STATE DRIVE\", \"brand\": \"WD\", \"product\": \"WD BLACK 3.5\\\" 7200RPM\", \"price_sgd\": 121}, {\"category\": \"SOLID STATE DRIVE\", \"brand\": \"WD\", \"product\": \"WD RED PLUS 3.5\\\" 7200RPM\", \"price_sgd\": 180}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial BX500 SATA 2.5\\\" SSD\", \"variant\": \"240GB\", \"price_sgd\": 31}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T700 NVMe SATA 2.5\\\" SSD\", \"variant\": \"256GB\", \"price_sgd\": 67}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial P5 Plus NVMe M.2 GEN.4 SSD\", \"price_sgd\": 105}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 NVMe M.2 GEN.5 SSD\", \"price_sgd\": 125}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Dynamax\", \"product\": \"Dynamax AX300 NVMe M.2 GEN.3 SSD\", \"variant\": \"500GB\", \"price_sgd\": 105}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Dynamax\", \"product\": \"Dynamax AX300 NVMe M.2 GEN.3 SSD\", \"variant\": \"1TB\", \"price_sgd\": 145}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Dynamax\", \"product\": \"Dynamax AX7000 NVMe M.2 GEN.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 125}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Dynamax\", \"product\": \"Dynamax AX7000 NVMe M.2 GEN.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 165}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"Lexar NM790 NVMe M.2 Gen.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 125}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"Lexar NM790 NVMe M.2 Gen.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 175}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"Lexar NM1090 NVMe M.2 Gen.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 145}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Lexar\", \"product\": \"Lexar NM1090 NVMe M.2 Gen.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 195}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria G2 NVMe M.2 GEN.3 SSD\", \"variant\": \"512GB\", \"price_sgd\": 125}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria G2 NVMe M.2 GEN.3 SSD\", \"variant\": \"1TB\", \"price_sgd\": 165}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro NVMe M.2 GEN.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 145}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro NVMe M.2 GEN.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 195}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Plus G4 NVMe M.2 GEN.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 135}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Plus G4 NVMe M.2 GEN.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 185}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 970 EVO Plus SATA 2.5\\\" SSD\", \"variant\": \"500GB\", \"price_sgd\": 145}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 970 EVO Plus SATA 2.5\\\" SSD\", \"variant\": \"1TB\", \"price_sgd\": 195}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO NVMe M.2 GEN.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 165}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO NVMe M.2 GEN.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 215}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD Blue SN580 NVMe M.2 GEN.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 135}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD Blue SN580 NVMe M.2 GEN.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 185}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X NVMe M.2 GEN.4 SSD\", \"variant\": \"512GB\", \"price_sgd\": 155}, {\"category\": \"2.5\\\\\\\" NVME M.2 SSD\", \"brand\": \"WD\", \"product\": \"WD Black SN850X NVMe M.2 GEN.4 SSD\", \"variant\": \"1TB\", \"price_sgd\": 205}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS GT 730 DDR 2GB (40W)\", \"price_sgd\": 157}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS Dual RTX 5060 8GB OC\", \"price_sgd\": 451}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS Prime RTX 5060 8GB OC\", \"price_sgd\": 523}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS Dual RTX 5060 Ti 16GB OC\", \"price_sgd\": 632}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS Dual RTX 5060 Ti 16GB OC\", \"price_sgd\": 759}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX Gaming OC 12GB\", \"price_sgd\": 1255}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 5070 12GB OC\", \"price_sgd\": 989}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming RTX 5070 12GB OC\", \"price_sgd\": 1119}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming RTX 5070 Ti 16GB OC\", \"price_sgd\": 1506}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX RTX 5070 Ti GAMING OC 16GB\", \"price_sgd\": 1769}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF RTX 5080 16GB GAMING OC\", \"price_sgd\": 2647}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG ASTRAL RTX 5080 GAMING OC\", \"price_sgd\": 2424}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming RTX 5080 16GB GAMING OC\", \"price_sgd\": 2959}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG ASTRAL RTX 5090 GAMING OC 32GB\", \"price_sgd\": 5166}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 5070 16GB OC\", \"price_sgd\": 1911}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming RTX 5070 16GB OC\", \"price_sgd\": 1957}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5060 Eagle OC 8GB\", \"price_sgd\": 485}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5060 Aorus 8GB OC\", \"price_sgd\": 534}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5060 8GB OC\", \"price_sgd\": 501}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5060 Ti Eagle Oc 16GB\", \"price_sgd\": 723}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5060 Ti Eagle OC 16GB\", \"price_sgd\": 707}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5060 Ti Gaming OC 16GB\", \"price_sgd\": 758}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Eagle OC 12GB\", \"price_sgd\": 974}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Eagle Ice 12GB OC\", \"price_sgd\": 995}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Aorus Master 12GB OC\", \"price_sgd\": 1039}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Ti Eagle 16GB OC\", \"price_sgd\": 1399}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Ti Eagle Ice 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Ti Aorus 16GB OC\", \"price_sgd\": 1510}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5070 Ti Aorus 16GB OC\", \"price_sgd\": 1531}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Aorus 16GB OC\", \"price_sgd\": 2462}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Aorus 16GB OC\", \"price_sgd\": 2143}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Aorus Extreme 16GB\", \"price_sgd\": 2432}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5090 Aorus Water 128 GB\", \"price_sgd\": 4472}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5090 Ti Gaming OC 16GB\", \"price_sgd\": 1075}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 4060 8Vent 2X OC\", \"price_sgd\": 451}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"MSI\", \"product\": \"MSI RTX 5070 Ti Ventgard 16GB OC\", \"price_sgd\": 1415}]}"
+}

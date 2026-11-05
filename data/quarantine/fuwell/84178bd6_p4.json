@@ -1,0 +1,3083 @@
+{
+  "sha256": "84178bd67f7d4fc12d17d4dd94cd5efa29681ea3186b4ca9607269ee15bdb5dd",
+  "vendor": "fuwell",
+  "page_number": 4,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 2500X Dual Chamber Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 2500X Dual Chamber Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 2500X Airflow TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 201.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR icc 3000D AIRFLOW ARGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR icc 3000D ARGB Airflow TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000D TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000D Airflow TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000D Airflow TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 4000D Airflow RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 4000D Airflow RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 4000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000D TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 5000D Airflow TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 5000D Airflow RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCC 5000D Airflow RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 500D RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 500X TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 500X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 500X RGB GL Edition TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 7000D Airflow TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 7000D Airflow TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 7000X RGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "CORSAIR",
+      "product": "CORSAIR 7000X RGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "DarkFlash",
+      "brand": "DarkFlash",
+      "product": "DarkFlash A299 TG 12cm ARGB Item x3 Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": null,
+      "brand": "FRACTAL DESIGN",
+      "product": "FRACTAL DESIGN North Mesh Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": null,
+      "brand": "FRACTAL DESIGN",
+      "product": "FRACTAL DESIGN North TG Case",
+      "variant": "Black Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": null,
+      "brand": "FRACTAL DESIGN",
+      "product": "FRACTAL DESIGN North TG Case",
+      "variant": "White Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Grey",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "Lian Li",
+      "brand": "LIAN LI",
+      "product": "LIAN LI O11 Dynamic EVO XL Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 310 extra rows (91%): [('LIAN LI O11 Dynamic EVO XL Case', 'Black', None, 261), ('LIAN LI O11 Dynamic EVO XL Case', 'White', None, 261), ('LIAN LI O11 Dynamic EVO XL Case', 'Grey', None, 261)]",
+  "raw_response": "{\"rows\": [{\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 2500X Dual Chamber Case\", \"variant\": \"Black\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 2500X Dual Chamber Case\", \"variant\": \"White\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 2500X Airflow TG Case\", \"variant\": \"White\", \"price_sgd\": 201}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR icc 3000D AIRFLOW ARGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 118}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR icc 3000D ARGB Airflow TG Case\", \"variant\": \"White\", \"price_sgd\": 157}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000D TG Case\", \"variant\": \"Black\", \"price_sgd\": 121}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000D Airflow TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000D Airflow TG Case\", \"variant\": \"White\", \"price_sgd\": 121}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 4000D Airflow RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 4000D Airflow RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 4000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000D TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 5000D Airflow TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 5000D Airflow RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCC 5000D Airflow RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 500D RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 500X TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 500X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 500X RGB GL Edition TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 7000D Airflow TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 7000D Airflow TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 7000X RGB TG Case\", \"variant\": \"Black\", \"price_sgd\": 129}, {\"category\": null, \"brand\": \"CORSAIR\", \"product\": \"CORSAIR 7000X RGB TG Case\", \"variant\": \"White\", \"price_sgd\": 129}, {\"category\": \"DarkFlash\", \"brand\": \"DarkFlash\", \"product\": \"DarkFlash A299 TG 12cm ARGB Item x3 Case\", \"variant\": \"Black\", \"price_sgd\": 90}, {\"category\": null, \"brand\": \"FRACTAL DESIGN\", \"product\": \"FRACTAL DESIGN North Mesh Case\", \"variant\": \"White\", \"price_sgd\": 222}, {\"category\": null, \"brand\": \"FRACTAL DESIGN\", \"product\": \"FRACTAL DESIGN North TG Case\", \"variant\": \"Black Dark\", \"price_sgd\": 222}, {\"category\": null, \"brand\": \"FRACTAL DESIGN\", \"product\": \"FRACTAL DESIGN North TG Case\", \"variant\": \"White Clear\", \"price_sgd\": 222}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"White\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Grey\", \"price_sgd\": 261}, {\"category\": \"Lian Li\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI O11 Dynamic EVO XL Case\", \"variant\": \"Black\", \"price_sgd\": 261}]}"
+}

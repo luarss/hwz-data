@@ -1,0 +1,13 @@
+{
+  "sha256": "84178bd67f7d4fc12d17d4dd94cd5efa29681ea3186b4ca9607269ee15bdb5dd",
+  "vendor": "fuwell",
+  "page_number": 7,
+  "method": "vision_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": null
+}
