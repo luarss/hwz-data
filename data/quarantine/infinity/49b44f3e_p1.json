@@ -1,0 +1,77 @@
+{
+  "sha256": "49b44f3e279dc07073572b2d648f1a17d9043b306cc555fc20e4238a6b50b0ab",
+  "vendor": "infinity",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "rows": [
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows 11 Home 64Bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows 11 Pro 64Bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Office Home & Student 2021",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Office Home & Business 2021",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Office Home & Business 2024",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows Server STD 2019",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1239.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows CAL 2016 DSP OEI 5CLT Licence",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    }
+  ],
+  "numeric_tokens_in_source": 775,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 7/775 = 0.01",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Windows 11 Home 64Bit\",\n      \"price_sgd\": 169\n    },\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Windows 11 Pro 64Bit\",\n      \"price_sgd\": 219\n    },\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Office Home & Student 2021\",\n      \"price_sgd\": 219\n    },\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Office Home & Business 2021\",\n      \"price_sgd\": 309\n    },\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Office Home & Business 2024\",\n      \"price_sgd\": 329\n    },\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Windows Server STD 2019\",\n      \"price_sgd\": 1239\n    },\n    {\n      \"category\": \"Microsoft Software\",\n      \"brand\": \"Microsoft\",\n      \"product\": \"MS Windows CAL 2016 DSP OEI 5CLT Licence\",\n      \"price_sgd\": 299\n    }\n  ]\n}"
+}

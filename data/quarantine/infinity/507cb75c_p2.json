@@ -1,0 +1,13 @@
+{
+  "sha256": "507cb75ce4d062cd2f2d45a35a9ea96acbe1aa176f63307abc8dda2b8794ef38",
+  "vendor": "infinity",
+  "page_number": 2,
+  "method": "vision_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": null
+}

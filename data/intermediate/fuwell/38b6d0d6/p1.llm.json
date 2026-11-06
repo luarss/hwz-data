@@ -1,0 +1,5989 @@
+{
+  "rows": [
+    {
+      "category": null,
+      "brand": "MicroSoft",
+      "product": "MS Office Home 2024",
+      "price_sgd": 229
+    },
+    {
+      "category": null,
+      "brand": "MicroSoft",
+      "product": "MS Office Home & Business 2024",
+      "price_sgd": 328
+    },
+    {
+      "category": null,
+      "brand": "MicroSoft",
+      "product": "MS Windows 11 Home (64bit) OEM",
+      "price_sgd": 175
+    },
+    {
+      "category": null,
+      "brand": "MicroSoft",
+      "product": "MS Windows 11 Pro (64Bit) OEM",
+      "price_sgd": 219
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": null,
+      "price_sgd": 249
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "225",
+      "price_sgd": 460
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "235",
+      "price_sgd": 588
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "245K",
+      "price_sgd": 529
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "265",
+      "price_sgd": 699
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 725
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "265KF",
+      "price_sgd": 643
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "285",
+      "price_sgd": 1020
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-K CSM",
+      "bundle_cpu": "285K",
+      "price_sgd": 1047
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": null,
+      "price_sgd": 319
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "225",
+      "price_sgd": 524
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "235",
+      "price_sgd": 652
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "245K",
+      "price_sgd": 594
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "265",
+      "price_sgd": 764
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 789
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "265KF",
+      "price_sgd": 707
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "285",
+      "price_sgd": 1084
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI CSM",
+      "bundle_cpu": "285K",
+      "price_sgd": 1111
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 329
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "225",
+      "price_sgd": 533
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "235",
+      "price_sgd": 661
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "245K",
+      "price_sgd": 602
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "265",
+      "price_sgd": 772
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 798
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "265KF",
+      "price_sgd": 716
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "285",
+      "price_sgd": 1093
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860-PLUS WIFI-CSM",
+      "bundle_cpu": "285K",
+      "price_sgd": 1120
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 419
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "225",
+      "price_sgd": 615
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "235",
+      "price_sgd": 744
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "245K",
+      "price_sgd": 685
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "265",
+      "price_sgd": 855
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 880
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "265KF",
+      "price_sgd": 799
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "285",
+      "price_sgd": 1176
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "285K",
+      "price_sgd": 1202
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 449
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "225",
+      "price_sgd": 643
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "235",
+      "price_sgd": 771
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "245K",
+      "price_sgd": 712
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "265",
+      "price_sgd": 882
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 908
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "265KF",
+      "price_sgd": 826
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "285",
+      "price_sgd": 1203
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "285K",
+      "price_sgd": 1230
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 394
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 593
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 721
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 662
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 832
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 858
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 776
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1153
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860M-PLUS GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1180
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 399
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 597
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 725
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 667
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 837
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 862
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 780
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1157
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF B860-PLUS GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1184
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 559
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 744
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 873
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 814
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 984
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1009
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 927
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1304
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PLUS GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1331
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": null,
+      "price_sgd": 579
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "225",
+      "price_sgd": 763
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "235",
+      "price_sgd": 891
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "245K",
+      "price_sgd": 832
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "265",
+      "price_sgd": 1002
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1028
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "265KF",
+      "price_sgd": 946
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "285",
+      "price_sgd": 1323
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS TUF Z890-PRO GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "285K",
+      "price_sgd": 1350
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 449
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 643
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 771
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 712
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 882
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 908
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 826
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1203
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1230
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 469
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 661
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 790
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 731
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 901
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 926
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 844
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1221
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1248
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 499
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 690
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 818
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 759
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 929
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 955
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 873
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1250
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1277
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 779
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 947
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 1075
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 1017
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1187
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1212
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1130
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1507
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1534
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": null,
+      "price_sgd": 729
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "225",
+      "price_sgd": 901
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "235",
+      "price_sgd": 1030
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "245K",
+      "price_sgd": 971
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "265",
+      "price_sgd": 1141
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1166
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1084
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "285",
+      "price_sgd": 1461
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI",
+      "variant": "WHITE",
+      "bundle_cpu": "285K",
+      "price_sgd": 1488
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 899
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 1057
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 1185
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 1127
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1297
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1322
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1240
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1617
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1644
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 419
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 615
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 744
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 685
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 855
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 880
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 799
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1176
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1202
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 849
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 1011
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 1140
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 1081
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1251
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1276
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1194
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1571
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-I GAMING WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1598
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 899
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 1060
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 1188
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 1130
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1300
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1322
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1240
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1620
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1644
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": null,
+      "price_sgd": 1199
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "225",
+      "price_sgd": 1336
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "235",
+      "price_sgd": 1464
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "245K",
+      "price_sgd": 1405
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "265",
+      "price_sgd": 1575
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1598
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1516
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "285",
+      "price_sgd": 1896
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "285K",
+      "price_sgd": 1920
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": null,
+      "price_sgd": 1179
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "225",
+      "price_sgd": 1318
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "235",
+      "price_sgd": 1447
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "245K",
+      "price_sgd": 1388
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "265",
+      "price_sgd": 1558
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1580
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1498
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "285",
+      "price_sgd": 1878
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 APEX",
+      "variant": "WHITE",
+      "bundle_cpu": "285K",
+      "price_sgd": 1902
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": null,
+      "price_sgd": 1699
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "225",
+      "price_sgd": 1797
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "235",
+      "price_sgd": 1925
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "245K",
+      "price_sgd": 1866
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "265",
+      "price_sgd": 2036
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 2059
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1977
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "285",
+      "price_sgd": 2357
+    },
+    {
+      "category": "Asus Mainboard",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "285K",
+      "price_sgd": 2381
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 419
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 607
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 735
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 676
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 846
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 872
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 790
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1167
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI PRO Z890-P WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1194
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 475
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 657
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 785
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 727
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 897
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 922
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 840
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1217
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI Z890 GAMING PLUS WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1244
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 599
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 769
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 898
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 839
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1009
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1034
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 952
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1329
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MAG Z890 TOMAHAWK WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1356
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 689
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 850
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 978
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 920
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1090
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1115
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1033
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1410
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 EDGE TI WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1437
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 988
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "225",
+      "price_sgd": 1119
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "235",
+      "price_sgd": 1248
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "245K",
+      "price_sgd": 1189
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "265",
+      "price_sgd": 1359
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1384
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1302
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "285",
+      "price_sgd": 1679
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MPG Z890 CARBON WIFI",
+      "bundle_cpu": "285K",
+      "price_sgd": 1706
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": null,
+      "price_sgd": 1059
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "225",
+      "price_sgd": 1186
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "235",
+      "price_sgd": 1315
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "245K",
+      "price_sgd": 1256
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "265",
+      "price_sgd": 1426
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1448
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1367
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "285",
+      "price_sgd": 1747
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 UNIFY-X",
+      "bundle_cpu": "285K",
+      "price_sgd": 1770
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": null,
+      "price_sgd": 1139
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "225",
+      "price_sgd": 1258
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "235",
+      "price_sgd": 1387
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "245K",
+      "price_sgd": 1328
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "265",
+      "price_sgd": 1498
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1520
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1439
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "285",
+      "price_sgd": 1818
+    },
+    {
+      "category": "MSI Mainboard",
+      "brand": "MSI",
+      "product": "MSI MEG Z890 ACE",
+      "bundle_cpu": "285K",
+      "price_sgd": 1842
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 - DDR4",
+      "bundle_cpu": null,
+      "price_sgd": 155
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 - DDR4",
+      "bundle_cpu": "14400",
+      "price_sgd": 456
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 - DDR4",
+      "bundle_cpu": "14700",
+      "price_sgd": 685
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 - DDR4",
+      "bundle_cpu": "14700K",
+      "price_sgd": 702
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX - DDR4",
+      "bundle_cpu": null,
+      "price_sgd": 225
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX - DDR4",
+      "bundle_cpu": "14400",
+      "price_sgd": 522
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX - DDR4",
+      "bundle_cpu": "14700",
+      "price_sgd": 751
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX - DDR4",
+      "bundle_cpu": "14700K",
+      "price_sgd": 767
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H WIFI6E GEN5 - DDR5",
+      "bundle_cpu": null,
+      "price_sgd": 239
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H WIFI6E GEN5 - DDR5",
+      "bundle_cpu": "14400",
+      "price_sgd": 533
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H WIFI6E GEN5 - DDR5",
+      "bundle_cpu": "14700",
+      "price_sgd": 761
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H WIFI6E GEN5 - DDR5",
+      "bundle_cpu": "14700K",
+      "price_sgd": 778
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760I AORUS PRO - DDR5 (M-ITX)",
+      "bundle_cpu": null,
+      "price_sgd": 349
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760I AORUS PRO - DDR5 (M-ITX)",
+      "bundle_cpu": "14400",
+      "price_sgd": 631
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760I AORUS PRO - DDR5 (M-ITX)",
+      "bundle_cpu": "14700",
+      "price_sgd": 860
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760I AORUS PRO - DDR5 (M-ITX)",
+      "bundle_cpu": "14700K",
+      "price_sgd": 876
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 275
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "225",
+      "price_sgd": 479
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "235",
+      "price_sgd": 608
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "245K",
+      "price_sgd": 549
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "265",
+      "price_sgd": 719
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 744
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "265KF",
+      "price_sgd": 662
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "285",
+      "price_sgd": 1039
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI 6E",
+      "bundle_cpu": "285K",
+      "price_sgd": 1066
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 295
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "225",
+      "price_sgd": 497
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "235",
+      "price_sgd": 625
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "245K",
+      "price_sgd": 566
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "265",
+      "price_sgd": 736
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 762
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "265KF",
+      "price_sgd": 680
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "285",
+      "price_sgd": 1057
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI 6E",
+      "bundle_cpu": "285K",
+      "price_sgd": 1084
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": null,
+      "price_sgd": 415
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "225",
+      "price_sgd": 606
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "235",
+      "price_sgd": 734
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "245K",
+      "price_sgd": 675
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "265",
+      "price_sgd": 845
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 871
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "265KF",
+      "price_sgd": 789
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "285",
+      "price_sgd": 1166
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "285K",
+      "price_sgd": 1193
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 365
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "225",
+      "price_sgd": 562
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "235",
+      "price_sgd": 691
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "245K",
+      "price_sgd": 632
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "265",
+      "price_sgd": 802
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 827
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "265KF",
+      "price_sgd": 745
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "285",
+      "price_sgd": 1122
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI 6E",
+      "bundle_cpu": "285K",
+      "price_sgd": 1149
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 395
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "225",
+      "price_sgd": 588
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "235",
+      "price_sgd": 717
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "245K",
+      "price_sgd": 658
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "265",
+      "price_sgd": 828
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 853
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "265KF",
+      "price_sgd": 771
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "285",
+      "price_sgd": 1148
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 UD WIFI 6E",
+      "bundle_cpu": "285K",
+      "price_sgd": 1175
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": null,
+      "price_sgd": 239
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "225",
+      "price_sgd": 446
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "235",
+      "price_sgd": 575
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "245K",
+      "price_sgd": 516
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "265",
+      "price_sgd": 686
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 712
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "265KF",
+      "price_sgd": 630
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "285",
+      "price_sgd": 1007
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI 6",
+      "bundle_cpu": "285K",
+      "price_sgd": 1034
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": null,
+      "price_sgd": 419
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "225",
+      "price_sgd": 610
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "235",
+      "price_sgd": 739
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "245K",
+      "price_sgd": 680
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "265",
+      "price_sgd": 850
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 875
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "265KF",
+      "price_sgd": 793
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "285",
+      "price_sgd": 1170
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7",
+      "bundle_cpu": "285K",
+      "price_sgd": 1197
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": null,
+      "price_sgd": 435
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "225",
+      "price_sgd": 622
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "235",
+      "price_sgd": 751
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "245K",
+      "price_sgd": 692
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "265",
+      "price_sgd": 862
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 887
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "265KF",
+      "price_sgd": 805
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "285",
+      "price_sgd": 1182
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "285K",
+      "price_sgd": 1209
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": null,
+      "price_sgd": 498
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "225",
+      "price_sgd": 681
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "235",
+      "price_sgd": 809
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "245K",
+      "price_sgd": 751
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "265",
+      "price_sgd": 921
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 946
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "265KF",
+      "price_sgd": 864
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "285",
+      "price_sgd": 1241
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "285K",
+      "price_sgd": 1268
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": null,
+      "price_sgd": 535
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "225",
+      "price_sgd": 715
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "235",
+      "price_sgd": 843
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "245K",
+      "price_sgd": 784
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "265",
+      "price_sgd": 954
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 980
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "265KF",
+      "price_sgd": 898
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "285",
+      "price_sgd": 1275
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "285K",
+      "price_sgd": 1302
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": null,
+      "price_sgd": 515
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "225",
+      "price_sgd": 697
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "235",
+      "price_sgd": 826
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "245K",
+      "price_sgd": 767
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "265",
+      "price_sgd": 937
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 962
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "265KF",
+      "price_sgd": 880
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "285",
+      "price_sgd": 1257
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE WIFI 7 ICE",
+      "variant": "WHITE",
+      "bundle_cpu": "285K",
+      "price_sgd": 1284
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": null,
+      "price_sgd": 529
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "225",
+      "price_sgd": 708
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "235",
+      "price_sgd": 837
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "245K",
+      "price_sgd": 778
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "265",
+      "price_sgd": 948
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 973
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "265KF",
+      "price_sgd": 891
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "285",
+      "price_sgd": 1268
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS ELITE DOU X",
+      "bundle_cpu": "285K",
+      "price_sgd": 1295
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": null,
+      "price_sgd": 1029
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "225",
+      "price_sgd": 1169
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "235",
+      "price_sgd": 1297
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "245K",
+      "price_sgd": 1239
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "265",
+      "price_sgd": 1409
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "270K Plus",
+      "price_sgd": 1431
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "265KF",
+      "price_sgd": 1349
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "285",
+      "price_sgd": 1729
+    },
+    {
+      "category": "Gigabyte Mainboard",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z890 AORUS MASTER",
+      "bundle_cpu": "285K",
+      "price_sgd": 1753
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 269
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 537
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 584
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 627
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 660
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 715
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1047
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 960
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 834
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1183
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1003
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650EM-A WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1285
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 325
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 547
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 594
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 637
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 670
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 724
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1056
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 970
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 844
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1193
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1013
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650-E GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1295
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 359
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 616
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 663
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 707
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 740
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 794
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1126
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1040
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 914
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1262
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1083
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-E GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1365
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 424
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 675
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 722
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 766
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 799
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 853
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1185
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1099
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 972
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1321
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1141
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF B650E-PLUS GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1424
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 294
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "7600",
+      "price_sgd": 557
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "7600X",
+      "price_sgd": 603
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "7700",
+      "price_sgd": 647
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "7700X",
+      "price_sgd": 680
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 734
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1066
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 980
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "9900X",
+      "price_sgd": 854
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1202
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1023
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1305
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 319
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 579
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 626
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 670
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 703
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 757
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1089
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1003
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 877
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1225
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1046
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840M-A-CSM WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1328
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 349
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "7600",
+      "price_sgd": 607
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "7600X",
+      "price_sgd": 654
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "7700",
+      "price_sgd": 697
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "7700X",
+      "price_sgd": 730
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 784
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1116
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1030
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "9900X",
+      "price_sgd": 904
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1253
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1073
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B840-PLUS WIFI-CSM",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1355
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 379
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "7600",
+      "price_sgd": 634
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "7600X",
+      "price_sgd": 681
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "7700",
+      "price_sgd": 724
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "7700X",
+      "price_sgd": 757
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 812
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1144
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1057
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "9900X",
+      "price_sgd": 931
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1280
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1100
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B850-PLUS WIFI-CSM",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1382
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": null,
+      "price_sgd": 489
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "7600",
+      "price_sgd": 735
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "7600X",
+      "price_sgd": 782
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "7700",
+      "price_sgd": 826
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "7700X",
+      "price_sgd": 858
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 913
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1245
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1159
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1032
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1381
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1201
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PRIME X870-P WIFI-CSM",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1484
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": null,
+      "price_sgd": 589
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "7600",
+      "price_sgd": 837
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "7600X",
+      "price_sgd": 884
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "7700",
+      "price_sgd": 927
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "7700X",
+      "price_sgd": 960
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1014
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1346
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1260
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1134
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1483
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1303
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS TUF X870E-PLUS GAMING WIFI 7",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1585
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 799
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 1021
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1068
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1111
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1144
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1199
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1531
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1444
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1318
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1667
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1487
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1769
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 709
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 934
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 981
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1024
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1057
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1111
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1443
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1357
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1231
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1580
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1400
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1682
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 775
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 994
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1041
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1084
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1117
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1171
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1503
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1417
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1291
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1640
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1460
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1742
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 899
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 1108
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1155
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1199
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1231
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1286
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1618
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1532
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1405
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1754
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1574
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1856
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": null,
+      "price_sgd": 1099
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "7600",
+      "price_sgd": 1297
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1344
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "7700",
+      "price_sgd": 1387
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1420
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1474
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1806
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1720
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1594
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1943
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1763
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS CROSSHAIR X870E HERO",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 2045
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 855
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 1072
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1119
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1163
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1195
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1250
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1582
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1496
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1369
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1718
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1538
+    },
+    {
+      "category": "Asus Mainboard AM5 Socket LGA 1718",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1820
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 269
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 527
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 574
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 618
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 650
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 705
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1037
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 951
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 824
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1173
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 993
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B650M-A WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1275
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 288
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 545
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 591
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 635
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 668
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 722
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1054
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 968
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 842
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1190
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1011
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO B840-P WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1293
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 549
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 782
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 829
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 873
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 905
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 960
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1292
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1206
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1079
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1428
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1248
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI PRO X870-P WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1531
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 359
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 609
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 656
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 699
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 732
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 787
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1119
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1032
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 906
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1255
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1075
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI B850 GAMING PLUS WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1357
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 389
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 635
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 682
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 725
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 758
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 813
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1145
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1059
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 932
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1281
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1101
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850M MORTAR WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1383
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 499
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 731
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 778
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 821
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 854
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 909
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1241
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1155
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1028
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1377
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1197
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG B850 TOMAHAWK MAX WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1479
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 529
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 761
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 808
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 852
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 885
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 939
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1271
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1185
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1059
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1407
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1228
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG B850 EDGE TI WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1510
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 579
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 805
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 852
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 896
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 928
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 983
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1315
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1229
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1102
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1451
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1271
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI X870 GAMING PLUS WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1553
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 629
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 851
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 898
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 941
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 974
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1029
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1361
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1274
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1148
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1497
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1317
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MAG X870 TOMAHAWK WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1599
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 709
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 923
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 970
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1013
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1046
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1100
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1432
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1346
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1220
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1569
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1389
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E EDGE TI WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1671
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": null,
+      "price_sgd": 799
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "7600",
+      "price_sgd": 1005
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1051
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "7700",
+      "price_sgd": 1095
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1128
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1182
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1514
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1428
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1302
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1650
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1471
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MPG X870E CARBON WIFI",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1753
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": null,
+      "price_sgd": 1598
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "7600",
+      "price_sgd": 1723
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "7600X",
+      "price_sgd": 1770
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "7700",
+      "price_sgd": 1813
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "7700X",
+      "price_sgd": 1846
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 1901
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 2233
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 2146
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "9900X",
+      "price_sgd": 2020
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 2369
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "9950X",
+      "price_sgd": 2189
+    },
+    {
+      "category": "MSI Mainboard AM5 Socket LGA 1718",
+      "brand": "MSI",
+      "product": "MSI MEG X870E GODLIKE",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 2471
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": null,
+      "price_sgd": 289
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "7600",
+      "price_sgd": 547
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "7600X",
+      "price_sgd": 594
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "7700",
+      "price_sgd": 637
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "7700X",
+      "price_sgd": 670
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 724
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1056
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 970
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "9900X",
+      "price_sgd": 844
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1193
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1013
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 I AX",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1295
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": null,
+      "price_sgd": 345
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7600",
+      "price_sgd": 596
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7600X",
+      "price_sgd": 643
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7700",
+      "price_sgd": 686
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7700X",
+      "price_sgd": 719
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 773
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1105
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1019
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9900X",
+      "price_sgd": 893
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1242
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1062
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1344
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": null,
+      "price_sgd": 215
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "7600",
+      "price_sgd": 480
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "7600X",
+      "price_sgd": 527
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "7700",
+      "price_sgd": 571
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "7700X",
+      "price_sgd": 603
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 658
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 990
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 904
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "9900X",
+      "price_sgd": 777
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1126
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "9950X",
+      "price_sgd": 946
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M EAGLE WIFI 6",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1229
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 310
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "7600",
+      "price_sgd": 567
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "7600X",
+      "price_sgd": 614
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "7700",
+      "price_sgd": 658
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "7700X",
+      "price_sgd": 691
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 745
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1077
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 991
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "9900X",
+      "price_sgd": 865
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1213
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1034
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B840M AORUS ELITE WIFI 6E",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1316
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 295
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7600",
+      "price_sgd": 552
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7600X",
+      "price_sgd": 599
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7700",
+      "price_sgd": 643
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7700X",
+      "price_sgd": 675
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 730
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1062
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 976
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9900X",
+      "price_sgd": 849
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1198
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1018
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1301
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": null,
+      "price_sgd": 319
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "7600",
+      "price_sgd": 574
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "7600X",
+      "price_sgd": 621
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "7700",
+      "price_sgd": 664
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "7700X",
+      "price_sgd": 697
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 752
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1084
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 998
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "9900X",
+      "price_sgd": 871
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1220
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1040
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 7",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1322
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": null,
+      "price_sgd": 330
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "7600",
+      "price_sgd": 585
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "7600X",
+      "price_sgd": 632
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "7700",
+      "price_sgd": 675
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "7700X",
+      "price_sgd": 708
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 763
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1095
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1008
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "9900X",
+      "price_sgd": 882
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1231
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1051
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M GAMING X WIFI 6E",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1333
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": null,
+      "price_sgd": 385
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7600",
+      "price_sgd": 633
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7600X",
+      "price_sgd": 680
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7700",
+      "price_sgd": 723
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7700X",
+      "price_sgd": 756
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 811
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1143
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1056
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9900X",
+      "price_sgd": 930
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1279
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1099
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS ELITE WIFI 6E ICE",
+      "variant": "ICE",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1381
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": null,
+      "price_sgd": 485
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "7600",
+      "price_sgd": 727
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "7600X",
+      "price_sgd": 773
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "7700",
+      "price_sgd": 817
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "7700X",
+      "price_sgd": 850
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 904
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1236
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 1150
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "9900X",
+      "price_sgd": 1024
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1373
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1193
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO M-ITX",
+      "variant": "M-ITX",
+      "bundle_cpu": "9950X3D",
+      "price_sgd": 1475
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": null,
+      "price_sgd": 305
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "7600",
+      "price_sgd": 563
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "7600X",
+      "price_sgd": 610
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "7700",
+      "price_sgd": 654
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "7700X",
+      "price_sgd": 686
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "7800X3D",
+      "price_sgd": 741
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "7950X3D",
+      "price_sgd": 1073
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "9800X3D",
+      "price_sgd": 987
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "9900X",
+      "price_sgd": 860
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "9900X3D",
+      "price_sgd": 1209
+    },
+    {
+      "category": "Gigabyte Mainboard AM5 Socket LGA 1718",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 GAMIING WIFI 6",
+      "bundle_cpu": "9950X",
+      "price_sgd": 1029
+    },
+    {
+      "category": "Gigabyte Main

@@ -1,0 +1,3929 @@
+{
+  "sha256": "4f3f8ce251354d415efe9e8c7f1b2720c0d95fa2326a3fac15a8270cb385af46",
+  "vendor": "infinity",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 296.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 286.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 315.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 338.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 390.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 577.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 582.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASUS",
+      "product": "ASUS B550M-A WIFI II PRIME",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 213.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 250.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 291.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 530.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 536.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK A520M/AC",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 562.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 254.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 332.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 571.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 576.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550M WIFI SE",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 602.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 485.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 503.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 526.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 578.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 765.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "ASROCK",
+      "product": "ASROCK B550 PHANTOM GAMING-ITX/AX",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 797.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 525.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 515.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 544.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 619.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 806.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 811.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 VISION D-P",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 395.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 432.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 421.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 450.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 473.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 525.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE AX V2",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 744.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 347.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 373.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 402.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 425.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 477.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 665.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 670.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 AORUS ELITE V2",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 696.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 311.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 301.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 330.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 353.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 405.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 592.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 597.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M AORUS ELITE",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 623.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 302.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 291.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 320.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 395.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 582.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 588.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550M DS3H AC",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 614.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 415.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 405.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 434.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 457.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 509.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 696.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 701.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B550 I AORUS PRO AX",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 727.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 306.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 342.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 332.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 361.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 436.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 623.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI B550M-PRO VDH WIFI",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 654.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5500",
+      "warranty": null,
+      "price_sgd": 401.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5600G",
+      "warranty": null,
+      "price_sgd": 438.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5600",
+      "warranty": null,
+      "price_sgd": 427.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5600X",
+      "warranty": null,
+      "price_sgd": 457.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5700X",
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5800X",
+      "warranty": null,
+      "price_sgd": 531.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5800X3D",
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5900X",
+      "warranty": null,
+      "price_sgd": 724.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE 5000 AM4",
+      "brand": "MSI",
+      "product": "MSI MAG B550 TOMAHAWK MAX WIFI",
+      "variant": null,
+      "bundle_cpu": "5950X",
+      "warranty": null,
+      "price_sgd": 750.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 143.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 174.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 287.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA P300",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 86.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 174.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 512.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA X300",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 544.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 247.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 394.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 504.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA N300 NAS",
+      "variant": "20TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 194.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 228.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 544.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 604.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "TOSHIBA ENTERPRISE",
+      "variant": "20TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 644.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE BARRACUDA",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE BARRACUDA",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 86.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE BARRACUDA",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE BARRACUDA",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE BARRACUDA",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 244.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE BARRACUDA",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "5TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 213.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 348.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 444.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 497.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE SKYHAWK",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 638.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 94.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 274.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 436.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 464.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 614.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 664.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 734.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 254.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 357.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 624.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 787.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE IRONWOLF PRO",
+      "variant": "20TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 884.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 334.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 351.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 414.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 557.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 645.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 657.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 698.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "SEAGATE EXOS ENTERPRISE",
+      "variant": "20TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 758.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 160.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 161.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 256.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 304.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 465.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PLUS",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 594.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 242.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 338.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 375.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 463.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 560.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 675.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 804.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD RED PRO",
+      "variant": "20TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 873.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 124.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 214.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 356.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 464.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 533.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "18TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 603.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD PURPLE CCTV",
+      "variant": "22TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 964.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 117.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 186.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 404.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 247.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "5TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 274.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 314.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 368.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 484.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 543.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "14TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD ULTRA ENTERPRISE",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 783.0
+    },
+    {
+      "category": null,
+      "brand": "Synology",
+      "product": "SYNOLOGY NAS ENTERPRISE",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 202.0
+    },
+    {
+      "category": null,
+      "brand": "Synology",
+      "product": "SYNOLOGY NAS ENTERPRISE",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "Synology",
+      "product": "SYNOLOGY NAS ENTERPRISE",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 338.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NS100 2.5\" 550MB/s -",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NS100 2.5\" 550MB/s -",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NS100 2.5\" 550MB/s -",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 76.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NS100 2.5\" 550MB/s -",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 144.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL MX500 2.5\" SATA SSD",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL MX500 2.5\" SATA SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL MX500 2.5\" SATA SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 104.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL MX500 2.5\" SATA SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL MX500 2.5\" SATA SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL BX500 2.5 \"SSD",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 38.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL BX500 2.5 \"SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL BX500 2.5 \"SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL BX500 2.5 \"SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL BX500 2.5 \"SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 EVO 2.5\" SSD",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 EVO 2.5\" SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 EVO 2.5\" SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 EVO 2.5\" SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 EVO 2.5\" SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 488.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 QVO 2.5\" SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 QVO 2.5\" SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 224.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 QVO 2.5\" SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 870 QVO 2.5\" SSD",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 948.0
+    },
+    {
+      "category": null,
+      "brand": "Dynabook",
+      "product": "DYNABOOK AE100 2.5\" SSD",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": null,
+      "brand": "SanDisk",
+      "product": "SANDISK SSD PLUS 2.5\"",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": null,
+      "brand": "SanDisk",
+      "product": "SANDISK SSD PLUS 2.5\"",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "SanDisk",
+      "product": "SANDISK SSD PLUS 2.5\"",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "SanDisk",
+      "product": "SANDISK SSD PLUS 2.5\"",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": null,
+      "brand": "SanDisk",
+      "product": "SANDISK SSD PLUS 2.5\"",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM620 NVME 3500MB/s",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM620 NVME 3500MB/s",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM620 NVME 3500MB/s",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM620 NVME 3500MB/s",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM710 NVME",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM710 NVME",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM710 NVME",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NQ710 Gen4 NVME SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 67.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NQ710 Gen4 NVME SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NQ710 Gen4 NVME SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM790 NVME GEN4 (7400R/6500W)",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM790 NVME GEN4 (7400R/6500W)",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM790 NVME GEN4 (7400R/6500W)",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 330.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM100 M.2 SATA 550MB/S -",
+      "variant": "250GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "LEXAR NM100 M.2 SATA 550MB/S -",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN5 NVME M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN5 NVME M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 117.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN5 NVME M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN5 NVME M.2 W/HEATSINK",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T500 PCIE GEN5 NVME M.2 W/HEATSINK",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 748.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 W/HEATSINK",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 W/HEATSINK",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "CRUCIAL T700 PCIE GEN5 NVME M.2 W/HEATSINK",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 748.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 970 EVO PLUS NVME M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 71.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 970 EVO PLUS NVME M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 970 EVO PLUS NVME M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 NVME M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 NVME M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 228.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME W/HEATSINK M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME W/HEATSINK M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 980 PRO NVME W/HEATSINK M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME 2.0 M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME 2.0 M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 254.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME 2.0 M.2 SSD",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 474.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME W/HEATSINK NEW!",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME W/HEATSINK NEW!",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 284.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 PRO NVME W/HEATSINK NEW!",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 EVO NVME 2.0",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "SAMSUNG 990 EVO NVME 2.0",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE SN580 NVME M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE SN580 NVME M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLUE SN580 NVME M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 178.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN770 5150MB/S GEN4",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN770 5150MB/S GEN4",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN770 5150MB/S GEN4",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 184.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 117.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 214.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 404.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 228.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 454.0
+    },
+    {
+      "category": null,
+      "brand": "Dynabook",
+      "product": "DYNABOOK AX5600 NVME M.2 SSD",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Dynabook",
+      "product": "DYNABOOK AX5600 NVME M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": null,
+      "brand": "Dynabook",
+      "product": "DYNABOOK AX5600 NVME M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": null,
+      "brand": "Dynabook",
+      "product": "DYNABOOK AX7600 NVME M.2 SSD",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "Dynabook",
+      "product": "DYNABOOK AX7600 NVME M.2 SSD",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": null,
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": null,
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 107.0
+    },
+    {
+      "category": null,
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": null,
+      "brand": "ADATA",
+      "product": "ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": null,
+      "brand": "ADATA",
+      "product": "ADATA LEGEND 710 GEN3 SSD NVME M.2",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 51.0
+    },
+    {
+      "category": null,
+      "brand": "ADATA",
+      "product": "ADATA LEGEND 710 GEN3 SSD NVME M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA UDIMM DDR5-5600 CL46",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA UDIMM DDR5-5600 CL46",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA Lancer Blade RGB DDR5 6000 KIT- Black",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA Lancer Blade RGB DDR5 6000 KIT- Black",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA Lancer Blade RGB DDR5 6000 KIT- Black",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA Lancer Blade RGB DDR5 6000 -KIT White",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA Lancer Blade RGB DDR5 6000 -KIT White",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA Lancer Blade RGB DDR5 6000 -KIT White",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6000 CL30 (2x16GB) - White",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6000 CL30 (2x16GB) - White",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - Black",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - Black",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 310.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - White",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - White",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 310.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV Cras V RGB DDR5 6000 CL30 (2x16GB",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV CRAS V RGB DDR5 6000 CL30 (32GB x 2) Black",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV CRAS V RGB DDR5 6000 CL30 (32GB x 2) White",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV Cras V RGB DDR5 6400 CL32 (2x16GB)",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 176.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV CRAS V RGB DDR5 32GB (2x32GB) 6400MHz CL32 - Black",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV CRAS V RGB DDR5 32GB (2x32GB) 6400MHz CL32 - White",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV CRAS V RGB DDR5 7200 CL34 (24GB x 2) Black",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Kleev",
+      "product": "KLEVV CRAS V RGB DDR5 7200 CL34 (24GB x 2) White",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Lexar",
+      "product": "Lexar Thor RGB 2x16GB DDR5 6000 CL38 (Black)",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Lexar",
+      "product": "Lexar Ares RGB DDR5 6400 CL32 2*16GB - Black",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 5200MHZ CL40 BLACK / WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 5200MHZ CL40 BLACK / WHITE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 5600MHZ CL36 BLACK / WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 5600MHZ CL36 BLACK / WHITE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 228.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 297.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 515.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6400MHZ CL32 BLACK / WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 212.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6400MHZ CL32 BLACK / WHITE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6400MHZ CL36 BLACK / WHITE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6000MHZ CL30 BLACK",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE RGB DDR5 6400MHZ CL32 BLACK",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 565.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 5200MHZ CL40 BLACK",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 5200MHZ CL40 BLACK",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 5200MHZ CL40 BLACK",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 5600MHZ CL36 BLACK / CL40 64GB",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 5600MHZ CL36 BLACK / CL40 64GB",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 6000MHZ CL36 BLK",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 167.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 6000MHZ CL36 BLK",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "Corsair",
+      "product": "CORSAIR VENGEANCE DDR5 6000MHZ CL36 BLK",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 517.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "ADATA",
+      "product": "ADATA UDIMM DDR5-5600 CL46 32GB",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "GSKILL RIPJAWS M5 RGB 6000MHZ CL36 BLACK / WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "GSKILL RIPJAWS M5 RGB 6000MHZ CL30 BLACK / WHITE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 314.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "GSKILL RIPJAWS M5 RGB 6400MHZ CL32 BLACK / WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 173.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS S5 5600MHZ CL36 KIT",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS S5 5600MHZ CL36 KIT",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 294.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS S5 6000MHZ CL36 KIT / 6000MHZ CL32 64GB - $316",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS S5 6400MHZ CL36 KIT",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 163.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "GSKILL RIPJAWS M5 6000mhz RGB FOR AMD CL36 BLK/WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL FLARE X5 AMD EXPO 6000 MHZ CL36 KIT",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 160.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 RGB 6400MHZ CL32 KIT BLACK / WHITE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 213.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 RGB 6400MHZ CL32 KIT BLACK / WHITE",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 380.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 RGB 6400MHZ CL32 KIT BLACK / WHITE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 RGB 6600MHZ CL34 KIT / 7200 MHZ CL34 $250",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 RGB 7600MHZ CL38 KIT",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 341.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 RGB 7800MHZ CL36 KIT",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 305.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6000MHZ CL32",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6000MHZ CL32",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 378.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6400MHZ CL32",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6400MHZ CL32",
+      "variant": "48GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 300.0
+    },
+    {
+      "category": "DDR5 DESKTOP KIT",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 7200MHZ CL34",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL DDR4-3200 CL22 UDIMM / SOIDMM",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL DDR4-3200 CL22 UDIMM / SOIDMM",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL DDR4-3200 CL22 UDIMM / SOIDMM",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 84.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "KLEVV",
+      "product": "KLEVV PERF DDR4 3200 CL22 SODIMM/DIMM",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "KLEVV",
+      "product": "KLEVV PERF DDR4 3200 CL22 SODIMM/DIMM",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "KLEVV",
+      "product": "KLEVV PERF DDR4 3200 CL22 SODIMM/DIMM",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "DDR4 / DDR5 DESKTOP AND LP RAM",
+      "brand": "ADATA",
+      "product": "ADATA SODIMM / DIMM DDR5-5600 CL46",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN LPX DDR4 3200MHZ",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN LPX DDR4 3200MHZ",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN LPX DDR4 3200MHZ",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN RGB PRO SL DDR4 3600MHZ",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN RGB PRO SL DDR4 3600MHZ",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN RGB PRO SL DDR4 3600MHZ",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN RGB PRO SL DDR4 3200MHZ",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 74.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "CORSAIR",
+      "product": "CORSAIR VEN RGB PRO SL DDR4 3200MHZ",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS V 3600Mhz CL18",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS V 3600Mhz CL18",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL RIPJAWS V 3600Mhz CL18",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3200MHZ CL16",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3200MHZ CL16",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3600MHZ CL18",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3600MHZ CL18",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3600MHZ CL18",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3600MHZ CL16",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 106.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3600MHZ CL16",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "DDR4 DUAL KIT DESKTOP RAM",
+      "brand": "G.SKILL",
+      "product": "G.SKILL TRIDENT Z NEO 3600MHZ CL16",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 302.0
+    }
+  ],
+  "numeric_tokens_in_source": 3022,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 435/3022 = 0.14",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5500\", \"price_sgd\": 260},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 296},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5600\", \"price_sgd\": 286},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 315},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 338},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 390},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 577},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 582},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASUS\", \"product\": \"ASUS B550M-A WIFI II PRIME\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 608},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5500\", \"price_sgd\": 213},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 250},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5600\", \"price_sgd\": 239},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 268},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 291},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 343},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 530},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 536},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK A520M/AC\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 562},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5500\", \"price_sgd\": 254},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 290},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5600\", \"price_sgd\": 280},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 309},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 332},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 384},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 571},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 576},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550M WIFI SE\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 602},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5500\", \"price_sgd\": 448},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 485},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5600\", \"price_sgd\": 474},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 503},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 526},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 578},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 765},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 771},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"ASROCK\", \"product\": \"ASROCK B550 PHANTOM GAMING-ITX/AX\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 797},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5500\", \"price_sgd\": 489},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 525},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5600\", \"price_sgd\": 515},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 544},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 567},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 619},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 806},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 811},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 VISION D-P\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 837},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5500\", \"price_sgd\": 395},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 432},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5600\", \"price_sgd\": 421},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 450},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 473},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 525},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 712},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 718},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE AX V2\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 744},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5500\", \"price_sgd\": 347},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 384},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5600\", \"price_sgd\": 373},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 402},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 425},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 477},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 665},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 670},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 AORUS ELITE V2\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 696},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5500\", \"price_sgd\": 275},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 311},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5600\", \"price_sgd\": 301},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 330},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 353},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 405},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 592},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 597},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M AORUS ELITE\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 623},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5500\", \"price_sgd\": 265},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 302},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5600\", \"price_sgd\": 291},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 320},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 343},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 395},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 582},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 588},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550M DS3H AC\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 614},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5500\", \"price_sgd\": 379},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 415},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5600\", \"price_sgd\": 405},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 434},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 457},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 509},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 696},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 701},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B550 I AORUS PRO AX\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 727},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5500\", \"price_sgd\": 306},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 342},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5600\", \"price_sgd\": 332},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 361},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 384},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 436},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 623},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 628},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI B550M-PRO VDH WIFI\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 654},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5500\", \"price_sgd\": 401},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5600G\", \"price_sgd\": 438},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5600\", \"price_sgd\": 427},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5600X\", \"price_sgd\": 457},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5700X\", \"price_sgd\": 479},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5800X\", \"price_sgd\": 531},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5800X3D\", \"price_sgd\": 719},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5900X\", \"price_sgd\": 724},\n  {\"category\": \"CPU MOBO & BUNDLE 5000 AM4\", \"brand\": \"MSI\", \"product\": \"MSI MAG B550 TOMAHAWK MAX WIFI\", \"bundle_cpu\": \"5950X\", \"price_sgd\": 750},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"1TB\", \"price_sgd\": 73},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"2TB\", \"price_sgd\": 77},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"3TB\", \"price_sgd\": 143},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"4TB\", \"price_sgd\": 174},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"6TB\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"8TB\", \"price_sgd\": 287},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"10TB\", \"price_sgd\": 384},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA P300\", \"variant\": \"12TB\", \"price_sgd\": 409},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"2TB\", \"price_sgd\": 86},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"4TB\", \"price_sgd\": 174},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"6TB\", \"price_sgd\": 239},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"8TB\", \"price_sgd\": 264},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"10TB\", \"price_sgd\": 384},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"12TB\", \"price_sgd\": 409},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"14TB\", \"price_sgd\": 512},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA X300\", \"variant\": \"16TB\", \"price_sgd\": 544},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"4TB\", \"price_sgd\": 168},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"6TB\", \"price_sgd\": 247},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"8TB\", \"price_sgd\": 283},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"10TB\", \"price_sgd\": 329},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"12TB\", \"price_sgd\": 394},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"14TB\", \"price_sgd\": 439},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"16TB\", \"price_sgd\": 504},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"18TB\", \"price_sgd\": 589},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA N300 NAS\", \"variant\": \"20TB\", \"price_sgd\": 689},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"1TB\", \"price_sgd\": 169},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"2TB\", \"price_sgd\": 194},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"4TB\", \"price_sgd\": 228},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"6TB\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"8TB\", \"price_sgd\": 328},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"10TB\", \"price_sgd\": 359},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"12TB\", \"price_sgd\": 398},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"14TB\", \"price_sgd\": 474},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"16TB\", \"price_sgd\": 544},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"18TB\", \"price_sgd\": 604},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"TOSHIBA ENTERPRISE\", \"variant\": \"20TB\", \"price_sgd\": 644},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE BARRACUDA\", \"variant\": \"1TB\", \"price_sgd\": 76},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE BARRACUDA\", \"variant\": \"2TB\", \"price_sgd\": 86},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE BARRACUDA\", \"variant\": \"3TB\", \"price_sgd\": 152},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE BARRACUDA\", \"variant\": \"4TB\", \"price_sgd\": 170},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE BARRACUDA\", \"variant\": \"6TB\", \"price_sgd\": 244},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE BARRACUDA\", \"variant\": \"8TB\", \"price_sgd\": 308},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"1TB\", \"price_sgd\": 83},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"2TB\", \"price_sgd\": 97},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"4TB\", \"price_sgd\": 157},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"5TB\", \"price_sgd\": 213},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"6TB\", \"price_sgd\": 348},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"8TB\", \"price_sgd\": 444},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"10TB\", \"price_sgd\": 497},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"12TB\", \"price_sgd\": 628},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE SKYHAWK\", \"variant\": \"18TB\", \"price_sgd\": 638},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"1TB\", \"price_sgd\": 94},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"2TB\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"3TB\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"4TB\", \"price_sgd\": 168},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"6TB\", \"price_sgd\": 274},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"8TB\", \"price_sgd\": 329},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"10TB\", \"price_sgd\": 436},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"12TB\", \"price_sgd\": 464},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"14TB\", \"price_sgd\": 614},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"16TB\", \"price_sgd\": 664},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF\", \"variant\": \"18TB\", \"price_sgd\": 734},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"4TB\", \"price_sgd\": 254},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"6TB\", \"price_sgd\": 328},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"8TB\", \"price_sgd\": 357},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"10TB\", \"price_sgd\": 449},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"12TB\", \"price_sgd\": 528},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"14TB\", \"price_sgd\": 624},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"16TB\", \"price_sgd\": 648},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"18TB\", \"price_sgd\": 787},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE IRONWOLF PRO\", \"variant\": \"20TB\", \"price_sgd\": 884},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"2TB\", \"price_sgd\": 223},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"4TB\", \"price_sgd\": 268},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"6TB\", \"price_sgd\": 334},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"8TB\", \"price_sgd\": 351},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"10TB\", \"price_sgd\": 414},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"12TB\", \"price_sgd\": 557},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"14TB\", \"price_sgd\": 645},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"16TB\", \"price_sgd\": 657},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"18TB\", \"price_sgd\": 698},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"SEAGATE EXOS ENTERPRISE\", \"variant\": \"20TB\", \"price_sgd\": 758},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE\", \"variant\": \"1TB\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE\", \"variant\": \"2TB\", \"price_sgd\": 88},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE\", \"variant\": \"4TB\", \"price_sgd\": 157},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE\", \"variant\": \"6TB\", \"price_sgd\": 268},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE\", \"variant\": \"8TB\", \"price_sgd\": 305},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"1TB\", \"price_sgd\": 95},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"2TB\", \"price_sgd\": 124},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"3TB\", \"price_sgd\": 160},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"4TB\", \"price_sgd\": 161},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"6TB\", \"price_sgd\": 256},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"8TB\", \"price_sgd\": 304},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"10TB\", \"price_sgd\": 368},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"12TB\", \"price_sgd\": 465},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PLUS\", \"variant\": \"14TB\", \"price_sgd\": 594},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"2TB\", \"price_sgd\": 187},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"4TB\", \"price_sgd\": 242},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"6TB\", \"price_sgd\": 338},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"8TB\", \"price_sgd\": 375},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"10TB\", \"price_sgd\": 463},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"12TB\", \"price_sgd\": 560},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"14TB\", \"price_sgd\": 635},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"16TB\", \"price_sgd\": 675},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"18TB\", \"price_sgd\": 804},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD RED PRO\", \"variant\": \"20TB\", \"price_sgd\": 873},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"1TB\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"2TB\", \"price_sgd\": 96},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"3TB\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"4TB\", \"price_sgd\": 124},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"6TB\", \"price_sgd\": 214},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"8TB\", \"price_sgd\": 264},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"10TB\", \"price_sgd\": 356},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"12TB\", \"price_sgd\": 464},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"14TB\", \"price_sgd\": 533},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"18TB\", \"price_sgd\": 603},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD PURPLE CCTV\", \"variant\": \"22TB\", \"price_sgd\": 964},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK\", \"variant\": \"1TB\", \"price_sgd\": 117},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK\", \"variant\": \"2TB\", \"price_sgd\": 186},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK\", \"variant\": \"4TB\", \"price_sgd\": 251},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK\", \"variant\": \"6TB\", \"price_sgd\": 328},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK\", \"variant\": \"8TB\", \"price_sgd\": 404},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"1TB\", \"price_sgd\": 158},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"2TB\", \"price_sgd\": 198},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"4TB\", \"price_sgd\": 247},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"5TB\", \"price_sgd\": 274},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"6TB\", \"price_sgd\": 314},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"8TB\", \"price_sgd\": 368},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"10TB\", \"price_sgd\": 484},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"12TB\", \"price_sgd\": 543},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"14TB\", \"price_sgd\": 648},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD ULTRA ENTERPRISE\", \"variant\": \"16TB\", \"price_sgd\": 783},\n  {\"category\": null, \"brand\": \"Synology\", \"product\": \"SYNOLOGY NAS ENTERPRISE\", \"variant\": \"4TB\", \"price_sgd\": 202},\n  {\"category\": null, \"brand\": \"Synology\", \"product\": \"SYNOLOGY NAS ENTERPRISE\", \"variant\": \"6TB\", \"price_sgd\": 289},\n  {\"category\": null, \"brand\": \"Synology\", \"product\": \"SYNOLOGY NAS ENTERPRISE\", \"variant\": \"8TB\", \"price_sgd\": 338},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NS100 2.5\\\" 550MB/s -\", \"variant\": \"512GB\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NS100 2.5\\\" 550MB/s -\", \"variant\": \"1TB\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NS100 2.5\\\" 550MB/s -\", \"variant\": \"2TB\", \"price_sgd\": 76},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NS100 2.5\\\" 550MB/s -\", \"variant\": \"4TB\", \"price_sgd\": 144},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL MX500 2.5\\\" SATA SSD\", \"variant\": \"250GB\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL MX500 2.5\\\" SATA SSD\", \"variant\": \"500GB\", \"price_sgd\": 62},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL MX500 2.5\\\" SATA SSD\", \"variant\": \"1TB\", \"price_sgd\": 104},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL MX500 2.5\\\" SATA SSD\", \"variant\": \"2TB\", \"price_sgd\": 187},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL MX500 2.5\\\" SATA SSD\", \"variant\": \"4TB\", \"price_sgd\": 398},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL BX500 2.5 \\\"SSD\", \"variant\": \"250GB\", \"price_sgd\": 38},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL BX500 2.5 \\\"SSD\", \"variant\": \"500GB\", \"price_sgd\": 47},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL BX500 2.5 \\\"SSD\", \"variant\": \"1TB\", \"price_sgd\": 88},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL BX500 2.5 \\\"SSD\", \"variant\": \"2TB\", \"price_sgd\": 154},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL BX500 2.5 \\\"SSD\", \"variant\": \"4TB\", \"price_sgd\": 388},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 EVO 2.5\\\" SSD\", \"variant\": \"250GB\", \"price_sgd\": 82},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 EVO 2.5\\\" SSD\", \"variant\": \"500GB\", \"price_sgd\": 87},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 EVO 2.5\\\" SSD\", \"variant\": \"1TB\", \"price_sgd\": 137},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 EVO 2.5\\\" SSD\", \"variant\": \"2TB\", \"price_sgd\": 235},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 EVO 2.5\\\" SSD\", \"variant\": \"4TB\", \"price_sgd\": 488},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 QVO 2.5\\\" SSD\", \"variant\": \"1TB\", \"price_sgd\": 134},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 QVO 2.5\\\" SSD\", \"variant\": \"2TB\", \"price_sgd\": 224},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 QVO 2.5\\\" SSD\", \"variant\": \"4TB\", \"price_sgd\": 499},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 870 QVO 2.5\\\" SSD\", \"variant\": \"8TB\", \"price_sgd\": 948},\n  {\"category\": null, \"brand\": \"Dynabook\", \"product\": \"DYNABOOK AE100 2.5\\\" SSD\", \"variant\": \"250GB\", \"price_sgd\": 33},\n  {\"category\": null, \"brand\": \"SanDisk\", \"product\": \"SANDISK SSD PLUS 2.5\\\"\", \"variant\": \"250GB\", \"price_sgd\": 45},\n  {\"category\": null, \"brand\": \"SanDisk\", \"product\": \"SANDISK SSD PLUS 2.5\\\"\", \"variant\": \"500GB\", \"price_sgd\": 69},\n  {\"category\": null, \"brand\": \"SanDisk\", \"product\": \"SANDISK SSD PLUS 2.5\\\"\", \"variant\": \"1TB\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"SanDisk\", \"product\": \"SANDISK SSD PLUS 2.5\\\"\", \"variant\": \"2TB\", \"price_sgd\": 198},\n  {\"category\": null, \"brand\": \"SanDisk\", \"product\": \"SANDISK SSD PLUS 2.5\\\"\", \"variant\": \"4TB\", \"price_sgd\": 369},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM620 NVME 3500MB/s\", \"variant\": \"250GB\", \"price_sgd\": 24},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM620 NVME 3500MB/s\", \"variant\": \"512GB\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM620 NVME 3500MB/s\", \"variant\": \"1TB\", \"price_sgd\": 74},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM620 NVME 3500MB/s\", \"variant\": \"2TB\", \"price_sgd\": 162},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM710 NVME\", \"variant\": \"1TB\", \"price_sgd\": 62},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM710 NVME\", \"variant\": \"2TB\", \"price_sgd\": 77},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM710 NVME\", \"variant\": \"4TB\", \"price_sgd\": 142},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NQ710 Gen4 NVME SSD\", \"variant\": \"1TB\", \"price_sgd\": 67},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NQ710 Gen4 NVME SSD\", \"variant\": \"2TB\", \"price_sgd\": 77},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NQ710 Gen4 NVME SSD\", \"variant\": \"4TB\", \"price_sgd\": 142},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM790 NVME GEN4 (7400R/6500W)\", \"variant\": \"2TB\", \"price_sgd\": 95},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM790 NVME GEN4 (7400R/6500W)\", \"variant\": \"4TB\", \"price_sgd\": 170},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM790 NVME GEN4 (7400R/6500W)\", \"variant\": \"8TB\", \"price_sgd\": 330},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM100 M.2 SATA 550MB/S -\", \"variant\": \"250GB\", \"price_sgd\": 25},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"LEXAR NM100 M.2 SATA 550MB/S -\", \"variant\": \"512GB\", \"price_sgd\": 66},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 44},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL P3 PLUS 3D NAND NVME PCIE M.2 SSD\", \"variant\": \"4TB\", \"price_sgd\": 328},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN5 NVME M.2\", \"variant\": \"1TB\", \"price_sgd\": 87},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN5 NVME M.2\", \"variant\": \"2TB\", \"price_sgd\": 117},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN5 NVME M.2\", \"variant\": \"4TB\", \"price_sgd\": 198},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN5 NVME M.2 W/HEATSINK\", \"variant\": \"2TB\", \"price_sgd\": 164},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T500 PCIE GEN5 NVME M.2 W/HEATSINK\", \"variant\": \"4TB\", \"price_sgd\": 264},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2\", \"variant\": \"2TB\", \"price_sgd\": 258},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2\", \"variant\": \"4TB\", \"price_sgd\": 408},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2\", \"variant\": \"8TB\", \"price_sgd\": 748},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 W/HEATSINK\", \"variant\": \"2TB\", \"price_sgd\": 258},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 W/HEATSINK\", \"variant\": \"4TB\", \"price_sgd\": 408},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"CRUCIAL T700 PCIE GEN5 NVME M.2 W/HEATSINK\", \"variant\": \"8TB\", \"price_sgd\": 748},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 970 EVO PLUS NVME M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 71},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 970 EVO PLUS NVME M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 137},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 970 EVO PLUS NVME M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 218},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 NVME M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 78},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 NVME M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 137},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 97},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 157},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 228},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME W/HEATSINK M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 98},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME W/HEATSINK M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 158},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 980 PRO NVME W/HEATSINK M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 258},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME 2.0 M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 154},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME 2.0 M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 254},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME 2.0 M.2 SSD\", \"variant\": \"4TB\", \"price_sgd\": 474},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME W/HEATSINK NEW!\", \"variant\": \"1TB\", \"price_sgd\": 169},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME W/HEATSINK NEW!\", \"variant\": \"2TB\", \"price_sgd\": 284},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 PRO NVME W/HEATSINK NEW!\", \"variant\": \"4TB\", \"price_sgd\": 489},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 EVO NVME 2.0\", \"variant\": \"1TB\", \"price_sgd\": 157},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"SAMSUNG 990 EVO NVME 2.0\", \"variant\": \"2TB\", \"price_sgd\": 229},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE SN580 NVME M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 69},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE SN580 NVME M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 99},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLUE SN580 NVME M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 178},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN770 5150MB/S GEN4\", \"variant\": \"500GB\", \"price_sgd\": 74},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN770 5150MB/S GEN4\", \"variant\": \"1TB\", \"price_sgd\": 98},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN770 5150MB/S GEN4\", \"variant\": \"2TB\", \"price_sgd\": 184},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2\", \"variant\": \"1TB\", \"price_sgd\": 117},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2\", \"variant\": \"2TB\", \"price_sgd\": 214},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2\", \"variant\": \"4TB\", \"price_sgd\": 404},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK\", \"variant\": \"1TB\", \"price_sgd\": 148},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK\", \"variant\": \"2TB\", \"price_sgd\": 228},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD BLACK SN850X GEN4 SSD M.2 W/HEATSINK\", \"variant\": \"4TB\", \"price_sgd\": 454},\n  {\"category\": null, \"brand\": \"Dynabook\", \"product\": \"DYNABOOK AX5600 NVME M.2 SSD\", \"variant\": \"500GB\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Dynabook\", \"product\": \"DYNABOOK AX5600 NVME M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 98},\n  {\"category\": null, \"brand\": \"Dynabook\", \"product\": \"DYNABOOK AX5600 NVME M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 169},\n  {\"category\": null, \"brand\": \"Dynabook\", \"product\": \"DYNABOOK AX7600 NVME M.2 SSD\", \"variant\": \"1TB\", \"price_sgd\": 110},\n  {\"category\": null, \"brand\": \"Dynabook\", \"product\": \"DYNABOOK AX7600 NVME M.2 SSD\", \"variant\": \"2TB\", \"price_sgd\": 175},\n  {\"category\": null, \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2\", \"variant\": \"500GB\", \"price_sgd\": 58},\n  {\"category\": null, \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2\", \"variant\": \"1TB\", \"price_sgd\": 107},\n  {\"category\": null, \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2\", \"variant\": \"2TB\", \"price_sgd\": 185},\n  {\"category\": null, \"brand\": \"ADATA\", \"product\": \"ADATA XPG GAMMIX S70 BLADE GEN4 NVME M.2\", \"variant\": \"4TB\", \"price_sgd\": 398},\n  {\"category\": null, \"brand\": \"ADATA\", \"product\": \"ADATA LEGEND 710 GEN3 SSD NVME M.2\", \"variant\": \"512GB\", \"price_sgd\": 51},\n  {\"category\": null, \"brand\": \"ADATA\", \"product\": \"ADATA LEGEND 710 GEN3 SSD NVME M.2\", \"variant\": \"1TB\", \"price_sgd\": 87},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA UDIMM DDR5-5600 CL46\", \"variant\": \"16GB\", \"price_sgd\": 78},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA UDIMM DDR5-5600 CL46\", \"variant\": \"32GB\", \"price_sgd\": 134},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA Lancer Blade RGB DDR5 6000 KIT- Black\", \"variant\": \"16GB\", \"price_sgd\": 84},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA Lancer Blade RGB DDR5 6000 KIT- Black\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA Lancer Blade RGB DDR5 6000 KIT- Black\", \"variant\": \"64GB\", \"price_sgd\": 295},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA Lancer Blade RGB DDR5 6000 -KIT White\", \"variant\": \"16GB\", \"price_sgd\": 84},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA Lancer Blade RGB DDR5 6000 -KIT White\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA Lancer Blade RGB DDR5 6000 -KIT White\", \"variant\": \"64GB\", \"price_sgd\": 295},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG LANCER BLADE RGB DDR5 6000 CL30 (2x16GB) - White\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG LANCER BLADE RGB DDR5 6000 CL30 (2x16GB) - White\", \"variant\": \"64GB\", \"price_sgd\": 295},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - Black\", \"variant\": \"32GB\", \"price_sgd\": 165},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - Black\", \"variant\": \"64GB\", \"price_sgd\": 310},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - White\", \"variant\": \"32GB\", \"price_sgd\": 165},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA XPG LANCER BLADE RGB DDR5 6400 CL32 (2x16GB) - White\", \"variant\": \"64GB\", \"price_sgd\": 310},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV Cras V RGB DDR5 6000 CL30 (2x16GB\", \"variant\": \"32GB\", \"price_sgd\": 165},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV CRAS V RGB DDR5 6000 CL30 (32GB x 2) Black\", \"variant\": \"64GB\", \"price_sgd\": 298},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV CRAS V RGB DDR5 6000 CL30 (32GB x 2) White\", \"variant\": \"64GB\", \"price_sgd\": 298},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV Cras V RGB DDR5 6400 CL32 (2x16GB)\", \"variant\": \"32GB\", \"price_sgd\": 176},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV CRAS V RGB DDR5 32GB (2x32GB) 6400MHz CL32 - Black\", \"variant\": \"64GB\", \"price_sgd\": 295},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV CRAS V RGB DDR5 32GB (2x32GB) 6400MHz CL32 - White\", \"variant\": \"64GB\", \"price_sgd\": 295},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV CRAS V RGB DDR5 7200 CL34 (24GB x 2) Black\", \"variant\": \"48GB\", \"price_sgd\": 215},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Kleev\", \"product\": \"KLEVV CRAS V RGB DDR5 7200 CL34 (24GB x 2) White\", \"variant\": \"48GB\", \"price_sgd\": 215},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Lexar\", \"product\": \"Lexar Thor RGB 2x16GB DDR5 6000 CL38 (Black)\", \"variant\": \"32GB\", \"price_sgd\": 128},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Lexar\", \"product\": \"Lexar Ares RGB DDR5 6400 CL32 2*16GB - Black\", \"variant\": \"32GB\", \"price_sgd\": 168},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 5200MHZ CL40 BLACK / WHITE\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 5200MHZ CL40 BLACK / WHITE\", \"variant\": \"64GB\", \"price_sgd\": 264},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 5600MHZ CL36 BLACK / WHITE\", \"variant\": \"32GB\", \"price_sgd\": 158},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 5600MHZ CL36 BLACK / WHITE\", \"variant\": \"64GB\", \"price_sgd\": 277},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB\", \"variant\": \"16GB\", \"price_sgd\": 158},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB\", \"variant\": \"32GB\", \"price_sgd\": 228},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB\", \"variant\": \"48GB\", \"price_sgd\": 297},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6000MHZ CL36 BLK / WH CL40 -64GB\", \"variant\": \"64GB\", \"price_sgd\": 515},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6400MHZ CL32 BLACK / WHITE\", \"variant\": \"32GB\", \"price_sgd\": 212},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6400MHZ CL32 BLACK / WHITE\", \"variant\": \"64GB\", \"price_sgd\": 359},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6400MHZ CL36 BLACK / WHITE\", \"variant\": \"64GB\", \"price_sgd\": 283},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6000MHZ CL30 BLACK\", \"variant\": \"64GB\", \"price_sgd\": 528},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE RGB DDR5 6400MHZ CL32 BLACK\", \"variant\": \"64GB\", \"price_sgd\": 565},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 5200MHZ CL40 BLACK\", \"variant\": \"16GB\", \"price_sgd\": 98},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 5200MHZ CL40 BLACK\", \"variant\": \"32GB\", \"price_sgd\": 146},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 5200MHZ CL40 BLACK\", \"variant\": \"64GB\", \"price_sgd\": 264},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 5600MHZ CL36 BLACK / CL40 64GB\", \"variant\": \"32GB\", \"price_sgd\": 157},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 5600MHZ CL36 BLACK / CL40 64GB\", \"variant\": \"64GB\", \"price_sgd\": 277},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 6000MHZ CL36 BLK\", \"variant\": \"32GB\", \"price_sgd\": 167},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 6000MHZ CL36 BLK\", \"variant\": \"48GB\", \"price_sgd\": 298},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"Corsair\", \"product\": \"CORSAIR VENGEANCE DDR5 6000MHZ CL36 BLK\", \"variant\": \"64GB\", \"price_sgd\": 517},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"ADATA\", \"product\": \"ADATA UDIMM DDR5-5600 CL46 32GB\", \"variant\": \"32GB\", \"price_sgd\": 128},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"GSKILL RIPJAWS M5 RGB 6000MHZ CL36 BLACK / WHITE\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"GSKILL RIPJAWS M5 RGB 6000MHZ CL30 BLACK / WHITE\", \"variant\": \"64GB\", \"price_sgd\": 314},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"GSKILL RIPJAWS M5 RGB 6400MHZ CL32 BLACK / WHITE\", \"variant\": \"32GB\", \"price_sgd\": 173},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS S5 5600MHZ CL36 KIT\", \"variant\": \"32GB\", \"price_sgd\": 154},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS S5 5600MHZ CL36 KIT\", \"variant\": \"64GB\", \"price_sgd\": 294},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS S5 6000MHZ CL36 KIT / 6000MHZ CL32 64GB - $316\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS S5 6400MHZ CL36 KIT\", \"variant\": \"32GB\", \"price_sgd\": 163},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"GSKILL RIPJAWS M5 6000mhz RGB FOR AMD CL36 BLK/WHITE\", \"variant\": \"32GB\", \"price_sgd\": 149},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL FLARE X5 AMD EXPO 6000 MHZ CL36 KIT\", \"variant\": \"32GB\", \"price_sgd\": 160},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 RGB 6400MHZ CL32 KIT BLACK / WHITE\", \"variant\": \"32GB\", \"price_sgd\": 213},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 RGB 6400MHZ CL32 KIT BLACK / WHITE\", \"variant\": \"48GB\", \"price_sgd\": 380},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 RGB 6400MHZ CL32 KIT BLACK / WHITE\", \"variant\": \"64GB\", \"price_sgd\": 548},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 RGB 6600MHZ CL34 KIT / 7200 MHZ CL34 $250\", \"variant\": \"32GB\", \"price_sgd\": 222},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 RGB 7600MHZ CL38 KIT\", \"variant\": \"48GB\", \"price_sgd\": 341},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 RGB 7800MHZ CL36 KIT\", \"variant\": \"32GB\", \"price_sgd\": 305},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6000MHZ CL32\", \"variant\": \"32GB\", \"price_sgd\": 206},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6000MHZ CL32\", \"variant\": \"64GB\", \"price_sgd\": 378},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6400MHZ CL32\", \"variant\": \"32GB\", \"price_sgd\": 223},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 6400MHZ CL32\", \"variant\": \"48GB\", \"price_sgd\": 300},\n  {\"category\": \"DDR5 DESKTOP KIT\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z5 NEO RGB AMD EXPO 7200MHZ CL34\", \"variant\": \"32GB\", \"price_sgd\": 218},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL DDR4-3200 CL22 UDIMM / SOIDMM\", \"variant\": \"8GB\", \"price_sgd\": 27},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL DDR4-3200 CL22 UDIMM / SOIDMM\", \"variant\": \"16GB\", \"price_sgd\": 49},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL DDR4-3200 CL22 UDIMM / SOIDMM\", \"variant\": \"32GB\", \"price_sgd\": 84},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"KLEVV\", \"product\": \"KLEVV PERF DDR4 3200 CL22 SODIMM/DIMM\", \"variant\": \"8GB\", \"price_sgd\": 30},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"KLEVV\", \"product\": \"KLEVV PERF DDR4 3200 CL22 SODIMM/DIMM\", \"variant\": \"16GB\", \"price_sgd\": 55},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"KLEVV\", \"product\": \"KLEVV PERF DDR4 3200 CL22 SODIMM/DIMM\", \"variant\": \"32GB\", \"price_sgd\": 99},\n  {\"category\": \"DDR4 / DDR5 DESKTOP AND LP RAM\", \"brand\": \"ADATA\", \"product\": \"ADATA SODIMM / DIMM DDR5-5600 CL46\", \"variant\": \"16GB\", \"price_sgd\": 78},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN LPX DDR4 3200MHZ\", \"variant\": \"16GB\", \"price_sgd\": 70},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN LPX DDR4 3200MHZ\", \"variant\": \"32GB\", \"price_sgd\": 115},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN LPX DDR4 3200MHZ\", \"variant\": \"64GB\", \"price_sgd\": 215},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN RGB PRO SL DDR4 3600MHZ\", \"variant\": \"16GB\", \"price_sgd\": 74},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN RGB PRO SL DDR4 3600MHZ\", \"variant\": \"32GB\", \"price_sgd\": 114},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN RGB PRO SL DDR4 3600MHZ\", \"variant\": \"64GB\", \"price_sgd\": 223},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN RGB PRO SL DDR4 3200MHZ\", \"variant\": \"16GB\", \"price_sgd\": 74},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR VEN RGB PRO SL DDR4 3200MHZ\", \"variant\": \"32GB\", \"price_sgd\": 114},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS V 3600Mhz CL18\", \"variant\": \"16GB\", \"price_sgd\": 52},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS V 3600Mhz CL18\", \"variant\": \"32GB\", \"price_sgd\": 92},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL RIPJAWS V 3600Mhz CL18\", \"variant\": \"64GB\", \"price_sgd\": 187},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3200MHZ CL16\", \"variant\": \"32GB\", \"price_sgd\": 136},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3200MHZ CL16\", \"variant\": \"64GB\", \"price_sgd\": 210},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3600MHZ CL18\", \"variant\": \"16GB\", \"price_sgd\": 95},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3600MHZ CL18\", \"variant\": \"32GB\", \"price_sgd\": 136},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3600MHZ CL18\", \"variant\": \"64GB\", \"price_sgd\": 255},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3600MHZ CL16\", \"variant\": \"16GB\", \"price_sgd\": 106},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3600MHZ CL16\", \"variant\": \"32GB\", \"price_sgd\": 162},\n  {\"category\": \"DDR4 DUAL KIT DESKTOP RAM\", \"brand\": \"G.SKILL\", \"product\": \"G.SKILL TRIDENT Z NEO 3600MHZ CL16\", \"variant\": \"64GB\", \"price_sgd\": 302}\n]}"
+}
