@@ -1,0 +1,6056 @@
+{
+  "rows": [
+    {
+      "category": "Microsoft Software",
+      "product": "MS Windows 11 Home 64Bit",
+      "price_sgd": 169
+    },
+    {
+      "category": "Microsoft Software",
+      "product": "MS Windows 11 Pro 64Bit",
+      "price_sgd": 219
+    },
+    {
+      "category": "Microsoft Software",
+      "product": "MS Office Home & Student 2021",
+      "price_sgd": 219
+    },
+    {
+      "category": "Microsoft Software",
+      "product": "MS Office Home & Business 2021",
+      "price_sgd": 309
+    },
+    {
+      "category": "Microsoft Software",
+      "product": "MS Office Home & Business 2024",
+      "price_sgd": 369
+    },
+    {
+      "category": "Microsoft Software",
+      "product": "MS Windows Server STD 2019",
+      "price_sgd": 1239
+    },
+    {
+      "category": "Microsoft Software",
+      "product": "MS Windows CAL 2016 DSP OEI 5CLT Licence",
+      "price_sgd": 299
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 219
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 471
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 550
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 763
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 907
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 295
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 532
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 611
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 824
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 968
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 289
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 509
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 589
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 801
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 945
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 389
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 637
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 717
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 930
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1074
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 409
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 656
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 736
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 948
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1092
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 425
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 683
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 763
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 976
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1119
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 379
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 592
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 671
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 884
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1028
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 369
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 581
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 661
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 873
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1017
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z790 CREATOR",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 495
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z790 CREATOR",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 736
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z790 CREATOR",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 815
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z790 CREATOR",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 1028
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z790 CREATOR",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1172
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1085
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 1278
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 1358
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 1571
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1715
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1169
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 1437
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 1517
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 1730
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1874
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 175
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 439
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 519
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 731
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 875
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 250
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 525
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 605
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 818
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 961
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 269
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 542
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 621
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 834
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 978
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 325
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 601
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 681
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 894
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1038
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 UD AX",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 349
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 UD AX",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 621
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 UD AX",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 701
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 UD AX",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 913
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 UD AX",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1057
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 375
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 645
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 725
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 937
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1081
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 475
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 737
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 816
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 1029
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1173
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 565
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 819
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 899
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 1112
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1256
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 415
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 660
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 740
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 953
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1097
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 219
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 486
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 566
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 778
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 922
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI MPG Z790 EDGE WIFI DDR4",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 599
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI MPG Z790 EDGE WIFI DDR4",
+      "bundle_cpu": "14400",
+      "warranty": "3 Years",
+      "price_sgd": 831
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI MPG Z790 EDGE WIFI DDR4",
+      "bundle_cpu": "14600K",
+      "warranty": "3 Years",
+      "price_sgd": 911
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI MPG Z790 EDGE WIFI DDR4",
+      "bundle_cpu": "14700K",
+      "warranty": "3 Years",
+      "price_sgd": 1123
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI MPG Z790 EDGE WIFI DDR4",
+      "bundle_cpu": "14900K",
+      "warranty": "3 Years",
+      "price_sgd": 1267
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 419
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 634
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 699
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 695
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 893
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890M-PLUS WIFI-CSM",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1212
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 661
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 726
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 723
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 920
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME Z890-P WIFI-CSM",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1239
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 559
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 762
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 827
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 824
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1021
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PLUS WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1341
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 579
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 781
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 846
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 843
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1040
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING Z890-PRO WIFI (WHITE)",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1359
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI (WHITE)",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 729
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI (WHITE)",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 925
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI (WHITE)",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 990
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI (WHITE)",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 986
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI (WHITE)",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1184
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-A GAMING WIFI (WHITE)",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1503
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 779
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 970
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 1036
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 1032
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1229
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-F GAMING WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1549
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 899
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 1086
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 1151
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 1148
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1345
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX Z890-E GAMING WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1664
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1219
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 1389
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 1454
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 1451
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1648
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 HERO",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1967
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1699
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 1850
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 1915
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 1912
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 2109
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z890 EXTREME",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 2428
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 899
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 1086
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 1151
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 1148
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1345
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z890-CREATOR WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1664
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI-CSM",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 319
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI-CSM",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 537
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI-CSM",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 602
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI-CSM",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 598
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI-CSM",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 796
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B860M-A WIFI-CSM",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1115
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 394
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 605
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 670
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 667
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 864
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B860M-PLUS WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1184
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 655
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 720
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 717
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 914
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-G GAMING WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1234
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 499
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 702
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 767
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 764
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 961
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-F GAMING WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1281
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 469
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 674
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 739
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 736
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 933
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-A GAMING WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1252
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 419
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 628
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 693
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 690
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 887
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B860-I GAMING WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1207
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 660
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 725
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 722
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 919
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890M AORUS ELITE WIFI 7",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1238
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 660
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 725
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 722
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 919
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 EAGLE WIFI 7 PLUS",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1238
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 505
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 713
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 778
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 775
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 972
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 PLUS",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1292
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 520
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 730
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 795
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 791
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 988
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS ELITE WIFI 7 ICE",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1308
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 869
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 1087
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 1152
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 1149
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 1346
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "Gigabyte Z890 AORUS MASTER",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1665
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI6 V2",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 269
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI6 V2",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 488
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI6 V2",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 553
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI6 V2",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 549
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI6 V2",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 746
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M EAGLE WIFI6 V2",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1066
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI6E",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 305
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI6E",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 520
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI6E",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 585
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI6E",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 582
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI6E",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 779
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860M DS3H WIFI6E",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1099
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI6E",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 319
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 531
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 596
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI6E",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 593
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI6E",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 790
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 DS3H WIFI6E",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1110
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI6E",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 385
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 591
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 656
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI6E",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 653
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI6E",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 850
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860 GAMING X WIFI6E",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1170
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 445
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 645
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 710
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 706
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 903
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B860I AORUS PRO ICE",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1223
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "MSI",
+      "product": "MSI B860 GAMING PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 379
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "MSI",
+      "product": "MSI B860 GAMING PLUS WIFI",
+      "bundle_cpu": "U5 225",
+      "warranty": "3 Years",
+      "price_sgd": 592
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "MSI",
+      "product": "MSI B860 GAMING PLUS WIFI",
+      "bundle_cpu": "U5 245K",
+      "warranty": "3 Years",
+      "price_sgd": 657
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "MSI",
+      "product": "MSI B860 GAMING PLUS WIFI",
+      "bundle_cpu": "U5 250KF PLUS",
+      "warranty": "3 Years",
+      "price_sgd": 654
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "MSI",
+      "product": "MSI B860 GAMING PLUS WIFI",
+      "bundle_cpu": "U7 270K",
+      "warranty": "3 Years",
+      "price_sgd": 851
+    },
+    {
+      "category": "Intel Ultra (Series 2)",
+      "brand": "MSI",
+      "product": "MSI B860 GAMING PLUS WIFI",
+      "bundle_cpu": "U9 285K",
+      "warranty": "3 Years",
+      "price_sgd": 1171
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 319
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 651
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 544
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 589
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 740
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 555
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 729
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 922
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 844
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1293
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 920
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B650M-A WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1329
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 299
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 608
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 501
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 546
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 698
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 512
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 687
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 880
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 801
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1250
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 877
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-E WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1286
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 399
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 695
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 589
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 633
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 785
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 600
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 774
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 967
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 888
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1337
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 965
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B650EM-PLUS WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1373
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 419
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 754
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 647
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 692
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 844
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 658
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 833
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1026
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 947
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1396
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1024
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-E WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1432
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 399
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 736
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 629
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 674
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 825
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 640
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 814
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1007
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 929
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1378
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1005
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1414
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 419
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 742
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 635
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 680
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 832
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 646
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 821
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1014
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 935
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1384
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1012
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-G GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1420
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 429
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 759
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 652
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 697
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 848
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 663
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 837
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1030
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 952
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1401
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1028
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PLUS WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1437
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 772
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 665
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 710
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 861
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 676
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 850
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1043
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 965
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1414
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1041
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B650-A GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1450
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 489
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 813
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 706
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 751
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 903
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 717
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 892
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1085
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1006
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1455
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1082
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-A GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1491
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 539
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 859
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 752
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 797
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 948
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 763
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 937
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1130
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1052
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1501
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1128
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-F GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1537
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 569
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 888
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 782
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 826
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 978
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 792
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 967
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1160
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1081
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1530
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1158
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B850-I GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1566
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 589
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 909
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 802
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 847
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 998
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 813
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 988
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1180
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1102
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1551
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1178
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PLUS WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1587
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 669
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 968
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 861
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 906
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1057
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 872
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1046
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1239
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1161
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1610
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1237
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X670E-A GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1646
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 709
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1021
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 915
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 959
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1111
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 925
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1100
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1293
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1214
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1663
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1291
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-A GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1699
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 775
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1071
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 965
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1009
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1161
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 976
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1150
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1343
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1264
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1713
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1341
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-F GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1749
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 799
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1104
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 997
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1042
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1194
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1008
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1183
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1376
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1297
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1746
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1373
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870-I GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1782
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 855
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1155
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 1049
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1093
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1245
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1059
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1234
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1427
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1348
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1797
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1425
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART X870E-CREATOR WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1833
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 899
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1196
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 1089
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1134
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1285
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1100
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1274
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1467
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1389
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1838
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1465
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-E GAMING WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1874
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1099
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1385
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 1279
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1323
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1475
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1289
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1464
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1657
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1578
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2027
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1655
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E HERO",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2063
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1149
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1464
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 1357
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1402
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1553
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1368
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1542
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1735
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1657
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2106
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1733
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E APEX",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2142
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1899
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2148
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 2042
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 2086
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2238
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 2052
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 2227
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2420
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 2341
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2790
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 2418
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E EXTREME",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2826
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 1899
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1960
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 1853
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1898
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2049
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1864
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 2038
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2231
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 2153
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2602
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 2229
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG CROSSHAIR X870E GLACIAL",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 2638
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 609
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 935
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 828
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 873
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1025
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 839
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1014
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1207
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1128
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1577
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1204
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING X870-PRO WIFI7 W NEO",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1613
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 609
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 897
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 790
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 835
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 986
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 801
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 976
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1168
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1090
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1539
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1166
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850-PRO WIFI7 W NEO",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1575
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 799
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1028
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 921
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 966
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1117
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 932
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1106
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1299
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1221
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1670
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1297
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX X870E-H GAMING WIFI7",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1706
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 409
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 751
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 644
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 689
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 840
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 655
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 829
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1022
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 944
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1393
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1020
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B850M-PLUS WIFI7",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1429
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 499
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 845
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 738
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 783
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 934
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 749
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 923
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1116
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1038
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1487
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1114
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "ASUS",
+      "product": "ASUS PROART B850 CREATOR WIFI NEO",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1523
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 310
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 652
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 545
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 590
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 741
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 556
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 730
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 923
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 845
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1294
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 921
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M EAGLE WIFI 6E",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1330
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 777
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 670
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 715
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 867
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 681
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 856
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1049
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 970
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1419
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1046
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850M AORUS PRO WIFI 7",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1455
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 325
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 645
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 538
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 583
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 735
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 549
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 724
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 917
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 838
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1287
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 915
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650I AX",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1323
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 345
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 663
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 556
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 601
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 752
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 567
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 741
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 934
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 856
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1305
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 932
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650M AORUS ELITE AX ICE",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1341
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 355
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 668
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 561
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 606
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 758
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 572
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 747
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 940
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 861
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1310
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 937
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B650 AORUS ELITE AX ICE",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1346
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 430
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 760
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 653
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 698
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 849
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 664
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 838
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1031
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 953
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1402
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1029
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1438
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 449
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 777
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 670
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 715
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 867
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 681
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 856
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1049
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 970
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1419
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1046
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850 AORUS ELITE WIFI7 ICE",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1455
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 520
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 843
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 736
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 780
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 932
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 747
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 921
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1114
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1036
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1485
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1112
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B850I AORUS PRO",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1521
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 545
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 859
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 752
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 797
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 948
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 763
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 937
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1130
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1052
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1501
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1128
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870 AORUS ELITE WIFI 7",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1537
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 635
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 945
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 838
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 883
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1034
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 849
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1024
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1216
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1138
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1587
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1214
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS PRO ICE",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1623
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 859
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1152
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 1045
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 1090
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1242
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 1056
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 1231
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1424
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 1345
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1794
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 1421
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE X870E AORUS MASTER",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1830
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 289
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 629
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 522
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 567
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 718
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 533
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 707
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 900
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 822
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1271
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 898
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-A WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1307
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "Price",
+      "warranty": "3 Years",
+      "price_sgd": 269
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "7500X3D",
+      "warranty": "3 Years",
+      "price_sgd": 608
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "7600",
+      "warranty": "3 Years",
+      "price_sgd": 501
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "R5 7700",
+      "warranty": "3 Years",
+      "price_sgd": 546
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "7800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 698
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9600X",
+      "warranty": "3 Years",
+      "price_sgd": 512
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9700X",
+      "warranty": "3 Years",
+      "price_sgd": 687
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9800X3D",
+      "warranty": "3 Years",
+      "price_sgd": 880
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9900X",
+      "warranty": "3 Years",
+      "price_sgd": 801
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9900X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1250
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9950X",
+      "warranty": "3 Years",
+      "price_sgd": 877
+    },
+    {
+      "category": "AMD Ryzen 7xxx/9xxx Series",
+      "brand": "MSI",
+      "product": "MSI PRO B850M-P WIFI",
+      "bundle_cpu": "9950X3D",
+      "warranty": "3 Years",
+      "price_sgd": 1286
+    },
+    {
+      "product": "Asus BTF Bundle",
+      "brand": "Asus",

@@ -1,0 +1,68 @@
+{
+  "rows": [
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT MIKE",
+      "price_sgd": 129
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A 23.8” IPS Monitor",
+      "price_sgd": 129
+    },
+    {
+      "category": null,
+      "brand": "Lenovo",
+      "product": "ThinkVision M15 15.6” Portable Monitor",
+      "price_sgd": 225
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "Philips",
+      "product": "PHILIPS 27E1N12 27” Monitor",
+      "price_sgd": 155
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "ASUS",
+      "product": "ASUS Zen Screen MB166C Portable Monitor",
+      "warranty": "3 Years Local Warranty",
+      "price_sgd": 228
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "AOC",
+      "product": "AOC 24/27G4 Gaming Monitor",
+      "variant": "24G4",
+      "price_sgd": 208
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "AOC",
+      "product": "AOC 24/27G4 Gaming Monitor",
+      "variant": "27G4",
+      "price_sgd": 235
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "BENQ",
+      "product": "BENQ EX240N",
+      "price_sgd": 229
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "AOC",
+      "product": "AOC Q27G4 QHD 2560 x 1440",
+      "variant": "QHD",
+      "price_sgd": 325
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "brand": "Lenovo",
+      "product": "ThinkVision T23d-10",
+      "price_sgd": 129
+    }
+  ]
+}

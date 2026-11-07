@@ -1,0 +1,59 @@
+{
+  "sha256": "cc0ce75b5cae2072d6a2be904054a7d2bcfd01f55185946fa8d63ff89afe8aa2",
+  "vendor": "laser",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS RNUC14RVU50000I Bare Bone Kit",
+      "variant": "Intel Core Ultra 5 Processor 125H",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 695.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS RNUC14RVU70000I Bare Bone Kit",
+      "variant": "Intel Core Ultra 7 Processor 155H",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 895.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": null,
+      "product": "Mini PC, K7 Plus 13th Intel Core i7-13620H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 853.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS PN51 – S1- B-B7216MD Bare Bone",
+      "variant": "AMD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 639.0
+    }
+  ],
+  "numeric_tokens_in_source": 15,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 5/15 = 0.33",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"GMKtec\", \"product\": \"Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec\", \"price_sgd\": 309},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"ASUS\", \"product\": \"ASUS RNUC14RVU50000I Bare Bone Kit\", \"variant\": \"Intel Core Ultra 5 Processor 125H\", \"price_sgd\": 695},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"ASUS\", \"product\": \"ASUS RNUC14RVU70000I Bare Bone Kit\", \"variant\": \"Intel Core Ultra 7 Processor 155H\", \"price_sgd\": 895},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": null, \"product\": \"Mini PC, K7 Plus 13th Intel Core i7-13620H\", \"price_sgd\": 853},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"ASUS\", \"product\": \"ASUS PN51 – S1- B-B7216MD Bare Bone\", \"variant\": \"AMD\", \"price_sgd\": 639}\n]}"
+}

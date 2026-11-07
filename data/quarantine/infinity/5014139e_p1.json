@@ -1,0 +1,1895 @@
+{
+  "sha256": "5014139ec01ccc6cbfd58f3255fc3dc41dd2d7e721539c1d54c8716656621fc0",
+  "vendor": "infinity",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows 11 Home 64Bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows 11 Pro 64Bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Office Home & Student 2021",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Office Home & Business 2021",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Office Home & Business 2024",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows Server STD 2019",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1239.0
+    },
+    {
+      "category": "Microsoft Software",
+      "brand": "Microsoft",
+      "product": "MS Windows CAL 2016 DSP OEI 5CLT Licence",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 471.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 550.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 763.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME H610I-PLUS CSM WIFI D4",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 907.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 295.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 532.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 611.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 824.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 968.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 289.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 509.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 589.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 801.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PRIME B760M-A WIFI D4 CSM",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 945.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 389.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 637.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 717.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 930.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-I GAMING WIFI",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1074.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 409.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 656.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 736.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 948.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1092.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 425.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 683.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 763.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 976.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1119.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 379.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 592.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 671.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 884.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 581.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 661.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 873.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS TUF GAMING B760M-PLUS WIFI D5",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1017.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS PROART Z790 CREATOR",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 495.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PROART Z790 CREATOR",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 736.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PROART Z790 CREATOR",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 815.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PROART Z790 CREATOR",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS PROART Z790 CREATOR",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1172.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 1085.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 1278.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 1358.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 1571.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 DARK HERO",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1715.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "ASUS",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 1169.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 1437.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 1517.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 1730.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "ASUS ROG MAXIMUS Z790 FORMULA",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1874.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 175.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 439.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 519.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 731.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE H610M H V2 DDR4",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 875.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 250.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 525.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 605.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 818.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR4",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 961.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 269.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 542.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 621.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 834.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760M DS3H AX DDR5",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 978.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 601.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 681.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 894.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1038.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 UD AX",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 349.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 UD AX",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 621.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 UD AX",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 701.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 UD AX",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 913.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 UD AX",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1057.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 375.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 645.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 725.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 937.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 GAMING X AX",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1081.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 475.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 737.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 816.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1173.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 565.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 819.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 899.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 1112.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS PRO X",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1256.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 415.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 660.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 740.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 953.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "GIGABYTE Z790 AORUS ELITE AX ICE",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 1097.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "MSI",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "variant": null,
+      "bundle_cpu": "M/B",
+      "warranty": "3Y",
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "variant": null,
+      "bundle_cpu": "14400",
+      "warranty": "3Y",
+      "price_sgd": 480.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "variant": null,
+      "bundle_cpu": "14600K",
+      "warranty": "3Y",
+      "price_sgd": 560.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "variant": null,
+      "bundle_cpu": "14700K",
+      "warranty": "3Y",
+      "price_sgd": 773.0
+    },
+    {
+      "category": "Intel 14th Gen",
+      "brand": "Intel",
+      "product": "MSI PRO B760M-A WIFI DDR4",
+      "variant": null,
+      "bundle_cpu": "14900K",
+      "warranty": "3Y",
+      "price_sgd": 917.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba S300 Surveillance",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "2Y",
+      "price_sgd": 179.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 459.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 679.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 899.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 999.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba N300 NAS 7200",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "Toshiba",
+      "product": "Toshiba N300 NAS 7200",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 569.0
+    },
+    {
+      "category": "3.5\" Internal HDD",
+      "brand": "WD",
+      "product": "WD Black 7200 64MB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 139.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Adata",
+      "product": "Adata SU650",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 149.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 165.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 259.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 489.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 870 EVO",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 379.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 870 EVO",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 659.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 870 EVO",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 1319.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 870 EVO",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": "5Yrs",
+      "price_sgd": 2599.0
+    },
+    {
+      "category": "2.5\" Sata Solid State Drive",
+      "brand": "Lexar",
+      "product": "Lexar NS100",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive 2230",
+      "brand": "WD",
+      "product": "WD Black SN770M",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive 2230",
+      "brand": "WD",
+      "product": "WD Black SN770M",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 358.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive 2230",
+      "brand": "WD",
+      "product": "WD Black SN770M",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 659.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Adata",
+      "product": "Adata Legend 860",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 179.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Adata",
+      "product": "Adata Legend 900 Pro",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 289.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial P310",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 259.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial P310",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 459.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 229.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 309.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 539.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial T500 Pro",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 959.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Basic",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 249.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Basic",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 409.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro (DRAM)",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 269.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Dynabook",
+      "product": "Dynabook (Toshiba) Boost AX7300",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 429.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 990 Evo",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 275.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 990 Evo",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 1295.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 355.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 699.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 990 Pro",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 1399.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN7100",
+      "variant": "500GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN7100",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN7100",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 659.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN7100",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen 4",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 269.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen 4",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen 4",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen 4 w/Heatsink",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1139.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 4 NVME Solid State Drive",
+      "brand": "WD",
+      "product": "WD Black SN850X Gen 4 w/Heatsink",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2280.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Adata",
+      "product": "Adata MARS 980 Blade",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial P510",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Crucial",
+      "product": "Crucial P510",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 572.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro G3",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 289.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro G3",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 490.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro G2(DRAM)",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 319.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria Pro G2(DRAM)",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yr",
+      "price_sgd": 580.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "Samsung",
+      "product": "Samsung 9100 Pro",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1590.0
+    },
+    {
+      "category": "M.2 PCI-E Gen 5 NVME Solid State Drive",
+      "brand": "ZhiTai",
+      "product": "ZhiTai TiPro9000",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": "5yrs",
+      "price_sgd": 619.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Connect II",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Connect II",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Connect II",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "WD",
+      "product": "WD My Passport Storage",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "WD",
+      "product": "WD My Passport Storage",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "WD",
+      "product": "WD My Passport Storage",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "External Hard Disc Drive",
+      "brand": "WD",
+      "product": "WD My Passport Storage",
+      "variant": "5TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "External Solid State Drive",
+      "brand": "KIOXIA",
+      "product": "KIOXIA Exceria Plus G2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "External Solid State Drive",
+      "brand": "KIOXIA",
+      "product": "KIOXIA Exceria Plus G2",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "External Solid State Drive",
+      "brand": "Dynabook",
+      "product": "Dynabook (Toshiba) Boost X60 Ultra USB 4",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "External Solid State Drive",
+      "brand": "Dynabook",
+      "product": "Dynabook (Toshiba) Boost X60 Ultra USB 4",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 460.0
+    },
+    {
+      "category": "External Solid State Drive",
+      "brand": "Dynabook",
+      "product": "Dynabook (Toshiba) Boost X60 Ultra USB 4",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 818.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Asustor",
+      "product": "Asustor AS1102TL 2 Bay NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Synology",
+      "product": "Synology DS225+ 2-Bays NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Synology",
+      "product": "Synology DS425+ 4-Bays NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 969.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Synology",
+      "product": "Synology DS725+ 2-Bays NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1050.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Synology",
+      "product": "Synology DS925+ 4-Bays NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1159.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Synology",
+      "product": "Synology DS1525+ 5-Bays NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1659.0
+    },
+    {
+      "category": "Network Attached Storage",
+      "brand": "Synology",
+      "product": "Synology DS1825+ 8-Bays NAS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2059.0
+    },
+    {
+      "category": "Intel /GMK NUC Mini PC (3 Years)",
+      "brand": "Intel",
+      "product": "Intel NUC 15CRH 15th Gen U5-225H Wifi 7/BT/D5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 689.0
+    },
+    {
+      "category": "Intel /GMK NUC Mini PC (3 Years)",
+      "brand": "GMKTEC",
+      "product": "GMKTEC NUCBOX M3 PRO INTEL I5 13500H/16G/512GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 849.0
+    },
+    {
+      "category": "Intel /GMK NUC Mini PC (3 Years)",
+      "brand": "GMKTEC",
+      "product": "GMKTEC NUCBOX M6 ULTRA RYZEN 5 7640HS/16G/512GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 899.0
+    },
+    {
+      "category": "Intel /GMK NUC Mini PC (3 Years)",
+      "brand": "GMKTEC",
+      "product": "GMKTEC NUCBOX M3 ULTRA INTEL I7 12700H/32G/1TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 989.0
+    },
+    {
+      "category": "Intel /GMK NUC Mini PC (3 Years)",
+      "brand": "GMKTEC",
+      "product": "GMKTEC NUCBOX EVO-X1 AMD Ryzen™ AI 9 HX 370 32G/1TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 1799.0
+    },
+    {
+      "category": "Intel /GMK NUC Mini PC (3 Years)",
+      "brand": "GMKTEC",
+      "product": "GMKTEC NUCBOX EVO-X1 AMD Ryzen™ AI 9 HX 470 64G/1TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 2299.0
+    },
+    {
+      "category": "Asus Mini PC (3 Years)",
+      "brand": "Asus",
+      "product": "Asus PN51-S1-B-B7216MD R7-5700U Wifi 6/BT/D4 (Free KB & M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 645.0
+    },
+    {
+      "category": "Internal SATA DVD +- RW",
+      "brand": "Asus",
+      "product": "Asus 24X DRW-24B3ST DVD +- RW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "External DVD +- RW USB 2.0",
+      "brand": "Asus",
+      "product": "Asus ZenDrive 8x 13mm Ultra Slim & Light (USB-C)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "External DVD +- RW USB 2.0",
+      "brand": "Garethan",
+      "product": "Garethan 8x External Slim USB 3.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Crucial/Lexar",
+      "product": "Crucial/Lexar PC3200 CL22",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Crucial/Lexar",
+      "product": "Crucial/Lexar PC3200 CL22",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Crucial/Lexar",
+      "product": "Crucial/Lexar PC3200 CL22",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Kingston",
+      "product": "Kingston PC3200 CL22",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "KingBank",
+      "product": "KingBank PC3200 CL16",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Crucial",
+      "product": "Crucial PC5600 CL46",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Crucial",
+      "product": "Crucial PC5600 CL46",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 339.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Crucial",
+      "product": "Crucial PC5600 CL46",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Kingston",
+      "product": "Kingston Fury Beast PC5600 CL36",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "Memory Prices Subject to Change Without Prior Notice",
+      "brand": "Lexar",
+      "product": "Lexar PC5600 CL46",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    }
+  ],
+  "numeric_tokens_in_source": 1019,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 209/1019 = 0.21",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Windows 11 Home 64Bit\", \"price_sgd\": 209},\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Windows 11 Pro 64Bit\", \"price_sgd\": 239},\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Office Home & Student 2021\", \"price_sgd\": 219},\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Office Home & Business 2021\", \"price_sgd\": 289},\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Office Home & Business 2024\", \"price_sgd\": 369},\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Windows Server STD 2019\", \"price_sgd\": 1239},\n  {\"category\": \"Microsoft Software\", \"brand\": \"Microsoft\", \"product\": \"MS Windows CAL 2016 DSP OEI 5CLT Licence\", \"price_sgd\": 299},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME H610I-PLUS CSM WIFI D4\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 219},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME H610I-PLUS CSM WIFI D4\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 471},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME H610I-PLUS CSM WIFI D4\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 550},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME H610I-PLUS CSM WIFI D4\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 763},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME H610I-PLUS CSM WIFI D4\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 907},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B760M-A WIFI D5\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 295},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D5\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 532},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D5\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 611},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D5\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 824},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D5\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 968},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B760M-A WIFI D4 CSM\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 289},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D4 CSM\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 509},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D4 CSM\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 589},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D4 CSM\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 801},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PRIME B760M-A WIFI D4 CSM\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 945},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX B760-I GAMING WIFI\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 389},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-I GAMING WIFI\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 637},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-I GAMING WIFI\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 717},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-I GAMING WIFI\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 930},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-I GAMING WIFI\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1074},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI D5\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 409},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI D5\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 656},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI D5\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 736},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI D5\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 948},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI D5\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1092},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI D5\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 425},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI D5\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 683},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI D5\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 763},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI D5\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 976},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI D5\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1119},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING B760-PLUS WIFI D5\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 379},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760-PLUS WIFI D5\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 592},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760-PLUS WIFI D5\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 671},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760-PLUS WIFI D5\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 884},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760-PLUS WIFI D5\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1028},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING B760M-PLUS WIFI D5\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 369},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760M-PLUS WIFI D5\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 581},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760M-PLUS WIFI D5\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 661},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760M-PLUS WIFI D5\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 873},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS TUF GAMING B760M-PLUS WIFI D5\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1017},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS PROART Z790 CREATOR\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 495},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PROART Z790 CREATOR\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 736},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PROART Z790 CREATOR\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 815},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PROART Z790 CREATOR\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 1028},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS PROART Z790 CREATOR\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1172},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z790 DARK HERO\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 1085},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 DARK HERO\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 1278},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 DARK HERO\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 1358},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 DARK HERO\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 1571},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 DARK HERO\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1715},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG MAXIMUS Z790 FORMULA\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 1169},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 FORMULA\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 1437},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 FORMULA\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 1517},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 FORMULA\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 1730},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"ASUS ROG MAXIMUS Z790 FORMULA\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1874},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE H610M H V2 DDR4\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 175},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE H610M H V2 DDR4\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 439},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE H610M H V2 DDR4\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 519},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE H610M H V2 DDR4\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 731},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE H610M H V2 DDR4\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 875},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B760M DS3H AX DDR4\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 250},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR4\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 525},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR4\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 605},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR4\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 818},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR4\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 961},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B760M DS3H AX DDR5\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 269},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR5\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 542},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR5\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 621},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR5\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 834},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760M DS3H AX DDR5\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 978},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 325},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 601},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 681},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 894},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1038},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE Z790 UD AX\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 349},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 UD AX\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 621},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 UD AX\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 701},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 UD AX\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 913},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 UD AX\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1057},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE Z790 GAMING X AX\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 375},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 GAMING X AX\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 645},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 GAMING X AX\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 725},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 GAMING X AX\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 937},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 GAMING X AX\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1081},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 475},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 737},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 816},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 1029},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1173},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE Z790 AORUS PRO X\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 565},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS PRO X\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 819},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS PRO X\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 899},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS PRO X\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 1112},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS PRO X\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1256},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX ICE\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 415},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX ICE\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 660},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX ICE\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 740},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX ICE\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 953},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"GIGABYTE Z790 AORUS ELITE AX ICE\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 1097},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"MSI\", \"product\": \"MSI PRO B760M-A WIFI DDR4\", \"bundle_cpu\": \"M/B\", \"warranty\": \"3Y\", \"price_sgd\": 199},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"MSI PRO B760M-A WIFI DDR4\", \"bundle_cpu\": \"14400\", \"warranty\": \"3Y\", \"price_sgd\": 480},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"MSI PRO B760M-A WIFI DDR4\", \"bundle_cpu\": \"14600K\", \"warranty\": \"3Y\", \"price_sgd\": 560},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"MSI PRO B760M-A WIFI DDR4\", \"bundle_cpu\": \"14700K\", \"warranty\": \"3Y\", \"price_sgd\": 773},\n  {\"category\": \"Intel 14th Gen\", \"brand\": \"Intel\", \"product\": \"MSI PRO B760M-A WIFI DDR4\", \"bundle_cpu\": \"14900K\", \"warranty\": \"3Y\", \"price_sgd\": 917},\n  {\"category\": \"Asus BTF Bundle\", \"brand\": \"Asus\", \"product\": \"Tuf Gaming Z790-BTF Wifi\", \"price_sgd\": 0},\n  {\"category\": \"Asus BTF Bundle\", \"brand\": \"Asus\", \"product\": \"Tuf Gaming RTX4070Ti Super OC 16GB BTF\", \"price_sgd\": 0},\n  {\"category\": \"Asus BTF Bundle\", \"brand\": \"Asus\", \"product\": \"Tuf Gaming GT302 ARGB White Case\", \"price_sgd\": 0},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba S300 Surveillance\", \"variant\": \"1TB\", \"warranty\": \"2Y\", \"price_sgd\": 179},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise\", \"variant\": \"2TB\", \"warranty\": \"5Y\", \"price_sgd\": 459},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise\", \"variant\": \"4TB\", \"warranty\": \"5Y\", \"price_sgd\": 679},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise\", \"variant\": \"6TB\", \"warranty\": \"5Y\", \"price_sgd\": 899},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise\", \"variant\": \"8TB\", \"warranty\": \"5Y\", \"price_sgd\": 999},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise\", \"variant\": \"12TB\", \"warranty\": \"5Y\", \"price_sgd\": 1099},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N300 NAS 7200\", \"variant\": \"4TB\", \"price_sgd\": 389},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N300 NAS 7200\", \"variant\": \"6TB\", \"price_sgd\": 569},\n  {\"category\": \"3.5\\\" Internal HDD\", \"brand\": \"WD\", \"product\": \"WD Black 7200 64MB\", \"warranty\": \"5Y\", \"price_sgd\": 139},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Adata\", \"product\": \"Adata SU650\", \"variant\": \"1TB\", \"warranty\": \"3yr\", \"price_sgd\": 149},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"500GB\", \"warranty\": \"3yr\", \"price_sgd\": 165},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"1TB\", \"warranty\": \"3yr\", \"price_sgd\": 259},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"2TB\", \"warranty\": \"3yr\", \"price_sgd\": 489},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 870 EVO\", \"variant\": \"1TB\", \"warranty\": \"5Yrs\", \"price_sgd\": 379},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 870 EVO\", \"variant\": \"2TB\", \"warranty\": \"5Yrs\", \"price_sgd\": 659},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 870 EVO\", \"variant\": \"4TB\", \"warranty\": \"5Yrs\", \"price_sgd\": 1319},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 870 EVO\", \"variant\": \"8TB\", \"warranty\": \"5Yrs\", \"price_sgd\": 2599},\n  {\"category\": \"2.5\\\" Sata Solid State Drive\", \"brand\": \"Lexar\", \"product\": \"Lexar NS100\", \"variant\": \"256GB\", \"price_sgd\": 99},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive 2230\", \"brand\": \"WD\", \"product\": \"WD Black SN770M\", \"variant\": \"500GB\", \"price_sgd\": 199},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive 2230\", \"brand\": \"WD\", \"product\": \"WD Black SN770M\", \"variant\": \"1TB\", \"price_sgd\": 358},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive 2230\", \"brand\": \"WD\", \"product\": \"WD Black SN770M\", \"variant\": \"2TB\", \"price_sgd\": 659},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Adata\", \"product\": \"Adata Legend 860\", \"variant\": \"500GB\", \"warranty\": \"5yr\", \"price_sgd\": 179},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Adata\", \"product\": \"Adata Legend 900 Pro\", \"variant\": \"500GB\", \"warranty\": \"5yr\", \"price_sgd\": 289},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial P310\", \"variant\": \"1TB\", \"warranty\": \"5yr\", \"price_sgd\": 259},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial P310\", \"variant\": \"2TB\", \"warranty\": \"5yr\", \"price_sgd\": 459},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro\", \"variant\": \"500GB\", \"warranty\": \"5yr\", \"price_sgd\": 229},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro\", \"variant\": \"1TB\", \"warranty\": \"5yr\", \"price_sgd\": 309},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro\", \"variant\": \"2TB\", \"warranty\": \"5yr\", \"price_sgd\": 539},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial T500 Pro\", \"variant\": \"4TB\", \"warranty\": \"5yr\", \"price_sgd\": 959},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Basic\", \"variant\": \"500GB\", \"warranty\": \"5yr\", \"price_sgd\": 249},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Basic\", \"variant\": \"1TB\", \"warranty\": \"5yr\", \"price_sgd\": 409},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro (DRAM)\", \"variant\": \"500GB\", \"warranty\": \"5yr\", \"price_sgd\": 269},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Dynabook\", \"product\": \"Dynabook (Toshiba) Boost AX7300\", \"variant\": \"1TB\", \"warranty\": \"5yr\", \"price_sgd\": 429},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Evo\", \"variant\": \"1TB\", \"warranty\": \"5yrs\", \"price_sgd\": 275},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Evo\", \"variant\": \"4TB\", \"warranty\": \"5yrs\", \"price_sgd\": 1295},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro\", \"variant\": \"1TB\", \"warranty\": \"5yrs\", \"price_sgd\": 355},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro\", \"variant\": \"2TB\", \"warranty\": \"5yrs\", \"price_sgd\": 699},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 990 Pro\", \"variant\": \"4TB\", \"warranty\": \"5yrs\", \"price_sgd\": 1399},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN7100\", \"variant\": \"500GB\", \"price_sgd\": 189},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN7100\", \"variant\": \"1TB\", \"price_sgd\": 259},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN7100\", \"variant\": \"2TB\", \"price_sgd\": 659},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN7100\", \"variant\": \"4TB\", \"price_sgd\": 999},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen 4\", \"variant\": \"1TB\", \"price_sgd\": 269},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen 4\", \"variant\": \"2TB\", \"price_sgd\": 729},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen 4\", \"variant\": \"4TB\", \"price_sgd\": 1089},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen 4 w/Heatsink\", \"variant\": \"2TB\", \"price_sgd\": 1139},\n  {\"category\": \"M.2 PCI-E Gen 4 NVME Solid State Drive\", \"brand\": \"WD\", \"product\": \"WD Black SN850X Gen 4 w/Heatsink\", \"variant\": \"4TB\", \"price_sgd\": 2280},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Adata\", \"product\": \"Adata MARS 980 Blade\", \"variant\": \"1TB\", \"price_sgd\": 369},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial P510\", \"variant\": \"1TB\", \"price_sgd\": 359},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Crucial\", \"product\": \"Crucial P510\", \"variant\": \"2TB\", \"price_sgd\": 572},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro G3\", \"variant\": \"1TB\", \"warranty\": \"5yr\", \"price_sgd\": 289},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro G3\", \"variant\": \"2TB\", \"warranty\": \"5yr\", \"price_sgd\": 490},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro G2(DRAM)\", \"variant\": \"1TB\", \"warranty\": \"5yr\", \"price_sgd\": 319},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria Pro G2(DRAM)\", \"variant\": \"2TB\", \"warranty\": \"5yr\", \"price_sgd\": 580},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro\", \"variant\": \"1TB\", \"price_sgd\": 379},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro\", \"variant\": \"2TB\", \"price_sgd\": 789},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung 9100 Pro\", \"variant\": \"4TB\", \"price_sgd\": 1590},\n  {\"category\": \"M.2 PCI-E Gen 5 NVME Solid State Drive\", \"brand\": \"ZhiTai\", \"product\": \"ZhiTai TiPro9000\", \"variant\": \"2TB\", \"warranty\": \"5yrs\", \"price_sgd\": 619},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Connect II\", \"variant\": \"1TB\", \"price_sgd\": 139},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Connect II\", \"variant\": \"2TB\", \"price_sgd\": 169},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Connect II\", \"variant\": \"4TB\", \"price_sgd\": 229},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"WD\", \"product\": \"WD My Passport Storage\", \"variant\": \"1TB\", \"price_sgd\": 139},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"WD\", \"product\": \"WD My Passport Storage\", \"variant\": \"2TB\", \"price_sgd\": 169},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"WD\", \"product\": \"WD My Passport Storage\", \"variant\": \"4TB\", \"price_sgd\": 229},\n  {\"category\": \"External Hard Disc Drive\", \"brand\": \"WD\", \"product\": \"WD My Passport Storage\", \"variant\": \"5TB\", \"price_sgd\": 279},\n  {\"category\": \"External Solid State Drive\", \"brand\": \"Samsung\", \"product\": \"Samsung T7 Portable SSD USB 3.0 / USB C\", \"variant\": \"500GB\", \"warranty\": \"3 Yrs\", \"price_sgd\": 0},\n  {\"category\": \"External Solid State Drive\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA Exceria Plus G2\", \"variant\": \"1TB\", \"price_sgd\": 275},\n  {\"category\": \"External Solid State Drive\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA Exceria Plus G2\", \"variant\": \"2TB\", \"price_sgd\": 439},\n  {\"category\": \"External Solid State Drive\", \"brand\": \"Dynabook\", \"product\": \"Dynabook (Toshiba) Boost X60 Ultra USB 4\", \"variant\": \"1TB\", \"price_sgd\": 295},\n  {\"category\": \"External Solid State Drive\", \"brand\": \"Dynabook\", \"product\": \"Dynabook (Toshiba) Boost X60 Ultra USB 4\", \"variant\": \"2TB\", \"price_sgd\": 460},\n  {\"category\": \"External Solid State Drive\", \"brand\": \"Dynabook\", \"product\": \"Dynabook (Toshiba) Boost X60 Ultra USB 4\", \"variant\": \"4TB\", \"price_sgd\": 818},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Asustor\", \"product\": \"Asustor AS1102TL 2 Bay NAS\", \"price_sgd\": 289},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Synology\", \"product\": \"Synology DS225+ 2-Bays NAS\", \"price_sgd\": 599},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Synology\", \"product\": \"Synology DS425+ 4-Bays NAS\", \"price_sgd\": 969},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Synology\", \"product\": \"Synology DS725+ 2-Bays NAS\", \"price_sgd\": 1050},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Synology\", \"product\": \"Synology DS925+ 4-Bays NAS\", \"price_sgd\": 1159},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Synology\", \"product\": \"Synology DS1525+ 5-Bays NAS\", \"price_sgd\": 1659},\n  {\"category\": \"Network Attached Storage\", \"brand\": \"Synology\", \"product\": \"Synology DS1825+ 8-Bays NAS\", \"price_sgd\": 2059},\n  {\"category\": \"Intel /GMK NUC Mini PC (3 Years)\", \"brand\": \"Intel\", \"product\": \"Intel NUC 15CRH 15th Gen U5-225H Wifi 7/BT/D5\", \"warranty\": \"3 Years\", \"price_sgd\": 689},\n  {\"category\": \"Intel /GMK NUC Mini PC (3 Years)\", \"brand\": \"GMKTEC\", \"product\": \"GMKTEC NUCBOX M3 PRO INTEL I5 13500H/16G/512GB\", \"warranty\": \"3 Years\", \"price_sgd\": 849},\n  {\"category\": \"Intel /GMK NUC Mini PC (3 Years)\", \"brand\": \"GMKTEC\", \"product\": \"GMKTEC NUCBOX M6 ULTRA RYZEN 5 7640HS/16G/512GB\", \"warranty\": \"3 Years\", \"price_sgd\": 899},\n  {\"category\": \"Intel /GMK NUC Mini PC (3 Years)\", \"brand\": \"GMKTEC\", \"product\": \"GMKTEC NUCBOX M3 ULTRA INTEL I7 12700H/32G/1TB\", \"warranty\": \"3 Years\", \"price_sgd\": 989},\n  {\"category\": \"Intel /GMK NUC Mini PC (3 Years)\", \"brand\": \"GMKTEC\", \"product\": \"GMKTEC NUCBOX EVO-X1 AMD Ryzen™ AI 9 HX 370 32G/1TB\", \"warranty\": \"3 Years\", \"price_sgd\": 1799},\n  {\"category\": \"Intel /GMK NUC Mini PC (3 Years)\", \"brand\": \"GMKTEC\", \"product\": \"GMKTEC NUCBOX EVO-X1 AMD Ryzen™ AI 9 HX 470 64G/1TB\", \"warranty\": \"3 Years\", \"price_sgd\": 2299},\n  {\"category\": \"Asus Mini PC (3 Years)\", \"brand\": \"Asus\", \"product\": \"Asus PN51-S1-B-B7216MD R7-5700U Wifi 6/BT/D4 (Free KB & M\", \"warranty\": \"3 Years\", \"price_sgd\": 645},\n  {\"category\": \"Internal SATA DVD +- RW\", \"brand\": \"Asus\", \"product\": \"Asus 24X DRW-24B3ST DVD +- RW\", \"price_sgd\": 25},\n  {\"category\": \"External DVD +- RW USB 2.0\", \"brand\": \"Asus\", \"product\": \"Asus ZenDrive 8x 13mm Ultra Slim & Light (USB-C)\", \"price_sgd\": 69},\n  {\"category\": \"External DVD +- RW USB 2.0\", \"brand\": \"Garethan\", \"product\": \"Garethan 8x External Slim USB 3.0\", \"price_sgd\": 39},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Crucial/Lexar\", \"product\": \"Crucial/Lexar PC3200 CL22\", \"variant\": \"8GB\", \"price_sgd\": 109},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Crucial/Lexar\", \"product\": \"Crucial/Lexar PC3200 CL22\", \"variant\": \"16GB\", \"price_sgd\": 199},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Crucial/Lexar\", \"product\": \"Crucial/Lexar PC3200 CL22\", \"variant\": \"32GB\", \"price_sgd\": 369},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Kingston\", \"product\": \"Kingston PC3200 CL22\", \"variant\": \"16GB\", \"price_sgd\": 239},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"KingBank\", \"product\": \"KingBank PC3200 CL16\", \"variant\": \"16GB\", \"price_sgd\": 179},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Crucial\", \"product\": \"Crucial PC5600 CL46\", \"variant\": \"8GB\", \"price_sgd\": 189},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Crucial\", \"product\": \"Crucial PC5600 CL46\", \"variant\": \"16GB\", \"price_sgd\": 339},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Crucial\", \"product\": \"Crucial PC5600 CL46\", \"variant\": \"32GB\", \"price_sgd\": 669},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Kingston\", \"product\": \"Kingston Fury Beast PC5600 CL36\", \"variant\": \"16GB\", \"price_sgd\": 329},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Lexar\", \"product\": \"Lexar PC5600 CL46\", \"variant\": \"16GB\", \"price_sgd\": 379},\n  {\"category\": \"Memory Prices Subject to Change Without Prior Notice\", \"brand\": \"Lexar\", \"product\": \"Lexar PC5600 CL46\", \"variant\": \"64GB\", \"price_sgd\": 64"
+}
