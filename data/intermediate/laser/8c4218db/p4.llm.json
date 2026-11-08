@@ -1,0 +1,73 @@
+{
+  "rows": [
+    {
+      "product": "NZXT MIKE",
+      "brand": "NZXT",
+      "price_sgd": 119
+    },
+    {
+      "product": "NZXT MIKE",
+      "brand": "NZXT",
+      "price_sgd": 155
+    },
+    {
+      "product": "Philips 24E1N1200A 23.8” Monitor",
+      "brand": "Philips",
+      "variant": "23.8\"",
+      "price_sgd": 128
+    },
+    {
+      "product": "Philips 27E1N1200A 27” Monitor",
+      "brand": "Philips",
+      "variant": "27\"",
+      "price_sgd": 148
+    },
+    {
+      "category": "PORTABLE MONITOR",
+      "product": "ThinkVision M15 15.6”",
+      "brand": "Lenovo",
+      "variant": "15.6\"",
+      "price_sgd": 225
+    },
+    {
+      "product": "ASUS Zen Screen MB166C Portable Monitor",
+      "brand": "ASUS",
+      "variant": "15.6\"",
+      "warranty": "3 Years Local Warranty",
+      "price_sgd": 225
+    },
+    {
+      "category": "Gaming Monitor",
+      "product": "AOC 24G4",
+      "brand": "AOC",
+      "variant": "24\"",
+      "price_sgd": 178
+    },
+    {
+      "category": "Gaming Monitor",
+      "product": "AOC 27G4",
+      "brand": "AOC",
+      "variant": "27\"",
+      "price_sgd": 203
+    },
+    {
+      "product": "Benq MA270U 27” 4K UHD Monitor",
+      "brand": "Benq",
+      "variant": "27\"",
+      "warranty": "3 Years Warranty",
+      "price_sgd": null
+    },
+    {
+      "product": "AOC Q27G4 QHD 2560 x 1440",
+      "brand": "AOC",
+      "variant": "27\"",
+      "price_sgd": 285
+    },
+    {
+      "product": "ThinkVision T23d-10",
+      "brand": "Lenovo",
+      "variant": "22.5\"",
+      "price_sgd": 139
+    }
+  ]
+}

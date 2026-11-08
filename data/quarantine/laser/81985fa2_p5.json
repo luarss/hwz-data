@@ -1,0 +1,68 @@
+{
+  "sha256": "81985fa2ce26e1cda5f54ad5ba5d585b0d8a58362f41324f75aa30ed4307d3be",
+  "vendor": "laser",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS RNUC14RVU50000I BareBone",
+      "variant": "Intel Core Ultra 5 Processor 125H",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 695.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS RNUC14RVU70000I Bare Bone",
+      "variant": "Intel Core Ultra 7 Processor 155H",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 895.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 ESSENTIAL N97 BAREBONE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "Intel",
+      "product": "Mini PC, K7 Plus 13th Intel Core i7-13620H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 849.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "Mini PC GMKtec M3 Intel Core i5 12450H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 619.0
+    }
+  ],
+  "numeric_tokens_in_source": 17,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 6/17 = 0.35",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec\",\n      \"price_sgd\": 299\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RNUC14RVU50000I BareBone\",\n      \"variant\": \"Intel Core Ultra 5 Processor 125H\",\n      \"price_sgd\": 695\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS RNUC14RVU70000I Bare Bone\",\n      \"variant\": \"Intel Core Ultra 7 Processor 155H\",\n      \"price_sgd\": 895\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 14 ESSENTIAL N97 BAREBONE\",\n      \"price_sgd\": 289\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"Intel\",\n      \"product\": \"Mini PC, K7 Plus 13th Intel Core i7-13620H\",\n      \"price_sgd\": 849\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"Mini PC GMKtec M3 Intel Core i5 12450H\",\n      \"price_sgd\": 619\n    }\n  ]\n}"
+}

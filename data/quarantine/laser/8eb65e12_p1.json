@@ -1,0 +1,1940 @@
+{
+  "sha256": "8eb65e1202973879144545f38c4c52075cf3f60dff9b72342c8349c2343f4de5",
+  "vendor": "laser",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 96.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "3TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba P 300",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Blue",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 77.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba P300",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Synology",
+      "product": "Synology NAS",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 178.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 245.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300 PRO",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300 PRO",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300 PRO",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba NearLine Enterprise",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba NearLine Enterprise",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba NearLine Enterprise",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 295.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Red Plus",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Red Plus",
+      "variant": "6TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Red Plus",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 316.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 498.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF PRO",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 453.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF PRO",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Seagate",
+      "product": "Seagate IRON WOLF PRO",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 659.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 405.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 520.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300 PRO",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300 PRO",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba N 300 PRO",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 570.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise NearLine",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise NearLine",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 412.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Toshiba",
+      "product": "Toshiba Enterprise NearLine",
+      "variant": "16TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 515.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Red Plus",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 379.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Red Plus",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Purple",
+      "variant": "10TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 345.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Western Digital",
+      "product": "Western Digital Purple",
+      "variant": "12TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 465.0
+    },
+    {
+      "category": "HARD DISK 2.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": "HARD DISK 2.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "HARD DISK 2.5”",
+      "brand": "Seagate",
+      "product": "Seagate Barracuda",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NS100",
+      "variant": "128",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NS100",
+      "variant": "250G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NS100",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NS100",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NS100",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial BX500",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 349.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 870 Evo",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 870 Evo",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 870 Evo",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 870 Evo",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": null,
+      "brand": "Kioxia",
+      "product": "Kioxia Exceria SATA",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial P310",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial P310",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 189.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial T500",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial T500",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial T500",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": null,
+      "brand": "Klevv",
+      "product": "Klevv C910",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Klevv",
+      "product": "Klevv C910",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 152.0
+    },
+    {
+      "category": null,
+      "brand": "Klevv",
+      "product": "Klevv C910",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "Kioxia",
+      "product": "Kioxia G3 Plus",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 EVO Plus",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 EVO Plus",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 EVO Plus",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO Heatsink",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO Heatsink",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung 990 PRO Heatsink",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 495.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NM 790",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NM 790",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NM 790",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": null,
+      "brand": "Lexar",
+      "product": "Lexar NQ 790",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "W D Black SN850 X",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "W D Black SN850 X",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "W D Black SN850 X",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": null,
+      "brand": "WD",
+      "product": "WD Black SN850 X",
+      "variant": "8TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1059.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 400s 2242 M.2",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": "Transcend",
+      "product": "Transcend 400s 2242 M.2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair MP600 Core Mini 2230",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "PNY",
+      "product": "PNY 2230 Nvme Gen 4 (5yrs)",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "PCIe Gen 4 x 16 To M.2 Expansion Card.....",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial X10 Pro",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial X10 Pro",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Crucial",
+      "product": "Crucial X10 Pro",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Kioxia",
+      "product": "Kioxia EXCERIA PLUS G2",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": "Kioxia",
+      "product": "Kioxia EXCERIA PLUS G2",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung T 7",
+      "variant": "500G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung T 7",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung T 7",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 419.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung T 9 portable",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 156.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung T 9 portable",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": null,
+      "brand": "Samsung",
+      "product": "Samsung T 9 portable",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 475.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Advance",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Advance",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Advance",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Flex",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": null,
+      "brand": "Toshiba",
+      "product": "Toshiba Canvio Flex",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "Seagate Expansion Drive",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 86.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "Seagate Expansion Drive",
+      "variant": "2TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "Seagate Expansion Drive",
+      "variant": "4TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": null,
+      "brand": "Seagate",
+      "product": "Seagate Expansion Drive",
+      "variant": "5TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus PRIME AP201 type C 3.2 G2",
+      "variant": "MTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Cooler Master NR200(white/Black)",
+      "variant": "iTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": null,
+      "brand": "Cooler Master",
+      "product": "Cooler Master NR200P(white/Black)",
+      "variant": "iTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "MasterBox",
+      "product": "MasterBox MB400L with TG",
+      "variant": "mTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair 480T TG 3x RGB fan",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": "Corsair",
+      "product": "Corsair Frame 4000D RS 3xFan",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "DeepCool",
+      "product": "DeepCool CH270 Digital black",
+      "variant": "Matx",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": null,
+      "brand": "DeepCool",
+      "product": "DeepCool CH160",
+      "variant": "ITX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "DeepCool",
+      "product": "DeepCool CH160 White",
+      "variant": "ITX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "DeepCool",
+      "product": "DeepCool CH260 White",
+      "variant": "ITX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": null,
+      "brand": "DeepCool",
+      "product": "DeepCool CH260 Black",
+      "variant": "Matx",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "DeepCool",
+      "product": "DeepCool CG580 W",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": null,
+      "brand": "Jonsbo",
+      "product": "Jonsbo D31 Mesh White C",
+      "variant": "Matx",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": null,
+      "brand": "Jonsbo",
+      "product": "Jonsbo D41 Mesh Black C",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "Montech",
+      "product": "Montech Sky 2 GX Black 4 x ARGB",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Montech",
+      "product": "Montech Sky 1 Lite Black TG",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "NZXT",
+      "product": "NZXT H210 ITX Case",
+      "variant": "ITX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Core Mini 250watts",
+      "variant": "Matx",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Fusion 2 Air",
+      "variant": "Matx",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 60.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Neo M2 TG",
+      "variant": "Matx",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Nexus Air M TG ARGB",
+      "variant": "MTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Infinity M ARGB x3 - Black",
+      "variant": "MTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware TIMBER M White/Black",
+      "variant": "MTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Tecware",
+      "product": "Tecware Core Mini",
+      "variant": "mTX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": "Thermaltake",
+      "product": "Thermaltake S300",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ATX CASE 8 3.5” Drive Bay",
+      "variant": "ATX",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": null,
+      "brand": "Sandisk",
+      "product": "Sandisk Dual Drive",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Sandisk",
+      "product": "Sandisk Dual Drive",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Sandisk",
+      "product": "Sandisk Dual Drive",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": null,
+      "brand": "Thermaltake",
+      "product": "THERMALTAKE TG UPGRADE KIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 10.0
+    },
+    {
+      "category": null,
+      "brand": "Windows",
+      "product": "Windows 11 Home 64 bits",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": "Windows",
+      "product": "Windows 11 Pro 64 Bits",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte 5060WF2OC 8Gb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte 5060Eagle OC 8Gb",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N506T EAGLE OC-16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 985.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte N5070EAGALE OC -12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4698.0
+    },
+    {
+      "category": null,
+      "brand": "Gigabyte",
+      "product": "Gigabyte N5090 Gamin OC-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS GT 1030 2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS Dual-RTX 3050 OC 6GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS Dual-RTX4060-O8G-WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS Dual-RTX5060 -08G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS Dual-RTX5060 Ti -016G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS Dual RTX5070 012G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 990.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX5070 012G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1409.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS RTX PRIME 5070Ti",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": null,
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX 7600 GAMIN O/C 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 519.0
+    },
+    {
+      "category": null,
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX 7600XT GAMIN O/C 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 579.0
+    },
+    {
+      "category": null,
+      "brand": "Sapphire",
+      "product": "SAPPHIRE PULSE RX 7700XT 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": null,
+      "brand": "Sapphire",
+      "product": "SAPPHIRE RX 7800 XT OC 16GB NITRO+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 939.0
+    },
+    {
+      "category": null,
+      "brand": "Sapphire",
+      "product": "SAPPHIRE RX 9070 PULSE GAMING 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac GT710 2GB ddr3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 123.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac GT 1030 Low Profile 2GB GDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 3050 6GB LP ZTA30510L-10L",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5060 SOLO 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX5060 AMP 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 679.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5060 Ti TWIN EDGE OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5070 TWIN EDGE OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 889.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5070 AMP White 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1299.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5070 Ti SOLID OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1699.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5080 SOLID CORE OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4050.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX 5090 SOLID OC 32GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 399.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel Arc B580 Challenger 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel Arc B580 STEEL LEGEND 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": null,
+      "brand": "ASUS",
+      "product": "ASUS Dual RX550G -4G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MasterWatt 550w Bronze 80+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MasterWatt 650w Bronze 80+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MasterWatt 750w Bronze 80+",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM G800 800W Gold n/m",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 105.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MWE 550W 80+GOLD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 112.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MWE 650W 80+GOLD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 136.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MWE 750W 80+GOLD Full/M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM MWE 850W 80+GOLD Full/M",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM V650 Gold V2 80+ black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 149.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM V750 Gold V2 80+ Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 159.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM V750 Gold V2 80+ WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 175.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM V850 Gold V2 80+ Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 185.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair SF850L PCIe 5.0 Gold",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 215.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM750e ATX3.0 & PCIe 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM850e ATX3.0 & PCIe 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM1000e ATX3.0&PCIe 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP 550 Watts Bronze HV 85+ Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP 650 Watts Bronze HV 85+ Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Cooler Master",
+      "product": "CM V SFX Gold 750 Full Modular",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Gigabyte",
+      "product": "Gigabyte UD1000GM PG5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 229.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Super Flower",
+      "product": "Super Flower 550w Zillion 80+ Bronze",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Super Flower",
+      "product": "Super Flower 650w Zillion 80+ Bronze",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Super Flower",
+      "product": "SuperFlower 850w Platinium Leadex VI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Super Flower",
+      "product": "SuperFlower 1000w Leadex VI Platinium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Super Flower",
+      "product": "SuperFlower 1200w Platinium se",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "Thermalright TG Gold 750W (Non Modular",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "Thermalright TG 650W Gold Full Mod",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 108.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "Thermalright TG850-White Full Modular",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP SFX 300W (60GHS)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP SFX Pro 450watts Bronze",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP DAGGER PRO 850W 80+ Gold",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP SFX Flex 300 Watts FSP300-50FCC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "SFX 650 Watts Gold White Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "SFX 650 Watts Gold Black Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "SFX 850 Watts Gold Black Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "SFX 850 Watts Gold White Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    }
+  ],
+  "numeric_tokens_in_source": 840,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 214/840 = 0.25",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"1TB\", \"price_sgd\": 82},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"2TB\", \"price_sgd\": 96},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"3TB\", \"price_sgd\": 119},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"1TB\", \"price_sgd\": 99},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"2TB\", \"price_sgd\": 136},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"3TB\", \"price_sgd\": 168},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba P 300\", \"variant\": \"1TB\", \"price_sgd\": 73},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Blue\", \"variant\": \"1TB\", \"price_sgd\": 77},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"4TB\", \"price_sgd\": 149},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"6TB\", \"price_sgd\": 225},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"8TB\", \"price_sgd\": 260},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"4TB\", \"price_sgd\": 182},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"6TB\", \"price_sgd\": 289},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"8TB\", \"price_sgd\": 355},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba P300\", \"variant\": \"4TB\", \"price_sgd\": 131},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Synology\", \"product\": \"Synology NAS\", \"variant\": \"4TB\", \"price_sgd\": 178},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300\", \"variant\": \"4TB\", \"price_sgd\": 175},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300\", \"variant\": \"6TB\", \"price_sgd\": 245},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300\", \"variant\": \"8TB\", \"price_sgd\": 278},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300 PRO\", \"variant\": \"4TB\", \"price_sgd\": 195},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300 PRO\", \"variant\": \"6TB\", \"price_sgd\": 255},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300 PRO\", \"variant\": \"8TB\", \"price_sgd\": 309},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba NearLine Enterprise\", \"variant\": \"4TB\", \"price_sgd\": 209},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba NearLine Enterprise\", \"variant\": \"6TB\", \"price_sgd\": 265},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba NearLine Enterprise\", \"variant\": \"8TB\", \"price_sgd\": 295},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Red Plus\", \"variant\": \"4TB\", \"price_sgd\": 196},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Red Plus\", \"variant\": \"6TB\", \"price_sgd\": 265},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Red Plus\", \"variant\": \"8TB\", \"price_sgd\": 316},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"10TB\", \"price_sgd\": 439},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF\", \"variant\": \"12TB\", \"price_sgd\": 498},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF PRO\", \"variant\": \"10TB\", \"price_sgd\": 453},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF PRO\", \"variant\": \"12TB\", \"price_sgd\": 539},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate IRON WOLF PRO\", \"variant\": \"16TB\", \"price_sgd\": 659},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300\", \"variant\": \"10TB\", \"price_sgd\": 355},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300\", \"variant\": \"12TB\", \"price_sgd\": 405},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300\", \"variant\": \"16TB\", \"price_sgd\": 520},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300 PRO\", \"variant\": \"10TB\", \"price_sgd\": 385},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300 PRO\", \"variant\": \"12TB\", \"price_sgd\": 429},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba N 300 PRO\", \"variant\": \"16TB\", \"price_sgd\": 570},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise NearLine\", \"variant\": \"10TB\", \"price_sgd\": 398},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise NearLine\", \"variant\": \"12TB\", \"price_sgd\": 412},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Toshiba\", \"product\": \"Toshiba Enterprise NearLine\", \"variant\": \"16TB\", \"price_sgd\": 515},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Red Plus\", \"variant\": \"10TB\", \"price_sgd\": 379},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Red Plus\", \"variant\": \"12TB\", \"price_sgd\": 458},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Purple\", \"variant\": \"10TB\", \"price_sgd\": 345},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Western Digital\", \"product\": \"Western Digital Purple\", \"variant\": \"12TB\", \"price_sgd\": 465},\n  {\"category\": \"HARD DISK 2.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"500G\", \"price_sgd\": 68},\n  {\"category\": \"HARD DISK 2.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"1TB\", \"price_sgd\": 85},\n  {\"category\": \"HARD DISK 2.5\\u201d\", \"brand\": \"Seagate\", \"product\": \"Seagate Barracuda\", \"variant\": \"2TB\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NS100\", \"variant\": \"128\", \"price_sgd\": 25},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NS100\", \"variant\": \"250G\", \"price_sgd\": 29},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NS100\", \"variant\": \"500G\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NS100\", \"variant\": \"1TB\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NS100\", \"variant\": \"2TB\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"500G\", \"price_sgd\": 49},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"1TB\", \"price_sgd\": 89},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"2TB\", \"price_sgd\": 155},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial BX500\", \"variant\": \"4TB\", \"price_sgd\": 349},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 870 Evo\", \"variant\": \"500G\", \"price_sgd\": 88},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 870 Evo\", \"variant\": \"1TB\", \"price_sgd\": 135},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 870 Evo\", \"variant\": \"2TB\", \"price_sgd\": 235},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 870 Evo\", \"variant\": \"4TB\", \"price_sgd\": 479},\n  {\"category\": null, \"brand\": \"Kioxia\", \"product\": \"Kioxia Exceria SATA\", \"variant\": \"500G\", \"price_sgd\": 78},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial P310\", \"variant\": \"1TB\", \"price_sgd\": 95},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial P310\", \"variant\": \"2TB\", \"price_sgd\": 189},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial T500\", \"variant\": \"1TB\", \"price_sgd\": 112},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial T500\", \"variant\": \"2TB\", \"price_sgd\": 205},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial T500\", \"variant\": \"4TB\", \"price_sgd\": 429},\n  {\"category\": null, \"brand\": \"Klevv\", \"product\": \"Klevv C910\", \"variant\": \"1TB\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"Klevv\", \"product\": \"Klevv C910\", \"variant\": \"2TB\", \"price_sgd\": 152},\n  {\"category\": null, \"brand\": \"Klevv\", \"product\": \"Klevv C910\", \"variant\": \"4TB\", \"price_sgd\": 268},\n  {\"category\": null, \"brand\": \"Kioxia\", \"product\": \"Kioxia G3 Plus\", \"variant\": \"500G\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 EVO Plus\", \"variant\": \"1TB\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 EVO Plus\", \"variant\": \"2TB\", \"price_sgd\": 268},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 EVO Plus\", \"variant\": \"4TB\", \"price_sgd\": 479},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO\", \"variant\": \"1TB\", \"price_sgd\": 149},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO\", \"variant\": \"2TB\", \"price_sgd\": 259},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO\", \"variant\": \"4TB\", \"price_sgd\": 489},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO Heatsink\", \"variant\": \"1TB\", \"price_sgd\": 159},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO Heatsink\", \"variant\": \"2TB\", \"price_sgd\": 279},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung 990 PRO Heatsink\", \"variant\": \"4TB\", \"price_sgd\": 495},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NM 790\", \"variant\": \"1TB\", \"price_sgd\": 125},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NM 790\", \"variant\": \"2TB\", \"price_sgd\": 259},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NM 790\", \"variant\": \"4TB\", \"price_sgd\": 355},\n  {\"category\": null, \"brand\": \"Lexar\", \"product\": \"Lexar NQ 790\", \"variant\": \"4TB\", \"price_sgd\": 359},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"W D Black SN850 X\", \"variant\": \"1TB\", \"price_sgd\": 135},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"W D Black SN850 X\", \"variant\": \"2TB\", \"price_sgd\": 235},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"W D Black SN850 X\", \"variant\": \"4TB\", \"price_sgd\": 468},\n  {\"category\": null, \"brand\": \"WD\", \"product\": \"WD Black SN850 X\", \"variant\": \"8TB\", \"price_sgd\": 1059},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 400s 2242 M.2\", \"variant\": \"500G\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": \"Transcend\", \"product\": \"Transcend 400s 2242 M.2\", \"variant\": \"1TB\", \"price_sgd\": 118},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair MP600 Core Mini 2230\", \"variant\": \"1TB\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": \"PNY\", \"product\": \"PNY 2230 Nvme Gen 4 (5yrs)\", \"variant\": \"1TB\", \"price_sgd\": 128},\n  {\"category\": null, \"brand\": null, \"product\": \"PCIe Gen 4 x 16 To M.2 Expansion Card.....\", \"price_sgd\": 15},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial X10 Pro\", \"variant\": \"1TB\", \"price_sgd\": 138},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial X10 Pro\", \"variant\": \"2TB\", \"price_sgd\": 229},\n  {\"category\": null, \"brand\": \"Crucial\", \"product\": \"Crucial X10 Pro\", \"variant\": \"4TB\", \"price_sgd\": 409},\n  {\"category\": null, \"brand\": \"Kioxia\", \"product\": \"Kioxia EXCERIA PLUS G2\", \"variant\": \"500G\", \"price_sgd\": 109},\n  {\"category\": null, \"brand\": \"Kioxia\", \"product\": \"Kioxia EXCERIA PLUS G2\", \"variant\": \"1TB\", \"price_sgd\": 179},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung T 7\", \"variant\": \"500G\", \"price_sgd\": 142},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung T 7\", \"variant\": \"1TB\", \"price_sgd\": 229},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung T 7\", \"variant\": \"4TB\", \"price_sgd\": 419},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung T 9 portable\", \"variant\": \"1TB\", \"price_sgd\": 156},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung T 9 portable\", \"variant\": \"2TB\", \"price_sgd\": 255},\n  {\"category\": null, \"brand\": \"Samsung\", \"product\": \"Samsung T 9 portable\", \"variant\": \"4TB\", \"price_sgd\": 475},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Advance\", \"variant\": \"1TB\", \"price_sgd\": 82},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Advance\", \"variant\": \"2TB\", \"price_sgd\": 105},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Advance\", \"variant\": \"4TB\", \"price_sgd\": 155},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Flex\", \"variant\": \"1TB\", \"price_sgd\": 118},\n  {\"category\": null, \"brand\": \"Toshiba\", \"product\": \"Toshiba Canvio Flex\", \"variant\": \"2TB\", \"price_sgd\": 172},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"Seagate Expansion Drive\", \"variant\": \"1TB\", \"price_sgd\": 86},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"Seagate Expansion Drive\", \"variant\": \"2TB\", \"price_sgd\": 105},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"Seagate Expansion Drive\", \"variant\": \"4TB\", \"price_sgd\": 162},\n  {\"category\": null, \"brand\": \"Seagate\", \"product\": \"Seagate Expansion Drive\", \"variant\": \"5TB\", \"price_sgd\": 195},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus PRIME AP201 type C 3.2 G2\", \"variant\": \"MTX\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"Cooler Master NR200(white/Black)\", \"variant\": \"iTX\", \"price_sgd\": 97},\n  {\"category\": null, \"brand\": \"Cooler Master\", \"product\": \"Cooler Master NR200P(white/Black)\", \"variant\": \"iTX\", \"price_sgd\": 119},\n  {\"category\": null, \"brand\": \"MasterBox\", \"product\": \"MasterBox MB400L with TG\", \"variant\": \"mTX\", \"price_sgd\": 59},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair 480T TG 3x RGB fan\", \"variant\": \"ATX\", \"price_sgd\": 115},\n  {\"category\": null, \"brand\": \"Corsair\", \"product\": \"Corsair Frame 4000D RS 3xFan\", \"variant\": \"ATX\", \"price_sgd\": 149},\n  {\"category\": null, \"brand\": \"DeepCool\", \"product\": \"DeepCool CH270 Digital black\", \"variant\": \"Matx\", \"price_sgd\": 105},\n  {\"category\": null, \"brand\": \"DeepCool\", \"product\": \"DeepCool CH160\", \"variant\": \"ITX\", \"price_sgd\": 75},\n  {\"category\": null, \"brand\": \"DeepCool\", \"product\": \"DeepCool CH160 White\", \"variant\": \"ITX\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"DeepCool\", \"product\": \"DeepCool CH260 White\", \"variant\": \"ITX\", \"price_sgd\": 95},\n  {\"category\": null, \"brand\": \"DeepCool\", \"product\": \"DeepCool CH260 Black\", \"variant\": \"Matx\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"DeepCool\", \"product\": \"DeepCool CG580 W\", \"variant\": \"ATX\", \"price_sgd\": 118},\n  {\"category\": null, \"brand\": \"Jonsbo\", \"product\": \"Jonsbo D31 Mesh White C\", \"variant\": \"Matx\", \"price_sgd\": 78},\n  {\"category\": null, \"brand\": \"Jonsbo\", \"product\": \"Jonsbo D41 Mesh Black C\", \"variant\": \"ATX\", \"price_sgd\": 85},\n  {\"category\": null, \"brand\": \"Montech\", \"product\": \"Montech Sky 2 GX Black 4 x ARGB\", \"variant\": \"ATX\", \"price_sgd\": 125},\n  {\"category\": null, \"brand\": \"Montech\", \"product\": \"Montech Sky 1 Lite Black TG\", \"variant\": \"ATX\", \"price_sgd\": 89},\n  {\"category\": null, \"brand\": \"NZXT\", \"product\": \"NZXT H210 ITX Case\", \"variant\": \"ITX\", \"price_sgd\": 119},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware Core Mini 250watts\", \"variant\": \"Matx\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware Fusion 2 Air\", \"variant\": \"Matx\", \"price_sgd\": 60},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware Neo M2 TG\", \"variant\": \"Matx\", \"price_sgd\": 46},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware Nexus Air M TG ARGB\", \"variant\": \"MTX\", \"price_sgd\": 75},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware Infinity M ARGB x3 - Black\", \"variant\": \"MTX\", \"price_sgd\": 79},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware TIMBER M White/Black\", \"variant\": \"MTX\", \"price_sgd\": 59},\n  {\"category\": null, \"brand\": \"Tecware\", \"product\": \"Tecware Core Mini\", \"variant\": \"mTX\", \"price_sgd\": 59},\n  {\"category\": null, \"brand\": \"Thermaltake\", \"product\": \"Thermaltake S300\", \"variant\": \"ATX\", \"price_sgd\": 89},\n  {\"category\": null, \"brand\": null, \"product\": \"ATX CASE 8 3.5\\u201d Drive Bay\", \"variant\": \"ATX\", \"price_sgd\": 65},\n  {\"category\": null, \"brand\": \"Sandisk\", \"product\": \"Sandisk Dual Drive\", \"variant\": \"128GB\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Sandisk\", \"product\": \"Sandisk Dual Drive\", \"variant\": \"256GB\", \"price_sgd\": 172},\n  {\"category\": null, \"brand\": \"Sandisk\", \"product\": \"Sandisk Dual Drive\", \"variant\": \"512GB\", \"price_sgd\": 215},\n  {\"category\": null, \"brand\": \"Thermaltake\", \"product\": \"THERMALTAKE TG UPGRADE KIT\", \"price_sgd\": 10},\n  {\"category\": null, \"brand\": \"Windows\", \"product\": \"Windows 11 Home 64 bits\", \"price_sgd\": 172},\n  {\"category\": null, \"brand\": \"Windows\", \"product\": \"Windows 11 Pro 64 Bits\", \"price_sgd\": 215},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 5060WF2OC 8Gb\", \"price_sgd\": 499},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte 5060Eagle OC 8Gb\", \"price_sgd\": 499},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N506T EAGLE OC-16G\", \"price_sgd\": 985},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte N5070EAGALE OC -12GD\", \"price_sgd\": 4698},\n  {\"category\": null, \"brand\": \"Gigabyte\", \"product\": \"Gigabyte N5090 Gamin OC-32GD\", \"price_sgd\": 149},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS GT 1030 2GB GDDR5\", \"price_sgd\": 289},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS Dual-RTX 3050 OC 6GB\", \"price_sgd\": 499},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS Dual-RTX4060-O8G-WHITE\", \"price_sgd\": 489},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS Dual-RTX5060 -08G\", \"price_sgd\": 668},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS Dual-RTX5060 Ti -016G\", \"price_sgd\": 949},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS Dual RTX5070 012G\", \"price_sgd\": 990},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX5070 012G\", \"price_sgd\": 1409},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS RTX PRIME 5070Ti\", \"price_sgd\": 408},\n  {\"category\": null, \"brand\": \"Sapphire\", \"product\": \"SAPPHIRE PULSE RX 7600 GAMIN O/C 8GB\", \"price_sgd\": 519},\n  {\"category\": null, \"brand\": \"Sapphire\", \"product\": \"SAPPHIRE PULSE RX 7600XT GAMIN O/C 16GB\", \"price_sgd\": 579},\n  {\"category\": null, \"brand\": \"Sapphire\", \"product\": \"SAPPHIRE PULSE RX 7700XT 12GB\", \"price_sgd\": 719},\n  {\"category\": null, \"brand\": \"Sapphire\", \"product\": \"SAPPHIRE RX 7800 XT OC 16GB NITRO+\", \"price_sgd\": 939},\n  {\"category\": null, \"brand\": \"Sapphire\", \"product\": \"SAPPHIRE RX 9070 PULSE GAMING 16GB\", \"price_sgd\": 83},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac GT710 2GB ddr3\", \"price_sgd\": 123},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac GT 1030 Low Profile 2GB GDR5\", \"price_sgd\": 275},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 3050 6GB LP ZTA30510L-10L\", \"price_sgd\": 459},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5060 SOLO 8GB\", \"price_sgd\": 459},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX5060 AMP 8GB\", \"price_sgd\": 679},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5060 Ti TWIN EDGE OC 16GB\", \"price_sgd\": 859},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5070 TWIN EDGE OC 12GB\", \"price_sgd\": 889},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5070 AMP White 12GB\", \"price_sgd\": 1299},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5070 Ti SOLID OC 16GB\", \"price_sgd\": 1699},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5080 SOLID CORE OC 16GB\", \"price_sgd\": 4050},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX 5090 SOLID OC 32GB\", \"price_sgd\": 399},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel Arc B580 Challenger 12GB OC\", \"price_sgd\": 439},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel Arc B580 STEEL LEGEND 12GB OC\", \"price_sgd\": 135},\n  {\"category\": null, \"brand\": \"ASUS\", \"product\": \"ASUS Dual RX550G -4G\", \"price_sgd\": 89},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MasterWatt 550w Bronze 80+\", \"price_sgd\": 99},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MasterWatt 650w Bronze 80+\", \"price_sgd\": 115},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MasterWatt 750w Bronze 80+\", \"price_sgd\": 105},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM G800 800W Gold n/m\", \"warranty\": \"5Y\", \"price_sgd\": 105},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MWE 550W 80+GOLD\", \"warranty\": \"5Y\", \"price_sgd\": 112},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MWE 650W 80+GOLD\", \"warranty\": \"5Y\", \"price_sgd\": 136},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MWE 750W 80+GOLD Full/M\", \"price_sgd\": 148},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM MWE 850W 80+GOLD Full/M\", \"price_sgd\": 170},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM V650 Gold V2 80+ black\", \"warranty\": \"10Y\", \"price_sgd\": 149},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM V750 Gold V2 80+ Black\", \"warranty\": \"10Y\", \"price_sgd\": 159},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM V750 Gold V2 80+ WHITE\", \"warranty\": \"10Y\", \"price_sgd\": 175},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM V850 Gold V2 80+ Black\", \"warranty\": \"10Y\", \"price_sgd\": 185},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair SF850L PCIe 5.0 Gold\", \"warranty\": \"10Y\", \"price_sgd\": 215},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM750e ATX3.0 & PCIe 5.0\", \"price_sgd\": 179},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM850e ATX3.0 & PCIe 5.0\", \"price_sgd\": 206},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM1000e ATX3.0&PCIe 5.0\", \"price_sgd\": 279},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP 550 Watts Bronze HV 85+ Pro\", \"price_sgd\": 62},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP 650 Watts Bronze HV 85+ Pro\", \"price_sgd\": 75},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Cooler Master\", \"product\": \"CM V SFX Gold 750 Full Modular\", \"price_sgd\": 168},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte UD1000GM PG5\", \"price_sgd\": 229},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Super Flower\", \"product\": \"Super Flower 550w Zillion 80+ Bronze\", \"price_sgd\": 59},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Super Flower\", \"product\": \"Super Flower 650w Zillion 80+ Bronze\", \"price_sgd\": 72},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Super Flower\", \"product\": \"SuperFlower 850w Platinium Leadex VI\", \"price_sgd\": 149},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Super Flower\", \"product\": \"SuperFlower 1000w Leadex VI Platinium\", \"price_sgd\": 219},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Super Flower\", \"product\": \"SuperFlower 1200w Platinium se\", \"price_sgd\": 275},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"Thermalright TG Gold 750W (Non Modular\", \"price_sgd\": 99},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"Thermalright TG 650W Gold Full Mod\", \"price_sgd\": 108},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"Thermalright TG850-White Full Modular\", \"price_sgd\": 145},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP SFX 300W (60GHS)\", \"price_sgd\": 62},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP SFX Pro 450watts Bronze\", \"price_sgd\": 89},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP DAGGER PRO 850W 80+ Gold\", \"price_sgd\": 210},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP SFX Flex 300 Watts FSP300-50FCC\", \"price_sgd\": 72},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"SFX 650 Watts Gold White Thermalright\", \"price_sgd\": 139},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"SFX 650 Watts Gold Black Thermalright\", \"price_sgd\": 135},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"SFX 850 Watts Gold Black Thermalright\", \"price_sgd\": 168},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"SFX 850 Watts Gold White Thermalright\", \"price_sgd\": 172}\n]}"
+}

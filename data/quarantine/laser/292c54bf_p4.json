@@ -1,0 +1,41 @@
+{
+  "sha256": "292c54bf031f2fc6f3c891783ae2e11b0020db0c316f3b0386dcee17272db41a",
+  "vendor": "laser",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec",
+      "variant": "Complete Mini PC",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 ESSENTIAL N97 BAREBONE",
+      "variant": "Barebone",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "MINI PC, GMKtec K7 Plus INTEL Core i7-13620H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-site",
+      "price_sgd": 845.0
+    }
+  ],
+  "numeric_tokens_in_source": 9,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 3/9 = 0.33",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec\",\n      \"variant\": \"Complete Mini PC\",\n      \"price_sgd\": 279\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 14 ESSENTIAL N97 BAREBONE\",\n      \"variant\": \"Barebone\",\n      \"price_sgd\": 249\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"MINI PC, GMKtec K7 Plus INTEL Core i7-13620H\",\n      \"warranty\": \"3 Years On-site\",\n      \"price_sgd\": 845\n    }\n  ]\n}"
+}

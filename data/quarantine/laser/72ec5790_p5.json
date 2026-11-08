@@ -1,0 +1,23 @@
+{
+  "sha256": "72ec5790fa72a4170cd6c33e77380b8be443a1f27abaee2341a59b7f272c8140",
+  "vendor": "laser",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 7 8845HS Mini Pc NUCBox K8 Plus",
+      "variant": "32GB / 1TB / Win 11 Pro",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 839.0
+    }
+  ],
+  "numeric_tokens_in_source": 6,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 1/6 = 0.17",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"AMD\",\n      \"product\": \"AMD Ryzen 7 8845HS Mini Pc NUCBox K8 Plus\",\n      \"variant\": \"32GB / 1TB / Win 11 Pro\",\n      \"price_sgd\": 839\n    }\n  ]\n}"
+}
