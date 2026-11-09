@@ -1,4 +1,4 @@
-.PHONY: install install-deps sync reqs test lint scan process rollup stats bakeoff
+.PHONY: install install-deps sync reqs test lint scan process rollup stats bakeoff dashboard serve
 
 install: install-deps sync
 
@@ -40,3 +40,9 @@ stats:
 
 bakeoff:
 	@uv run python -m hwz_ocr.bakeoff
+
+dashboard:
+	@uv run python -m hwz_ocr.dashboard
+
+serve: dashboard
+	@python3 -m http.server 8000 --directory site

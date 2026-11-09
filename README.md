@@ -67,9 +67,22 @@ RUN_LIVE=1 uv run pytest -q -m live
 | --- | --- | --- |
 | `dl.yaml` (Nightly HWZ download) | Daily cron, manual | Runs `scrape.py`, commits new PDFs |
 | `ocr.yaml` (OCR price extraction) | After a successful download run, manual | scan, process, rollup, stats, commits `data/**` |
+| `pages.yaml` (Deploy dashboard) | After a successful OCR run, pushes touching `site/**` or `hwz_ocr/dashboard.py`, manual | Builds `site/data/*.json` from `data/prices.duckdb`, deploys `site/` to GitHub Pages |
 | `ci.yaml` | PRs and pushes to master touching code, tests, deps, workflows | `ruff check`, `pytest` |
 
 `dl.yaml` and `ocr.yaml` share the `hwz-commits` concurrency group so they never push at the same time. Scheduled OCR runs use `--max-pages 60`.
+
+## Dashboard
+
+Static site in `site/` (vanilla JS + [uPlot](https://github.com/leeoniya/uPlot), vendored) with Overview, Shops, Components, Brands and Items views. `python -m hwz_ocr.dashboard` writes the JSON it reads into `site/data/` (gitignored):
+
+- `meta.json`, `series.json`: per-month listings, median price and price index for overall, each shop, component, top-40 brand, and shop/brand x component.
+- `movers.json`: biggest price drops/rises in each shop's latest list.
+- `items.json`: per-shop price history for items listed in 3+ months, loaded only on the Items view.
+
+Components are assigned by regex rules over product then vendor category text. The price index chains the mean month-over-month log price change of items seen in consecutive lists at the same shop; changes beyond 2x are dropped as extraction noise.
+
+Run `make serve` to preview at http://localhost:8000. Enable Pages with source "GitHub Actions" in repo settings.
 
 ## Providers
 

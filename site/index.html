@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>HWZ Price Tracker</title>
+<link rel="stylesheet" href="vendor/uPlot.min.css">
+<link rel="stylesheet" href="style.css">
+<link rel="preload" href="data/meta.json" as="fetch" crossorigin>
+<link rel="preload" href="data/series.json" as="fetch" crossorigin>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <strong>HWZ Price Tracker</strong>
+    <span id="updated" class="muted"></span>
+  </div>
+  <nav id="tabs">
+    <a href="#/overview">Overview</a>
+    <a href="#/shops">Shops</a>
+    <a href="#/components">Components</a>
+    <a href="#/brands">Brands</a>
+    <a href="#/items">Items</a>
+  </nav>
+</header>
+<main id="view" aria-live="polite"><p class="muted">Loading…</p></main>
+<footer class="muted">
+  Prices extracted from HardwareZone price list PDFs. Index = chained mean of month-over-month log price changes for the same item at the same shop (base 100 at first month).
+</footer>
+<script src="vendor/uPlot.iife.min.js"></script>
+<script src="app.js" type="module"></script>
+</body>
+</html>
