@@ -1,0 +1,77 @@
+{
+  "sha256": "962dbfd5f2ed57d0788f6ef61b8191ac12a10994b9876f9c4457528ee5611d2e",
+  "vendor": "laser",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Portable Monitor",
+      "brand": "Lenovo",
+      "product": "ThinkVision M15 15.6”",
+      "variant": "Full HD 1080P",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "Portable Monitor",
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A 23.8” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": "Portable Monitor",
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A 27” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "Portable Monitor",
+      "brand": "AOC",
+      "product": "AOC 27G4 27” IPS Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Portable Monitor",
+      "brand": "AOC",
+      "product": "AOC 27G11ZE2 27\" 240Hz Gaming Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Portable Monitor",
+      "brand": "BenQ",
+      "product": "Benq MA320U 31.5” 4K UHD Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 749.0
+    },
+    {
+      "category": "Portable Monitor",
+      "brand": "BenQ",
+      "product": "BenQ Screen Bar Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    }
+  ],
+  "numeric_tokens_in_source": 13,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 7/13 = 0.54",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Portable Monitor\", \"brand\": \"Lenovo\", \"product\": \"ThinkVision M15 15.6”\", \"variant\": \"Full HD 1080P\", \"price_sgd\": 215},\n  {\"category\": \"Portable Monitor\", \"brand\": \"Philips\", \"product\": \"Philips 24E1N1200A 23.8” Monitor\", \"price_sgd\": 128},\n  {\"category\": \"Portable Monitor\", \"brand\": \"Philips\", \"product\": \"Philips 27E1N1200A 27” Monitor\", \"price_sgd\": 145},\n  {\"category\": \"Portable Monitor\", \"brand\": \"AOC\", \"product\": \"AOC 27G4 27” IPS Gaming\", \"price_sgd\": 199},\n  {\"category\": \"Portable Monitor\", \"brand\": \"AOC\", \"product\": \"AOC 27G11ZE2 27\\\" 240Hz Gaming Monitor\", \"price_sgd\": 209},\n  {\"category\": \"Portable Monitor\", \"brand\": \"BenQ\", \"product\": \"Benq MA320U 31.5” 4K UHD Monitor\", \"price_sgd\": 749},\n  {\"category\": \"Portable Monitor\", \"brand\": \"BenQ\", \"product\": \"BenQ Screen Bar Pro\", \"price_sgd\": 199}\n]}"
+}

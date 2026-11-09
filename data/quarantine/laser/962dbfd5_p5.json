@@ -1,0 +1,32 @@
+{
+  "sha256": "962dbfd5f2ed57d0788f6ef61b8191ac12a10994b9876f9c4457528ee5611d2e",
+  "vendor": "laser",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "Intel Core Ultra 9 285H EVO-T1 AI Mini PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1619.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "AMD Ryzen 5 7640HS Mini PC NucBox M6 Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    }
+  ],
+  "numeric_tokens_in_source": 8,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/8 = 0.25",
+  "raw_response": "{\"rows\": [\n  {\"brand\": null, \"product\": \"Intel Core Ultra 9 285H EVO-T1 AI Mini PC\", \"variant\": null, \"price_sgd\": 1619},\n  {\"brand\": null, \"product\": \"AMD Ryzen 5 7640HS Mini PC NucBox M6 Ultra\", \"variant\": null, \"price_sgd\": 779}\n]}"
+}

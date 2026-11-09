@@ -1,0 +1,41 @@
+{
+  "sha256": "962dbfd5f2ed57d0788f6ef61b8191ac12a10994b9876f9c4457528ee5611d2e",
+  "vendor": "laser",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox G9 W/INTEL N150 PROCESSOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 509.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 ESSENTIAL N97 BAREBONE",
+      "variant": "RNUC14MNK9700000",
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 279.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "MINI PC, GMKtec K7 Plus INTEL Core i7-13620H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 959.0
+    }
+  ],
+  "numeric_tokens_in_source": 10,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 3/10 = 0.30",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox G9 W/INTEL N150 PROCESSOR\",\n      \"price_sgd\": 509\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS NUC 14 ESSENTIAL N97 BAREBONE\",\n      \"variant\": \"RNUC14MNK9700000\",\n      \"warranty\": \"3 Years\",\n      \"price_sgd\": 279\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"MINI PC, GMKtec K7 Plus INTEL Core i7-13620H\",\n      \"price_sgd\": 959\n    }\n  ]\n}"
+}

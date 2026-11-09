@@ -1,0 +1,743 @@
+{
+  "sha256": "ede65ebdcf5225191d29dec3315cda87001cab45fa1c0e4e57db885d7cbd078a",
+  "vendor": "laser",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Sandisk",
+      "product": "Sandisk Dual Drive",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Sandisk",
+      "product": "Sandisk Dual Drive",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "HARD DISK 3.5”",
+      "brand": "Sandisk",
+      "product": "Sandisk Dual Drive",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 438.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Windows 11 Home 64 bits",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Windows 11 Pro 64 Bits",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N5050WF2OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 438.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N5050OC-8GL Low Profile",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 445.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N5060WF2OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte RTX 5060Ti WF2OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 619.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte RTX5060Ti Eagle OC -16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 739.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte RTX5060Ti Eagle OC -16GB ICE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 819.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte RTX5060Ti Gaming OC -16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 839.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N5070EAGALE OC -12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 999.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N5070WF3OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 989.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV-N507T Eagle OC -16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1469.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV N5080 Gaming OC-16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2095.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte GV R9060XTGAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 709.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE PULSE RX 7700XT 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 535.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RX 7900 XTX OC Vapour X 24GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1278.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE PULSE RX9060XT OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 709.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE PURE RX9060XT OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RX 9070 PULSE GAMING 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 909.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RX 9070XT PULSE GAMING 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RX 9070XT PURE 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1155.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE RX 9070XT NITRO Plus",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1219.0
+    },
+    {
+      "category": null,
+      "brand": "SAPPHIRE",
+      "product": "SAPPHIRE AI-PRO R9700 32GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1999.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC GT710 2GB ddr3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC GT 1030 Low Profile 2GB GDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 3050 6GB LP ZTA30510L-10L",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC GAMING RTX 3050 ECO SOLO 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5050 Twin Edge OC 8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5050 Low Profile 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5060 TWIN EDGE OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5060 LP 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5070 TWIN EDGE OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1030.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5070 Solid OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1050.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC GAMING RTX 5070 AMP WHITE 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1119.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5080 SOLID CORE OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2259.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC RTX 5090 SOLID OC 32GB - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5799.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel Arc B580 Challenger 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel Arc B580 STEEL LEGEND 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": null,
+      "brand": "Intel",
+      "product": "Intel Arc B580 Sparkle Triple Fan 12GB oc",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 409.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Arctic",
+      "product": "Arctic Freezer 36 Black Dual Fan",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP 550 Watts Bronze HV 85+ Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Cooler Master",
+      "product": "C.M 212 Spectrum v3 ARGB Heatsink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "FSP",
+      "product": "FSP 650 Watts Bronze HV 85+ Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Cooler Master",
+      "product": "C.M MasterLiquid 240L V2 RGB Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair SF850L PCIe 5.0 Gold",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "10Y",
+      "price_sgd": 215.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM750e ATX3.0 & PCIe 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Cooler Master",
+      "product": "C.M Masterliquid ML360L Core ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM850e ATX3.0 & PCIe 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 206.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Deepcool",
+      "product": "Deepcool ASSASSIN IVS WH / BLK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 118.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Corsair",
+      "product": "Corsair RM1000e ATX3.0&PCIe 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Deepcool",
+      "product": "Deepcool ASSASSIN IV Blk",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 146.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Gigabyte",
+      "product": "Gigabyte UD1000GM PG5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Deepcool",
+      "product": "Deepcool AK620 Digital",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Montech",
+      "product": "Montech Century II 850W Platinium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Deepcool",
+      "product": "Deepcool Castle 360EX A-RGB WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Montech",
+      "product": "Montech Century II 1200W Platinium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 175.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "IDCooling",
+      "product": "IDCooling SE226XT ARGB Snow",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "SuperFlower",
+      "product": "SuperFlower 850w Leadex III ATX3.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "IDCooling",
+      "product": "IDCooling Frozn A620 PRO SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "SuperFlower",
+      "product": "SuperFlower 850w Leadex VI Platinium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Thermalright",
+      "product": "Thermalright Assassin X 120 ARGB Refined",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "SuperFlower",
+      "product": "SuperFlower 1000w Leadex VI Platinium",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Thermalright",
+      "product": "Thermalright Assassin X 120 R Digital",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 30.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "SuperFlower",
+      "product": "SuperFlower 1200w Platinium se",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Thermalright",
+      "product": "Thermalright Phantom Spirit 120 SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 53.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "Thermalright TR SP Platinium 750W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Thermalright",
+      "product": "Thermalright Royal Pretor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "Thermalright TR SP Platinium 850W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "AIO and HEATSINK",
+      "brand": "Thermalright",
+      "product": "Thermalright M.2 2280 Type A heatsink",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.0
+    },
+    {
+      "category": "POWER SUPPLY",
+      "brand": "Thermalright",
+      "product": "Thermalright TR SP Platinium 850W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": null,
+      "brand": "FSP",
+      "product": "FSP SFX Pro 450watts Bronze",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": null,
+      "brand": "FSP",
+      "product": "FSP SFX DAGGER PRO 850W 80+Gold",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": null,
+      "brand": "FSP",
+      "product": "FSP SFX Flex 300 Watts FSP300-50FCC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 72.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SFX 500Watts 80+Bronze Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SFX 650 Watts Gold White Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 138.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SFX 650 Watts Gold Black Thermalright",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 130.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SFX 850 Watts Gold Black Thermalrigh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "SFX 850 Watts Gold White Thermalrigh",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 172.0
+    }
+  ],
+  "numeric_tokens_in_source": 769,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 81/769 = 0.11",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Sandisk\", \"product\": \"Sandisk Dual Drive\", \"variant\": \"128GB\", \"price_sgd\": 172},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Sandisk\", \"product\": \"Sandisk Dual Drive\", \"variant\": \"256GB\", \"price_sgd\": 215},\n  {\"category\": \"HARD DISK 3.5\\u201d\", \"brand\": \"Sandisk\", \"product\": \"Sandisk Dual Drive\", \"variant\": \"512GB\", \"price_sgd\": 438},\n  {\"category\": null, \"brand\": null, \"product\": \"Windows 11 Home 64 bits\", \"price_sgd\": 172},\n  {\"category\": null, \"brand\": null, \"product\": \"Windows 11 Pro 64 Bits\", \"price_sgd\": 215},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N5050WF2OC-8GD\", \"price_sgd\": 438},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N5050OC-8GL Low Profile\", \"price_sgd\": 445},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N5060WF2OC-8GD\", \"price_sgd\": 499},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte RTX 5060Ti WF2OC-8GD\", \"price_sgd\": 619},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte RTX5060Ti Eagle OC -16GB\", \"price_sgd\": 739},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte RTX5060Ti Eagle OC -16GB ICE\", \"price_sgd\": 819},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte RTX5060Ti Gaming OC -16GB\", \"price_sgd\": 839},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N5070EAGALE OC -12GD\", \"price_sgd\": 999},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N5070WF3OC-12GD\", \"price_sgd\": 989},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV-N507T Eagle OC -16G\", \"price_sgd\": 1469},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV N5080 Gaming OC-16G\", \"price_sgd\": 2095},\n  {\"category\": \"GRAPHICS CARD\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte GV R9060XTGAMING OC-16GD\", \"price_sgd\": 709},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE PULSE RX 7700XT 12GB\", \"price_sgd\": 535},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE RX 7900 XTX OC Vapour X 24GB\", \"price_sgd\": 1278},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE PULSE RX9060XT OC 16GB\", \"price_sgd\": 709},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE PURE RX9060XT OC 16GB\", \"price_sgd\": 719},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE RX 9070 PULSE GAMING 16GB\", \"price_sgd\": 909},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE RX 9070XT PULSE GAMING 16GB\", \"price_sgd\": 1099},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE RX 9070XT PURE 16GB\", \"price_sgd\": 1155},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE RX 9070XT NITRO Plus\", \"price_sgd\": 1219},\n  {\"category\": null, \"brand\": \"SAPPHIRE\", \"product\": \"SAPPHIRE AI-PRO R9700 32GB GDDR6\", \"price_sgd\": 1999},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GT710 2GB ddr3\", \"price_sgd\": 83},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GT 1030 Low Profile 2GB GDR5\", \"price_sgd\": 145},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 3050 6GB LP ZTA30510L-10L\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GAMING RTX 3050 ECO SOLO 8GB\", \"price_sgd\": 329},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5050 Twin Edge OC 8G\", \"price_sgd\": 449},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5050 Low Profile 8GB\", \"price_sgd\": 459},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5060 TWIN EDGE OC 8GB\", \"price_sgd\": 529},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5060 LP 8GB\", \"price_sgd\": 449},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5070 TWIN EDGE OC 12GB\", \"price_sgd\": 1030},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5070 Solid OC 12GB\", \"price_sgd\": 1050},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC GAMING RTX 5070 AMP WHITE 12GB\", \"price_sgd\": 1119},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5080 SOLID CORE OC 16GB\", \"price_sgd\": 2259},\n  {\"category\": null, \"brand\": \"ZOTAC\", \"product\": \"ZOTAC RTX 5090 SOLID OC 32GB - White\", \"price_sgd\": 5799},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel Arc B580 Challenger 12GB OC\", \"price_sgd\": 409},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel Arc B580 STEEL LEGEND 12GB OC\", \"price_sgd\": 409},\n  {\"category\": null, \"brand\": \"Intel\", \"product\": \"Intel Arc B580 Sparkle Triple Fan 12GB oc\", \"price_sgd\": 409},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Arctic\", \"product\": \"Arctic Freezer 36 Black Dual Fan\", \"price_sgd\": 46},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP 550 Watts Bronze HV 85+ Pro\", \"price_sgd\": 62},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Cooler Master\", \"product\": \"C.M 212 Spectrum v3 ARGB Heatsink\", \"price_sgd\": 29},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"FSP\", \"product\": \"FSP 650 Watts Bronze HV 85+ Pro\", \"price_sgd\": 70},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Cooler Master\", \"product\": \"C.M MasterLiquid 240L V2 RGB Black\", \"price_sgd\": 69},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair SF850L PCIe 5.0 Gold\", \"warranty\": \"10Y\", \"price_sgd\": 215},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM750e ATX3.0 & PCIe 5.0\", \"price_sgd\": 179},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Cooler Master\", \"product\": \"C.M Masterliquid ML360L Core ARGB\", \"price_sgd\": 99},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM850e ATX3.0 & PCIe 5.0\", \"price_sgd\": 206},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Deepcool\", \"product\": \"Deepcool ASSASSIN IVS WH / BLK\", \"price_sgd\": 118},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Corsair\", \"product\": \"Corsair RM1000e ATX3.0&PCIe 5.0\", \"price_sgd\": 279},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Deepcool\", \"product\": \"Deepcool ASSASSIN IV Blk\", \"price_sgd\": 146},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Gigabyte\", \"product\": \"Gigabyte UD1000GM PG5\", \"price_sgd\": 199},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Deepcool\", \"product\": \"Deepcool AK620 Digital\", \"price_sgd\": 88},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Montech\", \"product\": \"Montech Century II 850W Platinium\", \"price_sgd\": 128},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Deepcool\", \"product\": \"Deepcool Castle 360EX A-RGB WHITE\", \"price_sgd\": 99},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Montech\", \"product\": \"Montech Century II 1200W Platinium\", \"price_sgd\": 175},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"IDCooling\", \"product\": \"IDCooling SE226XT ARGB Snow\", \"price_sgd\": 35},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"SuperFlower\", \"product\": \"SuperFlower 850w Leadex III ATX3.1\", \"price_sgd\": 139},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"IDCooling\", \"product\": \"IDCooling  Frozn A620 PRO SE\", \"price_sgd\": 45},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"SuperFlower\", \"product\": \"SuperFlower 850w Leadex VI Platinium\", \"price_sgd\": 159},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Thermalright\", \"product\": \"Thermalright Assassin X 120 ARGB Refined\", \"price_sgd\": 25},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"SuperFlower\", \"product\": \"SuperFlower 1000w Leadex VI Platinium\", \"price_sgd\": 199},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Thermalright\", \"product\": \"Thermalright Assassin X 120 R Digital\", \"price_sgd\": 30},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"SuperFlower\", \"product\": \"SuperFlower 1200w Platinium se\", \"price_sgd\": 265},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Thermalright\", \"product\": \"Thermalright Phantom Spirit 120 SE\", \"price_sgd\": 53},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"Thermalright TR SP Platinium 750W\", \"price_sgd\": 115},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Thermalright\", \"product\": \"Thermalright Royal Pretor\", \"price_sgd\": 65},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"Thermalright TR SP Platinium 850W\", \"price_sgd\": 129},\n  {\"category\": \"AIO and HEATSINK\", \"brand\": \"Thermalright\", \"product\": \"Thermalright M.2 2280 Type A heatsink\", \"price_sgd\": 8},\n  {\"category\": \"POWER SUPPLY\", \"brand\": \"Thermalright\", \"product\": \"Thermalright TR SP Platinium 850W\", \"price_sgd\": 129},\n  {\"category\": null, \"brand\": \"FSP\", \"product\": \"FSP SFX Pro 450watts Bronze\", \"price_sgd\": 89},\n  {\"category\": null, \"brand\": \"FSP\", \"product\": \"FSP SFX DAGGER PRO 850W 80+Gold\", \"price_sgd\": 210},\n  {\"category\": null, \"brand\": \"FSP\", \"product\": \"FSP SFX Flex 300 Watts FSP300-50FCC\", \"price_sgd\": 72},\n  {\"category\": null, \"brand\": null, \"product\": \"SFX 500Watts 80+Bronze Thermalright\", \"price_sgd\": 75},\n  {\"category\": null, \"brand\": null, \"product\": \"SFX 650 Watts Gold White Thermalright\", \"price_sgd\": 138},\n  {\"category\": null, \"brand\": null, \"product\": \"SFX 650 Watts Gold Black Thermalright\", \"price_sgd\": 130},\n  {\"category\": null, \"brand\": null, \"product\": \"SFX 850 Watts Gold Black Thermalrigh\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": null, \"product\": \"SFX 850 Watts Gold White Thermalrigh\", \"price_sgd\": 172}\n]}"
+}

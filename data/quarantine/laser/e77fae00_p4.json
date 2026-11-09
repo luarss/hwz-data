@@ -1,0 +1,41 @@
+{
+  "sha256": "e77fae00e2dc9fb06155ed3e1960f27b4208d6bd983b1b09eb9805ce38da5cd8",
+  "vendor": "laser",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec Complete Mini PC",
+      "variant": "WINDOWS 11 PRO, DDR5 12 GB RAM 512 GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "ASUS",
+      "product": "ASUS NUC 14 ESSENTIAL N97 BAREBONE",
+      "variant": "RNUC14MNK9700000",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "MINI PC, GMKtec K7 Plus INTEL Core i7-13620H",
+      "variant": "32 GB DDR5 RAM On Board 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 845.0
+    }
+  ],
+  "numeric_tokens_in_source": 9,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 3/9 = 0.33",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"GMKtec\", \"product\": \"Intel Alder Lake N97 Mini Pc-NucBox G5 GMKtec Complete Mini PC\", \"variant\": \"WINDOWS 11 PRO, DDR5 12 GB RAM 512 GB SSD\", \"price_sgd\": 279},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"ASUS\", \"product\": \"ASUS NUC 14 ESSENTIAL N97 BAREBONE\", \"variant\": \"RNUC14MNK9700000\", \"price_sgd\": 249},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"GMKtec\", \"product\": \"MINI PC, GMKtec K7 Plus INTEL Core i7-13620H\", \"variant\": \"32 GB DDR5 RAM On Board 1TB SSD\", \"price_sgd\": 845}\n]}"
+}

@@ -1,0 +1,77 @@
+{
+  "sha256": "ede65ebdcf5225191d29dec3315cda87001cab45fa1c0e4e57db885d7cbd078a",
+  "vendor": "laser",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ViewSonic",
+      "product": "VIEWSONIC 220H",
+      "variant": "22”",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A",
+      "variant": "23.8”",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A",
+      "variant": "27”",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "AOC",
+      "product": "AOC 27G4",
+      "variant": "27”",
+      "bundle_cpu": null,
+      "warranty": "3Y",
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ PD2706U 4K Designer Monitor",
+      "variant": "27-inch",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": "AOC",
+      "product": "AOC 27G11ZE2",
+      "variant": "27\"",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BenQ Screen Bar Pro",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    }
+  ],
+  "numeric_tokens_in_source": 13,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 7/13 = 0.54",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"ViewSonic\", \"product\": \"VIEWSONIC 220H\", \"variant\": \"22”\", \"price_sgd\": 99},\n  {\"brand\": \"Philips\", \"product\": \"Philips 24E1N1200A\", \"variant\": \"23.8”\", \"price_sgd\": 128},\n  {\"brand\": \"Philips\", \"product\": \"Philips 27E1N1200A\", \"variant\": \"27”\", \"price_sgd\": 145},\n  {\"brand\": \"AOC\", \"product\": \"AOC 27G4\", \"variant\": \"27”\", \"warranty\": \"3Y\", \"price_sgd\": 199},\n  {\"brand\": \"BenQ\", \"product\": \"BENQ PD2706U 4K Designer Monitor\", \"variant\": \"27-inch\", \"price_sgd\": 729},\n  {\"brand\": \"AOC\", \"product\": \"AOC 27G11ZE2\", \"variant\": \"27\\\"\", \"price_sgd\": 209},\n  {\"brand\": \"BenQ\", \"product\": \"BenQ Screen Bar Pro\", \"price_sgd\": 199}\n]}"
+}

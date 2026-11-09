@@ -1,0 +1,32 @@
+{
+  "sha256": "9ebb20fd5cca6ed1463848d398fc81c6176693ac925fb95ebba3b9504d2676d9",
+  "vendor": "laser",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "NUCBox K11 Mini PC AMD Ryzen 9 8945HS Processor",
+      "variant": "32GB DDR5 / 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1229.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "NucBox M6 Ultra AMD Ryzen 5 7640HS Mini PC",
+      "variant": "32GB DDR5 / 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/12 = 0.17",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": null,\n      \"product\": \"NUCBox K11 Mini PC AMD Ryzen 9 8945HS Processor\",\n      \"variant\": \"32GB DDR5 / 1TB SSD\",\n      \"price_sgd\": 1229\n    },\n    {\n      \"brand\": null,\n      \"product\": \"NucBox M6 Ultra AMD Ryzen 5 7640HS Mini PC\",\n      \"variant\": \"32GB DDR5 / 1TB SSD\",\n      \"price_sgd\": 1029\n    }\n  ]\n}"
+}
