@@ -1,0 +1,13 @@
+{
+  "sha256": "2cfefd98a9d8dc21dc4802bceba52df98849b89512a1c0bc24c308c958f704e0",
+  "vendor": "laser",
+  "page_number": 7,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [],
+  "numeric_tokens_in_source": 8,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 0/8 = 0.00; not_empty: no rows extracted",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"AMD\", \"product\": \"AMD Ryzen AI Max+ 395 EVO X2 AI Mini PC\", \"variant\": \"96GB / 1TB\", \"price_sgd\": null},\n  {\"brand\": \"AMD\", \"product\": \"AMD Ryzen AI Max+ 395 EVO X2 AI Mini PC\", \"variant\": \"128GB / 2TB\", \"price_sgd\": null}\n]}"
+}

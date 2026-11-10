@@ -1,0 +1,32 @@
+{
+  "sha256": "e033e53a902ded2cab604e063ab4d3e03c1303e4957fa662c88a267e2f829177",
+  "vendor": "laser",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "NUCBox K11 Mini PC AMD Ryzen 9 8945HS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1359.0
+    },
+    {
+      "category": null,
+      "brand": "AMD",
+      "product": "AMD Ryzen 5 7640HS Mini PC NucBox M6 Ultra",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/12 = 0.17",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"AMD\", \"product\": \"NUCBox K11 Mini PC AMD Ryzen 9 8945HS\", \"price_sgd\": 1359},\n  {\"brand\": \"AMD\", \"product\": \"AMD Ryzen 5 7640HS Mini PC NucBox M6 Ultra\", \"price_sgd\": 899}\n]}"
+}

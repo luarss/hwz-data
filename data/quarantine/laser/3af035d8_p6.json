@@ -1,0 +1,32 @@
+{
+  "sha256": "3af035d84463ee9d88916d517f8c6d927109e15d0ad5f3e9b009c662b9842725",
+  "vendor": "laser",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "NUCBox K12 Mini PC AMD Ryzen 7 H255 Processor",
+      "variant": "32GB RAM / 1TB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1339.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "NucBox M6 Ultra AMD Ryzen 5 7640HS Mini PC",
+      "variant": "16GB RAM / 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/12 = 0.17",
+  "raw_response": "{\n\"rows\": [\n  {\n    \"category\": null,\n    \"brand\": null,\n    \"product\": \"NUCBox K12 Mini PC AMD Ryzen 7 H255 Processor\",\n    \"variant\": \"32GB RAM / 1TB SSD\",\n    \"price_sgd\": 1339\n  },\n  {\n    \"category\": null,\n    \"brand\": null,\n    \"product\": \"NucBox M6 Ultra AMD Ryzen 5 7640HS Mini PC\",\n    \"variant\": \"16GB RAM / 512GB SSD\",\n    \"price_sgd\": 859\n  }\n]\n}"
+}

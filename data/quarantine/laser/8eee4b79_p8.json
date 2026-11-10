@@ -1,0 +1,59 @@
+{
+  "sha256": "8eee4b799a8772e6364eec0f943ef1d46287b14e87030d851de16ca661c8543f",
+  "vendor": "laser",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ViewSonic",
+      "product": "VIEWSONIC 220H 22” Monitor",
+      "variant": "Full HD 1080P",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A 23.8” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A 27” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "Benq",
+      "product": "BENQ PD2706U 4K Designer Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 695.0
+    },
+    {
+      "category": null,
+      "brand": "Benq",
+      "product": "BENQ SCREEN BAR PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 5/12 = 0.42",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"ViewSonic\",\n      \"product\": \"VIEWSONIC 220H 22” Monitor\",\n      \"variant\": \"Full HD 1080P\",\n      \"price_sgd\": 99\n    },\n    {\n      \"brand\": \"Philips\",\n      \"product\": \"Philips 24E1N1200A 23.8” Monitor\",\n      \"price_sgd\": 125\n    },\n    {\n      \"brand\": \"Philips\",\n      \"product\": \"Philips 27E1N1200A 27” Monitor\",\n      \"price_sgd\": 145\n    },\n    {\n      \"brand\": \"Benq\",\n      \"product\": \"BENQ PD2706U 4K Designer Monitor\",\n      \"price_sgd\": 695\n    },\n    {\n      \"brand\": \"Benq\",\n      \"product\": \"BENQ SCREEN BAR PRO\",\n      \"price_sgd\": 199\n    }\n  ]\n}"
+}

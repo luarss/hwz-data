@@ -1,0 +1,68 @@
+{
+  "sha256": "f264d2284aad1feeb24f10ec354552dc66fef752451b26af15453497c9dad06c",
+  "vendor": "laser",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ViewSonic",
+      "product": "VIEWSONIC 220H 22” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A 23.8” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 128.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A 27” Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years",
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "AOC",
+      "product": "AOC 27G4 27” IPS Gaming",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "Benq",
+      "product": "BENQ PD2706U 4K Designer Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 yrs",
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": "Benq",
+      "product": "BENQ SCREEN BAR PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 6/12 = 0.50",
+  "raw_response": "{\"rows\": [\n  {\"brand\": \"ViewSonic\", \"product\": \"VIEWSONIC 220H 22” Monitor\", \"price_sgd\": 99},\n  {\"brand\": \"Philips\", \"product\": \"Philips 24E1N1200A 23.8” Monitor\", \"price_sgd\": 128},\n  {\"brand\": \"Philips\", \"product\": \"Philips 27E1N1200A 27” Monitor\", \"warranty\": \"3 Years\", \"price_sgd\": 145},\n  {\"brand\": \"AOC\", \"product\": \"AOC 27G4 27” IPS Gaming\", \"price_sgd\": 199},\n  {\"brand\": \"Benq\", \"product\": \"BENQ PD2706U 4K Designer Monitor\", \"warranty\": \"3 yrs\", \"price_sgd\": 729},\n  {\"brand\": \"Benq\", \"product\": \"BENQ SCREEN BAR PRO\", \"price_sgd\": 199}\n]}"
+}

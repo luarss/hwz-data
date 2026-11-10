@@ -1,0 +1,13 @@
+{
+  "sha256": "f264d2284aad1feeb24f10ec354552dc66fef752451b26af15453497c9dad06c",
+  "vendor": "laser",
+  "page_number": 9,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": "{\"rows\": []}"
+}

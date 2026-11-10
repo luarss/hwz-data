@@ -1,0 +1,32 @@
+{
+  "sha256": "f264d2284aad1feeb24f10ec354552dc66fef752451b26af15453497c9dad06c",
+  "vendor": "laser",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox G9 W/INTEL N150 PROCESSOR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 519.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "MINI PC, GMKtec K7 Plus INTEL Core i7-13620H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3 Years On-site Warranty",
+      "price_sgd": 959.0
+    }
+  ],
+  "numeric_tokens_in_source": 9,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/9 = 0.22",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"GMKtec\", \"product\": \"GMKtec NucBox G9 W/INTEL N150 PROCESSOR\", \"price_sgd\": 519},\n  {\"category\": \"MINI PCS & BareBone Kit\", \"brand\": \"GMKtec\", \"product\": \"MINI PC, GMKtec K7 Plus INTEL Core i7-13620H\", \"warranty\": \"3 Years On-site Warranty\", \"price_sgd\": 959}\n]}"
+}
