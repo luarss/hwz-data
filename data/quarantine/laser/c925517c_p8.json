@@ -1,0 +1,68 @@
+{
+  "sha256": "c925517c7470e2f23a8b38c27795d5e6059b4b61a195f51175e57cb7bb706e88",
+  "vendor": "laser",
+  "page_number": 8,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "ViewSonic",
+      "product": "VIEWSONIC 220H",
+      "variant": "22\"",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A",
+      "variant": "23.8\"",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A",
+      "variant": "27\"",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": null,
+      "brand": "AOC",
+      "product": "AOC 27G4",
+      "variant": "27\"",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": null,
+      "brand": "BenQ",
+      "product": "BENQ PD2706U 4K Designer Monitor",
+      "variant": "27-inch",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 709.0
+    },
+    {
+      "category": "Monitor Light Bar Series",
+      "brand": "BenQ",
+      "product": "BENQ SCREEN BAR PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 6/12 = 0.50",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"brand\": \"ViewSonic\",\n      \"product\": \"VIEWSONIC 220H\",\n      \"variant\": \"22\\\"\",\n      \"price_sgd\": 99\n    },\n    {\n      \"brand\": \"Philips\",\n      \"product\": \"Philips 24E1N1200A\",\n      \"variant\": \"23.8\\\"\",\n      \"price_sgd\": 125\n    },\n    {\n      \"brand\": \"Philips\",\n      \"product\": \"Philips 27E1N1200A\",\n      \"variant\": \"27\\\"\",\n      \"price_sgd\": 145\n    },\n    {\n      \"brand\": \"AOC\",\n      \"product\": \"AOC 27G4\",\n      \"variant\": \"27\\\"\",\n      \"price_sgd\": 199\n    },\n    {\n      \"brand\": \"BenQ\",\n      \"product\": \"BENQ PD2706U 4K Designer Monitor\",\n      \"variant\": \"27-inch\",\n      \"price_sgd\": 709\n    },\n    {\n      \"brand\": \"BenQ\",\n      \"product\": \"BENQ SCREEN BAR PRO\",\n      \"category\": \"Monitor Light Bar Series\",\n      \"price_sgd\": 199\n    }\n  ]\n}"
+}

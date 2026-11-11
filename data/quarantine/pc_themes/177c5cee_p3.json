@@ -1,0 +1,158 @@
+{
+  "sha256": "177c5ceef1db84704ef62811ede4e6cffea0fe50f00ae5bb25022c6ace14a533",
+  "vendor": "pc_themes",
+  "page_number": 3,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i3 14100F",
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i3 14100",
+      "warranty": null,
+      "price_sgd": 247.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i5 14400F",
+      "warranty": null,
+      "price_sgd": 292.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i5 14400",
+      "warranty": null,
+      "price_sgd": 361.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i5 14500",
+      "warranty": null,
+      "price_sgd": 406.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i5 14600KF",
+      "warranty": null,
+      "price_sgd": 479.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i5 14600K",
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 466.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 557.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 595.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 625.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 656.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 924.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 961.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 766.0
+    },
+    {
+      "category": "INTEL 14-GEN 2 IN 1 BUNDLE",
+      "brand": "Asus",
+      "product": "ASUS PRIME H610M-D CSM D4",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 799.0
+    }
+  ],
+  "numeric_tokens_in_source": 1601,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 16/1601 = 0.01",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i3 14100F\", \"price_sgd\": 179},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i3 14100\", \"price_sgd\": 247},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i5 14400F\", \"price_sgd\": 292},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i5 14400\", \"price_sgd\": 361},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i5 14500\", \"price_sgd\": 406},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i5 14600KF\", \"price_sgd\": 479},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i5 14600K\", \"price_sgd\": 429},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i7 14700F\", \"price_sgd\": 466},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i7 14700\", \"price_sgd\": 557},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i7 14700KF\", \"price_sgd\": 595},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i7 14700K\", \"price_sgd\": 625},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i9 14900F\", \"price_sgd\": 656},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i9 14900\", \"price_sgd\": 924},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i9 14900KF\", \"price_sgd\": 961},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i9 14900K\", \"price_sgd\": 766},\n  {\"category\": \"INTEL 14-GEN 2 IN 1 BUNDLE\", \"brand\": \"Asus\", \"product\": \"ASUS PRIME H610M-D CSM D4\", \"bundle_cpu\": \"Intel i9 14900KS\", \"price_sgd\": 799}\n]}"
+}

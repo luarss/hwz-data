@@ -1,0 +1,40 @@
+{
+  "rows": [
+    {
+      "brand": "ViewSonic",
+      "product": "VIEWSONIC 220H",
+      "variant": "22\"",
+      "price_sgd": 99
+    },
+    {
+      "brand": "Philips",
+      "product": "Philips 24E1N1200A",
+      "variant": "23.8\"",
+      "price_sgd": 125
+    },
+    {
+      "brand": "Philips",
+      "product": "Philips 27E1N1200A",
+      "variant": "27\"",
+      "price_sgd": 145
+    },
+    {
+      "brand": "AOC",
+      "product": "AOC 27G4",
+      "variant": "27\"",
+      "price_sgd": 199
+    },
+    {
+      "brand": "BenQ",
+      "product": "BENQ PD2706U 4K Designer Monitor",
+      "variant": "27-inch",
+      "price_sgd": 709
+    },
+    {
+      "brand": "BenQ",
+      "product": "BENQ SCREEN BAR PRO",
+      "category": "Monitor Light Bar Series",
+      "price_sgd": 199
+    }
+  ]
+}

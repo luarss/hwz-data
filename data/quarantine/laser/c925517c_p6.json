@@ -1,0 +1,32 @@
+{
+  "sha256": "c925517c7470e2f23a8b38c27795d5e6059b4b61a195f51175e57cb7bb706e88",
+  "vendor": "laser",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "NUCBox K12 Mini PC",
+      "variant": "AMD Ryzen 7 H255",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1339.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "NucBox M6 Ultra",
+      "variant": "AMD Ryzen 5 7640HS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    }
+  ],
+  "numeric_tokens_in_source": 12,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/12 = 0.17",
+  "raw_response": "{\"rows\": [\n  {\"brand\": null, \"product\": \"NUCBox K12 Mini PC\", \"variant\": \"AMD Ryzen 7 H255\", \"price_sgd\": 1339},\n  {\"brand\": null, \"product\": \"NucBox M6 Ultra\", \"variant\": \"AMD Ryzen 5 7640HS\", \"price_sgd\": 859}\n]}"
+}
