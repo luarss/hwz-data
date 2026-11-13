@@ -1,0 +1,635 @@
+{
+  "sha256": "46cc076f641368e1f81bb4c805e4f9bef7292fc22576335398e1591f8d2597d9",
+  "vendor": "pc_themes",
+  "page_number": 4,
+  "method": "vision_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "X Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE S100 TG",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "X Case",
+      "variant": "Silver",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 274.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE S100 TG",
+      "variant": "Snow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TX Case",
+      "variant": "Jade",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 274.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 250",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "ase PCIe 4.0",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 250",
+      "variant": "Snow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "ise PCIe 4.0",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 202.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 300",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G Case",
+      "variant": "Bk Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 300",
+      "variant": "Snow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G Case",
+      "variant": "Bk Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 300",
+      "variant": "Bumblebee",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "White Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 300",
+      "variant": "Hydrangea Blue",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Gray",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 300",
+      "variant": "Limestone",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "Black Solid",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 302.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 600",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Bk Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Tower 600",
+      "variant": "Snow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 211.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Bk Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE CTE E550 TG",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G Case",
+      "variant": "Bk Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE CTE E550 TG",
+      "variant": "Snow",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G Case",
+      "variant": "Bk Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Core P3 TG Pro",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "White Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE Core P6 TG",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 237.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Gray",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE View 290 TG ARGB Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "Black Solid",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 302.0
+    },
+    {
+      "category": "Design",
+      "brand": "THERMALTAKE",
+      "product": "THERMALTAKE View 290 TG ARGB Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 129.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Bk Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Bk Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "Bk Solid",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 264.0
+    },
+    {
+      "category": "Design",
+      "brand": "PHANTEKS",
+      "product": "PHANTEK Eclipse G500A ARGB TG Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 202.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G",
+      "variant": "Black Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "Design",
+      "brand": "PHANTEKS",
+      "product": "PHANTEK Eclipse G500A ARGB TG Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 202.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G",
+      "variant": "Black Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "Design",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS Enthoo Pro 2 Server TG",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "nt TG",
+      "variant": "Gray",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "Design",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS Enthoo Pro 2 Server TG",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 244.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 280.0
+    },
+    {
+      "category": "Design",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS NV5 Drgb TG Case",
+      "variant": "Satin White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TG Case",
+      "variant": "Bk Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "Design",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS NV5S Drgb TG Case",
+      "variant": "Satin Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G Case",
+      "variant": "White Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "npact",
+      "variant": "Black Solid",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "t",
+      "variant": "Black Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "npact",
+      "variant": "White Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 210.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "act Rgb",
+      "variant": "Black Light",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 240.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Mesh",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G",
+      "variant": "Black Dark",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "G",
+      "variant": "White Clear",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 150.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": "Design",
+      "brand": null,
+      "product": "TX Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 142.0
+    },
+    {
+      "category": "CH",
+      "brand": null,
+      "product": "MATX",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": "CH",
+      "brand": null,
+      "product": "3 MATX",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 82.0
+    },
+    {
+      "category": "CH",
+      "brand": null,
+      "product": "MATX",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 92.0
+    },
+    {
+      "category": "CH",
+      "brand": null,
+      "product": "Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 171.0
+    },
+    {
+      "category": "ne",
+      "brand": null,
+      "product": "X Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "ne",
+      "brand": null,
+      "product": "X Case",
+      "variant": "White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "ne",
+      "brand": null,
+      "product": "o Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 57.0
+    },
+    {
+      "category": "ne",
+      "brand": null,
+      "product": "3 Micro Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "ne",
+      "brand": null,
+      "product": "3 Micro Case",
+      "variant": "Black",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 7 extra rows (10%): [('G Case', 'Bk Light', None, 255), ('G Case', 'Bk Dark', None, 255), ('Case', 'White Clear', None, 255)]",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"X Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 279\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE S100 TG\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 64\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"X Case\",\n      \"variant\": \"Silver\",\n      \"price_sgd\": 274\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE S100 TG\",\n      \"variant\": \"Snow\",\n      \"price_sgd\": 68\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TX Case\",\n      \"variant\": \"Jade\",\n      \"price_sgd\": 274\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 250\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 168\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"ase PCIe 4.0\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 199\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 250\",\n      \"variant\": \"Snow\",\n      \"price_sgd\": 168\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"ise PCIe 4.0\",\n      \"variant\": \"White\",\n      \"price_sgd\": 202\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 300\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G Case\",\n      \"variant\": \"Bk Light\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 300\",\n      \"variant\": \"Snow\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G Case\",\n      \"variant\": \"Bk Dark\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 300\",\n      \"variant\": \"Bumblebee\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"White Clear\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 300\",\n      \"variant\": \"Hydrangea Blue\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Gray\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 300\",\n      \"variant\": \"Limestone\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"Black Solid\",\n      \"price_sgd\": 302\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 600\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 219\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Bk Light\",\n      \"price_sgd\": 325\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Tower 600\",\n      \"variant\": \"Snow\",\n      \"price_sgd\": 211\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Bk Dark\",\n      \"price_sgd\": 325\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE CTE E550 TG\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G Case\",\n      \"variant\": \"Bk Light\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE CTE E550 TG\",\n      \"variant\": \"Snow\",\n      \"price_sgd\": 193\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G Case\",\n      \"variant\": \"Bk Dark\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Core P3 TG Pro\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 185\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"White Clear\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE Core P6 TG\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 237\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Gray\",\n      \"price_sgd\": 255\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE View 290 TG ARGB Case\",\n      \"variant\": \"White\",\n      \"price_sgd\": 129\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"Black Solid\",\n      \"price_sgd\": 302\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"THERMALTAKE\",\n      \"product\": \"THERMALTAKE View 290 TG ARGB Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 129\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Bk Light\",\n      \"price_sgd\": 325\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Bk Dark\",\n      \"price_sgd\": 325\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"Bk Solid\",\n      \"price_sgd\": 264\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"PHANTEKS\",\n      \"product\": \"PHANTEK Eclipse G500A ARGB TG Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 202\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G\",\n      \"variant\": \"Black Light\",\n      \"price_sgd\": 280\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"PHANTEKS\",\n      \"product\": \"PHANTEK Eclipse G500A ARGB TG Case\",\n      \"variant\": \"White\",\n      \"price_sgd\": 202\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G\",\n      \"variant\": \"Black Dark\",\n      \"price_sgd\": 280\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"PHANTEKS\",\n      \"product\": \"PHANTEKS Enthoo Pro 2 Server TG\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 259\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"nt TG\",\n      \"variant\": \"Gray\",\n      \"price_sgd\": 280\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"PHANTEKS\",\n      \"product\": \"PHANTEKS Enthoo Pro 2 Server TG\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 244\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G Case\",\n      \"variant\": \"White\",\n      \"price_sgd\": 280\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"PHANTEKS\",\n      \"product\": \"PHANTEKS NV5 Drgb TG Case\",\n      \"variant\": \"Satin White\",\n      \"price_sgd\": 137\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TG Case\",\n      \"variant\": \"Bk Light\",\n      \"price_sgd\": 343\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": \"PHANTEKS\",\n      \"product\": \"PHANTEKS NV5S Drgb TG Case\",\n      \"variant\": \"Satin Black\",\n      \"price_sgd\": 155\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G Case\",\n      \"variant\": \"White Clear\",\n      \"price_sgd\": 343\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"npact\",\n      \"variant\": \"Black Solid\",\n      \"price_sgd\": 196\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"t\",\n      \"variant\": \"Black Dark\",\n      \"price_sgd\": 210\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"npact\",\n      \"variant\": \"White Clear\",\n      \"price_sgd\": 210\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"act Rgb\",\n      \"variant\": \"Black Light\",\n      \"price_sgd\": 240\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"\",\n      \"variant\": \"Charcoal Black\",\n      \"price_sgd\": 222\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Mesh\",\n      \"variant\": \"White\",\n      \"price_sgd\": 225\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G\",\n      \"variant\": \"Black Dark\",\n      \"price_sgd\": 222\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"G\",\n      \"variant\": \"White Clear\",\n      \"price_sgd\": 222\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 135\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"White\",\n      \"price_sgd\": 150\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 142\n    },\n    {\n      \"category\": \"Design\",\n      \"brand\": null,\n      \"product\": \"TX Case\",\n      \"variant\": \"White\",\n      \"price_sgd\": 142\n    },\n    {\n      \"category\": \"CH\",\n      \"brand\": null,\n      \"product\": \"MATX\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 73\n    },\n    {\n      \"category\": \"CH\",\n      \"brand\": null,\n      \"product\": \"3 MATX\",\n      \"variant\": \"White\",\n      \"price_sgd\": 82\n    },\n    {\n      \"category\": \"CH\",\n      \"brand\": null,\n      \"product\": \"MATX\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 92\n    },\n    {\n      \"category\": \"CH\",\n      \"brand\": null,\n      \"product\": \"Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 171\n    },\n    {\n      \"category\": \"ne\",\n      \"brand\": null,\n      \"product\": \"X Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 88\n    },\n    {\n      \"category\": \"ne\",\n      \"brand\": null,\n      \"product\": \"X Case\",\n      \"variant\": \"White\",\n      \"price_sgd\": 88\n    },\n    {\n      \"category\": \"ne\",\n      \"brand\": null,\n      \"product\": \"o Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 57\n    },\n    {\n      \"category\": \"ne\",\n      \"brand\": null,\n      \"product\": \"3 Micro Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 95\n    },\n    {\n      \"category\": \"ne\",\n      \"brand\": null,\n      \"product\": \"3 Micro Case\",\n      \"variant\": \"Black\",\n      \"price_sgd\": 115\n    }\n  ]\n}"
+}

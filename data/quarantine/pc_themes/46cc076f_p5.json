@@ -1,0 +1,13 @@
+{
+  "sha256": "46cc076f641368e1f81bb4c805e4f9bef7292fc22576335398e1591f8d2597d9",
+  "vendor": "pc_themes",
+  "page_number": 5,
+  "method": "vision_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": null
+}

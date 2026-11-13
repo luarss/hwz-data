@@ -1,0 +1,167 @@
+{
+  "sha256": "d8225b5f8da9fef327025f4729fe75e57a7317752872f60bdb117f4505309e67",
+  "vendor": "pc_themes",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "rows": [
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i3 14100F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i3 14100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 300.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i5 14400F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i5 14400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 364.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i5 14500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 408.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i5 14600KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 520.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i5 14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 473.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i7 14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 509.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i7 14700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 595.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i7 14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i7 14700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i9 14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i9 14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 944.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i9 14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 980.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i9 14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 794.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "Intel i9 14900KS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 826.0
+    },
+    {
+      "category": "CPU ALONE PRICE",
+      "brand": "ASUS",
+      "product": "ASUS PRIME H610M-A WIFI D5",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1129.0
+    }
+  ],
+  "numeric_tokens_in_source": 1068,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 17/1068 = 0.02",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i3 14100F\",\n      \"price_sgd\": 219\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i3 14100\",\n      \"price_sgd\": 300\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i5 14400F\",\n      \"price_sgd\": 343\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i5 14400\",\n      \"price_sgd\": 364\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i5 14500\",\n      \"price_sgd\": 408\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i5 14600KF\",\n      \"price_sgd\": 520\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i5 14600K\",\n      \"price_sgd\": 473\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i7 14700F\",\n      \"price_sgd\": 509\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i7 14700\",\n      \"price_sgd\": 595\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i7 14700KF\",\n      \"price_sgd\": 617\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i7 14700K\",\n      \"price_sgd\": 660\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i9 14900F\",\n      \"price_sgd\": 689\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i9 14900\",\n      \"price_sgd\": 944\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i9 14900KF\",\n      \"price_sgd\": 980\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i9 14900K\",\n      \"price_sgd\": 794\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"Intel i9 14900KS\",\n      \"price_sgd\": 826\n    },\n    {\n      \"category\": \"CPU ALONE PRICE\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ASUS PRIME H610M-A WIFI D5\",\n      \"variant\": \"UNKNOWN\",\n      \"price_sgd\": 1129\n    }\n  ]\n}"
+}

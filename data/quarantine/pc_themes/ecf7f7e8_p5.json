@@ -1,0 +1,95 @@
+{
+  "sha256": "ecf7f7e87d13da0946084d8052cbf68e92adbb56df7be2ae9e7e21b0adb6ebd9",
+  "vendor": "pc_themes",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "BUNDLE - 5 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 5 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1128.0
+    },
+    {
+      "category": "BUNDLE - 10 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 10 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1148.0
+    },
+    {
+      "category": "BUNDLE - 15 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 15 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1648.0
+    },
+    {
+      "category": "BUNDLE - 20 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 20 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2138.0
+    },
+    {
+      "category": "BUNDLE - 5 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 5 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    },
+    {
+      "category": "BUNDLE - 10 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 10 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1268.0
+    },
+    {
+      "category": "BUNDLE - 15 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 15 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1378.0
+    },
+    {
+      "category": "BUNDLE - 25 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 25 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3318.0
+    },
+    {
+      "category": "BUNDLE - 30 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 30 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5598.0
+    }
+  ],
+  "numeric_tokens_in_source": 35,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 9/35 = 0.26",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"BUNDLE - 5 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 5 AMD SYSTEM\",\n      \"price_sgd\": 1128\n    },\n    {\n      \"category\": \"BUNDLE - 10 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 10 AMD SYSTEM\",\n      \"price_sgd\": 1148\n    },\n    {\n      \"category\": \"BUNDLE - 15 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 15 AMD SYSTEM\",\n      \"price_sgd\": 1648\n    },\n    {\n      \"category\": \"BUNDLE - 20 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 20 AMD SYSTEM\",\n      \"price_sgd\": 2138\n    },\n    {\n      \"category\": \"BUNDLE - 5 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 5 INTEL SYSTEM\",\n      \"price_sgd\": 1288\n    },\n    {\n      \"category\": \"BUNDLE - 10 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 10 INTEL SYSTEM\",\n      \"price_sgd\": 1268\n    },\n    {\n      \"category\": \"BUNDLE - 15 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 15 INTEL SYSTEM\",\n      \"price_sgd\": 1378\n    },\n    {\n      \"category\": \"BUNDLE - 25 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 25 INTEL SYSTEM\",\n      \"price_sgd\": 3318\n    },\n    {\n      \"category\": \"BUNDLE - 30 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 30 INTEL SYSTEM\",\n      \"price_sgd\": 5598\n    }\n  ]\n}"
+}

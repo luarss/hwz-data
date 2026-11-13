@@ -1,0 +1,1607 @@
+{
+  "sha256": "c27fe0a2789b0492869206d7528188922ccc6779272c93e79e50a901b163e527",
+  "vendor": "pc_themes",
+  "page_number": 8,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 429.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 451.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 491.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 522.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 575.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 870.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 595.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 617.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 944.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 980.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 627.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 721.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 976.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1012.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 667.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 732.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 761.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1016.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1052.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 653.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 674.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 746.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1002.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1038.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 676.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 697.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 741.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 769.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1025.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1061.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 855.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 877.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 920.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1204.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1240.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1110.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1154.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1182.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1438.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1474.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1089.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1110.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1154.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1182.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1438.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1474.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 546.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 604.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 640.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 895.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 933.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 611.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 633.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 705.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 960.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 996.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 622.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 644.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 680.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 716.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 971.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1007.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 720.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 742.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 778.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 814.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900F",
+      "variant": "14900F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1069.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1105.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 626.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 826.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 952.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 794.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 858.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1129.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 826.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 858.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1160.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 866.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 898.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1201.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 852.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 883.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1186.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 875.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 906.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1209.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1054.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1086.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1389.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1319.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1622.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1319.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1622.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 745.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 777.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1079.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 810.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 842.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1145.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 821.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 853.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1156.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KF",
+      "variant": "14900KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 919.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900K",
+      "variant": "14900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 951.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900KKS",
+      "variant": "14900KKS",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1254.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 707.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 728.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1046.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 724.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 746.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1046.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1065.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 790.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 811.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1111.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1130.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 833.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 855.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1155.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1174.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 816.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1137.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1156.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 833.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 855.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1155.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1174.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 838.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 859.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1159.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1178.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 910.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 931.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1231.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1250.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 925.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 946.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1246.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1265.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1393.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1415.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1715.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1734.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 593.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 615.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 915.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 934.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 664.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 686.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 986.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1005.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 766.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 787.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1087.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1106.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 816.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1137.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1156.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700",
+      "variant": "14600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 925.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700F",
+      "variant": "14700F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 946.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i7 14700KF",
+      "variant": "14700KF",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1246.0
+    },
+    {
+      "category": "CPU",
+      "brand": "Intel",
+      "product": "Intel i9 14900",
+      "variant": "14900",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1265.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 22 extra rows (12%): [('Intel i7 14700', '14600K', None, 1089), ('Intel i7 14700F', '14700F', None, 1110), ('Intel i7 14700KF', '14700KF', None, 1154)]",
+  "raw_response": "{\"rows\": [{\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 429}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 451}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 491}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 522}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 575}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 870}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 595}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 617}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 660}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 689}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 944}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 980}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 627}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 648}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 692}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 721}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 976}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1012}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 667}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 689}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 732}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 761}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1016}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1052}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 653}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 674}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 718}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 746}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1002}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1038}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 676}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 697}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 741}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 769}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1025}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1061}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 855}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 877}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 920}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 949}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1204}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1240}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 1089}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 1110}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1154}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1182}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1438}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1474}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 1089}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 1110}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1154}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1182}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1438}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1474}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 546}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 567}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 604}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 640}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 895}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 933}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 611}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 633}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 669}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 705}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 960}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 996}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 622}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 644}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 680}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 716}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 971}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1007}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 720}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 742}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 778}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 814}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900F\", \"variant\": \"14900F\", \"price_sgd\": 1069}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1105}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 626}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 826}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 952}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 794}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 858}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1129}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 826}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 858}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1160}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 866}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 898}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1201}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 852}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 883}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1186}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 875}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 906}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1209}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 1054}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1086}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1389}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 1288}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1319}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1622}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 1288}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 1319}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1622}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 745}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 777}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1079}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 810}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 842}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1145}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 821}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 853}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1156}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KF\", \"variant\": \"14900KF\", \"price_sgd\": 919}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900K\", \"variant\": \"14900K\", \"price_sgd\": 951}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900KKS\", \"variant\": \"14900KKS\", \"price_sgd\": 1254}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 707}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 728}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1028}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1046}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 724}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 746}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1046}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1065}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 790}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 811}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1111}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1130}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 833}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 855}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1155}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1174}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 816}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 837}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1137}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1156}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 833}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 855}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1155}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1174}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 838}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 859}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1159}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1178}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 910}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 931}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1231}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1250}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 925}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 946}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1246}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1265}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 1393}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 1415}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1715}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1734}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 593}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 615}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 915}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 934}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 664}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 686}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 986}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1005}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 766}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 787}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1087}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1106}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 816}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 837}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1137}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1156}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700\", \"variant\": \"14600K\", \"price_sgd\": 925}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700F\", \"variant\": \"14700F\", \"price_sgd\": 946}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i7 14700KF\", \"variant\": \"14700KF\", \"price_sgd\": 1246}, {\"category\": \"CPU\", \"brand\": \"Intel\", \"product\": \"Intel i9 14900\", \"variant\": \"14900\", \"price_sgd\": 1265}]}"
+}

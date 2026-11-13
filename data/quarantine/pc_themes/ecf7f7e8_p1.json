@@ -1,0 +1,13 @@
+{
+  "sha256": "ecf7f7e87d13da0946084d8052cbf68e92adbb56df7be2ae9e7e21b0adb6ebd9",
+  "vendor": "pc_themes",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 3155,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 0/3155 = 0.00; not_empty: no rows extracted",
+  "raw_response": null
+}
