@@ -579,6 +579,7 @@ async function init() {
     return Date.UTC(year, monthNumber - 1, 1) / 1000;
   });
   document.getElementById("updated").textContent = `Updated ${new Date(meta.generated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short" })}`;
+  document.getElementById("base-month").textContent = monthText(meta.months[0]);
   window.addEventListener("hashchange", route);
   window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", route);
   route();

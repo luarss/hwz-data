@@ -12,7 +12,7 @@
 <body>
 <header class="topbar">
   <div class="brand">
-    <strong>HWZ Price Tracker</strong>
+    <a class="home" href="#/overview"><strong>HWZ Price Tracker</strong></a>
     <span id="updated" class="muted"></span>
   </div>
   <nav id="tabs">
@@ -25,7 +25,7 @@
 </header>
 <main id="view" aria-live="polite"><p class="muted">Loading…</p></main>
 <footer class="muted">
-  Prices extracted from HardwareZone price list PDFs. Index = chained mean of month-over-month log price changes for the same item at the same shop (base 100 at first month).
+  Prices extracted from HardwareZone price list PDFs. Index = chained mean of month-over-month log price changes for the same item at the same shop Base 100 = the first month a series has any listings (<span id="base-month">the earliest month in the data</span> for the overall market); series that appear later start at 100 in their own first month, so compare their changes rather than their levels.
 </footer>
 <script src="vendor/uPlot.iife.min.js"></script>
 <script src="app.js" type="module"></script>
