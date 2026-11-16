@@ -1,0 +1,3398 @@
+{
+  "sha256": "a42b09ef182d739e0e68032a743633385f0062924cb3bc03067b263e9e6010fc",
+  "vendor": "pc_themes",
+  "page_number": 8,
+  "method": "vision_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 501.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 543.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 531.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 555.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 816.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 721.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 759.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 958.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 667.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 711.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 698.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 722.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 944.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 986.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 889.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 928.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 644.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 688.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 675.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 921.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 963.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 866.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 905.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1106.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 662.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 705.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 716.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 938.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 980.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 884.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 923.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1123.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 739.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 782.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 770.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 794.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1016.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 961.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 1000.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1201.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 725.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 768.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 755.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 780.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1002.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1044.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 947.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 986.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1186.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 748.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 791.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 778.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 803.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1025.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1067.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 970.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 1009.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1209.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 928.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 971.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 958.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 982.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1204.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1246.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 1150.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 1189.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1389.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 1161.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 1204.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 1191.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 1216.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1438.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1480.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 1383.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 1422.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1622.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 1161.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 1204.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 1191.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 1216.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1438.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1480.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 1383.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 1422.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1622.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 618.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 769.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 673.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 895.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 937.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 840.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 879.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1079.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 683.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 835.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 714.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 960.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1002.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 905.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 944.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1145.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 694.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 846.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 725.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 749.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 971.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1013.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 916.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 955.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1156.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700F",
+      "warranty": null,
+      "price_sgd": 792.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700",
+      "warranty": null,
+      "price_sgd": 944.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700KF",
+      "warranty": null,
+      "price_sgd": 823.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i7 14700K",
+      "warranty": null,
+      "price_sgd": 847.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900F",
+      "warranty": null,
+      "price_sgd": 1069.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900",
+      "warranty": null,
+      "price_sgd": 1111.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KF",
+      "warranty": null,
+      "price_sgd": 1014.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900K",
+      "warranty": null,
+      "price_sgd": 1053.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "Intel i9 14900KS",
+      "warranty": null,
+      "price_sgd": 1254.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 615.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 621.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 638.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1070.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1013.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 674.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 680.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 697.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1072.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 674.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 680.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 697.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1129.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1072.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 680.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 686.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 703.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1134.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1078.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 712.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 729.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1160.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1104.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 733.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 739.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 756.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1188.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1131.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 735.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 740.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 758.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1189.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1133.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 748.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 753.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1202.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 772.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 778.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 795.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1226.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1170.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 782.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 788.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 805.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1236.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1180.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 814.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 820.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1268.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1212.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 785.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 791.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 808.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1239.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1183.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 812.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 818.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 836.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1267.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1210.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 913.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 919.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 936.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1367.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1311.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 932.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 938.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 955.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1386.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1330.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1069.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1074.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1092.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1523.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1467.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1120.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1138.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1569.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1513.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1178.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1184.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1201.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1632.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1576.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1224.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1230.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1247.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1678.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1622.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1224.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1230.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1247.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1678.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1622.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1497.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1503.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1520.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1952.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1895.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1480.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1486.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1503.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1934.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1878.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1955.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1961.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1978.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 2409.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 2353.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 691.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 697.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 714.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1146.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1089.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 700.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 706.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 723.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1154.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1098.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 709.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 714.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 732.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1163.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1107.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 770.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 793.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1224.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1168.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 778.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 784.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 801.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1233.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1176.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 780.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 785.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 803.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1234.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1178.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 830.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 835.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 853.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1284.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1228.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 942.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 948.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 965.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1396.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1340.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1023.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1028.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1046.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1477.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1421.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1292.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1298.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1315.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1746.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1690.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1428.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1434.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1451.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1882.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1826.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 619.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 625.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 642.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1074.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1017.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 652.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 658.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 675.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1106.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1050.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 675.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 692.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1124.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1067.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 735.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 741.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 758.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1189.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1133.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 778.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 784.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 801.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1233.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1176.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 761.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 767.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 784.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1215.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 778.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 784.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 801.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1233.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1176.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 783.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 806.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1237.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1181.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 855.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 860.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 878.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1309.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1253.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 870.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 876.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 893.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1324.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1268.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 1339.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 1344.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 1362.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1793.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1737.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 544.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 562.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 937.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 609.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 615.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 633.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1064.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1008.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 711.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 717.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 734.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 761.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 767.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 784.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1215.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1159.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265KF",
+      "warranty": null,
+      "price_sgd": 870.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 265K",
+      "warranty": null,
+      "price_sgd": 876.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 7 270K +",
+      "warranty": null,
+      "price_sgd": 893.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285",
+      "warranty": null,
+      "price_sgd": 1324.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "UNKNOWN",
+      "variant": null,
+      "bundle_cpu": "ULTRA 9 285K",
+      "warranty": null,
+      "price_sgd": 1268.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 43 extra rows (11%): [('UNKNOWN', None, 'Intel i7 14700F', 1161), ('UNKNOWN', None, 'Intel i7 14700', 1204), ('UNKNOWN', None, 'Intel i7 14700KF', 1191)]; product_names_sane: 376/376 unknown or short",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 501\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 543\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 531\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 555\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 775\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 816\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 721\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 759\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 958\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 667\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 711\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 698\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 722\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 944\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 986\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 889\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 928\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1129\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 644\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 688\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 675\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 699\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 921\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 963\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 866\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 905\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1106\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 662\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 705\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 692\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 716\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 938\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 980\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 884\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 923\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1123\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 739\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 782\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 770\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 794\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1016\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1058\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 961\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 1000\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1201\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 725\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 768\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 755\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 780\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1002\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1044\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 947\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 986\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1186\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 748\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 791\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 778\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 803\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1025\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1067\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 970\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 1009\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1209\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 928\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 971\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 958\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 982\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1204\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1246\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 1150\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 1189\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1389\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 1161\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 1204\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 1191\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 1216\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1438\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1480\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 1383\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 1422\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1622\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 1161\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 1204\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 1191\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 1216\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1438\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1480\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 1383\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 1422\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1622\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 618\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 769\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 648\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 673\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 895\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 937\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 840\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 879\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1079\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 683\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 835\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 714\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 738\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 960\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1002\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 905\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 944\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1145\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 694\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 846\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 725\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 749\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 971\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1013\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 916\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 955\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1156\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700F\",\n      \"price_sgd\": 792\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700\",\n      \"price_sgd\": 944\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700KF\",\n      \"price_sgd\": 823\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i7 14700K\",\n      \"price_sgd\": 847\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900F\",\n      \"price_sgd\": 1069\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900\",\n      \"price_sgd\": 1111\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KF\",\n      \"price_sgd\": 1014\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900K\",\n      \"price_sgd\": 1053\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"Intel i9 14900KS\",\n      \"price_sgd\": 1254\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 615\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 621\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 638\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1070\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1013\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 674\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 680\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 697\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1129\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1072\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 674\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 680\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 697\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1129\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1072\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 680\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 686\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 703\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1134\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1078\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 706\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 712\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 729\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1160\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1104\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 733\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 739\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 756\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1188\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1131\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 735\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 740\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 758\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1189\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1133\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 748\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 753\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 771\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1202\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1146\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 772\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 778\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 795\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1226\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1170\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 782\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 788\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 805\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1236\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1180\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 814\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 820\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 837\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1268\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1212\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 785\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 791\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 808\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1239\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1183\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 812\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 818\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 836\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1267\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1210\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 913\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 919\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 936\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1367\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1311\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 932\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 938\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 955\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1386\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1330\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1069\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1074\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1092\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1523\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1467\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1115\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1120\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1138\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1569\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1513\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1178\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1184\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1201\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1632\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1576\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1224\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1230\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1247\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1678\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1622\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1224\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1230\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1247\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1678\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1622\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1497\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1503\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1520\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1952\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1895\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1480\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1486\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1503\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1934\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1878\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1955\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1961\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1978\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 2409\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 2353\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 691\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 697\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 714\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1146\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1089\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 700\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 706\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 723\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1154\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1098\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 709\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 714\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 732\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1163\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1107\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 770\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 775\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 793\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1224\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1168\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 778\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 784\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 801\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1233\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1176\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 780\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 785\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 803\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1234\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1178\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 830\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 835\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 853\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1284\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1228\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 942\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 948\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 965\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1396\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1340\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1023\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1028\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1046\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1477\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1421\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1292\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1298\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1315\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1746\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1690\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1428\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1434\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1451\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1882\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1826\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 619\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 625\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 642\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1074\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1017\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 652\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 658\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 675\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1106\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1050\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 669\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 675\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 692\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1124\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1067\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 735\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 741\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 758\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1189\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1133\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 778\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 784\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 801\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1233\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1176\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 761\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 767\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 784\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1215\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1159\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 778\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 784\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 801\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1233\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1176\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 783\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 789\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 806\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1237\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1181\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 855\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 860\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 878\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1309\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1253\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 870\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 876\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 893\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1324\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1268\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 1339\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 1344\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 1362\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1793\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1737\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 539\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 544\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 562\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 993\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 937\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 609\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 615\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 633\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1064\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1008\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 711\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 717\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 734\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1165\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1109\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 761\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 767\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 784\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1215\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1159\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265KF\",\n      \"price_sgd\": 870\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 265K\",\n      \"price_sgd\": 876\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 7 270K +\",\n      \"price_sgd\": 893\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285\",\n      \"price_sgd\": 1324\n    },\n    {\n      \"product\": \"UNKNOWN\",\n      \"bundle_cpu\": \"ULTRA 9 285K\",\n      \"price_sgd\": 1268\n    }\n  ]\n}"
+}

@@ -1,0 +1,2948 @@
+{
+  "sha256": "942dcb10a714bef42466d28abcee1e18f249ad7a2b943593294f91b4a916266c",
+  "vendor": "pc_themes",
+  "page_number": 2,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "SSD",
+      "brand": "WD",
+      "product": "WD BLUE 3.5\" 500GBPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 162.0
+    },
+    {
+      "category": "SSD",
+      "brand": "WD",
+      "product": "WD BLACK 3.5\" 500GBPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "SSD",
+      "brand": "WD",
+      "product": "WD RED PLUS 3.5\" 500GBPM (0YF2170/7200RPM)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "SSD",
+      "brand": "WD",
+      "product": "WD RED PRO 3.5\" 7200RPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "SSD",
+      "brand": "WD",
+      "product": "WD PURPLE 3.5\" 500GBPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": "SSD",
+      "brand": "WD",
+      "product": "WD PURPLE PRO 3.5\" 7200RPM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL BX500 SATA 2.5\" SSD",
+      "variant": "240GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL MX500 SATA 2.5\" SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL P310 NVMe M.2 GEN 4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "CRUCIAL",
+      "product": "CRUCIAL T500 NVMe M.2 GEN 5 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "DYNAMAX",
+      "product": "DYNAMAX A4X NVMe M.2 GEN 4 SSD 870W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "LEXAR",
+      "product": "LEXAR NS100 SATA 2.5\" SSD 256MBW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "LEXAR",
+      "product": "LEXAR NM790 NVMe M.2 GEN 4 SSD 870W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "LEXAR",
+      "product": "LEXAR NM800 NVMe M.2 Gen 5 SSD 7000MBW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "LEXAR",
+      "product": "LEXAR PRO 3000 NVMe M.2 GEN 5 SSD 1400MBW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "KIOXIA",
+      "product": "KIOXIA EXCERIA BASIC NVMe M.2 GEN 4 SSD 1TB/2TB/2TB/3TB/4TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "KIOXIA",
+      "product": "KIOXIA EXCERIA PRO NVMe M.2 GEN 4 SSD 1TB/2TB/4TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "KIOXIA",
+      "product": "KIOXIA EXCERIA PLUS G4 NVMe M.2 GEN 4 SSD 1TB/2TB/4TB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "SAMSUNG",
+      "product": "SAMSUNG EVO 470 SATA 2.5\" SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "SAMSUNG",
+      "product": "SAMSUNG 980 EVO NVMe M.2 GEN 4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "SAMSUNG",
+      "product": "SAMSUNG 990 PRO NVMe M.2 GEN 4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "SAMSUNG",
+      "product": "SAMSUNG 990 PRO NVMe M.2 GEN 4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "WD",
+      "product": "WD BLACK SN850X NVMe M.2 GEN 4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "WD",
+      "product": "T-FORCE CARDEA G30 PRO NVMe M.2 GEN 4 SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "2.5\" / NVME / SSD",
+      "brand": "TRANSCEND",
+      "product": "TRANSCEND 225S SATA III 600GB 2.5\" SSD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 111.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS GT 730 2GB D5 (NON-D)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS GT 1030 2GB GDDR5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 241.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 3050 8GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 334.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF RTX 3060 8GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 414.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 3060 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 457.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS DUAL RTX 3060 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 485.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 3070 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 533.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming RTX 3070 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 587.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 4070 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1269.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 4070 SUPER 12GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1539.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 4070 Ti SUPER 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2299.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming RTX 4070 Ti SUPER 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2399.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG ASTRAL RTX 5090 GAMING OC 32GB White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5399.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX RTX 5090 GAMING OC 32GB White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5399.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "ASUS",
+      "product": "ASUS PRIME RTX 5070 Ti 16GB OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1269.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    },
+    {
+      "category": "GRAPHICS CARD",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE RTX 5080 Windforce OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2099.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 286 extra rows (88%): [('SAMSUNG 990 PRO NVMe M.2 GEN 4 SSD', None, None, 111), ('GIGABYTE RTX 5080 Windforce OC 16GB', None, None, 2099)]",
+  "raw_response": "{\"rows\": [{\"category\": \"SSD\", \"brand\": \"WD\", \"product\": \"WD BLUE 3.5\\\" 500GBPM\", \"price_sgd\": 162}, {\"category\": \"SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK 3.5\\\" 500GBPM\", \"price_sgd\": 193}, {\"category\": \"SSD\", \"brand\": \"WD\", \"product\": \"WD RED PLUS 3.5\\\" 500GBPM (0YF2170/7200RPM)\", \"price_sgd\": 141}, {\"category\": \"SSD\", \"brand\": \"WD\", \"product\": \"WD RED PRO 3.5\\\" 7200RPM\", \"price_sgd\": 193}, {\"category\": \"SSD\", \"brand\": \"WD\", \"product\": \"WD PURPLE 3.5\\\" 500GBPM\", \"price_sgd\": 147}, {\"category\": \"SSD\", \"brand\": \"WD\", \"product\": \"WD PURPLE PRO 3.5\\\" 7200RPM\", \"price_sgd\": 259}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL BX500 SATA 2.5\\\" SSD\", \"variant\": \"240GB\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL MX500 SATA 2.5\\\" SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL P310 NVMe M.2 GEN 4 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"CRUCIAL\", \"product\": \"CRUCIAL T500 NVMe M.2 GEN 5 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"DYNAMAX\", \"product\": \"DYNAMAX A4X NVMe M.2 GEN 4 SSD 870W\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"LEXAR\", \"product\": \"LEXAR NS100 SATA 2.5\\\" SSD 256MBW\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"LEXAR\", \"product\": \"LEXAR NM790 NVMe M.2 GEN 4 SSD 870W\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"LEXAR\", \"product\": \"LEXAR NM800 NVMe M.2 Gen 5 SSD 7000MBW\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"LEXAR\", \"product\": \"LEXAR PRO 3000 NVMe M.2 GEN 5 SSD 1400MBW\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA EXCERIA BASIC NVMe M.2 GEN 4 SSD 1TB/2TB/2TB/3TB/4TB\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA EXCERIA PRO NVMe M.2 GEN 4 SSD 1TB/2TB/4TB\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"KIOXIA\", \"product\": \"KIOXIA EXCERIA PLUS G4 NVMe M.2 GEN 4 SSD 1TB/2TB/4TB\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"SAMSUNG\", \"product\": \"SAMSUNG EVO 470 SATA 2.5\\\" SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"SAMSUNG\", \"product\": \"SAMSUNG 980 EVO NVMe M.2 GEN 4 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"SAMSUNG\", \"product\": \"SAMSUNG 990 PRO NVMe M.2 GEN 4 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"SAMSUNG\", \"product\": \"SAMSUNG 990 PRO NVMe M.2 GEN 4 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"WD\", \"product\": \"WD BLACK SN850X NVMe M.2 GEN 4 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"WD\", \"product\": \"T-FORCE CARDEA G30 PRO NVMe M.2 GEN 4 SSD\", \"price_sgd\": 111}, {\"category\": \"2.5\\\" / NVME / SSD\", \"brand\": \"TRANSCEND\", \"product\": \"TRANSCEND 225S SATA III 600GB 2.5\\\" SSD\", \"price_sgd\": 111}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS GT 730 2GB D5 (NON-D)\", \"price_sgd\": 179}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS GT 1030 2GB GDDR5\", \"price_sgd\": 241}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 3050 8GB OC\", \"price_sgd\": 334}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF RTX 3060 8GB OC\", \"price_sgd\": 414}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 3060 12GB OC\", \"price_sgd\": 457}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS DUAL RTX 3060 12GB OC\", \"price_sgd\": 485}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 3070 12GB OC\", \"price_sgd\": 533}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming RTX 3070 12GB OC\", \"price_sgd\": 587}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 4070 12GB OC\", \"price_sgd\": 1269}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 4070 SUPER 12GB OC\", \"price_sgd\": 1539}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 4070 Ti SUPER 16GB OC\", \"price_sgd\": 2299}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming RTX 4070 Ti SUPER 16GB OC\", \"price_sgd\": 2399}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG ASTRAL RTX 5090 GAMING OC 32GB White\", \"price_sgd\": 5399}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX RTX 5090 GAMING OC 32GB White\", \"price_sgd\": 5399}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME RTX 5070 Ti 16GB OC\", \"price_sgd\": 1269}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}, {\"category\": \"GRAPHICS CARD\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE RTX 5080 Windforce OC 16GB\", \"price_sgd\": 2099}]}"
+}
