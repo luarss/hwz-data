@@ -1,0 +1,13 @@
+{
+  "sha256": "233cb123bb83362c28ccab495c40af35f7aeacd3332d3e31693e1d9a6d046c85",
+  "vendor": "techdeals",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 2511,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 0/2511 = 0.00; not_empty: no rows extracted",
+  "raw_response": null
+}

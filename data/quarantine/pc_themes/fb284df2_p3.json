@@ -1,0 +1,608 @@
+{
+  "sha256": "fb284df235fdb709ca417dca970cfc824e083e16beaabcd8abe5d51da5ff6b4e",
+  "vendor": "pc_themes",
+  "page_number": 3,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R5-5500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 187.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 349.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R5-5600GT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 256.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 446.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R7-5700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 402.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R7-5700X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R7-5700X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R7-5800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R9-5900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 700.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "R9-5950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 821.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS PRIME B550M-A WIFI II",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R5-5500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 223.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R5-5600GT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 253.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 482.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R7-5700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R7-5700X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 485.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R7-5700X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 590.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R7-5800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 696.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R9-5900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 737.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "R9-5950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 857.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "ASUS",
+      "product": "ASUS TUF Gaming B550-PLUS Wi-Fi II",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 962.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R5-5500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 427.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R5-5600GT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 525.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R7-5700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 481.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R7-5700X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R7-5700X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 632.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R7-5800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R9-5900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "R9-5950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550-I AORUS PRO AX",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1004.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R5-5500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 316.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R5-5600GT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 414.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R7-5700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 370.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R7-5700X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 417.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R7-5700X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 521.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R7-5800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 627.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R9-5900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "R9-5950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 789.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "GIGABYTE",
+      "product": "GIGABYTE GA B550M-DS3H AC R2",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 893.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R5-5500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 289.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R5-5600GT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 260.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 387.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R7-5700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R7-5700X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R7-5700X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 494.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R7-5800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 600.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R9-5900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 641.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "R9-5950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 761.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI Pro B550M-P WiFi 6E",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 866.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R5-5500",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 219.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 346.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R5-5600GT",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 255.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R5-5600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 444.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R7-5700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 400.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R7-5700X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 447.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R7-5700X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R7-5800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 657.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R9-5900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 698.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "R9-5950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 819.0
+    },
+    {
+      "category": "AMD RYZEN 5000 SERIES PROCESSORS",
+      "brand": "MSI",
+      "product": "MSI B550 Gaming WiFi 6E",
+      "variant": "UNKNOWN",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 923.0
+    }
+  ],
+  "numeric_tokens_in_source": 1763,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 66/1763 = 0.04",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R5-5500\", \"price_sgd\": 187},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R5-5600\", \"price_sgd\": 349},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R5-5600GT\", \"price_sgd\": 256},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R5-5600\", \"price_sgd\": 446},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R7-5700\", \"price_sgd\": 402},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R7-5700X\", \"price_sgd\": 449},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R7-5700X3D\", \"price_sgd\": 554},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R7-5800X3D\", \"price_sgd\": 660},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R9-5900X\", \"price_sgd\": 700},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"R9-5950X\", \"price_sgd\": 821},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME B550M-A WIFI II\", \"variant\": \"UNKNOWN\", \"price_sgd\": 926},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R5-5500\", \"price_sgd\": 223},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R5-5600\", \"price_sgd\": 385},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R5-5600GT\", \"price_sgd\": 253},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R5-5600\", \"price_sgd\": 482},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R7-5700\", \"price_sgd\": 439},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R7-5700X\", \"price_sgd\": 485},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R7-5700X3D\", \"price_sgd\": 590},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R7-5800X3D\", \"price_sgd\": 696},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R9-5900X\", \"price_sgd\": 737},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"R9-5950X\", \"price_sgd\": 857},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF Gaming B550-PLUS Wi-Fi II\", \"variant\": \"UNKNOWN\", \"price_sgd\": 962},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R5-5500\", \"price_sgd\": 265},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R5-5600\", \"price_sgd\": 427},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R5-5600GT\", \"price_sgd\": 249},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R5-5600\", \"price_sgd\": 525},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R7-5700\", \"price_sgd\": 481},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R7-5700X\", \"price_sgd\": 528},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R7-5700X3D\", \"price_sgd\": 632},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R7-5800X3D\", \"price_sgd\": 738},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R9-5900X\", \"price_sgd\": 779},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"R9-5950X\", \"price_sgd\": 900},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550-I AORUS PRO AX\", \"variant\": \"UNKNOWN\", \"price_sgd\": 1004},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R5-5500\", \"price_sgd\": 154},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R5-5600\", \"price_sgd\": 316},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R5-5600GT\", \"price_sgd\": 259},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R5-5600\", \"price_sgd\": 414},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R7-5700\", \"price_sgd\": 370},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R7-5700X\", \"price_sgd\": 417},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R7-5700X3D\", \"price_sgd\": 521},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R7-5800X3D\", \"price_sgd\": 627},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R9-5900X\", \"price_sgd\": 668},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"R9-5950X\", \"price_sgd\": 789},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"GIGABYTE\", \"product\": \"GIGABYTE GA B550M-DS3H AC R2\", \"variant\": \"UNKNOWN\", \"price_sgd\": 893},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R5-5500\", \"price_sgd\": 159},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R5-5600\", \"price_sgd\": 289},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R5-5600GT\", \"price_sgd\": 260},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R5-5600\", \"price_sgd\": 387},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R7-5700\", \"price_sgd\": 343},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R7-5700X\", \"price_sgd\": 389},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R7-5700X3D\", \"price_sgd\": 494},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R7-5800X3D\", \"price_sgd\": 600},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R9-5900X\", \"price_sgd\": 641},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"R9-5950X\", \"price_sgd\": 761},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI Pro B550M-P WiFi 6E\", \"variant\": \"UNKNOWN\", \"price_sgd\": 866},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R5-5500\", \"price_sgd\": 219},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R5-5600\", \"price_sgd\": 346},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R5-5600GT\", \"price_sgd\": 255},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R5-5600\", \"price_sgd\": 444},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R7-5700\", \"price_sgd\": 400},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R7-5700X\", \"price_sgd\": 447},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R7-5700X3D\", \"price_sgd\": 551},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R7-5800X3D\", \"price_sgd\": 657},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R9-5900X\", \"price_sgd\": 698},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"R9-5950X\", \"price_sgd\": 819},\n  {\"category\": \"AMD RYZEN 5000 SERIES PROCESSORS\", \"brand\": \"MSI\", \"product\": \"MSI B550 Gaming WiFi 6E\", \"variant\": \"UNKNOWN\", \"price_sgd\": 923}\n]}"
+}

@@ -1,0 +1,239 @@
+{
+  "sha256": "7d941539695bf1b2cf85aa271e69599e9f4a62d210c6b9ded440a4d574eeee80",
+  "vendor": "techdeals",
+  "page_number": 3,
+  "method": "text_layer_llm",
+  "provider": "groq",
+  "model": "openai/gpt-oss-120b",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "MICROSDHC/XC CL10",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.4
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MICROSDHC/XC CL10",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.4
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "MICROSDHC/XC CL10",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.5
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ULTRA DUAL DRIVE",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1.2
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ULTRA DUAL DRIVE",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1.8
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ULTRA DUAL DRIVE",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.5
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "ULTRA DUAL DRIVE",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DUAL DRIVE GO",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DUAL DRIVE GO",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.5
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DUAL DRIVE GO",
+      "variant": "128GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DUAL DRIVE GO",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DUAL DRIVE GO",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "DUAL DRIVE GO",
+      "variant": "1TB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.5
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 8.2
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.2
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.8
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.6
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7.3
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "CRUZER GLIDE 3.0",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.1
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Cruzer Blade USB2.0",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.1
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Cruzer Blade USB2.0",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.6
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Cruzer Blade USB2.0",
+      "variant": "64GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Cruzer Blade USB2.0",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4.9
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "A631",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.9
+    }
+  ],
+  "numeric_tokens_in_source": 166,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 25/166 = 0.15",
+  "raw_response": "{\"rows\":[{\"product\":\"MICROSDHC/XC CL10\",\"variant\":\"32GB\",\"price_sgd\":6.40},{\"product\":\"MICROSDHC/XC CL10\",\"variant\":\"64GB\",\"price_sgd\":9.40},{\"product\":\"MICROSDHC/XC CL10\",\"variant\":\"64GB\",\"price_sgd\":12.50},{\"product\":\"ULTRA DUAL DRIVE\",\"variant\":\"32GB\",\"price_sgd\":1.20},{\"product\":\"ULTRA DUAL DRIVE\",\"variant\":\"64GB\",\"price_sgd\":1.80},{\"product\":\"ULTRA DUAL DRIVE\",\"variant\":\"128GB\",\"price_sgd\":4.50},{\"product\":\"ULTRA DUAL DRIVE\",\"variant\":\"256GB\",\"price_sgd\":5.00},{\"product\":\"DUAL DRIVE GO\",\"variant\":\"32GB\",\"price_sgd\":9.00},{\"product\":\"DUAL DRIVE GO\",\"variant\":\"64GB\",\"price_sgd\":9.50},{\"product\":\"DUAL DRIVE GO\",\"variant\":\"128GB\",\"price_sgd\":4.00},{\"product\":\"DUAL DRIVE GO\",\"variant\":\"256GB\",\"price_sgd\":5.00},{\"product\":\"DUAL DRIVE GO\",\"variant\":\"512GB\",\"price_sgd\":3.00},{\"product\":\"DUAL DRIVE GO\",\"variant\":\"1TB\",\"price_sgd\":109.00},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"32GB\",\"price_sgd\":8.50},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"64GB\",\"price_sgd\":8.20},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"16GB\",\"price_sgd\":6.20},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"16GB\",\"price_sgd\":6.80},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"32GB\",\"price_sgd\":6.60},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"32GB\",\"price_sgd\":7.30},{\"product\":\"CRUZER GLIDE 3.0\",\"variant\":\"64GB\",\"price_sgd\":9.10},{\"product\":\"Cruzer Blade USB2.0\",\"variant\":\"32GB\",\"price_sgd\":6.10},{\"product\":\"Cruzer Blade USB2.0\",\"variant\":\"8GB\",\"price_sgd\":4.60},{\"product\":\"Cruzer Blade USB2.0\",\"variant\":\"64GB\",\"price_sgd\":6.90},{\"product\":\"Cruzer Blade USB2.0\",\"variant\":\"16GB\",\"price_sgd\":4.90},{\"product\":\"A631\",\"price_sgd\":39.90}]}"
+}

@@ -1,0 +1,158 @@
+{
+  "sha256": "e47b115176897b4df50346db391c2d3fc23aae930a69626598cf3c7d7ec05011",
+  "vendor": "techdeals",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "12100",
+      "bundle_cpu": "12100",
+      "warranty": null,
+      "price_sgd": 317.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "12400F",
+      "bundle_cpu": "12400F",
+      "warranty": null,
+      "price_sgd": 322.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "12400",
+      "bundle_cpu": "12400",
+      "warranty": null,
+      "price_sgd": 361.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "12700",
+      "bundle_cpu": "12700",
+      "warranty": null,
+      "price_sgd": 557.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "13700F",
+      "bundle_cpu": "13700F",
+      "warranty": null,
+      "price_sgd": 581.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14100",
+      "bundle_cpu": "14100",
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14400F",
+      "bundle_cpu": "14400F",
+      "warranty": null,
+      "price_sgd": 364.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14400",
+      "bundle_cpu": "14400",
+      "warranty": null,
+      "price_sgd": 394.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14600KF",
+      "bundle_cpu": "14600KF",
+      "warranty": null,
+      "price_sgd": 478.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14600K",
+      "bundle_cpu": "14600K",
+      "warranty": null,
+      "price_sgd": 498.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14700F",
+      "bundle_cpu": "14700F",
+      "warranty": null,
+      "price_sgd": 586.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14700",
+      "bundle_cpu": "14700",
+      "warranty": null,
+      "price_sgd": 614.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14700KF",
+      "bundle_cpu": "14700KF",
+      "warranty": null,
+      "price_sgd": 663.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14700K",
+      "bundle_cpu": "14700K",
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14900KF",
+      "bundle_cpu": "14900KF",
+      "warranty": null,
+      "price_sgd": 806.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASROCK",
+      "product": "B760M PRO-A D4 WIFI",
+      "variant": "14900K",
+      "bundle_cpu": "14900K",
+      "warranty": null,
+      "price_sgd": 817.0
+    }
+  ],
+  "numeric_tokens_in_source": 2412,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 16/2412 = 0.01",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"12100\", \"bundle_cpu\": \"12100\", \"price_sgd\": 317},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"12400F\", \"bundle_cpu\": \"12400F\", \"price_sgd\": 322},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"12400\", \"bundle_cpu\": \"12400\", \"price_sgd\": 361},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"12700\", \"bundle_cpu\": \"12700\", \"price_sgd\": 557},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"13700F\", \"bundle_cpu\": \"13700F\", \"price_sgd\": 581},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14100\", \"bundle_cpu\": \"14100\", \"price_sgd\": 325},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14400F\", \"bundle_cpu\": \"14400F\", \"price_sgd\": 364},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14400\", \"bundle_cpu\": \"14400\", \"price_sgd\": 394},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14600KF\", \"bundle_cpu\": \"14600KF\", \"price_sgd\": 478},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14600K\", \"bundle_cpu\": \"14600K\", \"price_sgd\": 498},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14700F\", \"bundle_cpu\": \"14700F\", \"price_sgd\": 586},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14700\", \"bundle_cpu\": \"14700\", \"price_sgd\": 614},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14700KF\", \"bundle_cpu\": \"14700KF\", \"price_sgd\": 663},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14700K\", \"bundle_cpu\": \"14700K\", \"price_sgd\": 669},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14900KF\", \"bundle_cpu\": \"14900KF\", \"price_sgd\": 806},\n  {\"category\": \"Motherboard\", \"brand\": \"ASROCK\", \"product\": \"B760M PRO-A D4 WIFI\", \"variant\": \"14900K\", \"bundle_cpu\": \"14900K\", \"price_sgd\": 817}\n]}"
+}
