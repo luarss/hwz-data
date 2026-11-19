@@ -1,0 +1,185 @@
+{
+  "sha256": "ebdb5fe5e0cf464bf27e40ed783416871450794c5d9536f2a5aa6992d194bb26",
+  "vendor": "techdeals",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "ENTRY BUILD",
+      "brand": "ASRock",
+      "product": "ENTRY BUILD Package",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "BUDGET BUILD",
+      "brand": "ASRock",
+      "product": "BUDGET BUILD Package",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "ENTRY BUILD",
+      "brand": "ASRock",
+      "product": "ENTRY BUILD Package Alt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 418.0
+    },
+    {
+      "category": "BUDGET BUILD",
+      "brand": "ASRock",
+      "product": "BUDGET BUILD Package Alt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "MODERATE AMD BUILD",
+      "brand": "Gigabyte",
+      "product": "MODERATE AMD BUILD Package",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1179.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Windows 11 home 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Windows 11 Pro 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": "HP",
+      "product": "HP USB Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": "HP",
+      "product": "HP Wireless Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Ryzen AM5 Gaming PC",
+      "brand": "Asrock",
+      "product": "Ryzen AM5 Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2220.0
+    },
+    {
+      "category": "Video Editing PC",
+      "brand": "ASRock",
+      "product": "Video Editing PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2048.0
+    },
+    {
+      "category": "Ryzen RGB Gaming PC",
+      "brand": "Asrock",
+      "product": "Ryzen RGB Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1148.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Ms Office 2024 Home & Student",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Ms Office 2024 Home & Business",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": "ASRock",
+      "product": "SIMPLE GAMING PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": "Gigabyte",
+      "product": "SIMPLE GAMING PC Alt",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 788.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": "Zotac",
+      "product": "Lowprofile GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "ASUS-INTEL NUC MINI PC",
+      "brand": "Asus",
+      "product": "Asus NUC 12 Pro NUC12WSHi3 i3-1220P Barebone System",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "ASUS-INTEL NUC MINI PC",
+      "brand": "Asus",
+      "product": "Asus NUC PRO NUC12WSH i7-1260P Barebone System",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 889.0
+    }
+  ],
+  "numeric_tokens_in_source": 34,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 19/34 = 0.56",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"ENTRY BUILD\", \"brand\": \"ASRock\", \"product\": \"ENTRY BUILD Package\", \"price_sgd\": 398},\n  {\"category\": \"BUDGET BUILD\", \"brand\": \"ASRock\", \"product\": \"BUDGET BUILD Package\", \"price_sgd\": 528},\n  {\"category\": \"ENTRY BUILD\", \"brand\": \"ASRock\", \"product\": \"ENTRY BUILD Package Alt\", \"price_sgd\": 418},\n  {\"category\": \"BUDGET BUILD\", \"brand\": \"ASRock\", \"product\": \"BUDGET BUILD Package Alt\", \"price_sgd\": 518},\n  {\"category\": \"MODERATE AMD BUILD\", \"brand\": \"Gigabyte\", \"product\": \"MODERATE AMD BUILD Package\", \"price_sgd\": 1179},\n  {\"category\": \"Separate buy\", \"product\": \"Windows 11 home 64-bit\", \"price_sgd\": 165},\n  {\"category\": \"Separate buy\", \"product\": \"Windows 11 Pro 64-bit\", \"price_sgd\": 209},\n  {\"category\": \"Separate buy\", \"brand\": \"HP\", \"product\": \"HP USB Keyboard & Mouse\", \"price_sgd\": 14},\n  {\"category\": \"Separate buy\", \"brand\": \"HP\", \"product\": \"HP Wireless Keyboard & Mouse\", \"price_sgd\": 24},\n  {\"category\": \"Ryzen AM5 Gaming PC\", \"brand\": \"Asrock\", \"product\": \"Ryzen AM5 Gaming PC\", \"price_sgd\": 2220},\n  {\"category\": \"Video Editing PC\", \"brand\": \"ASRock\", \"product\": \"Video Editing PC\", \"price_sgd\": 2048},\n  {\"category\": \"Ryzen RGB Gaming PC\", \"brand\": \"Asrock\", \"product\": \"Ryzen RGB Gaming PC\", \"price_sgd\": 1148},\n  {\"category\": \"Separate buy\", \"product\": \"Ms Office 2024 Home & Student\", \"price_sgd\": 198},\n  {\"category\": \"Separate buy\", \"product\": \"Ms Office 2024 Home & Business\", \"price_sgd\": 309},\n  {\"category\": \"SIMPLE GAMING PC\", \"brand\": \"ASRock\", \"product\": \"SIMPLE GAMING PC\", \"price_sgd\": 738},\n  {\"category\": \"SIMPLE GAMING PC\", \"brand\": \"Gigabyte\", \"product\": \"SIMPLE GAMING PC Alt\", \"price_sgd\": 788},\n  {\"category\": \"SIMPLE GAMING PC\", \"brand\": \"Zotac\", \"product\": \"Lowprofile GPU\", \"price_sgd\": 275},\n  {\"category\": \"ASUS-INTEL NUC MINI PC\", \"brand\": \"Asus\", \"product\": \"Asus NUC 12 Pro NUC12WSHi3 i3-1220P Barebone System\", \"price_sgd\": 549},\n  {\"category\": \"ASUS-INTEL NUC MINI PC\", \"brand\": \"Asus\", \"product\": \"Asus NUC PRO NUC12WSH i7-1260P Barebone System\", \"price_sgd\": 889}\n]}"
+}

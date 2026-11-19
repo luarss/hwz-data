@@ -1,0 +1,185 @@
+{
+  "sha256": "c62ccfac572b94ff9d998558bbcc6f0b5ff1c1a81925114b5fe6f123255dfe7c",
+  "vendor": "techdeals",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "ENTRY BUILD",
+      "brand": null,
+      "product": "ASRock H370M-HDV/M.2 Motherboard / Intel i5-9500 3GHz 6-Core CPU / ASRock A520M/AC M-Atx Board / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 8GB DDR4-3200 Udimm / 256GB NVMe M.2 Gen3 SSD / Slim Case w/450w PSU / Windows 11 Unactivated",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "ENTRY BUILD",
+      "brand": null,
+      "product": "ASRock H370M-HDV/M.2 Motherboard / Intel i5-9500 3GHz 6-Core CPU / ASRock A520M/AC M-Atx Board / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 8GB DDR4-3200 Udimm / 256GB NVMe M.2 Gen3 SSD / Slim Case w/450w PSU / Windows 11 Unactivated",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 418.0
+    },
+    {
+      "category": "BUDGET BUILD",
+      "brand": null,
+      "product": "ASRock H610M-HDV/M.2 R2.0 / Intel i5-12400 2.5GHz 6-Core Processor / ASRock B550M WIFI SE Motherboard / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 16GB DDR4 -3200Mhz RAM / Lexar NM610 PRO 500GB NVMe SSD / Tecware NEO M2 TG Case, Windows 11 Unactivated / FSP HV Pro 550w 80+ Bronze PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "BUDGET BUILD",
+      "brand": null,
+      "product": "ASRock H610M-HDV/M.2 R2.0 / Intel i5-12400 2.5GHz 6-Core Processor / ASRock B550M WIFI SE Motherboard / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 16GB DDR4 -3200Mhz RAM / Lexar NM610 PRO 500GB NVMe SSD / Tecware NEO M2 TG Case, Windows 11 Unactivated / FSP HV Pro 550w 80+ Bronze PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "MODERATE AMD BUILD",
+      "brand": "Gigabyte",
+      "product": "Gigabyte B550M DS3H AC R2 Motherboard / AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor / Kingston Fury 16GB DDR4-3200 Udimm / LEXAR NQ700 1TB Gen4 NVME SSD / MONTECH AIR 100 ARGB MATX CASE / SAPPHIRE NITRO+ RX 6750 XT 12GB GD6 GPU / SilverStone VIVA650 650w 80+ Gold PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1179.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Windows 11 home 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Windows 11 Pro 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": "HP",
+      "product": "HP USB Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": "HP",
+      "product": "HP Wireless Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Ryzen AM5 Gaming PC",
+      "brand": "Asrock",
+      "product": "Asrock B650M PG Lightning WIFI AX AM5 M-Atx / AMD Ryzen 7 7700X 8-Core 16T 4.5Ghz Cpu / Adata XPG LancerBlade RGB 16GBx2 6400Mhz CL32 / Lexar NM790 1TB M.2 NVMe Gen4 7400R/6500W / Arctic Liquid Freezer III 240 A-RGB Black / Montech AIR 100 ARGB M-Atx 4x120mm ARGB / Zotac RTX4070 Super Twin Edge OC 12GB GD6X / Montech Century 850W 80+ Gold F.Mod Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2220.0
+    },
+    {
+      "category": "Video Editing PC",
+      "brand": "ASRock",
+      "product": "ASRock B760M PRO-A D4 WIFI DDR4 / Intel I7-14700 33MB 20C(12+8) 28T LGA1700 / Crucial 64GB(32Gx2) DDR4-3200 / Crucial P3 Plus 1TB PCie 4.0 NVMe M.2 2280 / ThermalRight Assassin X 120 Refined SE ARGB / Deepcool Macube 310P Atx TG Black Case / EVGA GA 650w 80+ Gold Full Mod Psu / ZOTAC GAMING RTX 4070 TWIN EDGE OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2048.0
+    },
+    {
+      "category": "Ryzen RGB Gaming PC",
+      "brand": "Asrock",
+      "product": "Asrock B550M Wifi SE board / AMD R7 5700X Ryzen 8C 16T 3.4GHz Cpu / Adata XPG Spectrix D35G 16GB[8Gx2] 3600Mhz RGB / Crucial P3 plus 500GB Gen4 NVMe SSD / Zotac RTX4060 TwinEdge OC 8GB GDRE6 / Fsp HV Pro 650w 80+ Bronze Psu / Tecware NEO M2 TG M-Atx 3x120mm ARGB Black / ThermalRight Assassin X 120 Refined SE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1148.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Ms Office 2024 Home & Student",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "Separate buy",
+      "brand": null,
+      "product": "Ms Office 2024 Home & Business",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": "ASRock",
+      "product": "ASRock B550M WIFI SE / AMD Ryzen 5 5500 3.6 GHz CPU / Zotac RTX3050 6GB GDOR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": "Gigabyte",
+      "product": "Gigabyte H610M H DDR4 Motherboard / Intel i3-12100 3.30Ghz 4-Core CPU / Crucial 16GB DDR4-3200 RAM / 512GB NVMe M.2 Gen3 SSD / Zotac RTX3050 Solo 6GB GDOR6 GPU / FSP 550w 80+ Bronze SPU / Tecware NEO M2 TG ARGB mATX Case / Windows 11 Unactivated",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 788.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Lowprofile GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "ASUS-INTEL NUC MINI PC",
+      "brand": "Asus",
+      "product": "Asus NUC 12 Pro NUC12WSHi3 i3-1220P Barebone System / Crucial 8GB DDR4 -3200Mhz Sodimm / Lexar NM610 PRO 500GB PCIe NVMe SSD / Windows 11 Unactivated",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "ASUS-INTEL NUC MINI PC",
+      "brand": "Asus",
+      "product": "Asus NUC PRO NUC12WSH i7-1260P Barebone System / Crucial 16GB DDR4 -3200Mhz Sodimm / Lexar NQ700 1TB PCIe NVMe Gen4x4 SSD / Windows 11 Unactivated",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 889.0
+    }
+  ],
+  "numeric_tokens_in_source": 34,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 19/34 = 0.56",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"ENTRY BUILD\",\n      \"product\": \"ASRock H370M-HDV/M.2 Motherboard / Intel i5-9500 3GHz 6-Core CPU / ASRock A520M/AC M-Atx Board / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 8GB DDR4-3200 Udimm / 256GB NVMe M.2 Gen3 SSD / Slim Case w/450w PSU / Windows 11 Unactivated\",\n      \"price_sgd\": 398\n    },\n    {\n      \"category\": \"ENTRY BUILD\",\n      \"product\": \"ASRock H370M-HDV/M.2 Motherboard / Intel i5-9500 3GHz 6-Core CPU / ASRock A520M/AC M-Atx Board / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 8GB DDR4-3200 Udimm / 256GB NVMe M.2 Gen3 SSD / Slim Case w/450w PSU / Windows 11 Unactivated\",\n      \"price_sgd\": 418\n    },\n    {\n      \"category\": \"BUDGET BUILD\",\n      \"product\": \"ASRock H610M-HDV/M.2 R2.0 / Intel i5-12400 2.5GHz 6-Core Processor / ASRock B550M WIFI SE Motherboard / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 16GB DDR4 -3200Mhz RAM / Lexar NM610 PRO 500GB NVMe SSD / Tecware NEO M2 TG Case, Windows 11 Unactivated / FSP HV Pro 550w 80+ Bronze PSU\",\n      \"price_sgd\": 528\n    },\n    {\n      \"category\": \"BUDGET BUILD\",\n      \"product\": \"ASRock H610M-HDV/M.2 R2.0 / Intel i5-12400 2.5GHz 6-Core Processor / ASRock B550M WIFI SE Motherboard / AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor / Crucial 16GB DDR4 -3200Mhz RAM / Lexar NM610 PRO 500GB NVMe SSD / Tecware NEO M2 TG Case, Windows 11 Unactivated / FSP HV Pro 550w 80+ Bronze PSU\",\n      \"price_sgd\": 518\n    },\n    {\n      \"category\": \"MODERATE AMD BUILD\",\n      \"product\": \"Gigabyte B550M DS3H AC R2 Motherboard / AMD Ryzen 5 5600X 3.7 GHz 6-Core Processor / Kingston Fury 16GB DDR4-3200 Udimm / LEXAR NQ700 1TB Gen4 NVME SSD / MONTECH AIR 100 ARGB MATX CASE / SAPPHIRE NITRO+ RX 6750 XT 12GB GD6 GPU / SilverStone VIVA650 650w 80+ Gold PSU\",\n      \"brand\": \"Gigabyte\",\n      \"price_sgd\": 1179\n    },\n    {\n      \"category\": \"Separate buy\",\n      \"product\": \"Windows 11 home 64-bit\",\n      \"price_sgd\": 165\n    },\n    {\n      \"category\": \"Separate buy\",\n      \"product\": \"Windows 11 Pro 64-bit\",\n      \"price_sgd\": 209\n    },\n    {\n      \"category\": \"Separate buy\",\n      \"product\": \"HP USB Keyboard & Mouse\",\n      \"brand\": \"HP\",\n      \"price_sgd\": 14\n    },\n    {\n      \"category\": \"Separate buy\",\n      \"product\": \"HP Wireless Keyboard & Mouse\",\n      \"brand\": \"HP\",\n      \"price_sgd\": 24\n    },\n    {\n      \"category\": \"Ryzen AM5 Gaming PC\",\n      \"product\": \"Asrock B650M PG Lightning WIFI AX AM5 M-Atx / AMD Ryzen 7 7700X 8-Core 16T 4.5Ghz Cpu / Adata XPG LancerBlade RGB 16GBx2 6400Mhz CL32 / Lexar NM790 1TB M.2 NVMe Gen4 7400R/6500W / Arctic Liquid Freezer III 240 A-RGB Black / Montech AIR 100 ARGB M-Atx 4x120mm ARGB / Zotac RTX4070 Super Twin Edge OC 12GB GD6X / Montech Century 850W 80+ Gold F.Mod Psu\",\n      \"brand\": \"Asrock\",\n      \"price_sgd\": 2220\n    },\n    {\n      \"category\": \"Video Editing PC\",\n      \"product\": \"ASRock B760M PRO-A D4 WIFI DDR4 / Intel I7-14700 33MB 20C(12+8) 28T LGA1700 / Crucial 64GB(32Gx2) DDR4-3200 / Crucial P3 Plus 1TB PCie 4.0 NVMe M.2 2280 / ThermalRight Assassin X 120 Refined SE ARGB / Deepcool Macube 310P Atx TG Black Case / EVGA GA 650w 80+ Gold Full Mod Psu / ZOTAC GAMING RTX 4070 TWIN EDGE OC 12GB\",\n      \"brand\": \"ASRock\",\n      \"price_sgd\": 2048\n    },\n    {\n      \"category\": \"Ryzen RGB Gaming PC\",\n      \"product\": \"Asrock B550M Wifi SE board / AMD R7 5700X Ryzen 8C 16T 3.4GHz Cpu / Adata XPG Spectrix D35G 16GB[8Gx2] 3600Mhz RGB / Crucial P3 plus 500GB Gen4 NVMe SSD / Zotac RTX4060 TwinEdge OC 8GB GDRE6 / Fsp HV Pro 650w 80+ Bronze Psu / Tecware NEO M2 TG M-Atx 3x120mm ARGB Black / ThermalRight Assassin X 120 Refined SE ARGB\",\n      \"brand\": \"Asrock\",\n      \"price_sgd\": 1148\n    },\n    {\n      \"category\": \"Separate buy\",\n      \"product\": \"Ms Office 2024 Home & Student\",\n      \"price_sgd\": 198\n    },\n    {\n      \"category\": \"Separate buy\",\n      \"product\": \"Ms Office 2024 Home & Business\",\n      \"price_sgd\": 309\n    },\n    {\n      \"category\": \"SIMPLE GAMING PC\",\n      \"product\": \"ASRock B550M WIFI SE / AMD Ryzen 5 5500 3.6 GHz CPU / Zotac RTX3050 6GB GDOR6\",\n      \"brand\": \"ASRock\",\n      \"price_sgd\": 738\n    },\n    {\n      \"category\": \"SIMPLE GAMING PC\",\n      \"product\": \"Gigabyte H610M H DDR4 Motherboard / Intel i3-12100 3.30Ghz 4-Core CPU / Crucial 16GB DDR4-3200 RAM / 512GB NVMe M.2 Gen3 SSD / Zotac RTX3050 Solo 6GB GDOR6 GPU / FSP 550w 80+ Bronze SPU / Tecware NEO M2 TG ARGB mATX Case / Windows 11 Unactivated\",\n      \"brand\": \"Gigabyte\",\n      \"price_sgd\": 788\n    },\n    {\n      \"category\": null,\n      \"product\": \"Lowprofile GPU\",\n      \"price_sgd\": 275\n    },\n    {\n      \"category\": \"ASUS-INTEL NUC MINI PC\",\n      \"product\": \"Asus NUC 12 Pro NUC12WSHi3 i3-1220P Barebone System / Crucial 8GB DDR4 -3200Mhz Sodimm / Lexar NM610 PRO 500GB PCIe NVMe SSD / Windows 11 Unactivated\",\n      \"brand\": \"Asus\",\n      \"price_sgd\": 549\n    },\n    {\n      \"category\": \"ASUS-INTEL NUC MINI PC\",\n      \"product\": \"Asus NUC PRO NUC12WSH i7-1260P Barebone System / Crucial 16GB DDR4 -3200Mhz Sodimm / Lexar NQ700 1TB PCIe NVMe Gen4x4 SSD / Windows 11 Unactivated\",\n      \"brand\": \"Asus\",\n      \"price_sgd\": 889\n    }\n  ]\n}"
+}

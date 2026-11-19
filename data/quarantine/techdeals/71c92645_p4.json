@@ -1,0 +1,185 @@
+{
+  "sha256": "71c926459bb46da8e950d4b648e835bc4779e10d0d73a36724fc7da4d529124d",
+  "vendor": "techdeals",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "ENTRY BUILD",
+      "brand": null,
+      "product": "ENTRY BUILD (ASRock H370M-HDV/M.2 Motherboard, Intel i5-9500 3GHz 6-Core CPU, ASRock A520M/AC M-Atx Board)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "ENTRY BUILD",
+      "brand": null,
+      "product": "ENTRY BUILD (ASRock A520M/AC M-Atx Board, AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor, Crucial 8GB DDR4-3200 Udimm, 256GB NVMe M.2 Gen3 SSD, Slim Case w/450w PSU, Windows 11 Unactivated)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 418.0
+    },
+    {
+      "category": "BUDGET BUILD",
+      "brand": null,
+      "product": "BUDGET BUILD (ASRock H610M-HDV/M.2 R2.0, Intel i5-12400 2.5GHz 6-Core Processor)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "BUDGET BUILD",
+      "brand": null,
+      "product": "BUDGET BUILD (ASRock B550M WIFI SE Motherboard, AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor, Crucial 16GB DDR4 -3200Mhz RAM, Lexar NM610 PRO 500GB NVMe SSD, Tecware NEO M2 TG Case, Windows 11 Unactivated, FSP HV Pro 550w 80+ Bronze PSU)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "MODERATE AMD BUILD",
+      "brand": null,
+      "product": "MODERATE AMD BUILD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1179.0
+    },
+    {
+      "category": null,
+      "brand": "Microsoft",
+      "product": "Windows 11 home 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": "Microsoft",
+      "product": "Windows 11 Pro 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP USB Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP Wireless Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Ryzen AM5 Gaming PC",
+      "brand": null,
+      "product": "Ryzen AM5 Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2220.0
+    },
+    {
+      "category": "Video Editing PC",
+      "brand": null,
+      "product": "Video Editing PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2048.0
+    },
+    {
+      "category": "Ryzen RGB Gaming PC",
+      "brand": null,
+      "product": "Ryzen RGB Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1148.0
+    },
+    {
+      "category": null,
+      "brand": "Microsoft",
+      "product": "Ms Office 2024 Home & Student",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": null,
+      "brand": "Microsoft",
+      "product": "Ms Office 2024 Home & Business",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 309.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": null,
+      "product": "SIMPLE GAMING PC (ASRock B550M WIFI SE, AMD Ryzen 5 5500 3.6 GHz CPU)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "SIMPLE GAMING PC",
+      "brand": null,
+      "product": "SIMPLE GAMING PC (Gigabyte H610M H DDR4 Motherboard, Intel i3-12100 3.30Ghz 4-Core CPU, Crucial 16GB DDR4-3200 RAM, 512GB NVMe M.2 Gen3 SSD, Zotac RTX3050 Solo 6GB GDDR6 GPU, FSP 550w 80+ Bronze SPU, Tecware NEO M2 TG ARGB mATX Case, Windows 11 Unactivated)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 788.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Lowprofile GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": "ASUS-INTEL NUC MINI PC",
+      "brand": null,
+      "product": "Asus NUC 12 Pro NUC12WSHi3 i3-1220P Barebone System",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "ASUS-INTEL NUC MINI PC",
+      "brand": null,
+      "product": "Asus NUC PRO NUC12WSH i7-1260P Barebone System",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 889.0
+    }
+  ],
+  "numeric_tokens_in_source": 34,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 19/34 = 0.56",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"ENTRY BUILD\", \"product\": \"ENTRY BUILD (ASRock H370M-HDV/M.2 Motherboard, Intel i5-9500 3GHz 6-Core CPU, ASRock A520M/AC M-Atx Board)\", \"price_sgd\": 398},\n  {\"category\": \"ENTRY BUILD\", \"product\": \"ENTRY BUILD (ASRock A520M/AC M-Atx Board, AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor, Crucial 8GB DDR4-3200 Udimm, 256GB NVMe M.2 Gen3 SSD, Slim Case w/450w PSU, Windows 11 Unactivated)\", \"price_sgd\": 418},\n  {\"category\": \"BUDGET BUILD\", \"product\": \"BUDGET BUILD (ASRock H610M-HDV/M.2 R2.0, Intel i5-12400 2.5GHz 6-Core Processor)\", \"price_sgd\": 528},\n  {\"category\": \"BUDGET BUILD\", \"product\": \"BUDGET BUILD (ASRock B550M WIFI SE Motherboard, AMD Ryzen 5 5600GT 3.6 GHz 6-Core Processor, Crucial 16GB DDR4 -3200Mhz RAM, Lexar NM610 PRO 500GB NVMe SSD, Tecware NEO M2 TG Case, Windows 11 Unactivated, FSP HV Pro 550w 80+ Bronze PSU)\", \"price_sgd\": 518},\n  {\"category\": \"MODERATE AMD BUILD\", \"product\": \"MODERATE AMD BUILD\", \"price_sgd\": 1179},\n  {\"category\": null, \"brand\": \"Microsoft\", \"product\": \"Windows 11 home 64-bit\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": \"Microsoft\", \"product\": \"Windows 11 Pro 64-bit\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"HP\", \"product\": \"HP USB Keyboard & Mouse\", \"price_sgd\": 14},\n  {\"category\": null, \"brand\": \"HP\", \"product\": \"HP Wireless Keyboard & Mouse\", \"price_sgd\": 24},\n  {\"category\": \"Ryzen AM5 Gaming PC\", \"product\": \"Ryzen AM5 Gaming PC\", \"price_sgd\": 2220},\n  {\"category\": \"Video Editing PC\", \"product\": \"Video Editing PC\", \"price_sgd\": 2048},\n  {\"category\": \"Ryzen RGB Gaming PC\", \"product\": \"Ryzen RGB Gaming PC\", \"price_sgd\": 1148},\n  {\"category\": null, \"brand\": \"Microsoft\", \"product\": \"Ms Office 2024 Home & Student\", \"price_sgd\": 198},\n  {\"category\": null, \"brand\": \"Microsoft\", \"product\": \"Ms Office 2024 Home & Business\", \"price_sgd\": 309},\n  {\"category\": \"SIMPLE GAMING PC\", \"product\": \"SIMPLE GAMING PC (ASRock B550M WIFI SE, AMD Ryzen 5 5500 3.6 GHz CPU)\", \"price_sgd\": 738},\n  {\"category\": \"SIMPLE GAMING PC\", \"product\": \"SIMPLE GAMING PC (Gigabyte H610M H DDR4 Motherboard, Intel i3-12100 3.30Ghz 4-Core CPU, Crucial 16GB DDR4-3200 RAM, 512GB NVMe M.2 Gen3 SSD, Zotac RTX3050 Solo 6GB GDDR6 GPU, FSP 550w 80+ Bronze SPU, Tecware NEO M2 TG ARGB mATX Case, Windows 11 Unactivated)\", \"price_sgd\": 788},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Lowprofile GPU\", \"price_sgd\": 275},\n  {\"category\": \"ASUS-INTEL NUC MINI PC\", \"product\": \"Asus NUC 12 Pro NUC12WSHi3 i3-1220P Barebone System\", \"price_sgd\": 549},\n  {\"category\": \"ASUS-INTEL NUC MINI PC\", \"product\": \"Asus NUC PRO NUC12WSH i7-1260P Barebone System\", \"price_sgd\": 889}\n]}"
+}

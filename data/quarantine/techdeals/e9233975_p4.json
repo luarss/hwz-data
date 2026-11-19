@@ -1,0 +1,158 @@
+{
+  "sha256": "e9233975f8d9a8b045d67bc675c34f8d8cec3ee3d9954d0f0fc12a786f71e541",
+  "vendor": "techdeals",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "AMD Simple Value PC",
+      "brand": null,
+      "product": "AMD Simple Value PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": "Office Desktop",
+      "brand": null,
+      "product": "Office Desktop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": "Simple Gaming PC",
+      "brand": null,
+      "product": "Simple Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 768.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Windows 11 home 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Windows 11 Pro 64-bit",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 209.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP USB Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": null,
+      "brand": "HP",
+      "product": "HP Wireless Keyboard & Mouse",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "Ryzen AM5 Gaming PC",
+      "brand": null,
+      "product": "Ryzen AM5 Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2220.0
+    },
+    {
+      "category": "Video Editing PC",
+      "brand": null,
+      "product": "Video Editing PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2018.0
+    },
+    {
+      "category": "Ryzen RGB Gaming PC",
+      "brand": null,
+      "product": "Ryzen RGB Gaming PC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1118.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ms Office 2021 Home & Student",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "Ms Office 2021 Home & Business",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 299.0
+    },
+    {
+      "category": null,
+      "brand": "Asus",
+      "product": "Asus NUC Mini Desktop",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 948.0
+    },
+    {
+      "category": null,
+      "brand": "Zotac",
+      "product": "Zotac RTX3050 6GB GDDR6 Lowprofile GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 275.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 241V8 23.8\" FHD 75Hz IPS Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 125.0
+    },
+    {
+      "category": null,
+      "brand": "Philips",
+      "product": "Philips 272V8A 27\" V-Line IPS 75Hz Monitor",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 159.0
+    }
+  ],
+  "numeric_tokens_in_source": 28,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 16/28 = 0.57",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"AMD Simple Value PC\", \"brand\": null, \"product\": \"AMD Simple Value PC\", \"price_sgd\": 328},\n  {\"category\": \"Office Desktop\", \"brand\": null, \"product\": \"Office Desktop\", \"price_sgd\": 468},\n  {\"category\": \"Simple Gaming PC\", \"brand\": null, \"product\": \"Simple Gaming PC\", \"price_sgd\": 768},\n  {\"category\": null, \"brand\": null, \"product\": \"Windows 11 home 64-bit\", \"price_sgd\": 165},\n  {\"category\": null, \"brand\": null, \"product\": \"Windows 11 Pro 64-bit\", \"price_sgd\": 209},\n  {\"category\": null, \"brand\": \"HP\", \"product\": \"HP USB Keyboard & Mouse\", \"price_sgd\": 14},\n  {\"category\": null, \"brand\": \"HP\", \"product\": \"HP Wireless Keyboard & Mouse\", \"price_sgd\": 24},\n  {\"category\": \"Ryzen AM5 Gaming PC\", \"brand\": null, \"product\": \"Ryzen AM5 Gaming PC\", \"price_sgd\": 2220},\n  {\"category\": \"Video Editing PC\", \"brand\": null, \"product\": \"Video Editing PC\", \"price_sgd\": 2018},\n  {\"category\": \"Ryzen RGB Gaming PC\", \"brand\": null, \"product\": \"Ryzen RGB Gaming PC\", \"price_sgd\": 1118},\n  {\"category\": null, \"brand\": null, \"product\": \"Ms Office 2021 Home & Student\", \"price_sgd\": 198},\n  {\"category\": null, \"brand\": null, \"product\": \"Ms Office 2021 Home & Business\", \"price_sgd\": 299},\n  {\"category\": null, \"brand\": \"Asus\", \"product\": \"Asus NUC Mini Desktop\", \"price_sgd\": 948},\n  {\"category\": null, \"brand\": \"Zotac\", \"product\": \"Zotac RTX3050 6GB GDDR6 Lowprofile GPU\", \"price_sgd\": 275},\n  {\"category\": null, \"brand\": \"Philips\", \"product\": \"Philips 241V8 23.8\\\" FHD 75Hz IPS Monitor\", \"price_sgd\": 125},\n  {\"category\": null, \"brand\": \"Philips\", \"product\": \"Philips 272V8A 27\\\" V-Line IPS 75Hz Monitor\", \"price_sgd\": 159}\n]}"
+}

@@ -1,0 +1,275 @@
+{
+  "sha256": "d188eec4397b8b04f23b47393ec087c3a5cda2f29737ba51376548284fecb762",
+  "vendor": "techdeals",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "ASUS ROG STRIX 1000W GOLD FM PSU PROMO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 249.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": null,
+      "product": "CM MWE GOLD V2 1050W FM ATX3 PROMO PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "ASROCK",
+      "product": "RX 9070XT Steel Legend 16GB",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1038.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "ASROCK",
+      "product": "RX 9070XT Taichi 16GB",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1098.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R64EAGLE-4GD",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 268.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC-8GD",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 488.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC-16GD",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 558.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9070GAMING OC-16GD",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9070XTGAMING OC-16GD",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1018.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9070XTAORUS E-16GD",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1118.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Reaper RX 9070 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 888.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound RX 9070 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Reaper RX 9070 XT 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 988.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound RX 9070 XT 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1048.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound Spectral White RX 9070 XT 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1068.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Red Devil RX 9070 XT 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1088.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "POWERCOLOR",
+      "product": "Red Devil Spectral White RX 9070 XT 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1188.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 6750 XT GAMING OC12G GD6",
+      "variant": "12GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 498.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 7600 XT GAMING 16GB GD6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 OC 8GB GDDR6",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 488.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 XT OC 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 505.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 XT OC 16GB",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 545.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PURE RX 9060 XT OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 578.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 9060 XT OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 615.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9070 OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 929.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 9070 OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1009.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9070 XT OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "PURE RX 9070 XT OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1065.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 9070 XT OC 16GB GDDR6",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1128.0
+    }
+  ],
+  "numeric_tokens_in_source": 2586,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 29/2586 = 0.01",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG STRIX 1000W GOLD FM PSU PROMO\", \"price_sgd\": 249},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": null, \"product\": \"CM MWE GOLD V2 1050W FM ATX3 PROMO PSU\", \"price_sgd\": 258},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"ASROCK\", \"product\": \"RX 9070XT Steel Legend 16GB\", \"variant\": \"16GB\", \"price_sgd\": 1038},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"ASROCK\", \"product\": \"RX 9070XT Taichi 16GB\", \"variant\": \"16GB\", \"price_sgd\": 1098},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R64EAGLE-4GD\", \"variant\": \"4GB\", \"price_sgd\": 268},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9060XTGAMING OC-8GD\", \"variant\": \"8GB\", \"price_sgd\": 488},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9060XTGAMING OC-16GD\", \"variant\": \"16GB\", \"price_sgd\": 558},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070GAMING OC-16GD\", \"variant\": \"16GB\", \"price_sgd\": 918},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070XTGAMING OC-16GD\", \"variant\": \"16GB\", \"price_sgd\": 1018},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070XTAORUS E-16GD\", \"variant\": \"16GB\", \"price_sgd\": 1118},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Reaper RX 9070 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 888},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Hellhound RX 9070 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 918},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Reaper RX 9070 XT 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 988},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Hellhound RX 9070 XT 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1048},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Hellhound Spectral White RX 9070 XT 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1068},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Red Devil RX 9070 XT 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1088},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"POWERCOLOR\", \"product\": \"Red Devil Spectral White RX 9070 XT 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1188},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"NITRO+ RX 6750 XT GAMING OC12G GD6\", \"variant\": \"12GB\", \"price_sgd\": 498},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 7600 XT GAMING 16GB GD6\", \"variant\": \"16GB\", \"price_sgd\": 468},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9060 OC 8GB GDDR6\", \"variant\": \"8GB\", \"price_sgd\": 488},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9060 XT OC 8GB\", \"variant\": \"8GB\", \"price_sgd\": 505},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9060 XT OC 16GB\", \"variant\": \"16GB\", \"price_sgd\": 545},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PURE RX 9060 XT OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 578},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"NITRO+ RX 9060 XT OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 615},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9070 OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 929},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"NITRO+ RX 9070 OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1009},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9070 XT OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1028},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"PURE RX 9070 XT OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1065},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SAPPHIRE\", \"product\": \"NITRO+ RX 9070 XT OC 16GB GDDR6\", \"variant\": \"16GB\", \"price_sgd\": 1128}\n]}"
+}
