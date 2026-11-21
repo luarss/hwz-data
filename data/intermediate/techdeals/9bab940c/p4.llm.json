@@ -1,0 +1,76 @@
+{
+  "rows": [
+    {
+      "category": "LOGITECH WEBCAM",
+      "brand": "Logitech",
+      "product": "BRIO 105",
+      "price_sgd": 39.9
+    },
+    {
+      "category": "MONTECH PC CASE",
+      "brand": "Montech",
+      "product": "X5M mATX w/4*ARGB FANS",
+      "price_sgd": 69.9
+    },
+    {
+      "category": "ID-COOLING CPU COOLER",
+      "brand": "ID-Cooling",
+      "product": "SE-214XT V2 BLACK",
+      "price_sgd": 29.9
+    },
+    {
+      "category": "LEXAR MICROSD",
+      "brand": "Lexar",
+      "product": "BLUE PLUS A2 170M",
+      "variant": "128GB",
+      "price_sgd": 32.9
+    },
+    {
+      "category": "PALIT GRAPHIC CARD",
+      "brand": "Palit",
+      "product": "RTX 5070 Ti GAMING PRO",
+      "variant": "16GB",
+      "price_sgd": 1378.0
+    },
+    {
+      "category": "PALIT GRAPHIC CARD",
+      "brand": "Palit",
+      "product": "RTX 5080 GAMING PRO OC",
+      "variant": "16GB",
+      "price_sgd": 1828.0
+    },
+    {
+      "category": "LENOVO MOUSE",
+      "brand": "Lenovo",
+      "product": "ESSENTIAL WIRELESS USB",
+      "price_sgd": 19.9
+    },
+    {
+      "category": "SANDISK USB FLASH",
+      "brand": "SanDisk",
+      "product": "PHONE DRIVE",
+      "variant": "256GB",
+      "price_sgd": 54.8
+    },
+    {
+      "category": "DEEPCOOL PSU",
+      "brand": "DeepCool",
+      "product": "GAMERSTORM PF600X 600W",
+      "price_sgd": 53.0
+    },
+    {
+      "category": "SANDISK PORTABLE SSD",
+      "brand": "SanDisk",
+      "product": "EXTREME E61",
+      "variant": "1TB",
+      "price_sgd": 248.0
+    },
+    {
+      "category": "SANDISK PORTABLE SSD",
+      "brand": "SanDisk",
+      "product": "EXTREME E61",
+      "variant": "2TB",
+      "price_sgd": 358.0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "sha256": "50657daa49f6c25d9aeaf26823f1546ebc59ddeed89b29d8844fc9f89cd5e435",
+  "vendor": "laser",
+  "page_number": 5,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "GMKtec NucBox G11 Mini PC",
+      "variant": "16GB Ram / 512GB SSD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "MINI PCS & BareBone Kit",
+      "brand": "GMKtec",
+      "product": "MINI PC, GMKtec M3 PRO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    }
+  ],
+  "numeric_tokens_in_source": 7,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 2/7 = 0.29",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"GMKtec NucBox G11 Mini PC\",\n      \"variant\": \"16GB Ram / 512GB SSD\",\n      \"price_sgd\": 589\n    },\n    {\n      \"category\": \"MINI PCS & BareBone Kit\",\n      \"brand\": \"GMKtec\",\n      \"product\": \"MINI PC, GMKtec M3 PRO\",\n      \"price_sgd\": 779\n    }\n  ]\n}"
+}

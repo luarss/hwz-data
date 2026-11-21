@@ -1,6 +1,8 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-21",
   "counts": {
-    "gemini": 68
+    "gemini": 104,
+    "nvidia": 1,
+    "groq": 1
   }
 }

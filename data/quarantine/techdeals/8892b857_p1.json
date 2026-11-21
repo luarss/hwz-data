@@ -1,0 +1,1040 @@
+{
+  "sha256": "8892b857130df50f61142a7eabed03d7a1467ac3967a61c1ea29e8981153a5ff",
+  "vendor": "techdeals",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SPARKLE",
+      "product": "SPARKLE INTEL ARC B570 GUARDIAN OC",
+      "variant": "10GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 338.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SPARKLE",
+      "product": "SPARKLE INTEL ARC B580 TITAN OC",
+      "variant": "12GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "COOLER MASTER",
+      "product": "CM MWE GOLD V3 650W NON MODULAR PROMO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 88.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "COOLER MASTER",
+      "product": "CM MWE GOLD V3 750W FULL MODULPARRO AMTXO3.1 109 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "5Y",
+      "price_sgd": 109.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV R9070GAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV R9070XTAORUS E",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1258.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "POWERCOLOR",
+      "product": "Reaper RX 9060 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 585.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound RX 9060 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "POWERCOLOR",
+      "product": "Reaper RX 9070 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 979.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound RX 9070 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "POWERCOLOR",
+      "product": "Red Devil RX 9070 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1098.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 6750 XT GAMING OC12G GD6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 7600 XT GAMING",
+      "variant": "16GB GD6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 XT OC",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "PURE RX 9060 XT OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 XT OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9070 XT OC",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1135.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "PURE RX 9070 XT OC",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1169.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 9070 XT OC",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1238.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "SAPPHIRE",
+      "product": "AI PRO R9700",
+      "variant": "32GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2015.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "GT730-SL-2GD5-BRK GD5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "GT730-4H-SL-2GD5 4 x HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "TUF-GTX1650-O4GD6-P-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5050-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5060-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 568.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060Ti-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 988.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "TUF-RTX5060Ti-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5070-O12G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1098.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "TUF-RTX5070-O12G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5070TI-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "TUF-RTX5070TI-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1638.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5080-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2288.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "TUF-RTX5080-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2388.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "TUF-RTX5090-O32G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5088.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ASUS",
+      "product": "ROG-ASTRAL-RTX5090-O32G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5288.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GALAX",
+      "product": "RTX5060 1-Click OC 8GB GDDR7 GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GALAX",
+      "product": "RTX5070 EX Gamer 1-Click OC 12GB GDD9R997",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 997.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GALAX",
+      "product": "RTX5070Ti EX Gamer OC Black 16GB GD1D48R87",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GALAX",
+      "product": "RTX5070Ti EX Gamer OC White 16GB GD15D0R97",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5050WF2OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV-N5050OC-8GL Low Profile",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5060EAGLE OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5060EAGLEOC ICE-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5060GAMING OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 568.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5060AERO OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 598.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5060AORUS E-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLE OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLEOC ICE-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 678.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TGAMING OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 698.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TAERO OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLE OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 848.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLEOC ICE-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 865.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TGAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 885.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TAERO OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N506TAORUS E-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5070EAGLE OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5070EAGLEOC ICE-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1045.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5070GAMING OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5070AERO OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5070AORUS M-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1238.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N507TEAGLE OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1558.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N507TEAGLEOC ICE-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1568.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N507TGAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1618.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N507TAERO OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1638.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N507TAORUS M-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1688.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5080GAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2215.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AERO OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2285.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUS M-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2375.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUSM ICE-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2399.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUSX W-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2498.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5090GAMING OC-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4845.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUS M-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5168.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSM ICE-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5228.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSX W-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5328.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "MSI",
+      "product": "RTX 5060 Ti 8G VENTUS 2X OC PLUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "MSI",
+      "product": "RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 958.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "MSI",
+      "product": "RTX 5070 12G VENTUS 2X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1008.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "MSI",
+      "product": "RTX 5070 12G VENTUS 3X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1088.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "MSI",
+      "product": "RTX 5070 Ti 16G SHADOW 3X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1118.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "MSI",
+      "product": "RTX 5070 Ti 16G GAMING TRIO OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 4000 ADA GEN ATX",
+      "variant": "20GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2319.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 4000 ADA GEN LP",
+      "variant": "20GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2135.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX 2000 ADA GEN LP",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1209.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "NVIDIA",
+      "product": "NVIDIA QUADRO A1000",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 798.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "NVIDIA",
+      "product": "NVIDIA QUADRO A400",
+      "variant": "4GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 349.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX 3050 STORMX",
+      "variant": "6GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX 5060 INFINITY 2 OC",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX 5060 WHITE OC",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 545.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX5060Ti Infinity 3 OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 958.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX 5070 INFINITY 3",
+      "variant": "12GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1008.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX5070Ti Gaming PRO-S",
+      "variant": "16G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "PALIT",
+      "product": "RTX5080 GAMING PRO OC",
+      "variant": "16G",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2028.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "GT 710",
+      "variant": "2GB DDR3",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 90.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "GT 1030 LP",
+      "variant": "2GB DDR5 1468Mhz",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 3050 SOLO",
+      "variant": "6GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX3050",
+      "variant": "6GB LP",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 3050 ECO SOLO",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 328.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 SOLO",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 TWIN EDGE OC",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 TWIN EDGE OC WHITE",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 Ti TWIN EDGE OC",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 Ti TWIN EDGE OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 TWIN EDGE OC",
+      "variant": "12GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1088.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 AMP WHITE",
+      "variant": "12GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1118.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 Ti SOLID SFF OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1088.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 Ti SOLID CORE OC",
+      "variant": "16GB - WHITE",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1118.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5080 SOLID CORE OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2028.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5080 SOLID OC",
+      "variant": "16GB - White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2088.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5090 ARCTICSTORM AIO",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4845.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5090 SOLID OC",
+      "variant": "32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5168.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "ZOTAC",
+      "product": "RTX 5090 SOLID OC",
+      "variant": "32GB - White",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5228.0
+    }
+  ],
+  "numeric_tokens_in_source": 2472,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 114/2472 = 0.05",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SPARKLE\",\n      \"product\": \"SPARKLE INTEL ARC B570 GUARDIAN OC\",\n      \"variant\": \"10GB\",\n      \"price_sgd\": 338\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SPARKLE\",\n      \"product\": \"SPARKLE INTEL ARC B580 TITAN OC\",\n      \"variant\": \"12GB\",\n      \"price_sgd\": 398\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"COOLER MASTER\",\n      \"product\": \"CM MWE GOLD V3 650W NON MODULAR PROMO\",\n      \"warranty\": \"5Y\",\n      \"price_sgd\": 88\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"COOLER MASTER\",\n      \"product\": \"CM MWE GOLD V3 750W FULL MODULPARRO AMTXO3.1 109 PSU\",\n      \"warranty\": \"5Y\",\n      \"price_sgd\": 109\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV R9060XTGAMING OC\",\n      \"variant\": \"8GD\",\n      \"price_sgd\": 554\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV R9060XTGAMING OC\",\n      \"variant\": \"16GD\",\n      \"price_sgd\": 738\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV R9070GAMING OC\",\n      \"variant\": \"16GD\",\n      \"price_sgd\": 1075\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV R9070XTAORUS E\",\n      \"variant\": \"16GD\",\n      \"price_sgd\": 1258\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"POWERCOLOR\",\n      \"product\": \"Reaper RX 9060 XT\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 585\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"POWERCOLOR\",\n      \"product\": \"Hellhound RX 9060 XT\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 605\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"POWERCOLOR\",\n      \"product\": \"Reaper RX 9070 XT\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 979\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"POWERCOLOR\",\n      \"product\": \"Hellhound RX 9070 XT\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 1029\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"POWERCOLOR\",\n      \"product\": \"Red Devil RX 9070 XT\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 1098\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"NITRO+ RX 6750 XT GAMING OC12G GD6\",\n      \"price_sgd\": 549\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"PULSE RX 7600 XT GAMING\",\n      \"variant\": \"16GB GD6\",\n      \"price_sgd\": 649\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"PULSE RX 9060 XT OC\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 554\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"PURE RX 9060 XT OC\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 719\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"PULSE RX 9060 XT OC\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 699\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"PULSE RX 9070 XT OC\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 1135\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"PURE RX 9070 XT OC\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 1169\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"NITRO+ RX 9070 XT OC\",\n      \"variant\": \"16GB GDDR6\",\n      \"price_sgd\": 1238\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"SAPPHIRE\",\n      \"product\": \"AI PRO R9700\",\n      \"variant\": \"32GB GDDR6\",\n      \"price_sgd\": 2015\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"GT730-SL-2GD5-BRK GD5\",\n      \"price_sgd\": 115\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"GT730-4H-SL-2GD5 4 x HDMI\",\n      \"price_sgd\": 168\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"TUF-GTX1650-O4GD6-P-GAMING\",\n      \"price_sgd\": 278\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"DUAL-RTX5050-O8G\",\n      \"price_sgd\": 518\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"DUAL-RTX5060-O8G\",\n      \"price_sgd\": 568\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"PRIME-RTX5060-O8G\",\n      \"price_sgd\": 628\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"PRIME-RTX5060Ti-O16G\",\n      \"price_sgd\": 988\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"TUF-RTX5060Ti-O16G-GAMING\",\n      \"price_sgd\": 1058\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"PRIME-RTX5070-O12G\",\n      \"price_sgd\": 1098\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"TUF-RTX5070-O12G-GAMING\",\n      \"price_sgd\": 1288\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"PRIME-RTX5070TI-O16G\",\n      \"price_sgd\": 1528\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"TUF-RTX5070TI-O16G-GAMING\",\n      \"price_sgd\": 1638\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"PRIME-RTX5080-O16G\",\n      \"price_sgd\": 2288\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"TUF-RTX5080-O16G-GAMING\",\n      \"price_sgd\": 2388\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"TUF-RTX5090-O32G-GAMING\",\n      \"price_sgd\": 5088\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ASUS\",\n      \"product\": \"ROG-ASTRAL-RTX5090-O32G-GAMING\",\n      \"price_sgd\": 5288\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GALAX\",\n      \"product\": \"RTX5060 1-Click OC 8GB GDDR7 GPU\",\n      \"price_sgd\": 528\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GALAX\",\n      \"product\": \"RTX5070 EX Gamer 1-Click OC 12GB GDD9R997\",\n      \"price_sgd\": 997\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GALAX\",\n      \"product\": \"RTX5070Ti EX Gamer OC Black 16GB GD1D48R87\",\n      \"price_sgd\": 87\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GALAX\",\n      \"product\": \"RTX5070Ti EX Gamer OC White 16GB GD15D0R97\",\n      \"price_sgd\": 97\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5050WF2OC-8GD\",\n      \"price_sgd\": 448\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV-N5050OC-8GL Low Profile\",\n      \"price_sgd\": 458\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5060EAGLE OC-8GD\",\n      \"price_sgd\": 528\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5060EAGLEOC ICE-8GD\",\n      \"price_sgd\": 548\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5060GAMING OC-8GD\",\n      \"price_sgd\": 568\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5060AERO OC-8GD\",\n      \"price_sgd\": 598\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5060AORUS E-8GD\",\n      \"price_sgd\": 608\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TEAGLE OC-8GD\",\n      \"price_sgd\": 648\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TEAGLEOC ICE-8GD\",\n      \"price_sgd\": 678\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TGAMING OC-8GD\",\n      \"price_sgd\": 698\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TAERO OC-8GD\",\n      \"price_sgd\": 718\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TEAGLE OC-16GD\",\n      \"price_sgd\": 848\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TEAGLEOC ICE-16GD\",\n      \"price_sgd\": 865\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TGAMING OC-16GD\",\n      \"price_sgd\": 885\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TAERO OC-16GD\",\n      \"price_sgd\": 899\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N506TAORUS E-16GD\",\n      \"price_sgd\": 918\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5070EAGLE OC-12GD\",\n      \"price_sgd\": 1028\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5070EAGLEOC ICE-12GD\",\n      \"price_sgd\": 1045\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5070GAMING OC-12GD\",\n      \"price_sgd\": 1058\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5070AERO OC-12GD\",\n      \"price_sgd\": 1099\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5070AORUS M-12GD\",\n      \"price_sgd\": 1238\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N507TEAGLE OC-16GD\",\n      \"price_sgd\": 1558\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N507TEAGLEOC ICE-16GD\",\n      \"price_sgd\": 1568\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N507TGAMING OC-16GD\",\n      \"price_sgd\": 1618\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N507TAERO OC-16GD\",\n      \"price_sgd\": 1638\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N507TAORUS M-16GD\",\n      \"price_sgd\": 1688\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5080GAMING OC-16GD\",\n      \"price_sgd\": 2215\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5080AERO OC-16GD\",\n      \"price_sgd\": 2285\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5080AORUS M-16GD\",\n      \"price_sgd\": 2375\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5080AORUSM ICE-16GD\",\n      \"price_sgd\": 2399\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5080AORUSX W-16GD\",\n      \"price_sgd\": 2498\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5090GAMING OC-32GD\",\n      \"price_sgd\": 4845\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5090AORUS M-32GD\",\n      \"price_sgd\": 5168\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5090AORUSM ICE-32GD\",\n      \"price_sgd\": 5228\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"GIGABYTE\",\n      \"product\": \"GV N5090AORUSX W-32GD\",\n      \"price_sgd\": 5328\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"MSI\",\n      \"product\": \"RTX 5060 Ti 8G VENTUS 2X OC PLUS\",\n      \"price_sgd\": 628\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"MSI\",\n      \"product\": \"RTX 5060 Ti 16G VENTUS 2X OC PLUS\",\n      \"price_sgd\": 958\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"MSI\",\n      \"product\": \"RTX 5070 12G VENTUS 2X OC\",\n      \"price_sgd\": 1008\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"MSI\",\n      \"product\": \"RTX 5070 12G VENTUS 3X OC\",\n      \"price_sgd\": 1088\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"MSI\",\n      \"product\": \"RTX 5070 Ti 16G SHADOW 3X OC\",\n      \"price_sgd\": 1118\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"MSI\",\n      \"product\": \"RTX 5070 Ti 16G GAMING TRIO OC\",\n      \"price_sgd\": 1528\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"NVIDIA\",\n      \"product\": \"NVIDIA RTX 4000 ADA GEN ATX\",\n      \"variant\": \"20GB\",\n      \"price_sgd\": 2319\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"NVIDIA\",\n      \"product\": \"NVIDIA RTX 4000 ADA GEN LP\",\n      \"variant\": \"20GB\",\n      \"price_sgd\": 2135\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"NVIDIA\",\n      \"product\": \"NVIDIA RTX 2000 ADA GEN LP\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 1209\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"NVIDIA\",\n      \"product\": \"NVIDIA QUADRO A1000\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 798\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"NVIDIA\",\n      \"product\": \"NVIDIA QUADRO A400\",\n      \"variant\": \"4GB\",\n      \"price_sgd\": 349\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX 3050 STORMX\",\n      \"variant\": \"6GB\",\n      \"price_sgd\": 288\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX 5060 INFINITY 2 OC\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 528\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX 5060 WHITE OC\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 545\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX5060Ti Infinity 3 OC\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 958\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX 5070 INFINITY 3\",\n      \"variant\": \"12GB\",\n      \"price_sgd\": 1008\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX5070Ti Gaming PRO-S\",\n      \"variant\": \"16G\",\n      \"price_sgd\": 1528\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"PALIT\",\n      \"product\": \"RTX5080 GAMING PRO OC\",\n      \"variant\": \"16G\",\n      \"price_sgd\": 2028\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"GT 710\",\n      \"variant\": \"2GB DDR3\",\n      \"price_sgd\": 90\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"GT 1030 LP\",\n      \"variant\": \"2GB DDR5 1468Mhz\",\n      \"price_sgd\": 149\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 3050 SOLO\",\n      \"variant\": \"6GB\",\n      \"price_sgd\": 288\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX3050\",\n      \"variant\": \"6GB LP\",\n      \"price_sgd\": 298\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 3050 ECO SOLO\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 328\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5050 SOLO\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 448\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5050 TWIN EDGE OC\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 458\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5050 TWIN EDGE OC WHITE\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 468\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5060 Ti TWIN EDGE OC\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 628\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5060 Ti TWIN EDGE OC\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 628\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5070 TWIN EDGE OC\",\n      \"variant\": \"12GB\",\n      \"price_sgd\": 1088\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5070 AMP WHITE\",\n      \"variant\": \"12GB\",\n      \"price_sgd\": 1118\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5070 Ti SOLID SFF OC\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 1088\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5070 Ti SOLID CORE OC\",\n      \"variant\": \"16GB - WHITE\",\n      \"price_sgd\": 1118\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5080 SOLID CORE OC\",\n      \"variant\": \"16GB\",\n      \"price_sgd\": 2028\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5080 SOLID OC\",\n      \"variant\": \"16GB - White\",\n      \"price_sgd\": 2088\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5090 ARCTICSTORM AIO\",\n      \"variant\": \"32GB\",\n      \"price_sgd\": 4845\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5090 SOLID OC\",\n      \"variant\": \"32GB\",\n      \"price_sgd\": 5168\n    },\n    {\n      \"category\": \"POWER SUPPLY ATX\",\n      \"brand\": \"ZOTAC\",\n      \"product\": \"RTX 5090 SOLID OC\",\n      \"variant\": \"32GB - White\",\n      \"price_sgd\": 5228\n    }\n  ]\n}"
+}
