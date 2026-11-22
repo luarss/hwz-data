@@ -1,0 +1,1553 @@
+{
+  "sha256": "1468a3c315bfd448b3b17dfd32987807153f6559caaebdd4b783bc3b6c298db7",
+  "vendor": "techdeals",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SPARKLE",
+      "product": "SPARKLE INTEL ARC B570 GUARDIAN OC",
+      "variant": "10GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 338.0
+    },
+    {
+      "category": "GRAPHIC CARDS",
+      "brand": "SPARKLE",
+      "product": "SPARKLE INTEL ARC B580 TITAN OC",
+      "variant": "12GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM650i 650w 80 Plus Gold Certified FM PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "HX750 750w 80 Plus PLATINUM Cert. FM PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "AMD RADEON CHIPSET GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM850x 850w FM Cybenetics Gold ATX 3.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 215.0
+    },
+    {
+      "category": "AMD RADEON CHIPSET GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM1000x 1000w FM Cybenetics Gold ATX 3.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "AMD RADEON CHIPSET GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9070GAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1075.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM650e 650w FM Cybenetics Gold ATX 3.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "AMD RADEON CHIPSET GRAPHIC CARDS",
+      "brand": "GIGABYTE",
+      "product": "GV R9070XTAORUS E-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1258.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM750e 750w FM Cybenetics Gold ATX 3.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": "POWERCOLOR",
+      "brand": "POWERCOLOR",
+      "product": "Reaper RX 9060 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 585.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM850e 850w FM Cybenetics Gold ATX 3.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 218.0
+    },
+    {
+      "category": "POWERCOLOR",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound RX 9060 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM1000e 1000w FM Cybenetics Gold ATX 3.1 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 258.0
+    },
+    {
+      "category": "POWERCOLOR",
+      "brand": "POWERCOLOR",
+      "product": "Reaper RX 9070 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 979.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM850x SHIFT 850w 80 Plus Gold FM ATX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "POWERCOLOR",
+      "brand": "POWERCOLOR",
+      "product": "Hellhound RX 9070 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1029.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM1000x SHIFT 1000w 80 Plus Gold FM ATX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": "POWERCOLOR",
+      "brand": "POWERCOLOR",
+      "product": "Red Devil RX 9070 XT",
+      "variant": "16GB GDDR6",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1098.0
+    },
+    {
+      "category": "POWER SUPPLY ATX",
+      "brand": "CORSAIR",
+      "product": "RM1200x SHIFT 1200w 80 Plus Gold FM ATX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 355.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 6750 XT GAMING OC12G GD6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 549.0
+    },
+    {
+      "category": "DARK FLASH",
+      "brand": "DARKFLASH",
+      "product": "DG 750w 80+ Gold F.Mod ATX3.1 Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 89.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 7600 XT GAMING 16GB GD6649",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 649.0
+    },
+    {
+      "category": "DARK FLASH",
+      "brand": "DARKFLASH",
+      "product": "DG 850w 80+ Gold F.Mod ATX3.1 Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 XT OC",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 554.0
+    },
+    {
+      "category": "DEEP COOL",
+      "brand": "DEEPCOOL",
+      "product": "Gamerstorm PF600X 600W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 52.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "PURE RX 9060 XT OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": "DEEP COOL",
+      "brand": "DEEPCOOL",
+      "product": "Gamerstorm PF700X 700W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 62.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9060 XT OC",
+      "variant": "16GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "FSP",
+      "brand": "FSP",
+      "product": "PCIe 5.0 12VHPWR Cable - for FSP Mod. PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "PULSE RX 9070 XT OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1135.0
+    },
+    {
+      "category": "FSP",
+      "brand": "FSP",
+      "product": "HV PRO 550W 80+ Bronze Fix Cables PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "PURE RX 9070 XT OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1169.0
+    },
+    {
+      "category": "FSP",
+      "brand": "FSP",
+      "product": "HV PRO 650W 80+ Bronze Fix Cables PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "SAPPHIRE",
+      "brand": "SAPPHIRE",
+      "product": "NITRO+ RX 9070 XT OC 16GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1238.0
+    },
+    {
+      "category": "FSP",
+      "brand": "FSP",
+      "product": "VITA GM 1000W 80+ Gold FM ATX3.1+Gen5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "AI PRO",
+      "brand": "AI PRO",
+      "product": "R9700 32GB GDDR6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2015.0
+    },
+    {
+      "category": "FSP",
+      "brand": "FSP",
+      "product": "HYDRO PTM PRO 1200W 80+ Plat.FM ATX3.0+PCIe",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 320.0
+    },
+    {
+      "category": "FSP",
+      "brand": "FSP",
+      "product": "Gen5 NVIDIA CHIPSET GRAPHIC CARDS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 489.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "GT730-SL-2GD5-BRK GD5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "GT730-4H-SL-2GD5 4 x HDMI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "HEADWAY",
+      "brand": "HEADWAY",
+      "product": "Headway 500W - Bulk Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "TUF-GTX1650-O4GD6-P-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 278.0
+    },
+    {
+      "category": "ICUTE",
+      "brand": "ICUTE",
+      "product": "iCute 500W Switching PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5050-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "MONTECH",
+      "brand": "MONTECH",
+      "product": "MONTECH AP 550W 80+ White PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 49.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5060-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 568.0
+    },
+    {
+      "category": "MONTECH",
+      "brand": "MONTECH",
+      "product": "MONTECH AP 650W 80+ White PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 59.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "MONTECH",
+      "brand": "MONTECH",
+      "product": "MONTECH AP 750W 80+ White PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": "3yr",
+      "price_sgd": 69.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060Ti-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 988.0
+    },
+    {
+      "category": "NZXT",
+      "brand": "NZXT",
+      "product": "C850 Core Platinum 850W Full modular - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "TUF-RTX5060Ti-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": "NZXT",
+      "brand": "NZXT",
+      "product": "C1000 Core PSU - 1000W, Platinum, Full Modular",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 198.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5070-O12G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1098.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "S12III-650W 80+ Bronze",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "TUF-RTX5070-O12G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1288.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "G12 GM-750 80+ Gold Semi Mod.ATX2.4 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5070TI-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "G12 GM-850 80+ Gold Semi Mod.ATX2.4 PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "TUF-RTX5070TI-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1638.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "Focus GX-750 80+ Gold FM ATX 3.1 PCI-e 5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 205.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5080-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2288.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "Focus GX-850 80+ Gold FM ATX 3.1 PCI-e 5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 235.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "TUF-RTX5080-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2388.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "Focus GX-1000 80+ Gold FM ATX 3.1 PCI-e 5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "TUF-RTX5090-O32G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5088.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "Focus GX-750 White 80+ Gold FM ATX 3.1 PCI-e 5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": "ASUS",
+      "brand": "ASUS",
+      "product": "ROG-ASTRAL-RTX5090-O32G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5288.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "Focus GX-850 White 80+ Gold FM ATX 3.1 PCI-e 5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "GALAX",
+      "brand": "GALAX",
+      "product": "RTX5060 1-Click OC 8GB GDDR7 GPU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "SEASONIC",
+      "brand": "SEASONIC",
+      "product": "Focus GX-1000 White 80+ Gold FM ATX 3.1 PCI-e 5.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 308.0
+    },
+    {
+      "category": "GALAX",
+      "brand": "GALAX",
+      "product": "RTX5070 EX Gamer 1-Click OC 12GB GD9D9R97",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1488.0
+    },
+    {
+      "category": "SILVERSTONE",
+      "brand": "SILVERSTONE",
+      "product": "VIVA650 650w 80+ Gold Psu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 99.0
+    },
+    {
+      "category": "GALAX",
+      "brand": "GALAX",
+      "product": "RTX5070Ti EX Gamer OC Black 16GB GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1488.0
+    },
+    {
+      "category": "SUPERFLOWER",
+      "brand": "SUPERFLOWER",
+      "product": "PCIe NON PRO5.0 12VHPWR Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "GALAX",
+      "brand": "GALAX",
+      "product": "RTX5070Ti EX Gamer OC White 16GB GDDR7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1509.0
+    },
+    {
+      "category": "SUPERFLOWER",
+      "brand": "SUPERFLOWER",
+      "product": "PCIe PRO5.0 12VHPWR Cable",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5050WF2OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "SUPERFLOWER",
+      "brand": "SUPERFLOWER",
+      "product": "Leadex III Gold 850W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 139.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV-N5050OC-8GL Low Profile",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "SUPERFLOWER",
+      "brand": "SUPERFLOWER",
+      "product": "Leadex VIII Platinum Pro 1000W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 225.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5060EAGLE OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "KG 650W 80+ Gold Modular",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 88.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5060EAGLEOC ICE-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "KG 850W 80+ Gold Modular",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 108.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5060GAMING OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 568.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "SP Platinum SP1000 Mod.ATX3.1+Gen5.1-Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5060AERO OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 598.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "TP Platinum 1650W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 335.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5060AORUS E-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 608.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "TG Gold 1200W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLE OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 648.0
+    },
+    {
+      "category": "VIOS",
+      "brand": "VIOS",
+      "product": "Vios 500W OEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 22.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLEOC ICE-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 678.0
+    },
+    {
+      "category": "COOLER MASTER",
+      "brand": "COOLER MASTER",
+      "product": "V SFX PLATINUM 1100 FM ATX3 PSU PROMO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 378.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TGAMING OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 698.0
+    },
+    {
+      "category": "CORSAIR",
+      "brand": "CORSAIR",
+      "product": "Corsair SF750 750w FM 80 Plus Platinum SFX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 265.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TAERO OC-8GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CORSAIR",
+      "brand": "CORSAIR",
+      "product": "Corsair SF850 850w FM 80 Plus Platinum SFX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLE OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 848.0
+    },
+    {
+      "category": "CORSAIR",
+      "brand": "CORSAIR",
+      "product": "Corsair SF1000 1000w FM 80 Plus Platinum SFX PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 349.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TEAGLEOC ICE-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 865.0
+    },
+    {
+      "category": "GAMEMAX",
+      "brand": "GAMEMAX",
+      "product": "GS-450W 80+ Bronze 2Yr.",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TGAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 885.0
+    },
+    {
+      "category": "HEADWAY",
+      "brand": "HEADWAY",
+      "product": "Headway 500W - Bulk Pack",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 25.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TAERO OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": "SUPERFLOWER",
+      "brand": "SUPERFLOWER",
+      "product": "Zillion SFX Full Mod. Gold 850W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N506TAORUS E-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 918.0
+    },
+    {
+      "category": "DARKFLASH",
+      "brand": "DARKFLASH",
+      "product": "DS900WS TG BLACK CASE - NO FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5070EAGLE OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "ABFX SFX 80+ Bronze 500W",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5070EAGLEOC ICE-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1045.0
+    },
+    {
+      "category": "THERMALRIGHT",
+      "brand": "THERMALRIGHT",
+      "product": "SFX 850W Gold F.Mod ATX3.1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5070GAMING OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5070AERO OC-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1099.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5070AORUS M-12GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1238.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N507TEAGLE OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1558.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N507TEAGLEOC ICE-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1568.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N507TGAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1618.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N507TAERO OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1638.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N507TAORUS M-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1688.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5080GAMING OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2215.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AERO OC-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2285.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUS M-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2375.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUSM ICE-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2399.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUSX W-16GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2498.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5090GAMING OC-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4845.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUS M-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5168.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSM ICE-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5228.0
+    },
+    {
+      "category": "GIGABYTE",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSX W-32GD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5328.0
+    },
+    {
+      "category": "MSI",
+      "brand": "MSI",
+      "product": "RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 848.0
+    },
+    {
+      "category": "MSI",
+      "brand": "MSI",
+      "product": "RTX 5070 12G VENTUS 2X OC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1008.0
+    },
+    {
+      "category": "NVIDIA QUADRO",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO 4500 BLACKWELL 32GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5688.0
+    },
+    {
+      "category": "NVIDIA QUADRO",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO 4000 BLACKWELL 24GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3488.0
+    },
+    {
+      "category": "NVIDIA QUADRO",
+      "brand": "NVIDIA",
+      "product": "NVIDIA RTX PRO 2000 BLACKWELL LP 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1688.0
+    },
+    {
+      "category": "NVIDIA QUADRO",
+      "brand": "NVIDIA",
+      "product": "NVIDIA QUADRO A1000 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 888.0
+    },
+    {
+      "category": "NVIDIA QUADRO",
+      "brand": "NVIDIA",
+      "product": "NVIDIA QUADRO A400 4GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX 3050 STORMX 6GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX 5060 INFINITY 2 OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 528.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX 5060 WHITE OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 545.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX5060Ti Infinity 3 OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 958.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX 5070 INFINITY 3 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1008.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX5070Ti Gaming PRO-S 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1528.0
+    },
+    {
+      "category": "PALIT",
+      "brand": "PALIT",
+      "product": "RTX5080 GAMING PRO OC 16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2028.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "GT 710 2GB DDR3",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 91.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "GT 1030 LP 2GB DDR5 1468Mhz",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 149.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 3050 SOLO 6GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 288.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX3050 6GB LP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 298.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 3050 ECO SOLO 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 348.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 SOLO 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 TWIN EDGE OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 TWIN EDGE OC WHITE 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5050 LP 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 468.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 TWIN EDGE OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 548.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 TWIN EDGE OC 8GB WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 558.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 Ti TWIN EDGE OC 8GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 628.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 Ti TWIN EDGE OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 848.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5060 Ti TWIN EDGE OC 16GB WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 868.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 TWIN EDGE OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 978.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 SOLID OC 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 998.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 AMP WHITE 12GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1028.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 Ti SOLID SFF OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1498.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 Ti SOLID CORE OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1558.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5070 Ti SOLID CORE OC 16GB - WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1618.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5080 SOLID CORE OC 16GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1998.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5080 SOLID OC 16GB - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2058.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5090 SOLID OC 32GB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6539.0
+    },
+    {
+      "category": "ZOTAC GAMING",
+      "brand": "ZOTAC",
+      "product": "RTX 5090 SOLID OC 32GB - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6539.0
+    }
+  ],
+  "numeric_tokens_in_source": 2423,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 171/2423 = 0.07",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SPARKLE\", \"product\": \"SPARKLE INTEL ARC B570 GUARDIAN OC\", \"variant\": \"10GB\", \"price_sgd\": 338},\n  {\"category\": \"GRAPHIC CARDS\", \"brand\": \"SPARKLE\", \"product\": \"SPARKLE INTEL ARC B580 TITAN OC\", \"variant\": \"12GB\", \"price_sgd\": 398},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM650i 650w 80 Plus Gold Certified FM PSU\", \"price_sgd\": 198},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"HX750 750w 80 Plus PLATINUM Cert. FM PSU\", \"price_sgd\": 198},\n  {\"category\": \"AMD RADEON CHIPSET GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9060XTGAMING OC-8GD\", \"price_sgd\": 554},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM850x 850w FM Cybenetics Gold ATX 3.1 PSU\", \"price_sgd\": 215},\n  {\"category\": \"AMD RADEON CHIPSET GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9060XTGAMING OC-16GD\", \"price_sgd\": 738},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM1000x 1000w FM Cybenetics Gold ATX 3.1 PSU\", \"price_sgd\": 288},\n  {\"category\": \"AMD RADEON CHIPSET GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070GAMING OC-16GD\", \"price_sgd\": 1075},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM650e 650w FM Cybenetics Gold ATX 3.1 PSU\", \"price_sgd\": 155},\n  {\"category\": \"AMD RADEON CHIPSET GRAPHIC CARDS\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070XTAORUS E-16GD\", \"price_sgd\": 1258},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM750e 750w FM Cybenetics Gold ATX 3.1 PSU\", \"price_sgd\": 188},\n  {\"category\": \"POWERCOLOR\", \"brand\": \"POWERCOLOR\", \"product\": \"Reaper RX 9060 XT\", \"variant\": \"16GB GDDR6\", \"price_sgd\": 585},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM850e 850w FM Cybenetics Gold ATX 3.1 PSU\", \"price_sgd\": 218},\n  {\"category\": \"POWERCOLOR\", \"brand\": \"POWERCOLOR\", \"product\": \"Hellhound RX 9060 XT\", \"variant\": \"16GB GDDR6\", \"price_sgd\": 605},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM1000e 1000w FM Cybenetics Gold ATX 3.1 PSU\", \"price_sgd\": 258},\n  {\"category\": \"POWERCOLOR\", \"brand\": \"POWERCOLOR\", \"product\": \"Reaper RX 9070 XT\", \"variant\": \"16GB GDDR6\", \"price_sgd\": 979},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM850x SHIFT 850w 80 Plus Gold FM ATX PSU\", \"price_sgd\": 235},\n  {\"category\": \"POWERCOLOR\", \"brand\": \"POWERCOLOR\", \"product\": \"Hellhound RX 9070 XT\", \"variant\": \"16GB GDDR6\", \"price_sgd\": 1029},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM1000x SHIFT 1000w 80 Plus Gold FM ATX PSU\", \"price_sgd\": 308},\n  {\"category\": \"POWERCOLOR\", \"brand\": \"POWERCOLOR\", \"product\": \"Red Devil RX 9070 XT\", \"variant\": \"16GB GDDR6\", \"price_sgd\": 1098},\n  {\"category\": \"POWER SUPPLY ATX\", \"brand\": \"CORSAIR\", \"product\": \"RM1200x SHIFT 1200w 80 Plus Gold FM ATX PSU\", \"price_sgd\": 355},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"NITRO+ RX 6750 XT GAMING OC12G GD6\", \"price_sgd\": 549},\n  {\"category\": \"DARK FLASH\", \"brand\": \"DARKFLASH\", \"product\": \"DG 750w 80+ Gold F.Mod ATX3.1 Psu\", \"price_sgd\": 89},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 7600 XT GAMING 16GB GD6649\", \"price_sgd\": 649},\n  {\"category\": \"DARK FLASH\", \"brand\": \"DARKFLASH\", \"product\": \"DG 850w 80+ Gold F.Mod ATX3.1 Psu\", \"price_sgd\": 95},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9060 XT OC\", \"variant\": \"8GB\", \"price_sgd\": 554},\n  {\"category\": \"DEEP COOL\", \"brand\": \"DEEPCOOL\", \"product\": \"Gamerstorm PF600X 600W\", \"price_sgd\": 52},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"PURE RX 9060 XT OC\", \"variant\": \"16GB\", \"price_sgd\": 719},\n  {\"category\": \"DEEP COOL\", \"brand\": \"DEEPCOOL\", \"product\": \"Gamerstorm PF700X 700W\", \"price_sgd\": 62},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9060 XT OC\", \"variant\": \"16GB\", \"price_sgd\": 699},\n  {\"category\": \"FSP\", \"brand\": \"FSP\", \"product\": \"PCIe 5.0 12VHPWR Cable - for FSP Mod. PSU\", \"price_sgd\": 15},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"PULSE RX 9070 XT OC 16GB GDDR6\", \"price_sgd\": 1135},\n  {\"category\": \"FSP\", \"brand\": \"FSP\", \"product\": \"HV PRO 550W 80+ Bronze Fix Cables PSU\", \"price_sgd\": 65},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"PURE RX 9070 XT OC 16GB GDDR6\", \"price_sgd\": 1169},\n  {\"category\": \"FSP\", \"brand\": \"FSP\", \"product\": \"HV PRO 650W 80+ Bronze Fix Cables PSU\", \"price_sgd\": 75},\n  {\"category\": \"SAPPHIRE\", \"brand\": \"SAPPHIRE\", \"product\": \"NITRO+ RX 9070 XT OC 16GB GDDR6\", \"price_sgd\": 1238},\n  {\"category\": \"FSP\", \"brand\": \"FSP\", \"product\": \"VITA GM 1000W 80+ Gold FM ATX3.1+Gen5.1\", \"price_sgd\": 179},\n  {\"category\": \"AI PRO\", \"brand\": \"AI PRO\", \"product\": \"R9700 32GB GDDR6\", \"price_sgd\": 2015},\n  {\"category\": \"FSP\", \"brand\": \"FSP\", \"product\": \"HYDRO PTM PRO 1200W 80+ Plat.FM ATX3.0+PCIe\", \"price_sgd\": 320},\n  {\"category\": \"FSP\", \"brand\": \"FSP\", \"product\": \"Gen5 NVIDIA CHIPSET GRAPHIC CARDS\", \"price_sgd\": 489},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"GT730-SL-2GD5-BRK GD5\", \"price_sgd\": 115},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"GT730-4H-SL-2GD5 4 x HDMI\", \"price_sgd\": 168},\n  {\"category\": \"HEADWAY\", \"brand\": \"HEADWAY\", \"product\": \"Headway 500W - Bulk Pack\", \"price_sgd\": 25},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"TUF-GTX1650-O4GD6-P-GAMING\", \"price_sgd\": 278},\n  {\"category\": \"ICUTE\", \"brand\": \"ICUTE\", \"product\": \"iCute 500W Switching PSU\", \"price_sgd\": 35},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5050-O8G\", \"price_sgd\": 518},\n  {\"category\": \"MONTECH\", \"brand\": \"MONTECH\", \"product\": \"MONTECH AP 550W 80+ White PSU\", \"warranty\": \"3yr\", \"price_sgd\": 49},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5060-O8G\", \"price_sgd\": 568},\n  {\"category\": \"MONTECH\", \"brand\": \"MONTECH\", \"product\": \"MONTECH AP 650W 80+ White PSU\", \"warranty\": \"3yr\", \"price_sgd\": 59},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5060-O8G\", \"price_sgd\": 628},\n  {\"category\": \"MONTECH\", \"brand\": \"MONTECH\", \"product\": \"MONTECH AP 750W 80+ White PSU\", \"warranty\": \"3yr\", \"price_sgd\": 69},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5060Ti-O16G\", \"price_sgd\": 988},\n  {\"category\": \"NZXT\", \"brand\": \"NZXT\", \"product\": \"C850 Core Platinum 850W Full modular - Black\", \"price_sgd\": 188},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5060Ti-O16G-GAMING\", \"price_sgd\": 1058},\n  {\"category\": \"NZXT\", \"brand\": \"NZXT\", \"product\": \"C1000 Core PSU - 1000W, Platinum, Full Modular\", \"price_sgd\": 198},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5070-O12G\", \"price_sgd\": 1098},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"S12III-650W 80+ Bronze\", \"price_sgd\": 95},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5070-O12G-GAMING\", \"price_sgd\": 1288},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"G12 GM-750 80+ Gold Semi Mod.ATX2.4 PSU\", \"price_sgd\": 135},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5070TI-O16G\", \"price_sgd\": 1528},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"G12 GM-850 80+ Gold Semi Mod.ATX2.4 PSU\", \"price_sgd\": 155},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5070TI-O16G-GAMING\", \"price_sgd\": 1638},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"Focus GX-750 80+ Gold FM ATX 3.1 PCI-e 5.1\", \"price_sgd\": 205},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5080-O16G\", \"price_sgd\": 2288},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"Focus GX-850 80+ Gold FM ATX 3.1 PCI-e 5.1\", \"price_sgd\": 235},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5080-O16G-GAMING\", \"price_sgd\": 2388},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"Focus GX-1000 80+ Gold FM ATX 3.1 PCI-e 5.1\", \"price_sgd\": 288},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5090-O32G-GAMING\", \"price_sgd\": 5088},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"Focus GX-750 White 80+ Gold FM ATX 3.1 PCI-e 5.1\", \"price_sgd\": 188},\n  {\"category\": \"ASUS\", \"brand\": \"ASUS\", \"product\": \"ROG-ASTRAL-RTX5090-O32G-GAMING\", \"price_sgd\": 5288},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"Focus GX-850 White 80+ Gold FM ATX 3.1 PCI-e 5.1\", \"price_sgd\": 259},\n  {\"category\": \"GALAX\", \"brand\": \"GALAX\", \"product\": \"RTX5060 1-Click OC 8GB GDDR7 GPU\", \"price_sgd\": 528},\n  {\"category\": \"SEASONIC\", \"brand\": \"SEASONIC\", \"product\": \"Focus GX-1000 White 80+ Gold FM ATX 3.1 PCI-e 5.1\", \"price_sgd\": 308},\n  {\"category\": \"GALAX\", \"brand\": \"GALAX\", \"product\": \"RTX5070 EX Gamer 1-Click OC 12GB GD9D9R97\", \"price_sgd\": 1488},\n  {\"category\": \"SILVERSTONE\", \"brand\": \"SILVERSTONE\", \"product\": \"VIVA650 650w 80+ Gold Psu\", \"price_sgd\": 99},\n  {\"category\": \"GALAX\", \"brand\": \"GALAX\", \"product\": \"RTX5070Ti EX Gamer OC Black 16GB GDDR7\", \"price_sgd\": 1488},\n  {\"category\": \"SUPERFLOWER\", \"brand\": \"SUPERFLOWER\", \"product\": \"PCIe NON PRO5.0 12VHPWR Cable\", \"price_sgd\": 15},\n  {\"category\": \"GALAX\", \"brand\": \"GALAX\", \"product\": \"RTX5070Ti EX Gamer OC White 16GB GDDR7\", \"price_sgd\": 1509},\n  {\"category\": \"SUPERFLOWER\", \"brand\": \"SUPERFLOWER\", \"product\": \"PCIe PRO5.0 12VHPWR Cable\", \"price_sgd\": 15},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5050WF2OC-8GD\", \"price_sgd\": 448},\n  {\"category\": \"SUPERFLOWER\", \"brand\": \"SUPERFLOWER\", \"product\": \"Leadex III Gold 850W\", \"price_sgd\": 139},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV-N5050OC-8GL Low Profile\", \"price_sgd\": 458},\n  {\"category\": \"SUPERFLOWER\", \"brand\": \"SUPERFLOWER\", \"product\": \"Leadex VIII Platinum Pro 1000W\", \"price_sgd\": 225},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060EAGLE OC-8GD\", \"price_sgd\": 528},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"KG 650W 80+ Gold Modular\", \"price_sgd\": 88},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060EAGLEOC ICE-8GD\", \"price_sgd\": 548},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"KG 850W 80+ Gold Modular\", \"price_sgd\": 108},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060GAMING OC-8GD\", \"price_sgd\": 568},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"SP Platinum SP1000 Mod.ATX3.1+Gen5.1-Black\", \"price_sgd\": 149},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060AERO OC-8GD\", \"price_sgd\": 598},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"TP Platinum 1650W\", \"price_sgd\": 335},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060AORUS E-8GD\", \"price_sgd\": 608},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"TG Gold 1200W\", \"price_sgd\": 199},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TEAGLE OC-8GD\", \"price_sgd\": 648},\n  {\"category\": \"VIOS\", \"brand\": \"VIOS\", \"product\": \"Vios 500W OEM\", \"price_sgd\": 22},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TEAGLEOC ICE-8GD\", \"price_sgd\": 678},\n  {\"category\": \"COOLER MASTER\", \"brand\": \"COOLER MASTER\", \"product\": \"V SFX PLATINUM 1100 FM ATX3 PSU PROMO\", \"price_sgd\": 378},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TGAMING OC-8GD\", \"price_sgd\": 698},\n  {\"category\": \"CORSAIR\", \"brand\": \"CORSAIR\", \"product\": \"Corsair SF750 750w FM 80 Plus Platinum SFX PSU\", \"price_sgd\": 265},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TAERO OC-8GD\", \"price_sgd\": 718},\n  {\"category\": \"CORSAIR\", \"brand\": \"CORSAIR\", \"product\": \"Corsair SF850 850w FM 80 Plus Platinum SFX PSU\", \"price_sgd\": 288},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TEAGLE OC-16GD\", \"price_sgd\": 848},\n  {\"category\": \"CORSAIR\", \"brand\": \"CORSAIR\", \"product\": \"Corsair SF1000 1000w FM 80 Plus Platinum SFX PSU\", \"price_sgd\": 349},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TEAGLEOC ICE-16GD\", \"price_sgd\": 865},\n  {\"category\": \"GAMEMAX\", \"brand\": \"GAMEMAX\", \"product\": \"GS-450W 80+ Bronze 2Yr.\", \"price_sgd\": 65},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TGAMING OC-16GD\", \"price_sgd\": 885},\n  {\"category\": \"HEADWAY\", \"brand\": \"HEADWAY\", \"product\": \"Headway 500W - Bulk Pack\", \"price_sgd\": 25},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TAERO OC-16GD\", \"price_sgd\": 899},\n  {\"category\": \"SUPERFLOWER\", \"brand\": \"SUPERFLOWER\", \"product\": \"Zillion SFX Full Mod. Gold 850W\", \"price_sgd\": 145},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TAORUS E-16GD\", \"price_sgd\": 918},\n  {\"category\": \"DARKFLASH\", \"brand\": \"DARKFLASH\", \"product\": \"DS900WS TG BLACK CASE - NO FAN\", \"price_sgd\": 49},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070EAGLE OC-12GD\", \"price_sgd\": 1028},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"ABFX SFX 80+ Bronze 500W\", \"price_sgd\": 75},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070EAGLEOC ICE-12GD\", \"price_sgd\": 1045},\n  {\"category\": \"THERMALRIGHT\", \"brand\": \"THERMALRIGHT\", \"product\": \"SFX 850W Gold F.Mod ATX3.1\", \"price_sgd\": 165},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070GAMING OC-12GD\", \"price_sgd\": 1058},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070AERO OC-12GD\", \"price_sgd\": 1099},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070AORUS M-12GD\", \"price_sgd\": 1238},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TEAGLE OC-16GD\", \"price_sgd\": 1558},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TEAGLEOC ICE-16GD\", \"price_sgd\": 1568},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TGAMING OC-16GD\", \"price_sgd\": 1618},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TAERO OC-16GD\", \"price_sgd\": 1638},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TAORUS M-16GD\", \"price_sgd\": 1688},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080GAMING OC-16GD\", \"price_sgd\": 2215},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AERO OC-16GD\", \"price_sgd\": 2285},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AORUS M-16GD\", \"price_sgd\": 2375},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AORUSM ICE-16GD\", \"price_sgd\": 2399},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AORUSX W-16GD\", \"price_sgd\": 2498},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090GAMING OC-32GD\", \"price_sgd\": 4845},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUS M-32GD\", \"price_sgd\": 5168},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUSM ICE-32GD\", \"price_sgd\": 5228},\n  {\"category\": \"GIGABYTE\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUSX W-32GD\", \"price_sgd\": 5328},\n  {\"category\": \"MSI\", \"brand\": \"MSI\", \"product\": \"RTX 5060 Ti 16G VENTUS 2X OC PLUS\", \"price_sgd\": 848},\n  {\"category\": \"MSI\", \"brand\": \"MSI\", \"product\": \"RTX 5070 12G VENTUS 2X OC\", \"price_sgd\": 1008},\n  {\"category\": \"NVIDIA QUADRO\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA RTX PRO 4500 BLACKWELL 32GB\", \"price_sgd\": 5688},\n  {\"category\": \"NVIDIA QUADRO\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA RTX PRO 4000 BLACKWELL 24GB\", \"price_sgd\": 3488},\n  {\"category\": \"NVIDIA QUADRO\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA RTX PRO 2000 BLACKWELL LP 16GB\", \"price_sgd\": 1688},\n  {\"category\": \"NVIDIA QUADRO\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA QUADRO A1000 8GB\", \"price_sgd\": 888},\n  {\"category\": \"NVIDIA QUADRO\", \"brand\": \"NVIDIA\", \"product\": \"NVIDIA QUADRO A400 4GB\", \"price_sgd\": 388},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX 3050 STORMX 6GB\", \"price_sgd\": 288},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX 5060 INFINITY 2 OC 8GB\", \"price_sgd\": 528},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX 5060 WHITE OC 8GB\", \"price_sgd\": 545},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX5060Ti Infinity 3 OC 16GB\", \"price_sgd\": 958},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX 5070 INFINITY 3 12GB\", \"price_sgd\": 1008},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX5070Ti Gaming PRO-S 16G\", \"price_sgd\": 1528},\n  {\"category\": \"PALIT\", \"brand\": \"PALIT\", \"product\": \"RTX5080 GAMING PRO OC 16G\", \"price_sgd\": 2028},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"GT 710 2GB DDR3\", \"price_sgd\": 91},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"GT 1030 LP 2GB DDR5 1468Mhz\", \"price_sgd\": 149},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 3050 SOLO 6GB\", \"price_sgd\": 288},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX3050 6GB LP\", \"price_sgd\": 298},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 3050 ECO SOLO 8GB\", \"price_sgd\": 348},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5050 SOLO 8GB\", \"price_sgd\": 448},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5050 TWIN EDGE OC 8GB\", \"price_sgd\": 458},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5050 TWIN EDGE OC WHITE 8GB\", \"price_sgd\": 468},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5050 LP 8GB\", \"price_sgd\": 468},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5060 TWIN EDGE OC 8GB\", \"price_sgd\": 548},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5060 TWIN EDGE OC 8GB WHITE\", \"price_sgd\": 558},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5060 Ti TWIN EDGE OC 8GB\", \"price_sgd\": 628},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5060 Ti TWIN EDGE OC 16GB\", \"price_sgd\": 848},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5060 Ti TWIN EDGE OC 16GB WHITE\", \"price_sgd\": 868},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5070 TWIN EDGE OC 12GB\", \"price_sgd\": 978},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5070 SOLID OC 12GB\", \"price_sgd\": 998},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5070 AMP WHITE 12GB\", \"price_sgd\": 1028},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5070 Ti SOLID SFF OC 16GB\", \"price_sgd\": 1498},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5070 Ti SOLID CORE OC 16GB\", \"price_sgd\": 1558},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5070 Ti SOLID CORE OC 16GB - WHITE\", \"price_sgd\": 1618},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5080 SOLID CORE OC 16GB\", \"price_sgd\": 1998},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5080 SOLID OC 16GB - White\", \"price_sgd\": 2058},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5090 SOLID OC 32GB\", \"price_sgd\": 6539},\n  {\"category\": \"ZOTAC GAMING\", \"brand\": \"ZOTAC\", \"product\": \"RTX 5090 SOLID OC 32GB - White\", \"price_sgd\": 6539}\n]}"
+}

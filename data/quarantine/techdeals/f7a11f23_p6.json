@@ -1,0 +1,13 @@
+{
+  "sha256": "f7a11f23886a1abbbe9caf6ebf2dcb245f60d49cac1af7b10e21d10d340eae9c",
+  "vendor": "techdeals",
+  "page_number": 6,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": "{\"rows\": []}"
+}

@@ -1,0 +1,518 @@
+{
+  "sha256": "41ccd62286a46d0c64a5281ff5f06638238a216eb87913cfc6e8458574a93970",
+  "vendor": "techdeals",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "Motherboard",
+      "brand": "SPARKLE",
+      "product": "SPARKLE INTEL ARC B570 GUARDIAN OC",
+      "variant": "10GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 338.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 555.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV R9060XTGAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 725.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV R906XGAMINGOCICE",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 738.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV R9070GAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1045.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV R9070XTGAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1139.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV R9070XTAORUS E",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1225.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "AI PRO",
+      "variant": "R9700 32GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2015.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "GT730-SL-2GD5-BRK",
+      "variant": "GD5",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "GT730-4H-SL-2GD5",
+      "variant": "4 x HDMI",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "GT1030-SL-2G-BRK LOW PROFILE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5050-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 515.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5060-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 579.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 609.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5060TI-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 725.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060TI-O8G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 760.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5060TI-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 925.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5060Ti-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 949.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "TUF-RTX5060Ti-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1018.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "DUAL-RTX5070-O12G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1045.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5070-O12G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1085.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5070TI-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1615.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "TUF-RTX5070TI-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1655.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "PRIME-RTX5080-O16G",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2185.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "ASUS",
+      "product": "TUF-RTX5080-O16G-GAMING",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2279.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5050WF2OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 449.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5050OC",
+      "variant": "8GL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 458.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5050GAMING OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 475.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5060WF2OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 515.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5060OC",
+      "variant": "8GL",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 525.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5060EAGLE OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 529.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5060EAGLEOC ICE",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 540.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5060GAMING OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 559.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N506TWF2OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N506TGAMING OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 689.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "THERMALRIGHT",
+      "product": "GV N506TAERO OC",
+      "variant": "8GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 709.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5070WF3OC",
+      "variant": "12GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1008.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5070EAGLEOC ICE",
+      "variant": "12GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1038.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5070GAMING OC",
+      "variant": "12GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1055.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5070AERO OC",
+      "variant": "12GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1069.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5070AORUS M",
+      "variant": "12GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1205.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N507TWF3OCV2",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1438.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N507TEAGLE OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1508.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N507TGAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1568.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N507TAERO OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1585.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5080WF3OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1979.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5080GAMING OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2135.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AERO OC",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2204.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUS M",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2289.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5080AORUSM ICE",
+      "variant": "16GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2319.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5090WF3OC",
+      "variant": "32GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5599.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5090GAMING OC",
+      "variant": "32GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5749.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUS M",
+      "variant": "32GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6005.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSM ICE",
+      "variant": "32GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6085.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSST ICE",
+      "variant": "32GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6155.0
+    },
+    {
+      "category": "Motherboard",
+      "brand": "GIGABYTE",
+      "product": "GV N5090AORUSX W",
+      "variant": "32GD",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 6209.0
+    }
+  ],
+  "numeric_tokens_in_source": 2408,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 56/2408 = 0.02",
+  "raw_response": "{\"rows\": [\n  {\"category\": \"Motherboard\", \"brand\": \"SPARKLE\", \"product\": \"SPARKLE INTEL ARC B570 GUARDIAN OC\", \"variant\": \"10GB\", \"price_sgd\": 338},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9060XTGAMING OC\", \"variant\": \"8GD\", \"price_sgd\": 555},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9060XTGAMING OC\", \"variant\": \"16GD\", \"price_sgd\": 725},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV R906XGAMINGOCICE\", \"variant\": \"16GD\", \"price_sgd\": 738},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070GAMING OC\", \"variant\": \"16GD\", \"price_sgd\": 1045},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070XTGAMING OC\", \"variant\": \"16GD\", \"price_sgd\": 1139},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV R9070XTAORUS E\", \"variant\": \"16GD\", \"price_sgd\": 1225},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"AI PRO\", \"variant\": \"R9700 32GB\", \"price_sgd\": 2015},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"GT730-SL-2GD5-BRK\", \"variant\": \"GD5\", \"price_sgd\": 115},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"GT730-4H-SL-2GD5\", \"variant\": \"4 x HDMI\", \"price_sgd\": 168},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"GT1030-SL-2G-BRK LOW PROFILE\", \"price_sgd\": 155},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5050-O8G\", \"price_sgd\": 515},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5060-O8G\", \"price_sgd\": 579},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5060-O8G\", \"price_sgd\": 609},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5060TI-O8G\", \"price_sgd\": 725},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5060TI-O8G\", \"price_sgd\": 760},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5060TI-O16G\", \"price_sgd\": 925},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5060Ti-O16G\", \"price_sgd\": 949},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5060Ti-O16G-GAMING\", \"price_sgd\": 1018},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"DUAL-RTX5070-O12G\", \"price_sgd\": 1045},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5070-O12G\", \"price_sgd\": 1085},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5070TI-O16G\", \"price_sgd\": 1615},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5070TI-O16G-GAMING\", \"price_sgd\": 1655},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"PRIME-RTX5080-O16G\", \"price_sgd\": 2185},\n  {\"category\": \"Motherboard\", \"brand\": \"ASUS\", \"product\": \"TUF-RTX5080-O16G-GAMING\", \"price_sgd\": 2279},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5050WF2OC\", \"variant\": \"8GD\", \"price_sgd\": 449},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5050OC\", \"variant\": \"8GL\", \"price_sgd\": 458},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5050GAMING OC\", \"variant\": \"8GD\", \"price_sgd\": 475},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060WF2OC\", \"variant\": \"8GD\", \"price_sgd\": 515},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060OC\", \"variant\": \"8GL\", \"price_sgd\": 525},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060EAGLE OC\", \"variant\": \"8GD\", \"price_sgd\": 529},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060EAGLEOC ICE\", \"variant\": \"8GD\", \"price_sgd\": 540},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5060GAMING OC\", \"variant\": \"8GD\", \"price_sgd\": 559},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TWF2OC\", \"variant\": \"8GD\", \"price_sgd\": 635},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N506TGAMING OC\", \"variant\": \"8GD\", \"price_sgd\": 689},\n  {\"category\": \"Motherboard\", \"brand\": \"THERMALRIGHT\", \"product\": \"GV N506TAERO OC\", \"variant\": \"8GD\", \"price_sgd\": 709},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070WF3OC\", \"variant\": \"12GD\", \"price_sgd\": 1008},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070EAGLEOC ICE\", \"variant\": \"12GD\", \"price_sgd\": 1038},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070GAMING OC\", \"variant\": \"12GD\", \"price_sgd\": 1055},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070AERO OC\", \"variant\": \"12GD\", \"price_sgd\": 1069},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5070AORUS M\", \"variant\": \"12GD\", \"price_sgd\": 1205},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TWF3OCV2\", \"variant\": \"16GD\", \"price_sgd\": 1438},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TEAGLE OC\", \"variant\": \"16GD\", \"price_sgd\": 1508},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TGAMING OC\", \"variant\": \"16GD\", \"price_sgd\": 1568},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N507TAERO OC\", \"variant\": \"16GD\", \"price_sgd\": 1585},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080WF3OC\", \"variant\": \"16GD\", \"price_sgd\": 1979},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080GAMING OC\", \"variant\": \"16GD\", \"price_sgd\": 2135},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AERO OC\", \"variant\": \"16GD\", \"price_sgd\": 2204},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AORUS M\", \"variant\": \"16GD\", \"price_sgd\": 2289},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5080AORUSM ICE\", \"variant\": \"16GD\", \"price_sgd\": 2319},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090WF3OC\", \"variant\": \"32GD\", \"price_sgd\": 5599},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090GAMING OC\", \"variant\": \"32GD\", \"price_sgd\": 5749},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUS M\", \"variant\": \"32GD\", \"price_sgd\": 6005},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUSM ICE\", \"variant\": \"32GD\", \"price_sgd\": 6085},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUSST ICE\", \"variant\": \"32GD\", \"price_sgd\": 6155},\n  {\"category\": \"Motherboard\", \"brand\": \"GIGABYTE\", \"product\": \"GV N5090AORUSX W\", \"variant\": \"32GD\", \"price_sgd\": 6209}\n]}"
+}
