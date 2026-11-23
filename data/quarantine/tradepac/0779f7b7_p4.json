@@ -1,0 +1,419 @@
+{
+  "sha256": "0779f7b716b0183af949ab0644da067c5f231f003caf15fffc02be0b2f72c516",
+  "vendor": "tradepac",
+  "page_number": 4,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": "BUNDLE -1 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE -1 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "BUNDLE -2 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE -2 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 525.0
+    },
+    {
+      "category": "BUNDLE - 3 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 3 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 748.0
+    },
+    {
+      "category": "BUNDLE - 4 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 4 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 898.0
+    },
+    {
+      "category": "BUNDLE - 5 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 5 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1058.0
+    },
+    {
+      "category": "BUNDLE - 6 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 6 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1078.0
+    },
+    {
+      "category": "BUNDLE - 7 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 7 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1158.0
+    },
+    {
+      "category": "BUNDLE - 8 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 8 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1318.0
+    },
+    {
+      "category": "BUNDLE - 9 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 9 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1698.0
+    },
+    {
+      "category": "BUNDLE - 10 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 10 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1498.0
+    },
+    {
+      "category": "BUNDLE - 11 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 11 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1778.0
+    },
+    {
+      "category": "BUNDLE - 12 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 12 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2018.0
+    },
+    {
+      "category": "BUNDLE - 13 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 13 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1169.0
+    },
+    {
+      "category": "BUNDLE - 14 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 14 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1488.0
+    },
+    {
+      "category": "BUNDLE - 15 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 15 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1988.0
+    },
+    {
+      "category": "BUNDLE - 16 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 16 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1828.0
+    },
+    {
+      "category": "BUNDLE - 17 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 17 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2408.0
+    },
+    {
+      "category": "BUNDLE - 18 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 18 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3538.0
+    },
+    {
+      "category": "BUNDLE - 19 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 19 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3368.0
+    },
+    {
+      "category": "BUNDLE - 20 AMD SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 20 AMD SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1948.0
+    },
+    {
+      "category": "BUNDLE - 1 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 1 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "BUNDLE - 2 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 2 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 618.0
+    },
+    {
+      "category": "BUNDLE - 3 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 3 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 898.0
+    },
+    {
+      "category": "BUNDLE - 4 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 4 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1138.0
+    },
+    {
+      "category": "BUNDLE - 5 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 5 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1248.0
+    },
+    {
+      "category": "BUNDLE - 6 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 6 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 848.0
+    },
+    {
+      "category": "BUNDLE - 7 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 7 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1508.0
+    },
+    {
+      "category": "BUNDLE - 8 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 8 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1788.0
+    },
+    {
+      "category": "BUNDLE - 9 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 9 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 788.0
+    },
+    {
+      "category": "BUNDLE - 10 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 10 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1268.0
+    },
+    {
+      "category": "BUNDLE - 11 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 11 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2048.0
+    },
+    {
+      "category": "BUNDLE - 12 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 12 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2628.0
+    },
+    {
+      "category": "BUNDLE - 13 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 13 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3268.0
+    },
+    {
+      "category": "BUNDLE - 14 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 14 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1868.0
+    },
+    {
+      "category": "BUNDLE - 15 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 15 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1338.0
+    },
+    {
+      "category": "BUNDLE - 21 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 21 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1628.0
+    },
+    {
+      "category": "BUNDLE - 22 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 22 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2298.0
+    },
+    {
+      "category": "BUNDLE - 23 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 23 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1948.0
+    },
+    {
+      "category": "BUNDLE - 24 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 24 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3198.0
+    },
+    {
+      "category": "BUNDLE - 25 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 25 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3348.0
+    },
+    {
+      "category": "BUNDLE - 26 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 26 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2541.0
+    },
+    {
+      "category": "BUNDLE - 27 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 27 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2998.0
+    },
+    {
+      "category": "BUNDLE - 28 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 28 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2388.0
+    },
+    {
+      "category": "BUNDLE - 29 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 29 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5988.0
+    },
+    {
+      "category": "BUNDLE - 30 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 30 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 4298.0
+    }
+  ],
+  "numeric_tokens_in_source": 218,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 45/218 = 0.21",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": \"BUNDLE -1 AMD SYSTEM\",\n      \"product\": \"BUNDLE -1 AMD SYSTEM\",\n      \"price_sgd\": 398.0\n    },\n    {\n      \"category\": \"BUNDLE -2 AMD SYSTEM\",\n      \"product\": \"BUNDLE -2 AMD SYSTEM\",\n      \"price_sgd\": 525.0\n    },\n    {\n      \"category\": \"BUNDLE - 3 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 3 AMD SYSTEM\",\n      \"price_sgd\": 748.0\n    },\n    {\n      \"category\": \"BUNDLE - 4 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 4 AMD SYSTEM\",\n      \"price_sgd\": 898.0\n    },\n    {\n      \"category\": \"BUNDLE - 5 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 5 AMD SYSTEM\",\n      \"price_sgd\": 1058.0\n    },\n    {\n      \"category\": \"BUNDLE - 6 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 6 AMD SYSTEM\",\n      \"price_sgd\": 1078.0\n    },\n    {\n      \"category\": \"BUNDLE - 7 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 7 AMD SYSTEM\",\n      \"price_sgd\": 1158.0\n    },\n    {\n      \"category\": \"BUNDLE - 8 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 8 AMD SYSTEM\",\n      \"price_sgd\": 1318.0\n    },\n    {\n      \"category\": \"BUNDLE - 9 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 9 AMD SYSTEM\",\n      \"price_sgd\": 1698.0\n    },\n    {\n      \"category\": \"BUNDLE - 10 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 10 AMD SYSTEM\",\n      \"price_sgd\": 1498.0\n    },\n    {\n      \"category\": \"BUNDLE - 11 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 11 AMD SYSTEM\",\n      \"price_sgd\": 1778.0\n    },\n    {\n      \"category\": \"BUNDLE - 12 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 12 AMD SYSTEM\",\n      \"price_sgd\": 2018.0\n    },\n    {\n      \"category\": \"BUNDLE - 13 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 13 AMD SYSTEM\",\n      \"price_sgd\": 1169.0\n    },\n    {\n      \"category\": \"BUNDLE - 14 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 14 AMD SYSTEM\",\n      \"price_sgd\": 1488.0\n    },\n    {\n      \"category\": \"BUNDLE - 15 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 15 AMD SYSTEM\",\n      \"price_sgd\": 1988.0\n    },\n    {\n      \"category\": \"BUNDLE - 16 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 16 AMD SYSTEM\",\n      \"price_sgd\": 1828.0\n    },\n    {\n      \"category\": \"BUNDLE - 17 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 17 AMD SYSTEM\",\n      \"price_sgd\": 2408.0\n    },\n    {\n      \"category\": \"BUNDLE - 18 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 18 AMD SYSTEM\",\n      \"price_sgd\": 3538.0\n    },\n    {\n      \"category\": \"BUNDLE - 19 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 19 AMD SYSTEM\",\n      \"price_sgd\": 3368.0\n    },\n    {\n      \"category\": \"BUNDLE - 20 AMD SYSTEM\",\n      \"product\": \"BUNDLE - 20 AMD SYSTEM\",\n      \"price_sgd\": 1948.0\n    },\n    {\n      \"category\": \"BUNDLE - 1 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 1 INTEL SYSTEM\",\n      \"price_sgd\": 448.0\n    },\n    {\n      \"category\": \"BUNDLE - 2 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 2 INTEL SYSTEM\",\n      \"price_sgd\": 618.0\n    },\n    {\n      \"category\": \"BUNDLE - 3 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 3 INTEL SYSTEM\",\n      \"price_sgd\": 898.0\n    },\n    {\n      \"category\": \"BUNDLE - 4 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 4 INTEL SYSTEM\",\n      \"price_sgd\": 1138.0\n    },\n    {\n      \"category\": \"BUNDLE - 5 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 5 INTEL SYSTEM\",\n      \"price_sgd\": 1248.0\n    },\n    {\n      \"category\": \"BUNDLE - 6 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 6 INTEL SYSTEM\",\n      \"price_sgd\": 848.0\n    },\n    {\n      \"category\": \"BUNDLE - 7 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 7 INTEL SYSTEM\",\n      \"price_sgd\": 1508.0\n    },\n    {\n      \"category\": \"BUNDLE - 8 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 8 INTEL SYSTEM\",\n      \"price_sgd\": 1788.0\n    },\n    {\n      \"category\": \"BUNDLE - 9 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 9 INTEL SYSTEM\",\n      \"price_sgd\": 788.0\n    },\n    {\n      \"category\": \"BUNDLE - 10 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 10 INTEL SYSTEM\",\n      \"price_sgd\": 1268.0\n    },\n    {\n      \"category\": \"BUNDLE - 11 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 11 INTEL SYSTEM\",\n      \"price_sgd\": 2048.0\n    },\n    {\n      \"category\": \"BUNDLE - 12 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 12 INTEL SYSTEM\",\n      \"price_sgd\": 2628.0\n    },\n    {\n      \"category\": \"BUNDLE - 13 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 13 INTEL SYSTEM\",\n      \"price_sgd\": 3268.0\n    },\n    {\n      \"category\": \"BUNDLE - 14 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 14 INTEL SYSTEM\",\n      \"price_sgd\": 1868.0\n    },\n    {\n      \"category\": \"BUNDLE - 15 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 15 INTEL SYSTEM\",\n      \"price_sgd\": 1338.0\n    },\n    {\n      \"category\": \"BUNDLE - 21 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 21 INTEL SYSTEM\",\n      \"price_sgd\": 1628.0\n    },\n    {\n      \"category\": \"BUNDLE - 22 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 22 INTEL SYSTEM\",\n      \"price_sgd\": 2298.0\n    },\n    {\n      \"category\": \"BUNDLE - 23 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 23 INTEL SYSTEM\",\n      \"price_sgd\": 1948.0\n    },\n    {\n      \"category\": \"BUNDLE - 24 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 24 INTEL SYSTEM\",\n      \"price_sgd\": 3198.0\n    },\n    {\n      \"category\": \"BUNDLE - 25 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 25 INTEL SYSTEM\",\n      \"price_sgd\": 3348.0\n    },\n    {\n      \"category\": \"BUNDLE - 26 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 26 INTEL SYSTEM\",\n      \"price_sgd\": 2541.0\n    },\n    {\n      \"category\": \"BUNDLE - 27 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 27 INTEL SYSTEM\",\n      \"price_sgd\": 2998.0\n    },\n    {\n      \"category\": \"BUNDLE - 28 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 28 INTEL SYSTEM\",\n      \"price_sgd\": 2388.0\n    },\n    {\n      \"category\": \"BUNDLE - 29 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 29 INTEL SYSTEM\",\n      \"price_sgd\": 5988.0\n    },\n    {\n      \"category\": \"BUNDLE - 30 INTEL SYSTEM\",\n      \"product\": \"BUNDLE - 30 INTEL SYSTEM\",\n      \"price_sgd\": 4298.0\n    }\n  ]\n}"
+}

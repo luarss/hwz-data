@@ -1,0 +1,455 @@
+{
+  "sha256": "5241f95514b14443833b8f820d12ab391be3ee8ebdcc7a4af4ed2a3f319e36ea",
+  "vendor": "tradepac",
+  "page_number": 8,
+  "method": "vision_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 256GB NVME M.2 GEN3",
+      "variant": "256GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HEADWAY M07 SLIM CASE 500W PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "HOME",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "PRO",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP KEYBOARD AND MOUSE WIRE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 512GB NVME M.2",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": null,
+      "brand": "TECWARE",
+      "product": "TECWARE MATX + FSP 550W PSU BRONZE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 115.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "HOME",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "PRO",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "HP KEYBOARD AND MOUSE WIRE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 12.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 512GB NVME M.2",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC GAMING RTX 3050 ECO SOLO 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": null,
+      "brand": "FSP",
+      "product": "FSP 550W 80+ BRONZE PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 75.0
+    },
+    {
+      "category": null,
+      "brand": "TECWARE",
+      "product": "TECWARE MATX CASE 3 FANS ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "HOME",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "PRO",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 512GB NVME M.2",
+      "variant": "512GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": null,
+      "brand": "ZOTAC",
+      "product": "ZOTAC GAMING RTX 5060 5060 SOLO 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": null,
+      "brand": "FSP",
+      "product": "FSP 650W 80+ BRONZE PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "TECWARE",
+      "product": "TECWARE MATX CASE 3 FANS ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "THERMALRIGHT",
+      "product": "Thermalright Assassin X 120 Refined SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "HOME",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "PRO",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": null,
+      "brand": "LEXAR",
+      "product": "LEXAR NM620 5060 5060 AMP 8GB",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": null,
+      "brand": "FSP",
+      "product": "FSP 650W 80+ BRONZE PSU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": null,
+      "brand": "TECWARE",
+      "product": "TECWARE MATX CASE 3 FANS ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 49.0
+    },
+    {
+      "category": null,
+      "brand": "THERMALRIGHT",
+      "product": "Thermalright Assassin X 120 Refined SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "HOME",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 165.0
+    },
+    {
+      "category": null,
+      "brand": null,
+      "product": "WINDOWS 11 HOME /11 PRO (UNACTIVATED)",
+      "variant": "PRO",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": "BUNDLE - 6 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 6 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 908.0
+    },
+    {
+      "category": "BUNDLE - 7 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 7 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1645.0
+    },
+    {
+      "category": "BUNDLE - 8 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 8 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1865.0
+    },
+    {
+      "category": "BUNDLE - 9 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 9 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 899.0
+    },
+    {
+      "category": "BUNDLE - 10 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 10 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1278.0
+    },
+    {
+      "category": "BUNDLE - 11 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 11 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2365.0
+    },
+    {
+      "category": "BUNDLE - 12 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 12 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2965.0
+    },
+    {
+      "category": "BUNDLE - 13 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 13 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3438.0
+    },
+    {
+      "category": "BUNDLE - 14 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 14 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1458.0
+    },
+    {
+      "category": "BUNDLE - 15 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 15 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1399.0
+    },
+    {
+      "category": "BUNDLE - 21 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 21 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1628.0
+    },
+    {
+      "category": "BUNDLE - 22 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 22 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2178.0
+    },
+    {
+      "category": "BUNDLE - 23 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 23 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2788.0
+    },
+    {
+      "category": "BUNDLE - 24 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 24 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3398.0
+    },
+    {
+      "category": "BUNDLE - 25 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 25 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3478.0
+    },
+    {
+      "category": "BUNDLE - 26 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 26 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2541.0
+    },
+    {
+      "category": "BUNDLE - 27 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 27 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 3478.0
+    },
+    {
+      "category": "BUNDLE - 28 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 28 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 2255.0
+    },
+    {
+      "category": "BUNDLE - 29 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 29 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 5958.0
+    },
+    {
+      "category": "BUNDLE - 30 INTEL SYSTEM",
+      "brand": null,
+      "product": "BUNDLE - 30 INTEL SYSTEM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 7099.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 14 extra rows (29%): [('WINDOWS 11 HOME /11 PRO (UNACTIVATED)', 'HOME', None, 165), ('WINDOWS 11 HOME /11 PRO (UNACTIVATED)', 'PRO', None, 208), ('HP KEYBOARD AND MOUSE WIRE', None, None, 12)]",
+  "raw_response": "{\n  \"rows\": [\n    {\n      \"category\": null,\n      \"brand\": \"LEXAR\",\n      \"product\": \"LEXAR NM620 256GB NVME M.2 GEN3\",\n      \"variant\": \"256GB\",\n      \"price_sgd\": 59.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"HEADWAY M07 SLIM CASE 500W PSU\",\n      \"price_sgd\": 69.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"HOME\",\n      \"price_sgd\": 165.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"PRO\",\n      \"price_sgd\": 208.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"HP KEYBOARD AND MOUSE WIRE\",\n      \"price_sgd\": 12.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"LEXAR\",\n      \"product\": \"LEXAR NM620 512GB NVME M.2\",\n      \"variant\": \"512GB\",\n      \"price_sgd\": 79.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"TECWARE\",\n      \"product\": \"TECWARE MATX + FSP 550W PSU BRONZE\",\n      \"price_sgd\": 115.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"HOME\",\n      \"price_sgd\": 165.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"PRO\",\n      \"price_sgd\": 208.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"HP KEYBOARD AND MOUSE WIRE\",\n      \"price_sgd\": 12.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"LEXAR\",\n      \"product\": \"LEXAR NM620 512GB NVME M.2\",\n      \"variant\": \"512GB\",\n      \"price_sgd\": 110.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"ZOTAC\",\n      \"product\": \"ZOTAC GAMING RTX 3050 ECO SOLO 8GB\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 279.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"FSP\",\n      \"product\": \"FSP 550W 80+ BRONZE PSU\",\n      \"price_sgd\": 75.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"TECWARE\",\n      \"product\": \"TECWARE MATX CASE 3 FANS ARGB\",\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"HOME\",\n      \"price_sgd\": 165.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"PRO\",\n      \"price_sgd\": 208.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"LEXAR\",\n      \"product\": \"LEXAR NM620 512GB NVME M.2\",\n      \"variant\": \"512GB\",\n      \"price_sgd\": 110.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"ZOTAC\",\n      \"product\": \"ZOTAC GAMING RTX 5060 5060 SOLO 8GB\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 499.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"FSP\",\n      \"product\": \"FSP 650W 80+ BRONZE PSU\",\n      \"price_sgd\": 85.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"TECWARE\",\n      \"product\": \"TECWARE MATX CASE 3 FANS ARGB\",\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"THERMALRIGHT\",\n      \"product\": \"Thermalright Assassin X 120 Refined SE\",\n      \"price_sgd\": 35.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"HOME\",\n      \"price_sgd\": 165.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"PRO\",\n      \"price_sgd\": 208.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"LEXAR\",\n      \"product\": \"LEXAR NM620 5060 5060 AMP 8GB\",\n      \"variant\": \"8GB\",\n      \"price_sgd\": 539.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"FSP\",\n      \"product\": \"FSP 650W 80+ BRONZE PSU\",\n      \"price_sgd\": 85.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"TECWARE\",\n      \"product\": \"TECWARE MATX CASE 3 FANS ARGB\",\n      \"price_sgd\": 49.0\n    },\n    {\n      \"category\": null,\n      \"brand\": \"THERMALRIGHT\",\n      \"product\": \"Thermalright Assassin X 120 Refined SE\",\n      \"price_sgd\": 35.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"HOME\",\n      \"price_sgd\": 165.0\n    },\n    {\n      \"category\": null,\n      \"brand\": null,\n      \"product\": \"WINDOWS 11 HOME /11 PRO (UNACTIVATED)\",\n      \"variant\": \"PRO\",\n      \"price_sgd\": 208.0\n    },\n    {\n      \"category\": \"BUNDLE - 6 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 6 INTEL SYSTEM\",\n      \"price_sgd\": 908.0\n    },\n    {\n      \"category\": \"BUNDLE - 7 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 7 INTEL SYSTEM\",\n      \"price_sgd\": 1645.0\n    },\n    {\n      \"category\": \"BUNDLE - 8 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 8 INTEL SYSTEM\",\n      \"price_sgd\": 1865.0\n    },\n    {\n      \"category\": \"BUNDLE - 9 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 9 INTEL SYSTEM\",\n      \"price_sgd\": 899.0\n    },\n    {\n      \"category\": \"BUNDLE - 10 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 10 INTEL SYSTEM\",\n      \"price_sgd\": 1278.0\n    },\n    {\n      \"category\": \"BUNDLE - 11 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 11 INTEL SYSTEM\",\n      \"price_sgd\": 2365.0\n    },\n    {\n      \"category\": \"BUNDLE - 12 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 12 INTEL SYSTEM\",\n      \"price_sgd\": 2965.0\n    },\n    {\n      \"category\": \"BUNDLE - 13 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 13 INTEL SYSTEM\",\n      \"price_sgd\": 3438.0\n    },\n    {\n      \"category\": \"BUNDLE - 14 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 14 INTEL SYSTEM\",\n      \"price_sgd\": 1458.0\n    },\n    {\n      \"category\": \"BUNDLE - 15 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 15 INTEL SYSTEM\",\n      \"price_sgd\": 1399.0\n    },\n    {\n      \"category\": \"BUNDLE - 21 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 21 INTEL SYSTEM\",\n      \"price_sgd\": 1628.0\n    },\n    {\n      \"category\": \"BUNDLE - 22 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 22 INTEL SYSTEM\",\n      \"price_sgd\": 2178.0\n    },\n    {\n      \"category\": \"BUNDLE - 23 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 23 INTEL SYSTEM\",\n      \"price_sgd\": 2788.0\n    },\n    {\n      \"category\": \"BUNDLE - 24 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 24 INTEL SYSTEM\",\n      \"price_sgd\": 3398.0\n    },\n    {\n      \"category\": \"BUNDLE - 25 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 25 INTEL SYSTEM\",\n      \"price_sgd\": 3478.0\n    },\n    {\n      \"category\": \"BUNDLE - 26 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 26 INTEL SYSTEM\",\n      \"price_sgd\": 2541.0\n    },\n    {\n      \"category\": \"BUNDLE - 27 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 27 INTEL SYSTEM\",\n      \"price_sgd\": 3478.0\n    },\n    {\n      \"category\": \"BUNDLE - 28 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 28 INTEL SYSTEM\",\n      \"price_sgd\": 2255.0\n    },\n    {\n      \"category\": \"BUNDLE - 29 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 29 INTEL SYSTEM\",\n      \"price_sgd\": 5958.0\n    },\n    {\n      \"category\": \"BUNDLE - 30 INTEL SYSTEM\",\n      \"brand\": null,\n      \"product\": \"BUNDLE - 30 INTEL SYSTEM\",\n      \"price_sgd\": 7099.0\n    }\n  ]\n}"
+}

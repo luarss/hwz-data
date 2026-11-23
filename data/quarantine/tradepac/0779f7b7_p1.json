@@ -1,0 +1,23 @@
+{
+  "sha256": "0779f7b716b0183af949ab0644da067c5f231f003caf15fffc02be0b2f72c516",
+  "vendor": "tradepac",
+  "page_number": 1,
+  "method": "text_layer_llm",
+  "provider": "gemini",
+  "model": "gemini-3.5-flash-lite",
+  "rows": [
+    {
+      "category": null,
+      "brand": null,
+      "product": "LEXAR UDIMM DDR5 5600 CL46 8GB $35",
+      "variant": "8GB",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 35.0
+    }
+  ],
+  "numeric_tokens_in_source": 2840,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 1/2840 = 0.00",
+  "raw_response": "{\"rows\": [{\"product\": \"LEXAR UDIMM DDR5 5600 CL46 8GB $35\", \"variant\": \"8GB\", \"price_sgd\": 35}]}"
+}
