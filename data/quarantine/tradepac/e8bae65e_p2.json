@@ -1,0 +1,13 @@
+{
+  "sha256": "e8bae65e0ff3b4ca6d7868ad7d999189fc6c717f38e410f1d37b0b60970b66d5",
+  "vendor": "tradepac",
+  "page_number": 2,
+  "method": "vision_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": null
+}

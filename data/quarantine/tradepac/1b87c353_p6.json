@@ -1,0 +1,3461 @@
+{
+  "sha256": "1b87c3533a416da9e14875b00bd51ee69e23ae3252efb0dfd47a8f63b32e5f62",
+  "vendor": "tradepac",
+  "page_number": 6,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC LIQUID FREEZER II-360 (BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 140.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC LIQUID FREEZER II-240 (BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 119.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC LIQUID FREEZER II-240 ARGB (BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 131.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC LIQUID FREEZER II-240 ARGB (WHITE)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC LIQUID FREEZER II-360 ARGB (WHITE)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 208.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III Pro 360 - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 135.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III Pro 360 ARGB - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III Pro 360 ARGB - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 155.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE ECLIPSE 240 ARGB LCD AIO - BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE ECLIPSE 240 ARGB LCD AIO - WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE ECLIPSE 360 ARGB LCD AIO - BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE ECLIPSE 360 ARGB LCD AIO - WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 188.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE MIRAGE 120 BLACK ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE MIRAGE 120 WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE MIRAGE 240 BLACK ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 81.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE MIRAGE 360 BLACK ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TECWARE",
+      "product": "TECWARE MIRAGE 360 WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! SILENT LOOP 2 240 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 183.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! SILENT LOOP 2 280 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 196.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! SILENT LOOP 2 360 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 222.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! PURE LOOP 360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 170.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! PURE LOOP 2 FX 360",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 177.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! PURE LOOP 2 FX 280MM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "BE QUIET",
+      "product": "BE QUIET! PURE LOOP 2 FX 240",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 141.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID COOLING",
+      "product": "ID-COOLING IS-55 ARK WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID COOLING",
+      "product": "ID-COOLING IS-55 ARK BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID COOLING",
+      "product": "ID-COOLING IS-55 ARGB BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID COOLING",
+      "product": "ID-COOLING IS-55 ARGB WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID-COOLING",
+      "product": "ID-COOLING SE-214-XI BASTIC V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID COOLING",
+      "product": "ID-COOLING SE 214 XT ARGB V2 AIR COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT T120 RGB - BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT T120 RGB - BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 48.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR H150i RGB 360MM LIQUID",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 185.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR H150i RGB 240MM LIQUID",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 174.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR H150 RGB 360MM LIQUID",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 158.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCUE H100i ELITE LCD XT - IPS LCD 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 335.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR iCUE H150i ELITE LCD XT - IPS LCD 5.0",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 362.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN Z63 (LGA1700/AM5)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN 280 (LCD, BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 284.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN 280 (LCD, BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 243.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN 280 (LCD, WHITE)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 169.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN 360 (LCD, BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN 360 (LCD, BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 232.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN ELITE 240 RGB (LCD, BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 273.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN ELITE 280 RGB (LCD, WHITE)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN ELITE RGB 360 (BLACK) 2023",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 306.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN 360 RGB (LCD, WHITE) 2023",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 306.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT Kraken Plus 240 RGB V2 - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT Kraken Plus 240 RGB V2 - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 199.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT Kraken Plus 360 RGB V2 - Black",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT Kraken Plus 360 RGB V2 - White",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN ELITE 240 RGB V2-White(2025)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN ELITE 360 RGB (WHITE) 2025",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN ELITE 360 RGB (BLACK) 2025",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DARKFLASH",
+      "product": "DARKFLASH DC360 ARGB AIO 360 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 87.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DARKFLASH",
+      "product": "DARKFLASH DC240 ARGB AIO 240 BLACK (AM5)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 69.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC LIQUID FREEZER III-240 (BLACK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 112.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-240 ARGB (Black)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ARCTIC",
+      "product": "ARCTIC Liquid Freezer III-240 ARGB (White)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 95.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK400 WHITE COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK400",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK400 DIGITAL WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK400 DIGITAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK500 PINK LIMITED EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK500 DIGITAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK620 ZERO DARK EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK620 WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK620 DIGITAL WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL AK620 DIGITAL DARK ZORIA",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL CP750 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 313 extra rows (82%): [('NZXT T120 RGB - BLACK/WHITE', None, None, 48), ('DEEPCOOL CP750 BLACK', None, None, 32)]",
+  "raw_response": "{\"rows\": [{\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC LIQUID FREEZER II-360 (BLACK)\", \"price_sgd\": 140}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC LIQUID FREEZER II-240 (BLACK)\", \"price_sgd\": 119}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC LIQUID FREEZER II-240 ARGB (BLACK)\", \"price_sgd\": 131}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC LIQUID FREEZER II-240 ARGB (WHITE)\", \"price_sgd\": 136}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC LIQUID FREEZER II-360 ARGB (WHITE)\", \"price_sgd\": 208}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC Liquid Freezer III Pro 360 - Black\", \"price_sgd\": 135}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC Liquid Freezer III Pro 360 ARGB - Black\", \"price_sgd\": 155}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC Liquid Freezer III Pro 360 ARGB - White\", \"price_sgd\": 155}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE ECLIPSE 240 ARGB LCD AIO - BLACK\", \"price_sgd\": 148}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE ECLIPSE 240 ARGB LCD AIO - WHITE\", \"price_sgd\": 148}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE ECLIPSE 360 ARGB LCD AIO - BLACK\", \"price_sgd\": 188}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE ECLIPSE 360 ARGB LCD AIO - WHITE\", \"price_sgd\": 188}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE MIRAGE 120 BLACK ARGB\", \"price_sgd\": 48}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE MIRAGE 120 WHITE ARGB\", \"price_sgd\": 48}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE MIRAGE 240 BLACK ARGB\", \"price_sgd\": 81}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE MIRAGE 240 WHITE ARGB\", \"price_sgd\": \"ASK\"}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE MIRAGE 360 BLACK ARGB\", \"price_sgd\": 85}, {\"category\": \"CPU COOLER\", \"brand\": \"TECWARE\", \"product\": \"TECWARE MIRAGE 360 WHITE ARGB\", \"price_sgd\": 85}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! SILENT LOOP 2 240 ARGB\", \"price_sgd\": 183}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! SILENT LOOP 2 280 ARGB\", \"price_sgd\": 196}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! SILENT LOOP 2 360 ARGB\", \"price_sgd\": 222}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! PURE LOOP 360\", \"price_sgd\": 170}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! PURE LOOP 2 FX 360\", \"price_sgd\": 177}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! PURE LOOP 2 FX 280MM\", \"price_sgd\": 158}, {\"category\": \"CPU COOLER\", \"brand\": \"BE QUIET\", \"product\": \"BE QUIET! PURE LOOP 2 FX 240\", \"price_sgd\": 141}, {\"category\": \"CPU COOLER\", \"brand\": \"ID COOLING\", \"product\": \"ID-COOLING IS-55 ARK WHITE\", \"price_sgd\": 19}, {\"category\": \"CPU COOLER\", \"brand\": \"ID COOLING\", \"product\": \"ID-COOLING IS-55 ARK BLACK\", \"price_sgd\": 19}, {\"category\": \"CPU COOLER\", \"brand\": \"ID COOLING\", \"product\": \"ID-COOLING IS-55 ARGB BLACK\", \"price_sgd\": 26}, {\"category\": \"CPU COOLER\", \"brand\": \"ID COOLING\", \"product\": \"ID-COOLING IS-55 ARGB WHITE\", \"price_sgd\": 26}, {\"category\": \"CPU COOLER\", \"brand\": \"ID-COOLING\", \"product\": \"ID-COOLING SE-214-XI BASTIC V2\", \"price_sgd\": 26}, {\"category\": \"CPU COOLER\", \"brand\": \"ID COOLING\", \"product\": \"ID-COOLING SE 214 XT ARGB V2 AIR COOLER\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT T120 RGB - BLACK/WHITE\", \"price_sgd\": 48}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT T120 RGB - BLACK/WHITE\", \"price_sgd\": 48}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR H150i RGB 360MM LIQUID\", \"price_sgd\": 185}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR H150i RGB 240MM LIQUID\", \"price_sgd\": 174}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR H150 RGB 360MM LIQUID\", \"price_sgd\": 158}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCUE H100i ELITE LCD XT - IPS LCD 5.0\", \"price_sgd\": 335}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR iCUE H150i ELITE LCD XT - IPS LCD 5.0\", \"price_sgd\": 362}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN Z63 (LGA1700/AM5)\", \"price_sgd\": 182}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN 280 (LCD, BLACK)\", \"price_sgd\": 284}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN 280 (LCD, BLACK)\", \"price_sgd\": 243}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN 280 (LCD, WHITE)\", \"price_sgd\": 169}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN 360 (LCD, BLACK)\", \"price_sgd\": 283}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN 360 (LCD, BLACK)\", \"price_sgd\": 232}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN ELITE 240 RGB (LCD, BLACK)\", \"price_sgd\": 273}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN ELITE 280 RGB (LCD, WHITE)\", \"price_sgd\": 279}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN ELITE RGB 360 (BLACK) 2023\", \"price_sgd\": 306}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN 360 RGB (LCD, WHITE) 2023\", \"price_sgd\": 306}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT Kraken Plus 240 RGB V2 - Black\", \"price_sgd\": 199}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT Kraken Plus 240 RGB V2 - White\", \"price_sgd\": 199}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT Kraken Plus 360 RGB V2 - Black\", \"price_sgd\": 259}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT Kraken Plus 360 RGB V2 - White\", \"price_sgd\": 259}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN ELITE 240 RGB V2-White(2025)\", \"price_sgd\": 325}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN ELITE 360 RGB (WHITE) 2025\", \"price_sgd\": 385}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN ELITE 360 RGB (BLACK) 2025\", \"price_sgd\": 385}, {\"category\": \"CPU COOLER\", \"brand\": \"DARKFLASH\", \"product\": \"DARKFLASH DC360 ARGB AIO 360 BLACK\", \"price_sgd\": 87}, {\"category\": \"CPU COOLER\", \"brand\": \"DARKFLASH\", \"product\": \"DARKFLASH DC240 ARGB AIO 240 BLACK (AM5)\", \"price_sgd\": 69}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC LIQUID FREEZER III-240 (BLACK)\", \"price_sgd\": 112}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC Liquid Freezer III-240 ARGB (Black)\", \"price_sgd\": 95}, {\"category\": \"CPU COOLER\", \"brand\": \"ARCTIC\", \"product\": \"ARCTIC Liquid Freezer III-240 ARGB (White)\", \"price_sgd\": 95}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK400 WHITE COOLER\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK400\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK400 DIGITAL WHITE\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK400 DIGITAL\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK500 PINK LIMITED EDITION\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK500 DIGITAL\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK620 ZERO DARK EDITION\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK620 WHITE\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK620 DIGITAL WHITE\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL AK620 DIGITAL DARK ZORIA\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 WHITE\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL CP750 BLACK\", \"price_sgd\": 32}]}"
+}

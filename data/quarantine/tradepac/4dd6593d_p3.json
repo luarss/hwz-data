@@ -1,0 +1,13 @@
+{
+  "sha256": "4dd6593d74a6f36a750576e0226a22395fbe1aa26d9c6bf1199f49d838d5c373",
+  "vendor": "tradepac",
+  "page_number": 3,
+  "method": "text_layer_llm",
+  "provider": null,
+  "model": null,
+  "rows": [],
+  "numeric_tokens_in_source": 706,
+  "status": "quarantined",
+  "quarantine_reason": "numeric_recall: 0/706 = 0.00; not_empty: no rows extracted",
+  "raw_response": null
+}

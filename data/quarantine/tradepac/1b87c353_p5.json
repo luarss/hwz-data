@@ -1,0 +1,13 @@
+{
+  "sha256": "1b87c3533a416da9e14875b00bd51ee69e23ae3252efb0dfd47a8f63b32e5f62",
+  "vendor": "tradepac",
+  "page_number": 5,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "not_empty: no rows extracted",
+  "raw_response": "{\"rows\": []}"
+}

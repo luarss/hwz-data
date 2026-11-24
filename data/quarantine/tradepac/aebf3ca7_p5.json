@@ -1,0 +1,3839 @@
+{
+  "sha256": "aebf3ca799ae94b7fe97f7a86e6c79faa685d4955e80d3fd30d154c46167c158",
+  "vendor": "tradepac",
+  "page_number": 5,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK120 WIRED COMBO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK200 WIRED COMBO Multimedia",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK220 WIRELESS COMBO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK270 WIRELESS COMBO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 32.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK295 SILENT WIRELESS COMB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 37.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK345 WIRELESS COMBO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 44.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK545 ADVANCED WIRELESS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MK850 PERFORMANCE WIRELESS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 157.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH BC550 WEBCAM & SPEAKER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 277.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH CONFERENCECAM CONNECT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 557.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH P150e MOBILE SPEAKERPHONE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 435.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH C270 HD WEBCAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 36.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH C310 HD WEBCAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 41.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH C505 HD WEBCAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH C920 HD PRO FULL HD WEBCAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 85.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH Brio 300 PRO FULL HD WEBCAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 79.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH Brio 500 full HD WEBCAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH C922 PRO STREAM FULL HD WE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 168.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH Brio 4K WEBCAM WITH HDR",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 266.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MX MASTER 2S WIRELESS MOUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH MX MASTER 3S WIRELESS MOUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH M185 WIRELESS MOUSE RED",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH M187 PORTABLE WIRELESS MOU",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 45.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH M221 SILENT WIRELESS MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 19.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH M240 SILENT BLUETOOTH MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 23.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH M331 SILENT PLUS WIRELESS MOUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 29.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH M350 PERBLE BLUETOOTH MOUSE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGI SIGNATURE M650 WIRELESS MOUS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H110 STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 9.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H150 STEREO HEADSET SKY BL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 15.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H151 STEREO HEADSET BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 18.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H340 USB STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H370 USB STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 33.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H390 USB STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 39.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H540 USB STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 59.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H570e USB STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "LOGITECH",
+      "brand": null,
+      "product": "LOGITECH H650e USB STEREO HEADSET",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS RYUO III 240 ARGB WHITE AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 405.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS RYUO III 240 ARGB WHITE AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 341.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS RYUO III 360 ARGB WHITE AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 393.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS RYUO III 240 ARGB WHITE AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 329.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC II 360 RGB WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 369.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC II 240 RGB WHITE EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 287.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC II 240 RGB WHITE EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 279.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC II 360 ARGB AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 293.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC II 280 ARGB AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 261.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC II 240 ARGB AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 232.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS TUF GAMING LC 240 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG STRIX LC 360 RGB EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "ASUS ROG RYUO 240 OLED AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML360 SUB-ZERO EVO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM ML360 SUB-ZERO CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML360R ARGB-SILVER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML240R MIRAGE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML360 FLUX ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML360 ILLUSION ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML240 ILLUSION ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID MAXI ILLUSION ARGB-wi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID 360L CORE ARGB - WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID 240L CORE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIO CPU COOLER",
+      "brand": null,
+      "product": "CM MASTERLIQUID ML360R V2 ARGB - WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM MA624 STEALTH CPU COOLER (SY)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM MA612 STEALTH ARGB CPU COOLER (SY)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM MA612 STEALTH CPU COOLER (SY)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM HYPER 212 HALO WHITE CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM HYPER 212 HALO BLACK CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM HYPER 212 BLACK EDITION CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM HYPER 212 LED TURBO ARGB CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM HYPER 212 LED TURBO WHITE EDITION",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM HYPER 212 LED TURBO ARGB CPU COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM A71C ARGB AM4 CPU COOLER (2Y)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CM A71C ARGB AM4 CPU COOLER (2Y)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG M9 Plus",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG C7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG C7 RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG C7 Cpu",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG H7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG H7 Plus",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG H7 Quad Lumi",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG R5",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "CRYORIG R1 Universal",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 12",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "THERMALRIGHT LG1700/AM5 SECURE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "ID-COOLING NO120S XT ARGB SLOW PWM SLIM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "ID-COOLING NO 12015 XT SHIM PWM FAN",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "ID-COOLING NO 12015 XT ARGB SLOW PWM FAN BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 126.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "AIR CPU COOLER",
+      "brand": null,
+      "product": "LIAN LI UNI FAN SL120 RGB 3PCS PACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 340 extra rows (80%): [('CM HYPER 212 LED TURBO ARGB CPU COOLER', None, None, 126), ('CM A71C ARGB AM4 CPU COOLER (2Y)', None, None, 126), ('THERMALRIGHT PEERLESS ASSASSIN 12', None, None, 126)]",
+  "raw_response": "{\"rows\": [{\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK120 WIRED COMBO\", \"price_sgd\": 20}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK200 WIRED COMBO Multimedia\", \"price_sgd\": 26}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK220 WIRELESS COMBO\", \"price_sgd\": 27}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK270 WIRELESS COMBO\", \"price_sgd\": 32}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK295 SILENT WIRELESS COMB\", \"price_sgd\": 37}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK345 WIRELESS COMBO\", \"price_sgd\": 44}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK545 ADVANCED WIRELESS\", \"price_sgd\": 45}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MK850 PERFORMANCE WIRELESS\", \"price_sgd\": 157}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH BC550 WEBCAM & SPEAKER\", \"price_sgd\": 277}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH CONFERENCECAM CONNECT\", \"price_sgd\": 557}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH P150e MOBILE SPEAKERPHONE\", \"price_sgd\": 435}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH C270 HD WEBCAM\", \"price_sgd\": 36}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH C310 HD WEBCAM\", \"price_sgd\": 41}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH C505 HD WEBCAM\", \"price_sgd\": 59}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH C920 HD PRO FULL HD WEBCAM\", \"price_sgd\": 85}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH Brio 300 PRO FULL HD WEBCAM\", \"price_sgd\": 79}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH Brio 500 full HD WEBCAM\", \"price_sgd\": 153}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH C922 PRO STREAM FULL HD WE\", \"price_sgd\": 168}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH Brio 4K WEBCAM WITH HDR\", \"price_sgd\": 266}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MX MASTER 2S WIRELESS MOUS\", \"price_sgd\": 114}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH MX MASTER 3S WIRELESS MOUS\", \"price_sgd\": 145}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH M185 WIRELESS MOUSE RED\", \"price_sgd\": 45}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH M187 PORTABLE WIRELESS MOU\", \"price_sgd\": 45}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH M221 SILENT WIRELESS MOUSE\", \"price_sgd\": 19}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH M240 SILENT BLUETOOTH MOUSE\", \"price_sgd\": 23}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH M331 SILENT PLUS WIRELESS MOUS\", \"price_sgd\": 29}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH M350 PERBLE BLUETOOTH MOUSE\", \"price_sgd\": 33}, {\"category\": \"LOGITECH\", \"product\": \"LOGI SIGNATURE M650 WIRELESS MOUS\", \"price_sgd\": 40}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H110 STEREO HEADSET\", \"price_sgd\": 9}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H150 STEREO HEADSET SKY BL\", \"price_sgd\": 15}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H151 STEREO HEADSET BLACK\", \"price_sgd\": 18}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H340 USB STEREO HEADSET\", \"price_sgd\": 33}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H370 USB STEREO HEADSET\", \"price_sgd\": 33}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H390 USB STEREO HEADSET\", \"price_sgd\": 39}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H540 USB STEREO HEADSET\", \"price_sgd\": 59}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H570e USB STEREO HEADSET\", \"price_sgd\": 65}, {\"category\": \"LOGITECH\", \"product\": \"LOGITECH H650e USB STEREO HEADSET\", \"price_sgd\": 110}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS RYUO III 240 ARGB WHITE AIO\", \"price_sgd\": 405}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS RYUO III 240 ARGB WHITE AIO\", \"price_sgd\": 341}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS RYUO III 360 ARGB WHITE AIO\", \"price_sgd\": 393}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS RYUO III 240 ARGB WHITE AIO\", \"price_sgd\": 329}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC II 360 RGB WHITE\", \"price_sgd\": 369}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC II 240 RGB WHITE EDITION\", \"price_sgd\": 287}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC II 240 RGB WHITE EDITION\", \"price_sgd\": 279}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC II 360 ARGB AIO\", \"price_sgd\": 293}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC II 280 ARGB AIO\", \"price_sgd\": 261}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC II 240 ARGB AIO\", \"price_sgd\": 232}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS TUF GAMING LC 240 ARGB\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG STRIX LC 360 RGB EDITION\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"ASUS ROG RYUO 240 OLED AIO\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML360 SUB-ZERO EVO\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM ML360 SUB-ZERO CPU COOLER\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML360R ARGB-SILVER\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML240R MIRAGE ARGB\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML360 FLUX ARGB\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML360 ILLUSION ARGB\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML240 ILLUSION ARGB\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID MAXI ILLUSION ARGB-wi\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID 360L CORE ARGB - WHITE\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID 240L CORE ARGB\", \"price_sgd\": 126}, {\"category\": \"AIO CPU COOLER\", \"product\": \"CM MASTERLIQUID ML360R V2 ARGB - WHITE\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM MA624 STEALTH CPU COOLER (SY)\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM MA612 STEALTH ARGB CPU COOLER (SY)\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM MA612 STEALTH CPU COOLER (SY)\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM HYPER 212 HALO WHITE CPU COOLER\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM HYPER 212 HALO BLACK CPU COOLER\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM HYPER 212 BLACK EDITION CPU COOLER\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM HYPER 212 LED TURBO ARGB CPU COOLER\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM HYPER 212 LED TURBO WHITE EDITION\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM HYPER 212 LED TURBO ARGB CPU COOLER\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM A71C ARGB AM4 CPU COOLER (2Y)\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CM A71C ARGB AM4 CPU COOLER (2Y)\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG M9 Plus\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG C7\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG C7 RGB\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG C7 Cpu\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG H7\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG H7 Plus\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG H7 Quad Lumi\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG R5\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"CRYORIG R1 Universal\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 12\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 12\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 12\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 12\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 12\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"THERMALRIGHT LG1700/AM5 SECURE\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"ID-COOLING NO120S XT ARGB SLOW PWM SLIM FAN\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"ID-COOLING NO 12015 XT SHIM PWM FAN\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"ID-COOLING NO 12015 XT ARGB SLOW PWM FAN BLACK\", \"price_sgd\": 126}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}, {\"category\": \"AIR CPU COOLER\", \"product\": \"LIAN LI UNI FAN SL120 RGB 3PCS PACK\", \"price_sgd\": 283}]}"
+}
