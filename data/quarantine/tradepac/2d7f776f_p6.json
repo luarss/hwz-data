@@ -1,0 +1,3542 @@
+{
+  "sha256": "2d7f776fdb68ea11854ae02d26f433dd2b182fa31836ea51fe4a1f6cff28d36a",
+  "vendor": "tradepac",
+  "page_number": 6,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "CPU COOLER",
+      "brand": "ASUS",
+      "product": "ASUS ROG LC III 240 ARGB BLACK AIO LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ASUS",
+      "product": "ASUS PRIME LC 360 ARGB LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 133.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ASUS",
+      "product": "ASUS PROART LC 360 AIO LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 363.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ASUS",
+      "product": "ASUS TUF GAMING LC II 360 ARGB LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 453.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID CORE NEX 240 ARGB LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID CORE NEX 360 ARGB LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS 240 BLACK ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 150.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS 360 BLACK ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS 240 WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 163.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS 360 WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 200.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS II PIXEL 240 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 213.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS II PIXEL 360 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 267.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CM",
+      "product": "CM MASTERLIQUID ATMOS II 360 LCD AIO LIQUID COOLER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 247.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 240 RS BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 360 RS BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 121.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 240 RS ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 114.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 360 RS ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 136.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 240 RS LCD BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 154.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 240 RS LCD WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 177.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 360 RS LCD BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 183.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR NAUTILUS 360 RS LCD WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR ICUE LINK TITAN 240 RGB RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 195.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR ICUE LINK TITAN 360 RGB RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 239.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR ICUE LINK TITAN 360 R LCD RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CORSAIR",
+      "product": "CORSAIR ICUE LINK H100I LCD BLACK RGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 240.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "CRYORIG",
+      "product": "CRYORIG CRYO 360 LCD BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 143.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "LIAN LI",
+      "product": "LIAN LI GALAHAD II LITE 360 BLACK ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 123.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "LIAN LI",
+      "product": "LIAN LI HYDROSHIFT II LCD-C-360 BLACK FAN/LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "LIAN LI",
+      "product": "LIAN LI HYDROSHIFT II LCD-C-360 WHITE FAN/LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "LIAN LI",
+      "product": "LIAN LI HYDROSHIFT II LCD-C-360 WHITE 360LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 243.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "LIAN LI",
+      "product": "LIAN LI HYDROSHIFT II LCD-S-360N WHITE 360LCD",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 213.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "LIAN LI",
+      "product": "LIAN LI HYDROSHIFT II LCD-S-360CL BLACK AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 237.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "(2025) NZXT KRAKEN ELITE 240 RGB V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 333.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "(2025) NZXT KRAKEN ELITE 360 RGB V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 398.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "NZXT",
+      "product": "NZXT KRAKEN PLUS 360 RGB V2 - BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 293.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "PHANTEKS",
+      "product": "PHANTEKS GLACIER ONE 360 M25 G2 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 127.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "SILVERSTONE",
+      "product": "SILVERSTONE ICEGEM 240P-240MM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR W360-EPYC-SP5 STR5 PROFESSIONAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 177.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN VISION 360 LCD UB ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN HORIZON 240 ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN HORIZON 360 ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN MAGIC 240 ARGB V2 BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN MAGIC 360 ARGB V2 BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 103.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR AQUA ELITE 240 V6 ARGB BLACK/WHITE AIO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 68.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR AQUA ELITE 240 V3 BLACK/WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 63.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR AQUA ELITE 360 V3 BLACK/WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 83.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN PRISM 360 BLACK/WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 70.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN PRISM 360 BLACK/WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 93.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN PRISM 360 BLACK/WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 78.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN NOTE 240 ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 98.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN NOTE 360 ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 113.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR GRAND VISION LCD 240 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR GRAND VISION LCD 360 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 173.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR FROZEN WARMFARE PRO LCD 360 ARGB BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 133.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR ELITE VISION LCD 360 ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 148.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TR",
+      "product": "TR ELITE VISION LCD 360 WHITE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 153.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TRYX",
+      "product": "TRYX PANORAMA CURVED SE LCD 360 BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 347.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "TRYX",
+      "product": "TRYX PANORAMA CURVED LCD 360 BLACK/WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 467.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL ASSASSIN-V ELITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "DEEPCOOL",
+      "product": "DEEPCOOL ASSASSIN IVS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID-COOLING",
+      "product": "ID-COOLING IS-55 BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID-COOLING",
+      "product": "ID-COOLING IS-55 ARGB BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID-COOLING",
+      "product": "ID-COOLING SE-214 X7 V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ID-COOLING",
+      "product": "ID-COOLING SE 226 XT ARGB SNOW",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 120 SE WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 120 SE BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 120 WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 120 DIGITAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 140.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 140 DIGITAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 140.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PEERLESS ASSASSIN 120 MINI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 105.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT ASSASSIN X 120 R DIGITAL SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT ASSASSIN X 120 REFINED SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT ASSASSIN X 120 REFINED SE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 120.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT ASSASSIN SPIRIT 120 V2",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PHANTOM SPIRIT 120 EVO",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PHANTOM SPIRIT 120 DIGITAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PHANTOM SPIRIT 120 SE ARGB",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PHANTOM SPIRIT 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT PHANTOM SPIRIT 120",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP-120 X67 GRAY",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X47 CLASSIC GRAY/BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X47 CLASSIC BLACK",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X47 CLASSIC WHITE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X47 FULL COPPER HEATPIPE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X53 BLACK CLASSIC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "THERMALRIGHT",
+      "product": "THERMALRIGHT AXP90-X53 FULL COPPER HEATPIPE",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "CPU COOLER",
+      "brand": "ZALMAN",
+      "product": "ZALMAN ZET5 BLACK/WHITE TDP200W+ 120MM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS PCE-AC68",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 109.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS USB-AC68 AX1800 USB WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 134.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS BQ16 (WHITE 1-PK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 848.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS BQ16 (WHITE 2-PK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1621.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX85U AX8000 DUAL BAND WIFI 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 147.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX88U AX5400 DUAL BAND WIFI 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 207.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX8100HP 2X2 DUAL BAND WIFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 108.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX82U AX5400 DUAL BAND WIFI 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 325.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS TUF-BE8500 WIFI 7 GAMING ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 266.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS TUF-AX5400 DUAL BAND WIFI 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 283.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS TUF-AX6000 DUAL BAND WIFI 6",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 248.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS TUF-AX53U WIFI 6 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 97.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX57 AX3000 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 137.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX1100 2.5G TRIBAND ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 670.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS GT-BE88U QUAD-BAND WIFI 7",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 1073.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AXE7000 TRIBAND WIFI6E",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 256.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS RT-AX6000 WIFI6 ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 624.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS X04 (3-PACK) AX1800",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 263.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS X04S (2-PACK) AX1800 MINI DUAL",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 397.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS XTB-2ENWIFI (2-PACK) AX6600",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 496.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS X712(1-PK) ZENWIFI AX11000 TRI-BAND",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 668.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS XASW-205T 5 PORT 2.5GBE SWITCH",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 232.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS USB-BT500 BLUETOOTH ADAP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS USB-C2500 2.5G ETHERNET ADAP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 27.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS XG-C100C RJ-45 FOR 1 X 10GBPS MBPS",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 26.0
+    },
+    {
+      "category": "FAN",
+      "brand": "ASUS",
+      "product": "ASUS ET12 (2-PK)",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1100-05V2 5-PORT GIGABIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1100-08P2V2 8-PORT UTP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 161.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1100-08V2 8/10/100",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 66.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1100-10MP2V2 DGS-1100-1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 294.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1100-16V2 16-PORT UTP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 194.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1100-24P2V2 12-PORT UTP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-10 8-PORT GIGABIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 178.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-10MP 8-PORTS 10/1",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 397.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-10P 8-PORT UTP 8/10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 290.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-20 16-PORT UTP 10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 253.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-26 24-PORT UTP 10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 334.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-28 28-PORT GIGABIT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-28P DGS-1210-28P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 674.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DGS-1210-52 48-PORT UTP 10",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 900.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK NUCLEAS CONNECT DAP-X2810",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 287.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DAP",
+      "product": "DAP-2682 AC2300 WAVE 2 DUAL BAND",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 186.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DAP",
+      "product": "DAP-X21810F AX1800 WIRELESS ACCESSPOINT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 145.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DHNK",
+      "product": "DHNK-D10 NUCLEAS CONNECT HUB 10DAP",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 259.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DWL",
+      "product": "DWL-2600AP 3000MPS UNIFIED POE AC",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 110.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DLINK",
+      "product": "DLINK DWL-73G0AP AIRPLUS G ROUTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DLINK",
+      "product": "DLINK DPE-301G5 GIGABIT SPLITTER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 28.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DLINK",
+      "product": "DLINK DPE-301G1/E 1-PORT GIGABIT 80",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 64.0
+    },
+    {
+      "category": "FAN",
+      "brand": "OCH",
+      "product": "OCH-M225 WIRELESS AUDIO EXTENDER",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DCS",
+      "product": "DCS-2136L WIRELESS DAY NIGHT-IP CAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 179.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DCS",
+      "product": "DCS-8600LH/8630LH FULL HD WFI",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 164.0
+    },
+    {
+      "category": "FAN",
+      "brand": "DCS",
+      "product": "DCS-8010LH D-LINK HD WI-FI CAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DCS-933L MYDILINK HOME MONITOR H",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 55.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DCS-8000LH HD WIFI CAM",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 65.0
+    },
+    {
+      "category": "FAN",
+      "brand": "D-LINK",
+      "product": "D-LINK DCS-7000L WIRELESS AC DAY/NIGHT",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 303.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SG1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 47.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SG1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 58.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SG1010P",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 73.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 14.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 20.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 24.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 34.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 40.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1008",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    },
+    {
+      "category": "FAN",
+      "brand": "TP-LINK",
+      "product": "TP-LINK TL-SF1005",
+      "variant": null,
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 46.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 242 extra rows (62%): [('THERMALRIGHT ASSASSIN X 120 REFINED SE', None, None, 120), ('THERMALRIGHT PHANTOM SPIRIT 120', None, None, 46), ('TP-LINK TL-SF1008', None, None, 46)]",
+  "raw_response": "{\"rows\": [{\"category\": \"CPU COOLER\", \"brand\": \"ASUS\", \"product\": \"ASUS ROG LC III 240 ARGB BLACK AIO LIQUID COOLER\", \"price_sgd\": 239}, {\"category\": \"CPU COOLER\", \"brand\": \"ASUS\", \"product\": \"ASUS PRIME LC 360 ARGB LIQUID COOLER\", \"price_sgd\": 133}, {\"category\": \"CPU COOLER\", \"brand\": \"ASUS\", \"product\": \"ASUS PROART LC 360 AIO LIQUID COOLER\", \"price_sgd\": 363}, {\"category\": \"CPU COOLER\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF GAMING LC II 360 ARGB LIQUID COOLER\", \"price_sgd\": 453}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID CORE NEX 240 ARGB LIQUID COOLER\", \"price_sgd\": 73}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID CORE NEX 360 ARGB LIQUID COOLER\", \"price_sgd\": 93}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS 240 BLACK ARGB\", \"price_sgd\": 150}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS 360 BLACK ARGB\", \"price_sgd\": 193}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS 240 WHITE ARGB\", \"price_sgd\": 163}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS 360 WHITE ARGB\", \"price_sgd\": 200}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS II PIXEL 240 ARGB\", \"price_sgd\": 213}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS II PIXEL 360 ARGB\", \"price_sgd\": 267}, {\"category\": \"CPU COOLER\", \"brand\": \"CM\", \"product\": \"CM MASTERLIQUID ATMOS II 360 LCD AIO LIQUID COOLER\", \"price_sgd\": 247}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 240 RS BLACK\", \"price_sgd\": 103}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 360 RS BLACK\", \"price_sgd\": 121}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 240 RS ARGB BLACK/WHITE\", \"price_sgd\": 114}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 360 RS ARGB BLACK/WHITE\", \"price_sgd\": 136}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 240 RS LCD BLACK\", \"price_sgd\": 154}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 240 RS LCD WHITE\", \"price_sgd\": 177}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 360 RS LCD BLACK\", \"price_sgd\": 183}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR NAUTILUS 360 RS LCD WHITE\", \"price_sgd\": 207}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR ICUE LINK TITAN 240 RGB RGB\", \"price_sgd\": 195}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR ICUE LINK TITAN 360 RGB RGB\", \"price_sgd\": 239}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR ICUE LINK TITAN 360 R LCD RGB\", \"price_sgd\": 259}, {\"category\": \"CPU COOLER\", \"brand\": \"CORSAIR\", \"product\": \"CORSAIR ICUE LINK H100I LCD BLACK RGB\", \"price_sgd\": 240}, {\"category\": \"CPU COOLER\", \"brand\": \"CRYORIG\", \"product\": \"CRYORIG CRYO 360 LCD BLACK\", \"price_sgd\": 143}, {\"category\": \"CPU COOLER\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI GALAHAD II LITE 360 BLACK ARGB\", \"price_sgd\": 123}, {\"category\": \"CPU COOLER\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI HYDROSHIFT II LCD-C-360 BLACK FAN/LCD\", \"price_sgd\": 207}, {\"category\": \"CPU COOLER\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI HYDROSHIFT II LCD-C-360 WHITE FAN/LCD\", \"price_sgd\": 207}, {\"category\": \"CPU COOLER\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI HYDROSHIFT II LCD-C-360 WHITE 360LCD\", \"price_sgd\": 243}, {\"category\": \"CPU COOLER\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI HYDROSHIFT II LCD-S-360N WHITE 360LCD\", \"price_sgd\": 213}, {\"category\": \"CPU COOLER\", \"brand\": \"LIAN LI\", \"product\": \"LIAN LI HYDROSHIFT II LCD-S-360CL BLACK AIO\", \"price_sgd\": 237}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"(2025) NZXT KRAKEN ELITE 240 RGB V2\", \"price_sgd\": 333}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"(2025) NZXT KRAKEN ELITE 360 RGB V2\", \"price_sgd\": 398}, {\"category\": \"CPU COOLER\", \"brand\": \"NZXT\", \"product\": \"NZXT KRAKEN PLUS 360 RGB V2 - BLACK/WHITE\", \"price_sgd\": 293}, {\"category\": \"CPU COOLER\", \"brand\": \"PHANTEKS\", \"product\": \"PHANTEKS GLACIER ONE 360 M25 G2 ARGB\", \"price_sgd\": 127}, {\"category\": \"CPU COOLER\", \"brand\": \"SILVERSTONE\", \"product\": \"SILVERSTONE ICEGEM 240P-240MM\", \"price_sgd\": 137}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR W360-EPYC-SP5 STR5 PROFESSIONAL\", \"price_sgd\": 177}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN VISION 360 LCD UB ARGB BLACK/WHITE\", \"price_sgd\": 83}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN HORIZON 240 ARGB BLACK/WHITE\", \"price_sgd\": 83}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN HORIZON 360 ARGB BLACK/WHITE\", \"price_sgd\": 103}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN MAGIC 240 ARGB V2 BLACK/WHITE\", \"price_sgd\": 78}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN MAGIC 360 ARGB V2 BLACK/WHITE\", \"price_sgd\": 103}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR AQUA ELITE 240 V6 ARGB BLACK/WHITE AIO\", \"price_sgd\": 68}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR AQUA ELITE 240 V3 BLACK/WHITE ARGB\", \"price_sgd\": 63}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR AQUA ELITE 360 V3 BLACK/WHITE ARGB\", \"price_sgd\": 83}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN PRISM 360 BLACK/WHITE ARGB\", \"price_sgd\": 70}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN PRISM 360 BLACK/WHITE ARGB\", \"price_sgd\": 93}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN PRISM 360 BLACK/WHITE ARGB\", \"price_sgd\": 78}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN NOTE 240 ARGB BLACK/WHITE\", \"price_sgd\": 98}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN NOTE 360 ARGB BLACK/WHITE\", \"price_sgd\": 113}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR GRAND VISION LCD 240 ARGB\", \"price_sgd\": 147}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR GRAND VISION LCD 360 ARGB\", \"price_sgd\": 173}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR FROZEN WARMFARE PRO LCD 360 ARGB BLACK/WHITE\", \"price_sgd\": 133}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR ELITE VISION LCD 360 ARGB\", \"price_sgd\": 148}, {\"category\": \"CPU COOLER\", \"brand\": \"TR\", \"product\": \"TR ELITE VISION LCD 360 WHITE ARGB\", \"price_sgd\": 153}, {\"category\": \"CPU COOLER\", \"brand\": \"TRYX\", \"product\": \"TRYX PANORAMA CURVED SE LCD 360 BLACK/WHITE\", \"price_sgd\": 347}, {\"category\": \"CPU COOLER\", \"brand\": \"TRYX\", \"product\": \"TRYX PANORAMA CURVED LCD 360 BLACK/WHITE\", \"price_sgd\": 467}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL ASSASSIN-V ELITE\", \"price_sgd\": 47}, {\"category\": \"CPU COOLER\", \"brand\": \"DEEPCOOL\", \"product\": \"DEEPCOOL ASSASSIN IVS\", \"price_sgd\": 58}, {\"category\": \"CPU COOLER\", \"brand\": \"ID-COOLING\", \"product\": \"ID-COOLING IS-55 BLACK\", \"price_sgd\": 14}, {\"category\": \"CPU COOLER\", \"brand\": \"ID-COOLING\", \"product\": \"ID-COOLING IS-55 ARGB BLACK\", \"price_sgd\": 20}, {\"category\": \"CPU COOLER\", \"brand\": \"ID-COOLING\", \"product\": \"ID-COOLING SE-214 X7 V2\", \"price_sgd\": 24}, {\"category\": \"CPU COOLER\", \"brand\": \"ID-COOLING\", \"product\": \"ID-COOLING SE 226 XT ARGB SNOW\", \"price_sgd\": 34}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 120 SE WHITE\", \"price_sgd\": 120}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 120 SE BLACK\", \"price_sgd\": 120}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 120 WHITE\", \"price_sgd\": 105}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 120 DIGITAL\", \"price_sgd\": 140}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 140 DIGITAL\", \"price_sgd\": 140}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PEERLESS ASSASSIN 120 MINI\", \"price_sgd\": 105}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT ASSASSIN X 120 R DIGITAL SE\", \"price_sgd\": 120}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT ASSASSIN X 120 REFINED SE\", \"price_sgd\": 120}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT ASSASSIN X 120 REFINED SE\", \"price_sgd\": 120}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT ASSASSIN SPIRIT 120 V2\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PHANTOM SPIRIT 120 EVO\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PHANTOM SPIRIT 120 DIGITAL\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PHANTOM SPIRIT 120 SE ARGB\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PHANTOM SPIRIT 120\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT PHANTOM SPIRIT 120\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP-120 X67 GRAY\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X47 CLASSIC GRAY/BLACK\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X47 CLASSIC BLACK\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X47 CLASSIC WHITE\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X47 FULL COPPER HEATPIPE\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X53 BLACK CLASSIC\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"THERMALRIGHT\", \"product\": \"THERMALRIGHT AXP90-X53 FULL COPPER HEATPIPE\", \"price_sgd\": 46}, {\"category\": \"CPU COOLER\", \"brand\": \"ZALMAN\", \"product\": \"ZALMAN ZET5 BLACK/WHITE TDP200W+ 120MM\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS PCE-AC68\", \"price_sgd\": 109}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS USB-AC68 AX1800 USB WIFI\", \"price_sgd\": 134}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS BQ16 (WHITE 1-PK)\", \"price_sgd\": 848}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS BQ16 (WHITE 2-PK)\", \"price_sgd\": 1621}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX85U AX8000 DUAL BAND WIFI 6\", \"price_sgd\": 147}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX88U AX5400 DUAL BAND WIFI 6\", \"price_sgd\": 207}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX8100HP 2X2 DUAL BAND WIFI\", \"price_sgd\": 108}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX82U AX5400 DUAL BAND WIFI 6\", \"price_sgd\": 325}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF-BE8500 WIFI 7 GAMING ROUTER\", \"price_sgd\": 266}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF-AX5400 DUAL BAND WIFI 6\", \"price_sgd\": 283}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF-AX6000 DUAL BAND WIFI 6\", \"price_sgd\": 248}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS TUF-AX53U WIFI 6 ROUTER\", \"price_sgd\": 97}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX57 AX3000 ROUTER\", \"price_sgd\": 137}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX1100 2.5G TRIBAND ROUTER\", \"price_sgd\": 670}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS GT-BE88U QUAD-BAND WIFI 7\", \"price_sgd\": 1073}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AXE7000 TRIBAND WIFI6E\", \"price_sgd\": 256}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS RT-AX6000 WIFI6 ROUTER\", \"price_sgd\": 624}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS X04 (3-PACK) AX1800\", \"price_sgd\": 263}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS X04S (2-PACK) AX1800 MINI DUAL\", \"price_sgd\": 397}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS XTB-2ENWIFI (2-PACK) AX6600\", \"price_sgd\": 496}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS X712(1-PK) ZENWIFI AX11000 TRI-BAND\", \"price_sgd\": 668}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS XASW-205T 5 PORT 2.5GBE SWITCH\", \"price_sgd\": 232}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS USB-BT500 BLUETOOTH ADAP\", \"price_sgd\": 40}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS USB-C2500 2.5G ETHERNET ADAP\", \"price_sgd\": 27}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS XG-C100C RJ-45 FOR 1 X 10GBPS MBPS\", \"price_sgd\": 26}, {\"category\": \"FAN\", \"brand\": \"ASUS\", \"product\": \"ASUS ET12 (2-PK)\", \"price_sgd\": 20}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1100-05V2 5-PORT GIGABIT\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1100-08P2V2 8-PORT UTP\", \"price_sgd\": 161}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1100-08V2 8/10/100\", \"price_sgd\": 66}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1100-10MP2V2 DGS-1100-1\", \"price_sgd\": 294}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1100-16V2 16-PORT UTP\", \"price_sgd\": 194}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1100-24P2V2 12-PORT UTP\", \"price_sgd\": 385}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-10 8-PORT GIGABIT\", \"price_sgd\": 178}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-10MP 8-PORTS 10/1\", \"price_sgd\": 397}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-10P 8-PORT UTP 8/10\", \"price_sgd\": 290}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-20 16-PORT UTP 10\", \"price_sgd\": 253}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-26 24-PORT UTP 10\", \"price_sgd\": 334}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-28 28-PORT GIGABIT\", \"price_sgd\": 319}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-28P DGS-1210-28P\", \"price_sgd\": 674}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DGS-1210-52 48-PORT UTP 10\", \"price_sgd\": 900}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK NUCLEAS CONNECT DAP-X2810\", \"price_sgd\": 287}, {\"category\": \"FAN\", \"brand\": \"DAP\", \"product\": \"DAP-2682 AC2300 WAVE 2 DUAL BAND\", \"price_sgd\": 186}, {\"category\": \"FAN\", \"brand\": \"DAP\", \"product\": \"DAP-X21810F AX1800 WIRELESS ACCESSPOINT\", \"price_sgd\": 145}, {\"category\": \"FAN\", \"brand\": \"DHNK\", \"product\": \"DHNK-D10 NUCLEAS CONNECT HUB 10DAP\", \"price_sgd\": 259}, {\"category\": \"FAN\", \"brand\": \"DWL\", \"product\": \"DWL-2600AP 3000MPS UNIFIED POE AC\", \"price_sgd\": 110}, {\"category\": \"FAN\", \"brand\": \"DLINK\", \"product\": \"DLINK DWL-73G0AP AIRPLUS G ROUTER\", \"price_sgd\": 55}, {\"category\": \"FAN\", \"brand\": \"DLINK\", \"product\": \"DLINK DPE-301G5 GIGABIT SPLITTER\", \"price_sgd\": 28}, {\"category\": \"FAN\", \"brand\": \"DLINK\", \"product\": \"DLINK DPE-301G1/E 1-PORT GIGABIT 80\", \"price_sgd\": 64}, {\"category\": \"FAN\", \"brand\": \"OCH\", \"product\": \"OCH-M225 WIRELESS AUDIO EXTENDER\", \"price_sgd\": 55}, {\"category\": \"FAN\", \"brand\": \"DCS\", \"product\": \"DCS-2136L WIRELESS DAY NIGHT-IP CAM\", \"price_sgd\": 179}, {\"category\": \"FAN\", \"brand\": \"DCS\", \"product\": \"DCS-8600LH/8630LH FULL HD WFI\", \"price_sgd\": 164}, {\"category\": \"FAN\", \"brand\": \"DCS\", \"product\": \"DCS-8010LH D-LINK HD WI-FI CAM\", \"price_sgd\": 65}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DCS-933L MYDILINK HOME MONITOR H\", \"price_sgd\": 55}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DCS-8000LH HD WIFI CAM\", \"price_sgd\": 65}, {\"category\": \"FAN\", \"brand\": \"D-LINK\", \"product\": \"D-LINK DCS-7000L WIRELESS AC DAY/NIGHT\", \"price_sgd\": 303}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SG1005\", \"price_sgd\": 47}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SG1008\", \"price_sgd\": 58}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SG1010P\", \"price_sgd\": 73}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 14}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 20}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 24}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 34}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 40}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1008\", \"price_sgd\": 46}, {\"category\": \"FAN\", \"brand\": \"TP-LINK\", \"product\": \"TP-LINK TL-SF1005\", \"price_sgd\": 46}]}"
+}

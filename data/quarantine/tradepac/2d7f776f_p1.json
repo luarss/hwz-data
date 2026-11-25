@@ -1,0 +1,2750 @@
+{
+  "sha256": "2d7f776fdb68ea11854ae02d26f433dd2b182fa31836ea51fe4a1f6cff28d36a",
+  "vendor": "tradepac",
+  "page_number": 1,
+  "method": "vision_llm",
+  "provider": "groq",
+  "model": "qwen/qwen3.8-27b",
+  "rows": [
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M-HDV/A2 DDR5 WIFI",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 193.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M-HDV/A2 DDR5 WIFI",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 182.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M-HDV/A2 DDR5 WIFI",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 251.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M-HDV/A2 DDR5 WIFI",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 401.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M-HDV/A2 DDR5 WIFI",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 314.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M-HDV/A2 DDR5 WIFI",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 719.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 331.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 320.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 352.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 357.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 395.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 454.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 603.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 416.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 422.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI WHITE",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 395.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI WHITE",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 384.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI WHITE",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 454.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI WHITE",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 603.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI WHITE",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 416.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PRO RS WIFI WHITE",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 422.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PROA-A WIFI (DDR5)",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 358.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PROA-A WIFI (DDR5)",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 348.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PROA-A WIFI (DDR5)",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 417.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PROA-A WIFI (DDR5)",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 560.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PROA-A WIFI (DDR5)",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 380.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASROCK B760M PROA-A WIFI (DDR5)",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME B760M-A WIFI - D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 461.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME B760M-A WIFI - D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 450.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME B760M-A WIFI - D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 520.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME B760M-A WIFI - D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 670.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME B760M-A WIFI - D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 483.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME B760M-A WIFI - D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 488.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790M-PLUS - D4 CSMT",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 508.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790M-PLUS - D4 CSMT",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 498.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790M-PLUS - D4 CSMT",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790M-PLUS - D4 CSMT",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 717.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790M-PLUS - D4 CSMT",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 530.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790M-PLUS - D4 CSMT",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 535.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790-P WIFI CSMT - D5",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 577.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790-P WIFI CSMT - D5",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 566.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790-P WIFI CSMT - D5",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 636.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790-P WIFI CSMT - D5",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 785.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790-P WIFI CSMT - D5",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 598.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS PRIME Z790-P WIFI CSMT - D5",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 603.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790M-PLUS GAMING WIFI - D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 640.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790M-PLUS GAMING WIFI - D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 629.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790M-PLUS GAMING WIFI - D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 699.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790M-PLUS GAMING WIFI - D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 849.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790M-PLUS GAMING WIFI - D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 661.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790M-PLUS GAMING WIFI - D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 667.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 491.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 480.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 700.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 513.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 491.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 480.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 700.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 513.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D5",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 491.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D5",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 480.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D5",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D5",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 700.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D5",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 513.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS TUF Z790-PLUS GAMING WIFI - D5",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 518.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI - D5",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 563.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI - D5",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 552.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI - D5",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 622.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI - D5",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI - D5",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 584.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-G GAMING WIFI - D5",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 590.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 563.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 552.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 622.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 584.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 590.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D5",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 568.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D5",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 557.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D5",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 627.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D5",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 771.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D5",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 584.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "ASUS ROG STRIX B760-A GAMING WIFI - D5",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 590.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 513.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 502.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 571.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 721.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 534.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 AORUS ELITE AX",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 539.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 GAMING X AX D5",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 487.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 GAMING X AX D5",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 476.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 GAMING X AX D5",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 546.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 GAMING X AX D5",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 696.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 GAMING X AX D5",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 508.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760 GAMING X AX D5",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 514.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS PRO",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 530.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS PRO",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 519.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS PRO",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS PRO",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 740.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS PRO",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 551.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS PRO",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 556.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS ELITE AX",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 459.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS ELITE AX",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 448.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS ELITE AX",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 519.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS ELITE AX",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 669.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS ELITE AX",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 482.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M AORUS ELITE AX",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 487.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX DDR5",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 406.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX DDR5",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 395.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX DDR5",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 464.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX DDR5",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 614.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX DDR5",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 427.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX DDR5",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 432.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 412.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 401.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 471.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 621.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 433.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 439.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 396.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 385.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 455.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 605.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 417.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M GAMING X AX D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 423.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 354.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 343.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 413.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 563.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 376.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 381.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i3 13100",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 330.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i5 12400",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 319.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i5 12490F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 388.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i5 12600K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 538.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i7 12700K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 351.0
+    },
+    {
+      "category": "CPU + MOTHERBOARD BUNDLE",
+      "brand": null,
+      "product": "GIGABYTE B760M DSHB AX D4",
+      "variant": "i9 12900K",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 356.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 436.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 446.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 597.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 665.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 406.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 416.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 478.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M-HDV/M.2",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 634.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 452.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 510.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 572.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 728.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 434.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 480.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 491.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 553.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 642.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 711.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 503.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 561.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 625.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 711.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 520.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 577.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 640.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 728.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 796.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 646.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 708.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 787.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 864.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI (WHITE)",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI (WHITE)",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI (WHITE)",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI (WHITE)",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI (WHITE)",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "ASROCK X870E TAICHI WIFI (WHITE)",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 389.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 436.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 446.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 599.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 597.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 665.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 359.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 406.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 416.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 478.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 567.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M GAMING WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 634.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 452.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 499.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 510.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 572.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 660.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 728.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 434.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 480.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 491.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 553.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 642.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 711.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 503.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 550.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 561.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 625.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 711.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 779.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 589.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 635.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 646.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 708.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 787.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 864.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7900X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 926.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R9 7950X",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 993.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7500F",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 718.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7600",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 764.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R5 7700",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 775.0
+    },
+    {
+      "category": "CPU MOBO & BUNDLE AM5",
+      "brand": null,
+      "product": "MSI B650M PRO-A WIFI WHITE",
+      "variant": "R7 7800X3D",
+      "bundle_cpu": null,
+      "warranty": null,
+      "price_sgd": 837.0
+    }
+  ],
+  "numeric_tokens_in_source": 0,
+  "status": "quarantined",
+  "quarantine_reason": "no_dupe_rows: 70 extra rows (23%): [('ASUS TUF Z790-PLUS GAMING WIFI - D4', 'i3 13100', None, 491), ('ASUS TUF Z790-PLUS GAMING WIFI - D4', 'i5 12400', None, 480), ('ASUS TUF Z790-PLUS GAMING WIFI - D4', 'i5 12490F', None, 550)]",
+  "raw_response": "{\"rows\": [{\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M-HDV/A2 DDR5 WIFI\", \"variant\": \"i3 13100\", \"price_sgd\": 193}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M-HDV/A2 DDR5 WIFI\", \"variant\": \"i5 12400\", \"price_sgd\": 182}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M-HDV/A2 DDR5 WIFI\", \"variant\": \"i5 12490F\", \"price_sgd\": 251}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M-HDV/A2 DDR5 WIFI\", \"variant\": \"i5 12600K\", \"price_sgd\": 401}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M-HDV/A2 DDR5 WIFI\", \"variant\": \"i7 12700K\", \"price_sgd\": 314}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M-HDV/A2 DDR5 WIFI\", \"variant\": \"i9 12900K\", \"price_sgd\": 719}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i3 13100\", \"price_sgd\": 331}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i5 12400\", \"price_sgd\": 320}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i5 12490F\", \"price_sgd\": 389}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i5 12600K\", \"price_sgd\": 539}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i7 12700K\", \"price_sgd\": 352}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i9 12900K\", \"price_sgd\": 357}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i3 13100\", \"price_sgd\": 395}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i5 12400\", \"price_sgd\": 384}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i5 12490F\", \"price_sgd\": 454}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i5 12600K\", \"price_sgd\": 603}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i7 12700K\", \"price_sgd\": 416}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI\", \"variant\": \"i9 12900K\", \"price_sgd\": 422}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI WHITE\", \"variant\": \"i3 13100\", \"price_sgd\": 395}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI WHITE\", \"variant\": \"i5 12400\", \"price_sgd\": 384}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI WHITE\", \"variant\": \"i5 12490F\", \"price_sgd\": 454}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI WHITE\", \"variant\": \"i5 12600K\", \"price_sgd\": 603}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI WHITE\", \"variant\": \"i7 12700K\", \"price_sgd\": 416}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PRO RS WIFI WHITE\", \"variant\": \"i9 12900K\", \"price_sgd\": 422}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PROA-A WIFI (DDR5)\", \"variant\": \"i3 13100\", \"price_sgd\": 358}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PROA-A WIFI (DDR5)\", \"variant\": \"i5 12400\", \"price_sgd\": 348}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PROA-A WIFI (DDR5)\", \"variant\": \"i5 12490F\", \"price_sgd\": 417}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PROA-A WIFI (DDR5)\", \"variant\": \"i5 12600K\", \"price_sgd\": 560}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PROA-A WIFI (DDR5)\", \"variant\": \"i7 12700K\", \"price_sgd\": 380}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASROCK B760M PROA-A WIFI (DDR5)\", \"variant\": \"i9 12900K\", \"price_sgd\": 385}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME B760M-A WIFI - D4\", \"variant\": \"i3 13100\", \"price_sgd\": 461}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME B760M-A WIFI - D4\", \"variant\": \"i5 12400\", \"price_sgd\": 450}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME B760M-A WIFI - D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 520}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME B760M-A WIFI - D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 670}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME B760M-A WIFI - D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 483}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME B760M-A WIFI - D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 488}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790M-PLUS - D4 CSMT\", \"variant\": \"i3 13100\", \"price_sgd\": 508}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790M-PLUS - D4 CSMT\", \"variant\": \"i5 12400\", \"price_sgd\": 498}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790M-PLUS - D4 CSMT\", \"variant\": \"i5 12490F\", \"price_sgd\": 567}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790M-PLUS - D4 CSMT\", \"variant\": \"i5 12600K\", \"price_sgd\": 717}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790M-PLUS - D4 CSMT\", \"variant\": \"i7 12700K\", \"price_sgd\": 530}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790M-PLUS - D4 CSMT\", \"variant\": \"i9 12900K\", \"price_sgd\": 535}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790-P WIFI CSMT - D5\", \"variant\": \"i3 13100\", \"price_sgd\": 577}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790-P WIFI CSMT - D5\", \"variant\": \"i5 12400\", \"price_sgd\": 566}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790-P WIFI CSMT - D5\", \"variant\": \"i5 12490F\", \"price_sgd\": 636}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790-P WIFI CSMT - D5\", \"variant\": \"i5 12600K\", \"price_sgd\": 785}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790-P WIFI CSMT - D5\", \"variant\": \"i7 12700K\", \"price_sgd\": 598}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS PRIME Z790-P WIFI CSMT - D5\", \"variant\": \"i9 12900K\", \"price_sgd\": 603}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790M-PLUS GAMING WIFI - D4\", \"variant\": \"i3 13100\", \"price_sgd\": 640}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790M-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12400\", \"price_sgd\": 629}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790M-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 699}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790M-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 849}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790M-PLUS GAMING WIFI - D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 661}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790M-PLUS GAMING WIFI - D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 667}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i3 13100\", \"price_sgd\": 491}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12400\", \"price_sgd\": 480}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 550}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 700}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 513}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 518}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i3 13100\", \"price_sgd\": 491}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12400\", \"price_sgd\": 480}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 550}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 700}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 513}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 518}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D5\", \"variant\": \"i3 13100\", \"price_sgd\": 491}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D5\", \"variant\": \"i5 12400\", \"price_sgd\": 480}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D5\", \"variant\": \"i5 12490F\", \"price_sgd\": 550}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D5\", \"variant\": \"i5 12600K\", \"price_sgd\": 700}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D5\", \"variant\": \"i7 12700K\", \"price_sgd\": 513}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS TUF Z790-PLUS GAMING WIFI - D5\", \"variant\": \"i9 12900K\", \"price_sgd\": 518}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI - D5\", \"variant\": \"i3 13100\", \"price_sgd\": 563}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI - D5\", \"variant\": \"i5 12400\", \"price_sgd\": 552}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI - D5\", \"variant\": \"i5 12490F\", \"price_sgd\": 622}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI - D5\", \"variant\": \"i5 12600K\", \"price_sgd\": 771}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI - D5\", \"variant\": \"i7 12700K\", \"price_sgd\": 584}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-G GAMING WIFI - D5\", \"variant\": \"i9 12900K\", \"price_sgd\": 590}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D4\", \"variant\": \"i3 13100\", \"price_sgd\": 563}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D4\", \"variant\": \"i5 12400\", \"price_sgd\": 552}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 622}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 771}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 584}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 590}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D5\", \"variant\": \"i3 13100\", \"price_sgd\": 568}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D5\", \"variant\": \"i5 12400\", \"price_sgd\": 557}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D5\", \"variant\": \"i5 12490F\", \"price_sgd\": 627}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D5\", \"variant\": \"i5 12600K\", \"price_sgd\": 771}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D5\", \"variant\": \"i7 12700K\", \"price_sgd\": 584}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"ASUS ROG STRIX B760-A GAMING WIFI - D5\", \"variant\": \"i9 12900K\", \"price_sgd\": 590}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"variant\": \"i3 13100\", \"price_sgd\": 513}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"variant\": \"i5 12400\", \"price_sgd\": 502}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"variant\": \"i5 12490F\", \"price_sgd\": 571}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"variant\": \"i5 12600K\", \"price_sgd\": 721}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"variant\": \"i7 12700K\", \"price_sgd\": 534}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 AORUS ELITE AX\", \"variant\": \"i9 12900K\", \"price_sgd\": 539}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 GAMING X AX D5\", \"variant\": \"i3 13100\", \"price_sgd\": 487}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 GAMING X AX D5\", \"variant\": \"i5 12400\", \"price_sgd\": 476}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 GAMING X AX D5\", \"variant\": \"i5 12490F\", \"price_sgd\": 546}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 GAMING X AX D5\", \"variant\": \"i5 12600K\", \"price_sgd\": 696}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 GAMING X AX D5\", \"variant\": \"i7 12700K\", \"price_sgd\": 508}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760 GAMING X AX D5\", \"variant\": \"i9 12900K\", \"price_sgd\": 514}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS PRO\", \"variant\": \"i3 13100\", \"price_sgd\": 530}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS PRO\", \"variant\": \"i5 12400\", \"price_sgd\": 519}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS PRO\", \"variant\": \"i5 12490F\", \"price_sgd\": 589}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS PRO\", \"variant\": \"i5 12600K\", \"price_sgd\": 740}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS PRO\", \"variant\": \"i7 12700K\", \"price_sgd\": 551}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS PRO\", \"variant\": \"i9 12900K\", \"price_sgd\": 556}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS ELITE AX\", \"variant\": \"i3 13100\", \"price_sgd\": 459}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS ELITE AX\", \"variant\": \"i5 12400\", \"price_sgd\": 448}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS ELITE AX\", \"variant\": \"i5 12490F\", \"price_sgd\": 519}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS ELITE AX\", \"variant\": \"i5 12600K\", \"price_sgd\": 669}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS ELITE AX\", \"variant\": \"i7 12700K\", \"price_sgd\": 482}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M AORUS ELITE AX\", \"variant\": \"i9 12900K\", \"price_sgd\": 487}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX DDR5\", \"variant\": \"i3 13100\", \"price_sgd\": 406}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX DDR5\", \"variant\": \"i5 12400\", \"price_sgd\": 395}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX DDR5\", \"variant\": \"i5 12490F\", \"price_sgd\": 464}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX DDR5\", \"variant\": \"i5 12600K\", \"price_sgd\": 614}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX DDR5\", \"variant\": \"i7 12700K\", \"price_sgd\": 427}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX DDR5\", \"variant\": \"i9 12900K\", \"price_sgd\": 432}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i3 13100\", \"price_sgd\": 412}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i5 12400\", \"price_sgd\": 401}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 471}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 621}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 433}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 439}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i3 13100\", \"price_sgd\": 396}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i5 12400\", \"price_sgd\": 385}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 455}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 605}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 417}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M GAMING X AX D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 423}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i3 13100\", \"price_sgd\": 354}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i5 12400\", \"price_sgd\": 343}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 413}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 563}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 376}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 381}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i3 13100\", \"price_sgd\": 330}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i5 12400\", \"price_sgd\": 319}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i5 12490F\", \"price_sgd\": 388}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i5 12600K\", \"price_sgd\": 538}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i7 12700K\", \"price_sgd\": 351}, {\"category\": \"CPU + MOTHERBOARD BUNDLE\", \"product\": \"GIGABYTE B760M DSHB AX D4\", \"variant\": \"i9 12900K\", \"price_sgd\": 356}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R5 7500F\", \"price_sgd\": 389}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R5 7600\", \"price_sgd\": 436}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R5 7700\", \"price_sgd\": 446}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 599}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R7 7900X\", \"price_sgd\": 597}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R9 7950X\", \"price_sgd\": 665}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R5 7500F\", \"price_sgd\": 359}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R5 7600\", \"price_sgd\": 406}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R5 7700\", \"price_sgd\": 416}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 478}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R7 7900X\", \"price_sgd\": 567}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M-HDV/M.2\", \"variant\": \"R9 7950X\", \"price_sgd\": 634}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 452}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 499}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 510}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 572}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 660}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 728}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 434}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 480}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 491}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 553}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 642}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 711}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 503}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 550}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 561}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 625}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 711}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 779}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 520}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 567}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 577}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 640}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 728}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 796}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 589}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 635}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 646}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 708}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 787}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 864}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI (WHITE)\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI (WHITE)\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI (WHITE)\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI (WHITE)\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI (WHITE)\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"ASROCK X870E TAICHI WIFI (WHITE)\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 389}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 436}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 446}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 599}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 597}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 665}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 359}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 406}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 416}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 478}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 567}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M GAMING WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 634}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI\", \"variant\": \"R5 7500F\", \"price_sgd\": 452}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI\", \"variant\": \"R5 7600\", \"price_sgd\": 499}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI\", \"variant\": \"R5 7700\", \"price_sgd\": 510}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 572}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI\", \"variant\": \"R7 7900X\", \"price_sgd\": 660}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI\", \"variant\": \"R9 7950X\", \"price_sgd\": 728}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 434}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 480}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 491}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 553}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 642}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 711}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 503}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 550}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 561}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 625}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 711}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 779}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 589}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 635}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 646}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 708}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 787}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 864}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7900X\", \"price_sgd\": 926}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R9 7950X\", \"price_sgd\": 993}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7500F\", \"price_sgd\": 718}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7600\", \"price_sgd\": 764}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R5 7700\", \"price_sgd\": 775}, {\"category\": \"CPU MOBO & BUNDLE AM5\", \"product\": \"MSI B650M PRO-A WIFI WHITE\", \"variant\": \"R7 7800X3D\", \"price_sgd\": 837}]}"
+}
